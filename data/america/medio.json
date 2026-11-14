@@ -130,6 +130,274 @@
       "correta": false,
       "explicacao": "A afirmação é falsa porque diplomatas e publicistas latino-americanos criticavam a Doutrina Monroe como uma tutela unilateral e um protetorado disfarçado dos Estados Unidos sobre o continente.",
       "revisar": false
+    },
+    {
+      "id": "ame-m-011",
+      "tipo": "multipla",
+      "pergunta": "Como funcionava o monopólio comercial espanhol na América?",
+      "opcoes": [
+        "O comércio passava por portos autorizados, como Sevilha e depois Cádiz, em frotas controladas",
+        "Cada colônia comerciava livremente com todos os países",
+        "A Inglaterra controlava o comércio",
+        "Não havia comércio"
+      ],
+      "correta": 0,
+      "explicacao": "O sistema de frotas protegia a prata contra piratas e garantia impostos à Coroa. O contrabando era comum.",
+      "revisar": false
+    },
+    {
+      "id": "ame-m-012",
+      "tipo": "multipla",
+      "pergunta": "O que foram as reformas bourbônicas, no século XVIII?",
+      "opcoes": [
+        "Medidas da Coroa espanhola para centralizar o poder e aumentar impostos nas colônias",
+        "A independência das colônias",
+        "A abolição da escravidão",
+        "A expulsão dos espanhóis da América"
+      ],
+      "correta": 0,
+      "explicacao": "As reformas também afastaram criollos de cargos, aumentando o descontentamento que alimentou as independências.",
+      "revisar": false
+    },
+    {
+      "id": "ame-m-013",
+      "tipo": "multipla",
+      "pergunta": "O que foi a rebelião de Túpac Amaru II, em 1780, no Peru?",
+      "opcoes": [
+        "Grande levante indígena contra abusos coloniais, como os repartimentos",
+        "Revolta de criollos pela independência imediata",
+        "Invasão inglesa",
+        "Guerra entre incas e astecas"
+      ],
+      "correta": 0,
+      "explicacao": "José Gabriel Condorcanqui adotou o nome do último inca. A revolta foi derrotada e ele foi executado em 1781.",
+      "revisar": false
+    },
+    {
+      "id": "ame-m-014",
+      "tipo": "multipla",
+      "pergunta": "Qual era uma diferença entre as colônias inglesas do norte e do sul da América do Norte?",
+      "opcoes": [
+        "O norte tinha pequenas propriedades e comércio; o sul, grandes plantações com trabalho escravizado",
+        "O norte tinha plantações de açúcar; o sul, indústrias",
+        "Não havia diferença",
+        "O sul era colônia francesa"
+      ],
+      "correta": 0,
+      "explicacao": "No sul, tabaco, arroz e depois algodão eram produzidos por escravizados. O norte tinha agricultura familiar, pesca e comércio.",
+      "revisar": false
+    },
+    {
+      "id": "ame-m-015",
+      "tipo": "multipla",
+      "pergunta": "O que levou as Treze Colônias à independência?",
+      "opcoes": [
+        "Novos impostos ingleses após a Guerra dos Sete Anos, sem representação dos colonos no Parlamento",
+        "A proibição do cristianismo",
+        "A invasão espanhola",
+        "O fim da escravidão"
+      ],
+      "correta": 0,
+      "explicacao": "Leis como a do Selo (1765) e a do Chá (1773) geraram o lema nenhuma taxação sem representação.",
+      "revisar": false
+    },
+    {
+      "id": "ame-m-016",
+      "tipo": "multipla",
+      "pergunta": "Que princípios marcaram a Constituição dos Estados Unidos, de 1787?",
+      "opcoes": [
+        "Federalismo, separação dos poderes e república presidencialista",
+        "Monarquia absoluta",
+        "Parlamentarismo",
+        "Partido único"
+      ],
+      "correta": 0,
+      "explicacao": "A Constituição dividiu o poder entre União e estados e entre Executivo, Legislativo e Judiciário.",
+      "revisar": false
+    },
+    {
+      "id": "ame-m-017",
+      "tipo": "multipla",
+      "pergunta": "O que era o Destino Manifesto, nos Estados Unidos do século XIX?",
+      "opcoes": [
+        "A crença de que os EUA estavam destinados a se expandir até o Pacífico",
+        "Um tratado de paz com o México",
+        "A abolição da escravidão",
+        "A independência do Texas da Espanha"
+      ],
+      "correta": 0,
+      "explicacao": "A ideia justificou a expansão para o oeste, a guerra contra o México (1846–1848) e a remoção de povos indígenas.",
+      "revisar": false
+    },
+    {
+      "id": "ame-m-018",
+      "tipo": "multipla",
+      "pergunta": "O que o México perdeu com a guerra contra os Estados Unidos (1846–1848)?",
+      "opcoes": [
+        "Cerca de metade de seu território, incluindo a Califórnia",
+        "Sua independência",
+        "A Cidade do México para sempre",
+        "Nada"
+      ],
+      "correta": 0,
+      "explicacao": "Pelo Tratado de Guadalupe Hidalgo, os EUA ficaram com territórios como Califórnia, Novo México e Arizona.",
+      "revisar": false
+    },
+    {
+      "id": "ame-m-019",
+      "tipo": "multipla",
+      "pergunta": "Qual foi a principal questão por trás da Guerra de Secessão (1861–1865)?",
+      "opcoes": [
+        "A escravidão e sua expansão para os novos territórios",
+        "A independência em relação à Inglaterra",
+        "A conquista do Canadá",
+        "A guerra contra o México"
+      ],
+      "correta": 0,
+      "explicacao": "Os estados do sul, escravistas, se separaram. A vitória do norte levou à abolição pela 13ª Emenda (1865).",
+      "revisar": false
+    },
+    {
+      "id": "ame-m-020",
+      "tipo": "multipla",
+      "pergunta": "O que foi o caudilhismo na América Latina do século XIX?",
+      "opcoes": [
+        "Domínio político de chefes militares com seguidores pessoais",
+        "Sistema de partidos de massa",
+        "Monarquia constitucional",
+        "Governo da Igreja"
+      ],
+      "correta": 0,
+      "explicacao": "Após as independências, a fragilidade dos Estados abriu espaço para líderes como Juan Manuel de Rosas, na Argentina.",
+      "revisar": false
+    },
+    {
+      "id": "ame-m-021",
+      "tipo": "multipla",
+      "pergunta": "Qual foi uma consequência da Guerra do Pacífico (1879–1884)?",
+      "opcoes": [
+        "A Bolívia perdeu sua saída para o mar para o Chile",
+        "O Peru conquistou o Chile",
+        "A Argentina perdeu a Patagônia",
+        "O Brasil anexou a Bolívia"
+      ],
+      "correta": 0,
+      "explicacao": "O Chile venceu Peru e Bolívia e ficou com regiões ricas em salitre. A questão marítima boliviana segue até hoje.",
+      "revisar": false
+    },
+    {
+      "id": "ame-m-022",
+      "tipo": "multipla",
+      "pergunta": "O que caracterizou o Porfiriato, governo de Porfirio Díaz no México (1876–1911)?",
+      "opcoes": [
+        "Modernização com investimento estrangeiro, concentração de terras e autoritarismo",
+        "Reforma agrária ampla",
+        "Democracia com eleições livres",
+        "Isolamento econômico"
+      ],
+      "correta": 0,
+      "explicacao": "Ferrovias e minas cresceram, mas camponeses perderam terras. As tensões explodiram na Revolução de 1910.",
+      "revisar": false
+    },
+    {
+      "id": "ame-m-023",
+      "tipo": "multipla",
+      "pergunta": "O que a Constituição mexicana de 1917 trouxe de inovador?",
+      "opcoes": [
+        "Direitos trabalhistas e a base para a reforma agrária",
+        "A volta de Porfirio Díaz",
+        "A monarquia",
+        "O fim do Estado mexicano"
+      ],
+      "correta": 0,
+      "explicacao": "O artigo 27 permitiu redistribuir terras e definiu o subsolo como propriedade da nação. O artigo 123 tratava do trabalho.",
+      "revisar": false
+    },
+    {
+      "id": "ame-m-024",
+      "tipo": "multipla",
+      "pergunta": "Como os Estados Unidos obtiveram o controle do Canal do Panamá?",
+      "opcoes": [
+        "Apoiaram a separação do Panamá da Colômbia, em 1903, e obtiveram a concessão do canal",
+        "Compraram o canal da França em 1850",
+        "Ganharam o canal numa guerra contra o México",
+        "O canal foi construído pelo Brasil"
+      ],
+      "correta": 0,
+      "explicacao": "Logo após a independência apoiada pelos EUA, o Panamá cedeu a zona do canal. A devolução só foi completada em 1999.",
+      "revisar": false
+    },
+    {
+      "id": "ame-m-025",
+      "tipo": "multipla",
+      "pergunta": "O que foi a Política da Boa Vizinhança, de Franklin Roosevelt, a partir de 1933?",
+      "opcoes": [
+        "Redução das intervenções militares e aproximação diplomática e cultural com a América Latina",
+        "Invasão de vários países latino-americanos",
+        "Rompimento com a América Latina",
+        "Aliança com a Alemanha"
+      ],
+      "correta": 0,
+      "explicacao": "Os EUA buscavam aliados contra o Eixo. Na cultura, surgiram figuras como o Zé Carioca, da Disney.",
+      "revisar": false
+    },
+    {
+      "id": "ame-m-026",
+      "tipo": "multipla",
+      "pergunta": "Qual medida de Lázaro Cárdenas, presidente do México, marcou o nacionalismo latino-americano?",
+      "opcoes": [
+        "A nacionalização do petróleo, em 1938",
+        "A venda do petróleo aos EUA",
+        "O fim da reforma agrária",
+        "A volta da monarquia"
+      ],
+      "correta": 0,
+      "explicacao": "Cárdenas expropriou empresas estrangeiras e criou a PEMEX, além de ampliar a reforma agrária.",
+      "revisar": false
+    },
+    {
+      "id": "ame-m-027",
+      "tipo": "multipla",
+      "pergunta": "O que aproximou Cuba da União Soviética após 1959?",
+      "opcoes": [
+        "O conflito com os EUA, incluindo a invasão fracassada da Baía dos Porcos, em 1961",
+        "Uma invasão soviética",
+        "A eleição de um presidente comunista em 1950",
+        "O apoio dos EUA à revolução"
+      ],
+      "correta": 0,
+      "explicacao": "Nacionalizações de empresas americanas, o embargo e a tentativa de invasão levaram Cuba a buscar apoio soviético.",
+      "revisar": false
+    },
+    {
+      "id": "ame-m-028",
+      "tipo": "multipla",
+      "pergunta": "O que foi a Aliança para o Progresso, lançada por Kennedy em 1961?",
+      "opcoes": [
+        "Programa de ajuda econômica à América Latina para conter a influência da Revolução Cubana",
+        "Aliança militar com a URSS",
+        "Acordo de livre-comércio de 1994",
+        "Plano de reconstrução da Europa"
+      ],
+      "correta": 0,
+      "explicacao": "O programa prometia reformas e desenvolvimento, mas teve resultados limitados e conviveu com apoio a golpes.",
+      "revisar": false
+    },
+    {
+      "id": "ame-m-029",
+      "tipo": "verdadeiro_falso",
+      "pergunta": "A Guerra de Secessão terminou com a vitória do Sul escravista.",
+      "correta": false,
+      "explicacao": "Falso. O Norte venceu em 1865, e a escravidão foi abolida em todo o país.",
+      "revisar": false
+    },
+    {
+      "id": "ame-m-030",
+      "tipo": "verdadeiro_falso",
+      "pergunta": "A Constituição mexicana de 1917 incluiu direitos trabalhistas e a base para a reforma agrária.",
+      "correta": true,
+      "explicacao": "Verdadeiro. Ela é considerada uma das primeiras a garantir direitos sociais no mundo.",
+      "revisar": false
     }
   ]
 }

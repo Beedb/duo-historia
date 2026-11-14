@@ -149,6 +149,280 @@
       "correta": 0,
       "explicacao": "Apesar de semelhanças como metrópoles congestionadas, comércio amplo e especialização técnica, a época helenística pautava-se pelo cosmopolitismo (sem estados-nação modernos) e não desenvolveu uma revolução industrial, além de possuir uma ciência menos voltada à pesquisa pura desinteressada.",
       "revisar": false
+    },
+    {
+      "id": "ger-ant-d-011",
+      "tipo": "multipla",
+      "pergunta": "Que diferença fundamental há entre a democracia ateniense e as democracias atuais?",
+      "opcoes": [
+        "Em Atenas era direta, com sorteio de cargos e cidadania restrita",
+        "Atenas tinha voto universal",
+        "Atenas tinha partidos políticos",
+        "Atenas elegia um presidente"
+      ],
+      "correta": 0,
+      "explicacao": "Os cidadãos votavam diretamente na assembleia. Mulheres, estrangeiros e escravizados estavam excluídos.",
+      "revisar": false
+    },
+    {
+      "id": "ger-ant-d-012",
+      "tipo": "multipla",
+      "pergunta": "O que Moses Finley quis dizer ao chamar Atenas e Roma de sociedades escravistas?",
+      "opcoes": [
+        "A escravidão era central na economia e na sociedade, e não um elemento marginal",
+        "Que não havia escravidão",
+        "Que todos eram escravizados",
+        "Que a escravidão só existia no campo"
+      ],
+      "correta": 0,
+      "explicacao": "Finley distinguiu sociedades com escravos de sociedades escravistas, como a Grécia clássica, Roma, o Brasil e o sul dos EUA.",
+      "revisar": false
+    },
+    {
+      "id": "ger-ant-d-013",
+      "tipo": "multipla",
+      "pergunta": "Qual é uma diferença entre a escravidão antiga e a escravidão moderna nas Américas?",
+      "opcoes": [
+        "Na Antiguidade, a escravidão não se baseava em critérios raciais",
+        "A antiga era sempre voluntária",
+        "Na Antiguidade não havia escravidão por guerra",
+        "A moderna não envolvia trabalho"
+      ],
+      "correta": 0,
+      "explicacao": "Na Antiguidade, prisioneiros de guerra e devedores de qualquer origem podiam ser escravizados. Na América, ela se associou à origem africana.",
+      "revisar": false
+    },
+    {
+      "id": "ger-ant-d-014",
+      "tipo": "multipla",
+      "pergunta": "Que crítica é feita à noção de despotismo oriental, aplicada a Egito e Mesopotâmia?",
+      "opcoes": [
+        "É uma construção ocidental que simplifica sociedades diversas e opõe Oriente e Ocidente",
+        "É uma teoria comprovada por todos",
+        "Foi criada pelos próprios egípcios",
+        "Nega a existência de reis no Oriente"
+      ],
+      "correta": 0,
+      "explicacao": "Edward Said (Orientalismo, 1978) analisou como o Ocidente construiu um Oriente atrasado. A tese hidráulica de Wittfogel também foi criticada.",
+      "revisar": false
+    },
+    {
+      "id": "ger-ant-d-015",
+      "tipo": "multipla",
+      "pergunta": "Que debate o livro Black Athena, de Martin Bernal (1987), provocou?",
+      "opcoes": [
+        "Sobre o peso das influências egípcias e fenícias na formação da cultura grega",
+        "Sobre a existência de Atenas",
+        "Sobre a data da queda de Roma",
+        "Sobre a invenção do alfabeto latino"
+      ],
+      "correta": 0,
+      "explicacao": "Bernal acusou a erudição do século XIX de apagar essas influências. Muitos especialistas contestaram suas provas, mas o debate sobre eurocentrismo continuou.",
+      "revisar": false
+    },
+    {
+      "id": "ger-ant-d-016",
+      "tipo": "multipla",
+      "pergunta": "Como a historiografia recente discute o conceito de romanização?",
+      "opcoes": [
+        "Como processo de trocas e adaptações, e não simples imposição da cultura romana",
+        "Como imposição total, sem resistência",
+        "Como algo que nunca ocorreu",
+        "Como fenômeno só religioso"
+      ],
+      "correta": 0,
+      "explicacao": "Povos das províncias adotaram, adaptaram ou rejeitaram práticas romanas. Alguns autores preferem falar em hibridismo.",
+      "revisar": false
+    },
+    {
+      "id": "ger-ant-d-017",
+      "tipo": "multipla",
+      "pergunta": "Que explicação Edward Gibbon deu para a queda de Roma em sua obra do século XVIII?",
+      "opcoes": [
+        "Atribuiu parte do declínio ao cristianismo e à perda de virtudes cívicas",
+        "Atribuiu tudo à economia",
+        "Negou que Roma caiu",
+        "Culpou exclusivamente os persas"
+      ],
+      "correta": 0,
+      "explicacao": "Gibbon escreveu entre 1776 e 1789. Sua visão influenciou muito, mas hoje é considerada parcial.",
+      "revisar": false
+    },
+    {
+      "id": "ger-ant-d-018",
+      "tipo": "multipla",
+      "pergunta": "Que diferença se costuma apontar entre Heródoto e Tucídides como historiadores?",
+      "opcoes": [
+        "Tucídides buscava causas políticas e evitava explicações pelos deuses",
+        "Heródoto só escrevia sobre Roma",
+        "Tucídides inventava todos os discursos sem base",
+        "Heródoto não viajou"
+      ],
+      "correta": 0,
+      "explicacao": "Tucídides, ao narrar a Guerra do Peloponeso, valorizou testemunhos e explicações humanas. Heródoto incluía relatos e tradições diversas.",
+      "revisar": false
+    },
+    {
+      "id": "ger-ant-d-019",
+      "tipo": "multipla",
+      "pergunta": "Por que as fontes escritas da Antiguidade exigem cuidado ao estudar mulheres e escravizados?",
+      "opcoes": [
+        "Foram escritas sobretudo por homens da elite, que pouco falavam desses grupos",
+        "Foram escritas por escravizados",
+        "Não existem fontes escritas antigas",
+        "Foram escritas no século XX"
+      ],
+      "correta": 0,
+      "explicacao": "Por isso, arqueologia, inscrições e papiros do cotidiano, como os de Oxirrinco, no Egito, são fontes importantes.",
+      "revisar": false
+    },
+    {
+      "id": "ger-ant-d-020",
+      "tipo": "multipla",
+      "pergunta": "Como se costuma comparar a situação das mulheres em Atenas e em Esparta?",
+      "opcoes": [
+        "As espartanas tinham mais autonomia, inclusive sobre propriedades, que as atenienses",
+        "As atenienses votavam na assembleia",
+        "Nas duas cidades as mulheres governavam",
+        "Não há fontes sobre isso"
+      ],
+      "correta": 0,
+      "explicacao": "Em Atenas, mulheres de cidadãos viviam mais restritas ao lar. Em Esparta, a ausência dos homens em guerra ampliava seu papel econômico.",
+      "revisar": false
+    },
+    {
+      "id": "ger-ant-d-021",
+      "tipo": "multipla",
+      "pergunta": "O que era o ostracismo em Atenas?",
+      "opcoes": [
+        "Votação que podia exilar por dez anos um cidadão visto como ameaça",
+        "Pena de morte para traidores",
+        "Eleição de reis",
+        "Imposto sobre comerciantes"
+      ],
+      "correta": 0,
+      "explicacao": "Os votos eram escritos em cacos de cerâmica, os ostraka. Era um mecanismo para evitar a volta da tirania.",
+      "revisar": false
+    },
+    {
+      "id": "ger-ant-d-022",
+      "tipo": "multipla",
+      "pergunta": "O que determinou o Édito de Caracala, de 212 d.C.?",
+      "opcoes": [
+        "Concedeu cidadania romana a quase todos os homens livres do Império",
+        "Proibiu o cristianismo",
+        "Dividiu o Império em dois",
+        "Aboliu a escravidão"
+      ],
+      "correta": 0,
+      "explicacao": "A medida ampliou a base de impostos e mostra como a cidadania se transformou ao longo do Império.",
+      "revisar": false
+    },
+    {
+      "id": "ger-ant-d-023",
+      "tipo": "multipla",
+      "pergunta": "O que eram as relações de clientela em Roma?",
+      "opcoes": [
+        "Laços de proteção e lealdade entre patronos poderosos e clientes",
+        "Contratos de compra e venda",
+        "Relações entre escravizados",
+        "Alianças militares com Cartago"
+      ],
+      "correta": 0,
+      "explicacao": "O patrono protegia e ajudava o cliente, que retribuía com apoio político e presença pública.",
+      "revisar": false
+    },
+    {
+      "id": "ger-ant-d-024",
+      "tipo": "multipla",
+      "pergunta": "Como a historiografia interpreta a revolta liderada por Espártaco (73–71 a.C.)?",
+      "opcoes": [
+        "Como grande revolta de escravizados, sem prova de que visava abolir a escravidão como sistema",
+        "Como revolução abolicionista moderna",
+        "Como golpe de senadores",
+        "Como guerra contra a Grécia"
+      ],
+      "correta": 0,
+      "explicacao": "Os objetivos dos rebeldes são debatidos. Muitos queriam fugir da Itália. O mito de Espártaco foi reinterpretado na Era Moderna.",
+      "revisar": false
+    },
+    {
+      "id": "ger-ant-d-025",
+      "tipo": "multipla",
+      "pergunta": "Que relação alguns historiadores fazem entre a guerra hoplita e a ampliação da participação política na Grécia?",
+      "opcoes": [
+        "Camponeses que lutavam como hoplitas passaram a reivindicar direitos políticos",
+        "Os hoplitas eram aristocratas a cavalo",
+        "A guerra acabou com a democracia",
+        "Os hoplitas eram mercenários estrangeiros"
+      ],
+      "correta": 0,
+      "explicacao": "A falange dependia de muitos soldados. A importância militar desses cidadãos teria favorecido sua participação, hipótese ainda debatida.",
+      "revisar": false
+    },
+    {
+      "id": "ger-ant-d-026",
+      "tipo": "fonte",
+      "trecho": "O homem é a medida de todas as coisas, das que são, enquanto são, das que não são, enquanto não são.",
+      "autor": "Protágoras, citado por Platão no Teeteto",
+      "ano": "séc. V a.C.",
+      "pergunta": "O que a frase expressa?",
+      "opcoes": [
+        "O relativismo dos sofistas: o conhecimento depende do ser humano",
+        "A crença de que os deuses determinam tudo",
+        "A defesa da monarquia",
+        "A ideia de que só a matemática é verdadeira"
+      ],
+      "correta": 0,
+      "explicacao": "Protágoras foi um dos sofistas. Platão criticou esse relativismo, defendendo verdades que não dependem da opinião.",
+      "revisar": false
+    },
+    {
+      "id": "ger-ant-d-027",
+      "tipo": "fonte",
+      "trecho": "Heródoto de Halicarnasso apresenta aqui os resultados de sua investigação, para que os feitos dos homens não se apaguem com o tempo.",
+      "autor": "Heródoto, Histórias, livro I",
+      "ano": "séc. V a.C.",
+      "pergunta": "Qual objetivo o autor declara?",
+      "opcoes": [
+        "Preservar a memória dos acontecimentos humanos",
+        "Narrar a vida dos deuses",
+        "Escrever leis para Atenas",
+        "Ensinar matemática"
+      ],
+      "correta": 0,
+      "explicacao": "A palavra grega historie significa investigação. Por isso Heródoto é chamado de pai da história.",
+      "revisar": false
+    },
+    {
+      "id": "ger-ant-d-028",
+      "tipo": "verdadeiro_falso",
+      "pergunta": "Para Moses Finley, Atenas e Roma clássicas eram sociedades escravistas, nas quais a escravidão tinha papel central.",
+      "correta": true,
+      "explicacao": "Verdadeiro. Finley distinguiu essas sociedades das que apenas tinham alguns escravos.",
+      "revisar": false
+    },
+    {
+      "id": "ger-ant-d-029",
+      "tipo": "verdadeiro_falso",
+      "pergunta": "Tucídides explicava a Guerra do Peloponeso sobretudo pela vontade dos deuses.",
+      "correta": false,
+      "explicacao": "Falso. Ele destacou causas humanas, como o medo que o poder de Atenas despertava em Esparta.",
+      "revisar": false
+    },
+    {
+      "id": "ger-ant-d-030",
+      "tipo": "multipla",
+      "pergunta": "Por que a Lei das Doze Tábuas (c. 450 a.C.) foi uma conquista dos plebeus romanos?",
+      "opcoes": [
+        "Ao pôr as leis por escrito, limitou a interpretação arbitrária feita pelos patrícios",
+        "Aboliu a escravidão",
+        "Deu aos plebeus o controle do Senado",
+        "Criou o Império"
+      ],
+      "correta": 0,
+      "explicacao": "Antes, as leis eram costumes interpretados por patrícios e sacerdotes. A escrita tornou as regras públicas, embora mantivesse desigualdades, como a proibição de casamento entre as ordens.",
+      "revisar": false
     }
   ]
 }

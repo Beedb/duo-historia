@@ -131,6 +131,274 @@
       "correta": false,
       "explicacao": "A afirmação é falsa. Stálin consolidou o poder no fim dos anos 1920 e governou até morrer, em 1953, com um regime de partido único, centralizado e repressivo. Foi sucedido por Khrushchov.",
       "revisar": false
+    },
+    {
+      "id": "ger-con-m-011",
+      "tipo": "multipla",
+      "pergunta": "Quais fatores ajudam a explicar a Revolução Francesa?",
+      "opcoes": [
+        "Crise financeira do Estado, privilégios da nobreza e do clero, ideias iluministas e más colheitas",
+        "Invasão inglesa e fim da monarquia na Espanha",
+        "Industrialização completa da França",
+        "Vitória francesa sobre a Rússia"
+      ],
+      "correta": 0,
+      "explicacao": "O Estado estava endividado, o Terceiro Estado pagava os impostos e o pão estava caro. As ideias iluministas deram linguagem ao protesto.",
+      "revisar": false
+    },
+    {
+      "id": "ger-con-m-012",
+      "tipo": "multipla",
+      "pergunta": "Qual foi a importância da Declaração dos Direitos do Homem e do Cidadão, de 1789?",
+      "opcoes": [
+        "Afirmou direitos como liberdade e igualdade perante a lei, contra os privilégios do Antigo Regime",
+        "Restaurou o poder absoluto do rei",
+        "Aboliu a propriedade privada",
+        "Criou o voto feminino"
+      ],
+      "correta": 0,
+      "explicacao": "A Declaração serviu de modelo para outras constituições, embora não incluísse as mulheres nem pusesse fim à escravidão colonial.",
+      "revisar": false
+    },
+    {
+      "id": "ger-con-m-013",
+      "tipo": "multipla",
+      "pergunta": "Qual era uma diferença entre girondinos e jacobinos?",
+      "opcoes": [
+        "Os girondinos eram mais moderados; os jacobinos, mais radicais e próximos dos sans-culottes",
+        "Os girondinos queriam a volta do rei absoluto",
+        "Os jacobinos eram monarquistas",
+        "Não havia diferenças"
+      ],
+      "correta": 0,
+      "explicacao": "Os girondinos representavam a burguesia das províncias. Os jacobinos, com Robespierre, comandaram o Terror em 1793–1794.",
+      "revisar": false
+    },
+    {
+      "id": "ger-con-m-014",
+      "tipo": "multipla",
+      "pergunta": "Qual foi um legado duradouro de Napoleão Bonaparte?",
+      "opcoes": [
+        "O Código Civil de 1804, que difundiu princípios como igualdade perante a lei",
+        "A restauração do feudalismo",
+        "O fim do Estado francês",
+        "A independência da Inglaterra"
+      ],
+      "correta": 0,
+      "explicacao": "O Código Napoleônico influenciou leis de vários países, inclusive na América Latina.",
+      "revisar": false
+    },
+    {
+      "id": "ger-con-m-015",
+      "tipo": "multipla",
+      "pergunta": "O que foi o Bloqueio Continental, decretado por Napoleão em 1806?",
+      "opcoes": [
+        "Proibição de os países europeus comerciarem com a Inglaterra",
+        "Bloqueio dos portos franceses pela Inglaterra",
+        "Acordo de paz com a Rússia",
+        "Fechamento das fronteiras alemãs"
+      ],
+      "correta": 0,
+      "explicacao": "Portugal, aliado inglês, não aderiu. Isso levou à invasão francesa e à vinda da família real para o Brasil em 1808.",
+      "revisar": false
+    },
+    {
+      "id": "ger-con-m-016",
+      "tipo": "multipla",
+      "pergunta": "Qual era o objetivo do Congresso de Viena (1814–1815)?",
+      "opcoes": [
+        "Reorganizar a Europa após Napoleão e restaurar monarquias",
+        "Espalhar as ideias da Revolução",
+        "Criar a ONU",
+        "Unificar a Alemanha"
+      ],
+      "correta": 0,
+      "explicacao": "O princípio da legitimidade devolveu tronos às antigas dinastias. A Santa Aliança buscou conter novas revoluções.",
+      "revisar": false
+    },
+    {
+      "id": "ger-con-m-017",
+      "tipo": "multipla",
+      "pergunta": "O que foram as revoluções de 1848, a chamada Primavera dos Povos?",
+      "opcoes": [
+        "Onda de revoltas liberais, nacionais e sociais em vários países europeus",
+        "Uma guerra entre Inglaterra e França",
+        "A unificação da Itália",
+        "A Revolução Russa"
+      ],
+      "correta": 0,
+      "explicacao": "As revoltas começaram na França e se espalharam. A maioria foi derrotada, mas deixaram marcas como o sufrágio masculino na França.",
+      "revisar": false
+    },
+    {
+      "id": "ger-con-m-018",
+      "tipo": "multipla",
+      "pergunta": "Por que a Revolução Industrial começou na Inglaterra?",
+      "opcoes": [
+        "Havia carvão e ferro, capital acumulado, mão de obra vinda do campo e mercados coloniais",
+        "A Inglaterra não tinha colônias",
+        "A Inglaterra proibia o comércio",
+        "Era o país mais rural da Europa"
+      ],
+      "correta": 0,
+      "explicacao": "Os cercamentos expulsaram camponeses, e a estabilidade política após 1688 favoreceu os negócios.",
+      "revisar": false
+    },
+    {
+      "id": "ger-con-m-019",
+      "tipo": "multipla",
+      "pergunta": "O que foi o ludismo, no início do século XIX?",
+      "opcoes": [
+        "Movimento de trabalhadores que quebravam máquinas, vistas como causa do desemprego",
+        "Movimento artístico",
+        "Partido político liberal",
+        "Associação de donos de fábricas"
+      ],
+      "correta": 0,
+      "explicacao": "Os ludistas reagiam à perda de empregos e salários. O governo inglês respondeu com dura repressão.",
+      "revisar": false
+    },
+    {
+      "id": "ger-con-m-020",
+      "tipo": "multipla",
+      "pergunta": "Qual é a ideia central do Manifesto Comunista (1848), de Marx e Engels?",
+      "opcoes": [
+        "A história é movida pela luta de classes, e o proletariado deveria superar o capitalismo",
+        "O capitalismo é eterno",
+        "A monarquia é o melhor regime",
+        "A religião move a história"
+      ],
+      "correta": 0,
+      "explicacao": "O texto chamava os trabalhadores a se unir. O socialismo de Marx se apresentava como científico, em oposição ao utópico.",
+      "revisar": false
+    },
+    {
+      "id": "ger-con-m-021",
+      "tipo": "multipla",
+      "pergunta": "Qual foi o papel de Otto von Bismarck no século XIX?",
+      "opcoes": [
+        "Liderou a unificação da Alemanha, concluída em 1871",
+        "Unificou a Itália",
+        "Comandou a Revolução Russa",
+        "Fundou a ONU"
+      ],
+      "correta": 0,
+      "explicacao": "Bismarck usou guerras contra Dinamarca, Áustria e França. A Itália foi unificada por outros líderes, como Cavour e Garibaldi.",
+      "revisar": false
+    },
+    {
+      "id": "ger-con-m-022",
+      "tipo": "multipla",
+      "pergunta": "Quais fatores criaram o ambiente para a Primeira Guerra Mundial?",
+      "opcoes": [
+        "Nacionalismos, disputas imperialistas, sistema de alianças e corrida armamentista",
+        "Crise de 1929",
+        "Guerra Fria",
+        "Revolução Cubana"
+      ],
+      "correta": 0,
+      "explicacao": "A Tríplice Aliança e a Tríplice Entente dividiam a Europa. O atentado de Sarajevo foi o estopim.",
+      "revisar": false
+    },
+    {
+      "id": "ger-con-m-023",
+      "tipo": "multipla",
+      "pergunta": "O que caracterizou a guerra de trincheiras na frente ocidental?",
+      "opcoes": [
+        "Combates longos e estáticos, com grandes perdas para avanços pequenos",
+        "Guerra rápida de movimento",
+        "Batalhas só navais",
+        "Ausência de mortes"
+      ],
+      "correta": 0,
+      "explicacao": "Batalhas como a do Somme (1916) causaram centenas de milhares de baixas com poucos ganhos de território.",
+      "revisar": false
+    },
+    {
+      "id": "ger-con-m-024",
+      "tipo": "multipla",
+      "pergunta": "Qual foi a diferença entre as revoluções russas de fevereiro e de outubro de 1917?",
+      "opcoes": [
+        "Fevereiro derrubou o czar; outubro levou os bolcheviques ao poder",
+        "Fevereiro foi feita por Lênin; outubro restaurou o czar",
+        "As duas foram contra a Alemanha",
+        "Não houve revolução em fevereiro"
+      ],
+      "correta": 0,
+      "explicacao": "O governo provisório de fevereiro manteve a Rússia na guerra. Os bolcheviques prometiam paz, terra e pão.",
+      "revisar": false
+    },
+    {
+      "id": "ger-con-m-025",
+      "tipo": "multipla",
+      "pergunta": "O que foi o New Deal, nos Estados Unidos?",
+      "opcoes": [
+        "Programa de Roosevelt com obras públicas e intervenção do Estado para enfrentar a crise de 1929",
+        "Plano de ajuda à Europa após 1945",
+        "Política de neutralidade total",
+        "Acordo comercial com a URSS"
+      ],
+      "correta": 0,
+      "explicacao": "O New Deal criou empregos, regulou bancos e iniciou a previdência social, rompendo com o liberalismo clássico.",
+      "revisar": false
+    },
+    {
+      "id": "ger-con-m-026",
+      "tipo": "multipla",
+      "pergunta": "Quais fatores favoreceram a chegada do nazismo ao poder na Alemanha, em 1933?",
+      "opcoes": [
+        "Crise econômica, ressentimento com o Tratado de Versalhes e medo do comunismo",
+        "Vitória alemã na Primeira Guerra",
+        "Prosperidade econômica estável",
+        "Apoio da União Soviética"
+      ],
+      "correta": 0,
+      "explicacao": "O partido nazista cresceu nas eleições durante a crise. Hitler foi nomeado chanceler e logo eliminou as instituições democráticas.",
+      "revisar": false
+    },
+    {
+      "id": "ger-con-m-027",
+      "tipo": "multipla",
+      "pergunta": "O que foi o Holocausto?",
+      "opcoes": [
+        "O genocídio de cerca de 6 milhões de judeus pelo regime nazista",
+        "Uma batalha da Primeira Guerra",
+        "Uma epidemia na Europa",
+        "Uma política econômica"
+      ],
+      "correta": 0,
+      "explicacao": "O regime nazista também perseguiu e matou ciganos, pessoas com deficiência, homossexuais e opositores.",
+      "revisar": false
+    },
+    {
+      "id": "ger-con-m-028",
+      "tipo": "multipla",
+      "pergunta": "Qual foi o objetivo da criação da ONU, em 1945?",
+      "opcoes": [
+        "Manter a paz e a segurança internacionais e promover a cooperação entre países",
+        "Comandar os exércitos dos países membros",
+        "Substituir os governos nacionais",
+        "Organizar a Copa do Mundo"
+      ],
+      "correta": 0,
+      "explicacao": "A ONU substituiu a Liga das Nações, que fracassou em evitar a Segunda Guerra.",
+      "revisar": false
+    },
+    {
+      "id": "ger-con-m-029",
+      "tipo": "verdadeiro_falso",
+      "pergunta": "A Declaração dos Direitos do Homem e do Cidadão (1789) garantiu direitos políticos às mulheres.",
+      "correta": false,
+      "explicacao": "Falso. As mulheres foram excluídas. Olympe de Gouges escreveu em 1791 uma Declaração dos Direitos da Mulher e foi guilhotinada em 1793.",
+      "revisar": false
+    },
+    {
+      "id": "ger-con-m-030",
+      "tipo": "verdadeiro_falso",
+      "pergunta": "O estopim da Primeira Guerra foi o assassinato do arquiduque Francisco Ferdinando, em Sarajevo.",
+      "correta": true,
+      "explicacao": "Verdadeiro. O herdeiro do trono austro-húngaro foi morto em junho de 1914, o que acionou o sistema de alianças.",
+      "revisar": false
     }
   ]
 }

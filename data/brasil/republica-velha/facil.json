@@ -143,6 +143,291 @@
       "correta": 3,
       "explicacao": "No quadriênio de Artur Bernardes (1922–1926), o governo estadual paulista assumiu isoladamente o financiamento da defesa dos preços do café. Campos Sales e Rodrigues Alves presidiram o país na virada do século XIX para o XX.",
       "revisar": false
+    },
+    {
+      "id": "bra-rv-f-011",
+      "tipo": "multipla",
+      "pergunta": "Quem foi o segundo presidente do Brasil, conhecido como Marechal de Ferro?",
+      "opcoes": [
+        "Floriano Peixoto",
+        "Deodoro da Fonseca",
+        "Prudente de Morais",
+        "Campos Sales"
+      ],
+      "correta": 0,
+      "explicacao": "Floriano assumiu em 1891, após a renúncia de Deodoro, e enfrentou revoltas com dureza. Prudente de Morais foi o primeiro presidente civil.",
+      "revisar": false
+    },
+    {
+      "id": "bra-rv-f-012",
+      "tipo": "multipla",
+      "pergunta": "Qual revolta de 1893 opôs parte da Marinha ao governo de Floriano Peixoto?",
+      "opcoes": [
+        "Revolta da Armada",
+        "Revolta da Chibata",
+        "Revolta da Vacina",
+        "Revolta dos 18 do Forte"
+      ],
+      "correta": 0,
+      "explicacao": "A Revolta da Armada bombardeou o Rio de Janeiro. A da Chibata, de 1910, foi de marinheiros contra castigos físicos.",
+      "revisar": false
+    },
+    {
+      "id": "bra-rv-f-013",
+      "tipo": "multipla",
+      "pergunta": "Qual guerra civil, de 1893 a 1895, opôs maragatos e pica-paus no Sul?",
+      "opcoes": [
+        "Revolução Federalista",
+        "Guerra do Contestado",
+        "Revolução Farroupilha",
+        "Guerra de Canudos"
+      ],
+      "correta": 0,
+      "explicacao": "Os federalistas (maragatos) combatiam o governo republicano gaúcho de Júlio de Castilhos (pica-paus). A Farroupilha foi no Império.",
+      "revisar": false
+    },
+    {
+      "id": "bra-rv-f-014",
+      "tipo": "multipla",
+      "pergunta": "Quem liderava o arraial de Canudos, no sertão da Bahia, destruído pelo Exército em 1897?",
+      "opcoes": [
+        "Antônio Conselheiro",
+        "Padre Cícero",
+        "Lampião",
+        "Monge José Maria"
+      ],
+      "correta": 0,
+      "explicacao": "Canudos reuniu milhares de sertanejos em torno do líder religioso. Foram necessárias quatro expedições militares para destruí-lo.",
+      "revisar": false
+    },
+    {
+      "id": "bra-rv-f-015",
+      "tipo": "multipla",
+      "pergunta": "Em que região ocorreu a Guerra do Contestado (1912–1916)?",
+      "opcoes": [
+        "Entre Paraná e Santa Catarina",
+        "No sertão da Bahia",
+        "No Rio de Janeiro",
+        "No interior de São Paulo"
+      ],
+      "correta": 0,
+      "explicacao": "A área era disputada pelos dois estados. Camponeses expulsos de suas terras se reuniram em torno de líderes religiosos.",
+      "revisar": false
+    },
+    {
+      "id": "bra-rv-f-016",
+      "tipo": "multipla",
+      "pergunta": "Qual revolta popular de 1904, no Rio de Janeiro, reagiu à vacinação obrigatória?",
+      "opcoes": [
+        "Revolta da Vacina",
+        "Revolta da Chibata",
+        "Revolta da Armada",
+        "Greve Geral"
+      ],
+      "correta": 0,
+      "explicacao": "A lei da vacina contra a varíola, defendida por Oswaldo Cruz, gerou dias de conflito nas ruas.",
+      "revisar": false
+    },
+    {
+      "id": "bra-rv-f-017",
+      "tipo": "multipla",
+      "pergunta": "Quem liderou a Revolta da Chibata, em 1910?",
+      "opcoes": [
+        "O marinheiro João Cândido",
+        "O tenente Siqueira Campos",
+        "O general Floriano Peixoto",
+        "O médico Oswaldo Cruz"
+      ],
+      "correta": 0,
+      "explicacao": "João Cândido, chamado de Almirante Negro, liderou marinheiros contra os castigos com chibata na Marinha.",
+      "revisar": false
+    },
+    {
+      "id": "bra-rv-f-018",
+      "tipo": "multipla",
+      "pergunta": "Que estados se revezavam na presidência na chamada política do café com leite?",
+      "opcoes": [
+        "São Paulo e Minas Gerais",
+        "Rio de Janeiro e Bahia",
+        "Rio Grande do Sul e Paraná",
+        "Pernambuco e Ceará"
+      ],
+      "correta": 0,
+      "explicacao": "São Paulo (café) e Minas (leite e café) eram os estados com mais eleitores e dominaram a política federal.",
+      "revisar": false
+    },
+    {
+      "id": "bra-rv-f-019",
+      "tipo": "multipla",
+      "pergunta": "O que foi o Convênio de Taubaté, de 1906?",
+      "opcoes": [
+        "Acordo entre estados cafeeiros para o governo comprar café e sustentar os preços",
+        "Tratado de paz com o Paraguai",
+        "Lei que proibiu o café",
+        "Acordo para trazer imigrantes japoneses"
+      ],
+      "correta": 0,
+      "explicacao": "São Paulo, Minas e Rio de Janeiro decidiram comprar e estocar café excedente, com empréstimos externos.",
+      "revisar": false
+    },
+    {
+      "id": "bra-rv-f-020",
+      "tipo": "multipla",
+      "pergunta": "Qual produto amazônico viveu um grande auge entre o fim do século XIX e 1910?",
+      "opcoes": [
+        "Borracha",
+        "Cacau",
+        "Algodão",
+        "Açúcar"
+      ],
+      "correta": 0,
+      "explicacao": "A borracha enriqueceu Manaus e Belém. O Teatro Amazonas é símbolo dessa época.",
+      "revisar": false
+    },
+    {
+      "id": "bra-rv-f-021",
+      "tipo": "multipla",
+      "pergunta": "Qual movimento de trabalhadores paralisou São Paulo em julho de 1917?",
+      "opcoes": [
+        "Greve geral",
+        "Revolta da Vacina",
+        "Semana de Arte Moderna",
+        "Coluna Prestes"
+      ],
+      "correta": 0,
+      "explicacao": "A greve geral de 1917, com forte presença de imigrantes e anarquistas, exigia melhores salários e condições de trabalho.",
+      "revisar": false
+    },
+    {
+      "id": "bra-rv-f-022",
+      "tipo": "multipla",
+      "pergunta": "Qual evento de fevereiro de 1922, em São Paulo, marcou o modernismo nas artes brasileiras?",
+      "opcoes": [
+        "Semana de Arte Moderna",
+        "Exposição Universal",
+        "Bienal de São Paulo",
+        "Festival da Canção"
+      ],
+      "correta": 0,
+      "explicacao": "A Semana, no Theatro Municipal, reuniu nomes como Mário de Andrade, Oswald de Andrade e Anita Malfatti.",
+      "revisar": false
+    },
+    {
+      "id": "bra-rv-f-023",
+      "tipo": "multipla",
+      "pergunta": "Qual revolta tenentista de julho de 1922 ocorreu no Rio de Janeiro?",
+      "opcoes": [
+        "Revolta dos 18 do Forte de Copacabana",
+        "Revolta da Armada",
+        "Revolução Federalista",
+        "Revolta da Chibata"
+      ],
+      "correta": 0,
+      "explicacao": "Foi o primeiro levante tenentista. Um pequeno grupo saiu do forte e enfrentou as tropas legalistas na praia.",
+      "revisar": false
+    },
+    {
+      "id": "bra-rv-f-024",
+      "tipo": "multipla",
+      "pergunta": "O que foi a Coluna Prestes (1925–1927)?",
+      "opcoes": [
+        "Uma marcha armada de tenentes pelo interior do país contra o governo",
+        "Um partido político",
+        "Uma ferrovia",
+        "Uma greve de operários"
+      ],
+      "correta": 0,
+      "explicacao": "A Coluna percorreu cerca de 25 mil quilômetros e se exilou na Bolívia sem ter sido derrotada.",
+      "revisar": false
+    },
+    {
+      "id": "bra-rv-f-025",
+      "tipo": "multipla",
+      "pergunta": "Quem foi o mais conhecido líder do cangaço no sertão nordestino?",
+      "opcoes": [
+        "Lampião",
+        "Antônio Conselheiro",
+        "João Cândido",
+        "Padre Cícero"
+      ],
+      "correta": 0,
+      "explicacao": "Virgulino Ferreira, o Lampião, atuou dos anos 1920 até ser morto em 1938.",
+      "revisar": false
+    },
+    {
+      "id": "bra-rv-f-026",
+      "tipo": "multipla",
+      "pergunta": "O que era o voto de cabresto?",
+      "opcoes": [
+        "O controle do voto dos eleitores pelos coronéis",
+        "O voto secreto",
+        "O voto das mulheres",
+        "O voto por correspondência"
+      ],
+      "correta": 0,
+      "explicacao": "Como o voto era aberto, os coronéis sabiam em quem cada eleitor votava e podiam pressioná-lo.",
+      "revisar": false
+    },
+    {
+      "id": "bra-rv-f-027",
+      "tipo": "verdadeiro_falso",
+      "pergunta": "A Constituição de 1891 garantia o direito de voto às mulheres.",
+      "correta": false,
+      "explicacao": "Falso. As mulheres não votavam. O voto feminino só veio com o Código Eleitoral de 1932.",
+      "revisar": false
+    },
+    {
+      "id": "bra-rv-f-028",
+      "tipo": "lacuna",
+      "pergunta": "Com a Constituição de 1891, o Brasil separou Igreja e Estado e se tornou um país ____.",
+      "opcoes": [
+        "laico",
+        "católico",
+        "protestante",
+        "monárquico"
+      ],
+      "correta": 0,
+      "explicacao": "Laico significa sem religião oficial. No Império, o catolicismo era a religião do Estado.",
+      "revisar": false
+    },
+    {
+      "id": "bra-rv-f-029",
+      "tipo": "ordenar",
+      "pergunta": "Coloque em ordem cronológica, do mais antigo ao mais recente.",
+      "itens": [
+        "Proclamação da República",
+        "Destruição de Canudos",
+        "Revolta da Vacina",
+        "Greve geral de 1917",
+        "Semana de Arte Moderna"
+      ],
+      "explicacao": "Proclamação, 1889; Canudos, 1897; Revolta da Vacina, 1904; greve geral, 1917; Semana de Arte Moderna, 1922.",
+      "revisar": false
+    },
+    {
+      "id": "bra-rv-f-030",
+      "tipo": "ligar",
+      "pergunta": "Ligue cada personagem ao movimento a que está ligado.",
+      "pares": [
+        [
+          "Antônio Conselheiro",
+          "Canudos"
+        ],
+        [
+          "João Cândido",
+          "Revolta da Chibata"
+        ],
+        [
+          "Oswaldo Cruz",
+          "Vacinação obrigatória"
+        ],
+        [
+          "Luís Carlos Prestes",
+          "Marcha tenentista pelo interior"
+        ]
+      ],
+      "explicacao": "Conselheiro liderou Canudos; João Cândido, a Revolta da Chibata; Oswaldo Cruz defendeu a vacina; Prestes comandou a Coluna.",
+      "revisar": false
     }
   ]
 }

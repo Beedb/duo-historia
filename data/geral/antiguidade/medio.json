@@ -131,6 +131,274 @@
       "correta": true,
       "explicacao": "A afirmativa é verdadeira, pois as lutas entre patrícios e plebeus ao longo dos séculos V a III a.C. impulsionaram a codificação das leis e a ampliação institucional dos direitos da plebe na República.",
       "revisar": false
+    },
+    {
+      "id": "ger-ant-m-011",
+      "tipo": "multipla",
+      "pergunta": "Por que Heródoto chamou o Egito de dádiva do Nilo?",
+      "opcoes": [
+        "As cheias anuais fertilizavam o solo em meio ao deserto",
+        "O Nilo trazia ouro",
+        "O Nilo protegia contra os romanos",
+        "O Nilo era sagrado só para os gregos"
+      ],
+      "correta": 0,
+      "explicacao": "As cheias deixavam lodo fértil nas margens. O controle das águas exigiu organização coletiva e fortaleceu o Estado.",
+      "revisar": false
+    },
+    {
+      "id": "ger-ant-m-012",
+      "tipo": "multipla",
+      "pergunta": "Como era obtida grande parte da mão de obra para obras públicas no Egito?",
+      "opcoes": [
+        "Por trabalho obrigatório de camponeses, em períodos determinados",
+        "Apenas por escravizados estrangeiros",
+        "Por assalariados livres de outros países",
+        "Por soldados romanos"
+      ],
+      "correta": 0,
+      "explicacao": "A corveia obrigava camponeses a trabalhar para o Estado. Estudos recentes mostram que operários das pirâmides recebiam alimento e moradia.",
+      "revisar": false
+    },
+    {
+      "id": "ger-ant-m-013",
+      "tipo": "multipla",
+      "pergunta": "Como se organizava politicamente a Mesopotâmia antes dos grandes impérios?",
+      "opcoes": [
+        "Em cidades-estado rivais, como Ur, Uruk e Lagash",
+        "Em um só reino unificado desde o início",
+        "Em feudos",
+        "Em províncias romanas"
+      ],
+      "correta": 0,
+      "explicacao": "As cidades sumérias disputavam terras e água. Depois, acádios, babilônios e assírios formaram impérios.",
+      "revisar": false
+    },
+    {
+      "id": "ger-ant-m-014",
+      "tipo": "multipla",
+      "pergunta": "Qual foi a principal atividade econômica dos fenícios?",
+      "opcoes": [
+        "O comércio marítimo, com colônias como Cartago",
+        "A agricultura irrigada no Nilo",
+        "A mineração de ferro",
+        "A criação de cavalos nas estepes"
+      ],
+      "correta": 0,
+      "explicacao": "Cidades como Tiro e Sidon controlavam rotas no Mediterrâneo. Cartago, fundada por eles, rivalizou depois com Roma.",
+      "revisar": false
+    },
+    {
+      "id": "ger-ant-m-015",
+      "tipo": "multipla",
+      "pergunta": "Como o Império Persa administrava seu vasto território?",
+      "opcoes": [
+        "Dividido em satrapias, com estradas e certa tolerância aos costumes locais",
+        "Com um único governador para tudo",
+        "Sem impostos",
+        "Com eleições locais"
+      ],
+      "correta": 0,
+      "explicacao": "Os sátrapas governavam províncias. A Estrada Real facilitava a comunicação. Ciro permitiu a volta dos hebreus a Jerusalém.",
+      "revisar": false
+    },
+    {
+      "id": "ger-ant-m-016",
+      "tipo": "multipla",
+      "pergunta": "O que foram as Guerras Médicas (490–479 a.C.)?",
+      "opcoes": [
+        "Conflitos entre gregos e persas, com batalhas como Maratona e Salamina",
+        "Guerras entre Roma e Cartago",
+        "Guerras civis romanas",
+        "Conflitos entre egípcios e hebreus"
+      ],
+      "correta": 0,
+      "explicacao": "Os gregos, liderados por Atenas e Esparta, venceram os persas. A vitória fortaleceu Atenas.",
+      "revisar": false
+    },
+    {
+      "id": "ger-ant-m-017",
+      "tipo": "multipla",
+      "pergunta": "Como terminou a Guerra do Peloponeso (431–404 a.C.)?",
+      "opcoes": [
+        "Com a vitória de Esparta sobre Atenas",
+        "Com a vitória de Atenas sobre Esparta",
+        "Com a conquista romana",
+        "Com a vitória persa sobre todos os gregos"
+      ],
+      "correta": 0,
+      "explicacao": "A guerra enfraqueceu as pólis e abriu caminho, décadas depois, para o domínio macedônico.",
+      "revisar": false
+    },
+    {
+      "id": "ger-ant-m-018",
+      "tipo": "multipla",
+      "pergunta": "Como se organizava o governo de Esparta?",
+      "opcoes": [
+        "Dois reis, um conselho de anciãos (gerúsia) e magistrados chamados éforos",
+        "Democracia direta igual à de Atenas",
+        "Um só rei absoluto",
+        "Assembleia de todos os habitantes, incluindo hilotas"
+      ],
+      "correta": 0,
+      "explicacao": "O poder estava com uma minoria de cidadãos guerreiros. Os hilotas, a maioria, trabalhavam a terra.",
+      "revisar": false
+    },
+    {
+      "id": "ger-ant-m-019",
+      "tipo": "multipla",
+      "pergunta": "Por que os gregos fundaram colônias pelo Mediterrâneo entre os séculos VIII e VI a.C.?",
+      "opcoes": [
+        "Falta de terras férteis e crescimento da população",
+        "Ordem do Império Romano",
+        "Fuga de uma invasão persa",
+        "Busca de petróleo"
+      ],
+      "correta": 0,
+      "explicacao": "Colônias como Siracusa e Marselha ampliaram o comércio e espalharam a cultura grega.",
+      "revisar": false
+    },
+    {
+      "id": "ger-ant-m-020",
+      "tipo": "multipla",
+      "pergunta": "Como a Macedônia passou a dominar a Grécia?",
+      "opcoes": [
+        "Filipe II venceu as pólis na batalha de Queroneia, em 338 a.C.",
+        "Os gregos elegeram um rei macedônio",
+        "Roma entregou a Grécia à Macedônia",
+        "A Pérsia doou a Grécia"
+      ],
+      "correta": 0,
+      "explicacao": "Enfraquecidas pela Guerra do Peloponeso, as pólis não resistiram. O filho de Filipe, Alexandre, expandiu o domínio.",
+      "revisar": false
+    },
+    {
+      "id": "ger-ant-m-021",
+      "tipo": "multipla",
+      "pergunta": "Como começou a República Romana, segundo a tradição?",
+      "opcoes": [
+        "Com a expulsão do último rei etrusco, em 509 a.C.",
+        "Com a morte de Júlio César",
+        "Com a fundação de Constantinopla",
+        "Com a vitória sobre Cartago"
+      ],
+      "correta": 0,
+      "explicacao": "Os romanos substituíram o rei por magistrados eleitos, como os cônsules, e mantiveram o Senado.",
+      "revisar": false
+    },
+    {
+      "id": "ger-ant-m-022",
+      "tipo": "multipla",
+      "pergunta": "Qual era a função dos tribunos da plebe na República Romana?",
+      "opcoes": [
+        "Defender os plebeus, podendo vetar medidas que os prejudicassem",
+        "Comandar o exército",
+        "Escolher o imperador",
+        "Cobrar impostos das províncias"
+      ],
+      "correta": 0,
+      "explicacao": "O tribunato foi conquistado pelos plebeus nas lutas com os patrícios, no século V a.C.",
+      "revisar": false
+    },
+    {
+      "id": "ger-ant-m-023",
+      "tipo": "multipla",
+      "pergunta": "O que propunham os irmãos Tibério e Caio Graco no século II a.C.?",
+      "opcoes": [
+        "Reforma agrária para distribuir terras públicas a cidadãos pobres",
+        "Fim da República",
+        "Aumento dos latifúndios",
+        "Expulsão dos plebeus de Roma"
+      ],
+      "correta": 0,
+      "explicacao": "Os dois foram mortos em conflitos com setores do Senado, sinal da crise da República.",
+      "revisar": false
+    },
+    {
+      "id": "ger-ant-m-024",
+      "tipo": "multipla",
+      "pergunta": "O que marcou a crise da República Romana no século I a.C.?",
+      "opcoes": [
+        "Guerras civis entre generais com exércitos fiéis a eles",
+        "Paz completa",
+        "Fim das conquistas por falta de exército",
+        "Domínio grego sobre Roma"
+      ],
+      "correta": 0,
+      "explicacao": "Mário, Sula, Pompeu e César disputaram o poder. O processo terminou com Augusto e o Principado.",
+      "revisar": false
+    },
+    {
+      "id": "ger-ant-m-025",
+      "tipo": "multipla",
+      "pergunta": "O que foi a Pax Romana?",
+      "opcoes": [
+        "Período de relativa estabilidade interna do Império, iniciado com Augusto",
+        "Tratado de paz com Cartago",
+        "Fim do Império",
+        "Período sem exército"
+      ],
+      "correta": 0,
+      "explicacao": "Por cerca de dois séculos, o Império teve menos guerras internas, favorecendo o comércio. Houve guerras nas fronteiras.",
+      "revisar": false
+    },
+    {
+      "id": "ger-ant-m-026",
+      "tipo": "multipla",
+      "pergunta": "Por que os cristãos foram perseguidos em Roma em alguns períodos?",
+      "opcoes": [
+        "Recusavam o culto ao imperador e aos deuses oficiais",
+        "Defendiam o politeísmo",
+        "Apoiavam Cartago",
+        "Eram todos estrangeiros"
+      ],
+      "correta": 0,
+      "explicacao": "A recusa era vista como deslealdade ao Estado. As perseguições variaram em intensidade até o Édito de Milão.",
+      "revisar": false
+    },
+    {
+      "id": "ger-ant-m-027",
+      "tipo": "multipla",
+      "pergunta": "Quais problemas marcaram a crise do século III no Império Romano?",
+      "opcoes": [
+        "Sucessão rápida de imperadores, inflação e pressões nas fronteiras",
+        "Paz e crescimento contínuo",
+        "Fim da escravidão",
+        "Conquista da Pérsia"
+      ],
+      "correta": 0,
+      "explicacao": "Entre 235 e 284, dezenas de imperadores se sucederam, muitos aclamados pelas tropas.",
+      "revisar": false
+    },
+    {
+      "id": "ger-ant-m-028",
+      "tipo": "multipla",
+      "pergunta": "Que medidas Diocleciano e Constantino tomaram para reorganizar o Império?",
+      "opcoes": [
+        "Diocleciano criou a tetrarquia; Constantino fundou Constantinopla",
+        "Ambos acabaram com o exército",
+        "Ambos devolveram o poder ao Senado",
+        "Ambos dividiram o Império com os persas"
+      ],
+      "correta": 0,
+      "explicacao": "A tetrarquia dividia o governo entre quatro governantes. Constantinopla, de 330, virou o centro do Oriente.",
+      "revisar": false
+    },
+    {
+      "id": "ger-ant-m-029",
+      "tipo": "verdadeiro_falso",
+      "pergunta": "A Guerra do Peloponeso terminou com a vitória de Atenas.",
+      "correta": false,
+      "explicacao": "Falso. Esparta venceu em 404 a.C., com apoio financeiro persa.",
+      "revisar": false
+    },
+    {
+      "id": "ger-ant-m-030",
+      "tipo": "verdadeiro_falso",
+      "pergunta": "Os tribunos da plebe podiam vetar decisões que prejudicassem os plebeus.",
+      "correta": true,
+      "explicacao": "Verdadeiro. O direito de veto era a principal arma dos tribunos.",
+      "revisar": false
     }
   ]
 }

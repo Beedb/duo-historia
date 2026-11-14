@@ -75,6 +75,318 @@
       "correta": false,
       "explicacao": "A afirmação é falsa porque a reforma descentralizadora do Período Regencial suspendeu o exercício do Poder Moderador até que houvesse um novo imperador maior de idade.",
       "revisar": false
+    },
+    {
+      "id": "bra-imp-m-007",
+      "tipo": "multipla",
+      "pergunta": "Por que, ao contrário da América espanhola, o Brasil se manteve unido após a independência?",
+      "opcoes": [
+        "A monarquia centralizada e o interesse das elites em manter a ordem escravista",
+        "Porque não havia diferenças regionais",
+        "Porque Portugal proibiu a divisão",
+        "Porque não houve revoltas"
+      ],
+      "correta": 0,
+      "explicacao": "O medo de rebeliões escravas e populares levou as elites provinciais a aceitar um governo central forte.",
+      "revisar": false
+    },
+    {
+      "id": "bra-imp-m-008",
+      "tipo": "multipla",
+      "pergunta": "Como funcionava o voto pela Constituição de 1824?",
+      "opcoes": [
+        "Era censitário e indireto, com exigência de renda mínima",
+        "Era universal e direto",
+        "Só mulheres votavam",
+        "Não havia eleições"
+      ],
+      "correta": 0,
+      "explicacao": "Os votantes escolhiam eleitores, que elegiam deputados. Escravizados não votavam, e a renda limitava a participação.",
+      "revisar": false
+    },
+    {
+      "id": "bra-imp-m-009",
+      "tipo": "multipla",
+      "pergunta": "Que poderes o Poder Moderador dava ao imperador?",
+      "opcoes": [
+        "Nomear ministros e senadores e dissolver a Câmara",
+        "Apenas cerimoniais",
+        "Julgar crimes comuns",
+        "Eleger diretamente os deputados"
+      ],
+      "correta": 0,
+      "explicacao": "Com o Moderador, o imperador era árbitro do sistema político. Senadores eram escolhidos por ele a partir de listas tríplices e tinham cargo vitalício.",
+      "revisar": false
+    },
+    {
+      "id": "bra-imp-m-010",
+      "tipo": "multipla",
+      "pergunta": "O que motivou a Confederação do Equador, em 1824?",
+      "opcoes": [
+        "A dissolução da Constituinte e a centralização imposta por D. Pedro I",
+        "A abolição da escravidão",
+        "A Guerra do Paraguai",
+        "A proclamação da República"
+      ],
+      "correta": 0,
+      "explicacao": "Pernambuco defendia autonomia provincial. A Constituição outorgada e a nomeação de um presidente de província impopular levaram à revolta.",
+      "revisar": false
+    },
+    {
+      "id": "bra-imp-m-011",
+      "tipo": "multipla",
+      "pergunta": "Quais fatores levaram à abdicação de D. Pedro I, em 1831?",
+      "opcoes": [
+        "Autoritarismo, crise econômica, derrota na Cisplatina e envolvimento na sucessão portuguesa",
+        "Vitória na Guerra do Paraguai",
+        "Pressão dos republicanos de 1870",
+        "Abolição da escravidão"
+      ],
+      "correta": 0,
+      "explicacao": "Conflitos entre brasileiros e portugueses, como a Noite das Garrafadas, também marcaram o desgaste.",
+      "revisar": false
+    },
+    {
+      "id": "bra-imp-m-012",
+      "tipo": "multipla",
+      "pergunta": "O que foi a Guarda Nacional, criada em 1831?",
+      "opcoes": [
+        "Força armada civil controlada por proprietários locais",
+        "Exército profissional",
+        "Polícia federal",
+        "Marinha imperial"
+      ],
+      "correta": 0,
+      "explicacao": "Os postos da Guarda eram ocupados por fazendeiros. O título de coronel da Guarda está na origem do termo coronelismo.",
+      "revisar": false
+    },
+    {
+      "id": "bra-imp-m-013",
+      "tipo": "multipla",
+      "pergunta": "Qual foi a causa geral das revoltas regenciais?",
+      "opcoes": [
+        "Conflitos entre elites provinciais e o governo central, somados a tensões sociais",
+        "Invasão estrangeira",
+        "Fim da escravidão",
+        "Vitória de republicanos em 1831"
+      ],
+      "correta": 0,
+      "explicacao": "Cada revolta teve motivos próprios, mas todas expressaram disputas de poder local e, em várias, a revolta dos mais pobres.",
+      "revisar": false
+    },
+    {
+      "id": "bra-imp-m-014",
+      "tipo": "multipla",
+      "pergunta": "O que distinguiu a Cabanagem (1835–1840), no Pará?",
+      "opcoes": [
+        "A grande participação popular, com indígenas e mestiços pobres tomando Belém",
+        "Ser liderada apenas por fazendeiros ricos",
+        "Ter durado poucos dias",
+        "Não ter havido mortes"
+      ],
+      "correta": 0,
+      "explicacao": "Os cabanos chegaram a governar a província. A repressão matou parte significativa da população.",
+      "revisar": false
+    },
+    {
+      "id": "bra-imp-m-015",
+      "tipo": "multipla",
+      "pergunta": "Qual foi a principal queixa econômica dos farroupilhas?",
+      "opcoes": [
+        "A concorrência do charque platino, favorecida pelos impostos imperiais",
+        "O fim do ciclo do ouro",
+        "A proibição do café",
+        "A abolição da escravidão"
+      ],
+      "correta": 0,
+      "explicacao": "Os criadores gaúchos reclamavam que o charque estrangeiro entrava com impostos baixos, prejudicando a produção local.",
+      "revisar": false
+    },
+    {
+      "id": "bra-imp-m-016",
+      "tipo": "multipla",
+      "pergunta": "Como terminou a Revolução Farroupilha?",
+      "opcoes": [
+        "Com um acordo, a Paz de Ponche Verde, que anistiou os rebeldes",
+        "Com a independência do Rio Grande do Sul",
+        "Com a execução de todos os líderes",
+        "Com a vitória total dos farrapos"
+      ],
+      "correta": 0,
+      "explicacao": "Caxias negociou a paz em 1845, incorporando oficiais farroupilhas ao Exército. O Império precisava do Sul diante das ameaças no Prata.",
+      "revisar": false
+    },
+    {
+      "id": "bra-imp-m-017",
+      "tipo": "multipla",
+      "pergunta": "Qual foi uma consequência da Revolta dos Malês?",
+      "opcoes": [
+        "Aumento da repressão e da vigilância sobre africanos na Bahia",
+        "Abolição da escravidão na Bahia",
+        "Independência da Bahia",
+        "Liberdade religiosa para os muçulmanos"
+      ],
+      "correta": 0,
+      "explicacao": "Houve execuções, açoites e deportações para a África. A elite passou a temer ainda mais os africanos libertos.",
+      "revisar": false
+    },
+    {
+      "id": "bra-imp-m-018",
+      "tipo": "multipla",
+      "pergunta": "O que foi o Regresso conservador, a partir de 1837?",
+      "opcoes": [
+        "Movimento para recentralizar o poder, revendo reformas liberais das Regências",
+        "Volta de D. Pedro I",
+        "Retorno do Brasil a Portugal",
+        "Movimento abolicionista"
+      ],
+      "correta": 0,
+      "explicacao": "A Lei de Interpretação do Ato Adicional (1840) e a reforma do Código de Processo (1841) devolveram poder ao centro.",
+      "revisar": false
+    },
+    {
+      "id": "bra-imp-m-019",
+      "tipo": "multipla",
+      "pergunta": "Por que se fala em parlamentarismo às avessas no Segundo Reinado?",
+      "opcoes": [
+        "O imperador escolhia o gabinete, e as eleições depois davam maioria a ele",
+        "O povo elegia o imperador",
+        "O Parlamento escolhia o imperador",
+        "Não existia Parlamento"
+      ],
+      "correta": 0,
+      "explicacao": "Na Inglaterra, a maioria eleita formava o governo. No Brasil, o Poder Moderador nomeava o gabinete, que controlava as eleições.",
+      "revisar": false
+    },
+    {
+      "id": "bra-imp-m-020",
+      "tipo": "multipla",
+      "pergunta": "Por que o Brasil aprovou a lei de fim do tráfico em 1850?",
+      "opcoes": [
+        "Pressão britânica, como o Bill Aberdeen, que autorizava apreender navios negreiros",
+        "Porque os fazendeiros pediram o fim da escravidão",
+        "Porque o tráfico deixou de dar lucro",
+        "Por ordem de Portugal"
+      ],
+      "correta": 0,
+      "explicacao": "A Inglaterra passou a capturar navios até em águas brasileiras. O governo preferiu agir antes de um conflito maior.",
+      "revisar": false
+    },
+    {
+      "id": "bra-imp-m-021",
+      "tipo": "multipla",
+      "pergunta": "Qual foi uma consequência econômica do fim do tráfico africano?",
+      "opcoes": [
+        "Capitais antes usados no tráfico foram para outros negócios, e cresceu o tráfico interno entre províncias",
+        "O fim imediato do café",
+        "A queda da população de São Paulo",
+        "O fim de todas as fazendas"
+      ],
+      "correta": 0,
+      "explicacao": "Escravizados foram vendidos do Nordeste para o Sudeste cafeeiro, e o dinheiro liberado financiou bancos e ferrovias.",
+      "revisar": false
+    },
+    {
+      "id": "bra-imp-m-022",
+      "tipo": "multipla",
+      "pergunta": "Qual era a relação entre a Lei de Terras e a imigração?",
+      "opcoes": [
+        "Dificultar o acesso à terra para que imigrantes trabalhassem nas fazendas",
+        "Dar terras gratuitas a todos os imigrantes",
+        "Proibir a imigração",
+        "Dar terras aos libertos"
+      ],
+      "correta": 0,
+      "explicacao": "Sem terra própria, imigrantes e trabalhadores livres teriam de vender sua força de trabalho aos fazendeiros.",
+      "revisar": false
+    },
+    {
+      "id": "bra-imp-m-023",
+      "tipo": "multipla",
+      "pergunta": "Que mudanças a Guerra do Paraguai provocou no Império?",
+      "opcoes": [
+        "Fortaleceu o Exército, aumentou a dívida e estimulou o debate sobre a escravidão",
+        "Acabou com o Exército",
+        "Enriqueceu o Império sem custos",
+        "Levou à anexação do Paraguai"
+      ],
+      "correta": 0,
+      "explicacao": "Muitos escravizados lutaram em troca da liberdade, e oficiais passaram a ter mais peso político.",
+      "revisar": false
+    },
+    {
+      "id": "bra-imp-m-024",
+      "tipo": "multipla",
+      "pergunta": "Quem foram algumas figuras do movimento abolicionista?",
+      "opcoes": [
+        "Joaquim Nabuco, José do Patrocínio, André Rebouças e Luiz Gama",
+        "Duque de Caxias e Barão de Mauá",
+        "D. Pedro I e José Bonifácio",
+        "Deodoro e Floriano"
+      ],
+      "correta": 0,
+      "explicacao": "Luiz Gama, ex-escravizado e advogado, libertou centenas de pessoas nos tribunais. Patrocínio e Rebouças eram negros, como Gama.",
+      "revisar": false
+    },
+    {
+      "id": "bra-imp-m-025",
+      "tipo": "multipla",
+      "pergunta": "O que foi a Questão Religiosa (1872–1875)?",
+      "opcoes": [
+        "Conflito entre o governo e bispos que puniram maçons, terminando com a prisão dos bispos",
+        "Guerra contra o Paraguai",
+        "Expulsão dos jesuítas",
+        "Fim da religião oficial"
+      ],
+      "correta": 0,
+      "explicacao": "Pelo padroado, o imperador controlava a Igreja. A prisão dos bispos de Olinda e Belém afastou parte do clero da monarquia.",
+      "revisar": false
+    },
+    {
+      "id": "bra-imp-m-026",
+      "tipo": "multipla",
+      "pergunta": "O que foi a Questão Militar dos anos 1880?",
+      "opcoes": [
+        "Conflitos entre oficiais do Exército e o governo sobre o direito de se manifestar",
+        "Uma guerra contra a Argentina",
+        "A criação da Marinha",
+        "A volta da Guarda Nacional"
+      ],
+      "correta": 0,
+      "explicacao": "Oficiais punidos por declarações na imprensa reagiram. Influenciados pelo positivismo, muitos aderiram à República.",
+      "revisar": false
+    },
+    {
+      "id": "bra-imp-m-027",
+      "tipo": "verdadeiro_falso",
+      "pergunta": "A Constituição de 1824 garantia o voto a todos os homens adultos, sem exigência de renda.",
+      "correta": false,
+      "explicacao": "Falso. O voto era censitário: exigia renda mínima. Escravizados também não votavam.",
+      "revisar": false
+    },
+    {
+      "id": "bra-imp-m-028",
+      "tipo": "verdadeiro_falso",
+      "pergunta": "A Lei Eusébio de Queirós, de 1850, proibiu o tráfico atlântico de escravizados.",
+      "correta": true,
+      "explicacao": "Verdadeiro. Diferentemente da lei de 1831, essa foi aplicada e o tráfico africano acabou em poucos anos.",
+      "revisar": false
+    },
+    {
+      "id": "bra-imp-m-029",
+      "tipo": "verdadeiro_falso",
+      "pergunta": "Com a Lei do Ventre Livre, os filhos de escravizadas ficavam livres de qualquer obrigação com o senhor.",
+      "correta": false,
+      "explicacao": "Falso. O senhor podia usar o trabalho dos chamados ingênuos até os 21 anos, ou entregá-los ao Estado com indenização.",
+      "revisar": false
+    },
+    {
+      "id": "bra-imp-m-030",
+      "tipo": "verdadeiro_falso",
+      "pergunta": "A Paz de Ponche Verde (1845) encerrou a Farroupilha por acordo, com anistia aos revoltosos.",
+      "correta": true,
+      "explicacao": "Verdadeiro. O acordo negociado por Caxias reintegrou a província e anistiou os rebeldes.",
+      "revisar": false
     }
   ]
 }

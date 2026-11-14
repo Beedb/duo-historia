@@ -17,6 +17,409 @@
       "correta": 1,
       "explicacao": "A expressão 'modernização conservadora' sintetiza o paradoxo do regime militar: impulsionou a modernização capitalista e industrial do país sob forte intervenção estatal, mas manteve intactas as estruturas de exclusão social e suprimiu as liberdades democráticas.",
       "revisar": false
+    },
+    {
+      "id": "bra-dit-d-002",
+      "tipo": "multipla",
+      "pergunta": "Por que o historiador Daniel Aarão Reis propõe que a ditadura terminou em 1979, e não em 1985?",
+      "opcoes": [
+        "Com o fim do AI-5 e a anistia, o Estado de exceção acabou, embora houvesse restrições",
+        "Porque os militares deixaram o governo em 1979",
+        "Porque houve eleição direta em 1979",
+        "Porque a Constituição de 1988 foi aprovada em 1979"
+      ],
+      "correta": 0,
+      "explicacao": "A proposta é discutida: outros historiadores mantêm 1985, quando um civil assumiu. A periodização muda a leitura do período.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dit-d-003",
+      "tipo": "multipla",
+      "pergunta": "Que crítica Carlos Fico (Além do golpe, 2004) faz à oposição entre moderados e linha dura?",
+      "opcoes": [
+        "Os dois grupos compartilhavam o projeto repressivo, chamado de utopia autoritária",
+        "Os moderados eram democratas e contra a repressão",
+        "A linha dura não existia",
+        "Os grupos eram partidos políticos"
+      ],
+      "correta": 0,
+      "explicacao": "Fico mostra que mesmo os chamados moderados aceitaram e organizaram a repressão. A divisão era sobre ritmo e método.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dit-d-004",
+      "tipo": "multipla",
+      "pergunta": "Quantos mortos e desaparecidos políticos a Comissão Nacional da Verdade reconheceu em seu relatório de 2014?",
+      "opcoes": [
+        "434",
+        "43",
+        "4.340",
+        "43.400"
+      ],
+      "correta": 0,
+      "explicacao": "A CNV listou 434 mortos e desaparecidos e apontou 377 agentes como responsáveis por violações. O número de indígenas mortos foi estimado à parte.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dit-d-005",
+      "tipo": "multipla",
+      "pergunta": "O que o STF decidiu em 2010, na ADPF 153, sobre a Lei da Anistia?",
+      "opcoes": [
+        "Manteve a interpretação que inclui agentes do Estado na anistia",
+        "Anulou toda a Lei da Anistia",
+        "Mandou julgar todos os torturadores",
+        "Declarou a lei inexistente"
+      ],
+      "correta": 0,
+      "explicacao": "O STF entendeu que a lei resultou de um acordo político. A decisão é criticada por juristas e organismos internacionais.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dit-d-006",
+      "tipo": "multipla",
+      "pergunta": "O que a Corte Interamericana decidiu no caso Gomes Lund (Guerrilha do Araguaia), em 2010?",
+      "opcoes": [
+        "Condenou o Brasil e afirmou que a anistia não pode impedir a investigação de graves violações",
+        "Absolveu o Estado brasileiro",
+        "Declarou que a guerrilha não existiu",
+        "Mandou extinguir a CNV"
+      ],
+      "correta": 0,
+      "explicacao": "A sentença contrariou a decisão do STF do mesmo ano e exigiu busca dos desaparecidos e investigação.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dit-d-007",
+      "tipo": "multipla",
+      "pergunta": "Quais são os pilares geralmente atribuídos à justiça de transição?",
+      "opcoes": [
+        "Memória, verdade, reparação e justiça, com reforma das instituições",
+        "Esquecimento, perdão e silêncio",
+        "Punição só dos opositores",
+        "Censura e segurança nacional"
+      ],
+      "correta": 0,
+      "explicacao": "No Brasil, avançaram a reparação (Comissão de Anistia) e a verdade (CNV); a responsabilização penal ficou bloqueada.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dit-d-008",
+      "tipo": "multipla",
+      "pergunta": "Que diferença há entre Brasil e Argentina na justiça de transição?",
+      "opcoes": [
+        "A Argentina julgou os comandantes das juntas em 1985; o Brasil não julgou agentes",
+        "O Brasil julgou todos os generais",
+        "Nenhum dos dois teve ditadura",
+        "A Argentina anistiou todos para sempre"
+      ],
+      "correta": 0,
+      "explicacao": "O Julgamento das Juntas condenou militares argentinos. No Brasil, a anistia e a transição negociada impediram processos.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dit-d-009",
+      "tipo": "multipla",
+      "pergunta": "Por que o projeto Brasil: Nunca Mais (1985) foi tão relevante?",
+      "opcoes": [
+        "Documentou a tortura a partir de processos do próprio Superior Tribunal Militar",
+        "Era um relatório do governo militar",
+        "Negava a existência da tortura",
+        "Foi escrito por agentes da repressão"
+      ],
+      "correta": 0,
+      "explicacao": "Coordenado por D. Paulo Evaristo Arns e Jaime Wright, o projeto copiou processos oficiais, usando o registro do regime como prova.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dit-d-010",
+      "tipo": "multipla",
+      "pergunta": "Qual foi o debate entre Carlos Langoni e Albert Fishlow sobre a concentração de renda nos anos 1960?",
+      "opcoes": [
+        "Langoni atribuía à falta de qualificação; Fishlow, à política salarial do governo",
+        "Os dois negavam a concentração",
+        "Os dois culpavam a reforma agrária",
+        "Langoni culpava os sindicatos; Fishlow, a Igreja"
+      ],
+      "correta": 0,
+      "explicacao": "Langoni, próximo ao governo, falava em escassez de mão de obra qualificada. Fishlow apontava o arrocho salarial.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dit-d-011",
+      "tipo": "multipla",
+      "pergunta": "Por que a ditadura manteve Congresso, partidos e eleições, ainda que controlados?",
+      "opcoes": [
+        "Para buscar legitimidade e apresentar o regime como transitório e legal",
+        "Porque não tinha força para fechá-los",
+        "Porque as eleições eram livres",
+        "Por exigência da ONU"
+      ],
+      "correta": 0,
+      "explicacao": "A fachada institucional distinguia o regime brasileiro de outras ditaduras, mas o Congresso foi fechado e mutilado quando contrariou o governo.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dit-d-012",
+      "tipo": "multipla",
+      "pergunta": "Qual característica distingue a ditadura brasileira da chilena de Pinochet?",
+      "opcoes": [
+        "No Brasil, generais se revezavam na presidência, sem um ditador único",
+        "No Brasil, um só general governou 21 anos",
+        "No Chile não houve repressão",
+        "No Brasil não houve Congresso em nenhum momento"
+      ],
+      "correta": 0,
+      "explicacao": "O rodízio entre generais mostrava o caráter institucional das Forças Armadas no poder.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dit-d-013",
+      "tipo": "multipla",
+      "pergunta": "Qual era o papel da doutrina de segurança nacional, difundida pela Escola Superior de Guerra?",
+      "opcoes": [
+        "Justificar o combate ao inimigo interno, identificado com a subversão",
+        "Defender as fronteiras contra a Argentina apenas",
+        "Promover a democracia liberal",
+        "Defender a neutralidade na Guerra Fria"
+      ],
+      "correta": 0,
+      "explicacao": "A doutrina tratava opositores como inimigos. O SNI, criado por Golbery do Couto e Silva, é expressão dela.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dit-d-014",
+      "tipo": "multipla",
+      "pergunta": "O que foi a Operação Condor?",
+      "opcoes": [
+        "Cooperação entre ditaduras do Cone Sul para perseguir opositores além das fronteiras",
+        "Plano de construção de estradas",
+        "Acordo comercial entre Brasil e EUA",
+        "Campanha de vacinação"
+      ],
+      "correta": 0,
+      "explicacao": "Brasil, Argentina, Chile, Uruguai, Paraguai e Bolívia trocavam informações e prisioneiros nos anos 1970.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dit-d-015",
+      "tipo": "multipla",
+      "pergunta": "O que a Comissão Nacional da Verdade apontou sobre os povos indígenas?",
+      "opcoes": [
+        "Estimou ao menos 8.350 indígenas mortos por ação ou omissão do Estado",
+        "Que nenhum indígena foi afetado",
+        "Que os indígenas apoiaram a repressão",
+        "Que só havia indígenas na guerrilha"
+      ],
+      "correta": 0,
+      "explicacao": "Obras como a Transamazônica e a política de ocupação causaram remoções, epidemias e mortes. O Relatório Figueiredo (1967) já registrava violências.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dit-d-016",
+      "tipo": "multipla",
+      "pergunta": "Que crítica autores como Daniel Aarão Reis e Denise Rollemberg fazem à memória de que a sociedade sempre resistiu à ditadura?",
+      "opcoes": [
+        "Ela esquece o apoio e o consentimento de amplos setores sociais",
+        "Ela exagera o apoio ao regime",
+        "Ela nega que houve repressão",
+        "Ela foi criada pelos militares"
+      ],
+      "correta": 0,
+      "explicacao": "Os autores mostram que a ditadura teve base social, e que a memória da resistência foi construída sobretudo após a abertura.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dit-d-017",
+      "tipo": "multipla",
+      "pergunta": "Por que a memória sobre a luta armada é objeto de debate historiográfico?",
+      "opcoes": [
+        "Parte das organizações queria uma revolução socialista, não apenas a volta da democracia",
+        "Porque não houve luta armada",
+        "Porque todos os grupos defendiam a ditadura",
+        "Porque a luta armada venceu"
+      ],
+      "correta": 0,
+      "explicacao": "Aarão Reis argumenta que a memória posterior apresentou essas organizações como democráticas. Outros autores destacam que lutavam contra um regime que fechara as vias legais.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dit-d-018",
+      "tipo": "multipla",
+      "pergunta": "Que tipo de censura existia além da política?",
+      "opcoes": [
+        "A censura moral, sobre costumes, sexualidade e religião",
+        "Não havia outro tipo",
+        "A censura só atingia livros estrangeiros",
+        "A censura só proibia esportes"
+      ],
+      "correta": 0,
+      "explicacao": "A Divisão de Censura de Diversões Públicas vetava filmes, novelas e músicas por motivos morais, o que tinha apoio de setores conservadores.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dit-d-019",
+      "tipo": "multipla",
+      "pergunta": "Por que a transição brasileira é chamada de negociada ou controlada?",
+      "opcoes": [
+        "O ritmo foi definido em grande parte pelo próprio regime, com garantias aos militares",
+        "Os militares foram derrotados numa guerra",
+        "Houve uma revolução popular",
+        "A ONU conduziu a transição"
+      ],
+      "correta": 0,
+      "explicacao": "A anistia recíproca, a eleição indireta de 1985 e a permanência de figuras do regime mostram os limites da ruptura.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dit-d-020",
+      "tipo": "multipla",
+      "pergunta": "Como Geisel reagiu às mortes de Vladimir Herzog (1975) e Manoel Fiel Filho (1976) no DOI-CODI de São Paulo?",
+      "opcoes": [
+        "Afastou o comandante do II Exército, sinal de conflito com setores radicais",
+        "Promoveu os responsáveis",
+        "Fechou a Igreja Católica",
+        "Decretou o AI-5"
+      ],
+      "correta": 0,
+      "explicacao": "A demissão do general Ednardo D'Ávila Mello indicou que Geisel queria controlar a repressão, não acabar com ela.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dit-d-021",
+      "tipo": "multipla",
+      "pergunta": "Que herança econômica a ditadura deixou para os anos 1980?",
+      "opcoes": [
+        "Grande dívida externa, que contribuiu para a chamada década perdida",
+        "Inflação zero",
+        "Distribuição igualitária de renda",
+        "Ausência de estatais"
+      ],
+      "correta": 0,
+      "explicacao": "O endividamento do milagre e do II PND tornou o país vulnerável à alta dos juros internacionais.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dit-d-022",
+      "tipo": "multipla",
+      "pergunta": "Como a ditadura atuou nas universidades?",
+      "opcoes": [
+        "Combinou reforma universitária com expurgo de professores e repressão ao movimento estudantil",
+        "Fechou todas as universidades",
+        "Garantiu plena liberdade de cátedra",
+        "Não interferiu no ensino"
+      ],
+      "correta": 0,
+      "explicacao": "A reforma de 1968 expandiu a pós-graduação, mas o AI-5 aposentou compulsoriamente professores e a UNE foi posta na ilegalidade.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dit-d-023",
+      "tipo": "multipla",
+      "pergunta": "Qual foi o papel da imprensa alternativa, como O Pasquim, Opinião e Movimento?",
+      "opcoes": [
+        "Criticar o regime com humor e reportagens, apesar da censura",
+        "Apoiar o AI-5",
+        "Substituir a propaganda oficial",
+        "Publicar só notícias estrangeiras"
+      ],
+      "correta": 0,
+      "explicacao": "Esses jornais sofreram censura prévia e apreensões, mas formaram um espaço de crítica e de jornalistas.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dit-d-024",
+      "tipo": "multipla",
+      "pergunta": "Que diferença os historiadores apontam entre o Estado Novo e a ditadura de 1964?",
+      "opcoes": [
+        "O Estado Novo era personalista; a ditadura de 1964, um regime das Forças Armadas como instituição",
+        "Os dois eram governados pelo mesmo ditador",
+        "O Estado Novo teve eleições diretas",
+        "A ditadura de 1964 não teve censura"
+      ],
+      "correta": 0,
+      "explicacao": "Vargas concentrava o poder pessoalmente. Após 1964, a corporação militar escolhia os presidentes.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dit-d-025",
+      "tipo": "multipla",
+      "pergunta": "Por que Geisel rompeu o acordo militar com os Estados Unidos em 1977?",
+      "opcoes": [
+        "Reagiu às críticas do governo Carter sobre direitos humanos",
+        "Os EUA invadiram o Brasil",
+        "O Brasil aderiu ao bloco soviético",
+        "Os EUA pediram o fim da ditadura em 24 horas"
+      ],
+      "correta": 0,
+      "explicacao": "O Departamento de Estado publicou relatório sobre violações no Brasil. Geisel viu a crítica como interferência e denunciou o acordo.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dit-d-026",
+      "tipo": "verdadeiro_falso",
+      "pergunta": "Para parte da historiografia, a ditadura teve apoio de setores significativos da sociedade civil e não se sustentou só pela força.",
+      "correta": true,
+      "explicacao": "Verdadeiro. Empresários, parte da classe média, da imprensa e da Igreja apoiaram o regime, sobretudo nos primeiros anos e no milagre.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dit-d-027",
+      "tipo": "fonte",
+      "trecho": "Fica suspensa a garantia de habeas corpus, nos casos de crimes políticos, contra a segurança nacional, a ordem econômica e social e a economia popular.",
+      "autor": "Ato Institucional nº 5, art. 10",
+      "ano": 1968,
+      "pergunta": "Que consequência prática teve esse artigo?",
+      "opcoes": [
+        "Presos políticos ficaram sem meio legal de contestar a prisão, o que facilitou a tortura",
+        "Garantiu julgamento rápido aos presos",
+        "Libertou os presos políticos",
+        "Proibiu crimes contra a economia"
+      ],
+      "correta": 0,
+      "explicacao": "Sem habeas corpus, prisões podiam ser mantidas sem controle judicial, abrindo espaço para incomunicabilidade e tortura.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dit-d-028",
+      "tipo": "fonte",
+      "trecho": "A revolução vitoriosa se investe no exercício do Poder Constituinte. Este se manifesta pela eleição popular ou pela revolução.",
+      "autor": "Ato Institucional nº 1, preâmbulo",
+      "ano": 1964,
+      "pergunta": "Que estratégia de legitimação o texto usa?",
+      "opcoes": [
+        "Apresentar o golpe como revolução, com poder de criar novas regras sem o Congresso",
+        "Reconhecer a ilegalidade do golpe",
+        "Pedir aprovação popular por plebiscito",
+        "Devolver o poder a Jango"
+      ],
+      "correta": 0,
+      "explicacao": "Chamar o golpe de revolução permitia aos militares se atribuírem um poder constituinte acima da Constituição de 1946.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dit-d-029",
+      "tipo": "fonte",
+      "trecho": "Consideram-se conexos, para efeito deste artigo, os crimes de qualquer natureza relacionados com crimes políticos ou praticados por motivação política.",
+      "autor": "Lei da Anistia (Lei 6.683), art. 1º, § 1º",
+      "ano": 1979,
+      "pergunta": "Por que esse parágrafo é central no debate sobre a anistia?",
+      "opcoes": [
+        "Foi interpretado como estendendo a anistia a agentes do Estado que cometeram tortura",
+        "Excluiu todos os opositores da anistia",
+        "Criou a Comissão da Verdade",
+        "Revogou o AI-5"
+      ],
+      "correta": 0,
+      "explicacao": "A noção ampla de crime conexo serviu para proteger agentes da repressão. Críticos argumentam que tortura não é crime político.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dit-d-030",
+      "tipo": "verdadeiro_falso",
+      "pergunta": "A Comissão Nacional da Verdade (2012–2014) tinha poder para punir criminalmente os responsáveis por violações.",
+      "correta": false,
+      "explicacao": "Falso. A CNV investigou e recomendou medidas, mas não julgava nem punia. A Lei da Anistia seguiu bloqueando processos penais.",
+      "revisar": false
     }
   ]
 }

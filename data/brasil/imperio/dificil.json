@@ -121,6 +121,311 @@
       "correta": 2,
       "explicacao": "Para os movimentos republicanos do final do século XIX, o federalismo representava a principal bandeira institucional contra o unitarismo centralizador da monarquia destituída em 1889. O corporativismo estatal surgiria apenas décadas depois, na Era Vargas.",
       "revisar": true
+    },
+    {
+      "id": "bra-imp-d-009",
+      "tipo": "multipla",
+      "pergunta": "Como José Murilo de Carvalho (A construção da ordem, 1980) explica a unidade do Império?",
+      "opcoes": [
+        "Pela homogeneidade da elite política, formada em Coimbra e na burocracia",
+        "Pela ausência de diferenças regionais",
+        "Pela força militar do Exército",
+        "Pelo apoio dos escravizados à monarquia"
+      ],
+      "correta": 0,
+      "explicacao": "Formação jurídica comum, carreira no Estado e circulação pelas províncias deram à elite uma visão nacional e centralizadora.",
+      "revisar": false
+    },
+    {
+      "id": "bra-imp-d-010",
+      "tipo": "multipla",
+      "pergunta": "Qual é a tese de Ilmar Rohloff de Mattos em O tempo saquarema (1987)?",
+      "opcoes": [
+        "Os conservadores fluminenses (saquaremas) dirigiram a construção do Estado imperial e da classe senhorial",
+        "Os liberais governaram sozinhos todo o Império",
+        "O Estado imperial foi criado pelos escravizados",
+        "O Império não teve projeto político"
+      ],
+      "correta": 0,
+      "explicacao": "Saquarema era o apelido dos conservadores do Rio. Para Mattos, eles deram direção política e moral à classe senhorial.",
+      "revisar": false
+    },
+    {
+      "id": "bra-imp-d-011",
+      "tipo": "multipla",
+      "pergunta": "O que indica a frase atribuída a Holanda Cavalcanti, de que nada se assemelha mais a um saquarema do que um luzia no poder?",
+      "opcoes": [
+        "Liberais e conservadores tinham práticas semelhantes quando governavam",
+        "Os liberais eram republicanos radicais",
+        "Os conservadores apoiavam a abolição imediata",
+        "Os partidos eram proibidos de governar"
+      ],
+      "correta": 0,
+      "explicacao": "Luzia era o apelido dos liberais. A frase sugere que as diferenças partidárias diminuíam no exercício do poder.",
+      "revisar": false
+    },
+    {
+      "id": "bra-imp-d-012",
+      "tipo": "multipla",
+      "pergunta": "Que crítica Florestan Fernandes (A integração do negro na sociedade de classes, 1964) fez à abolição?",
+      "opcoes": [
+        "Os libertos foram abandonados, sem políticas de integração, e enfrentaram exclusão",
+        "A abolição integrou plenamente os ex-escravizados",
+        "Não havia racismo após 1888",
+        "Os libertos receberam terras"
+      ],
+      "correta": 0,
+      "explicacao": "Florestan mostrou que os ex-escravizados foram deixados à própria sorte, em competição desigual com imigrantes.",
+      "revisar": false
+    },
+    {
+      "id": "bra-imp-d-013",
+      "tipo": "multipla",
+      "pergunta": "Como a historiografia recente revisou a ideia de abolição como dádiva da princesa Isabel?",
+      "opcoes": [
+        "Destacou fugas em massa, ações judiciais e mobilização popular",
+        "Confirmou que só Isabel foi responsável",
+        "Negou que a Lei Áurea existiu",
+        "Atribuiu a abolição apenas à Inglaterra"
+      ],
+      "correta": 0,
+      "explicacao": "Trabalhos como O plano e o pânico, de Maria Helena Machado (1994), mostram o protagonismo dos escravizados nos anos finais.",
+      "revisar": false
+    },
+    {
+      "id": "bra-imp-d-014",
+      "tipo": "multipla",
+      "pergunta": "O que Sidney Chalhoub mostrou em Visões da liberdade (1990)?",
+      "opcoes": [
+        "Escravizados usavam a Justiça e tinham concepções próprias de liberdade",
+        "Escravizados não sabiam da existência das leis",
+        "A Justiça era fechada aos escravizados",
+        "A escravidão urbana não existia"
+      ],
+      "correta": 0,
+      "explicacao": "Estudando processos no Rio de Janeiro, Chalhoub mostrou ações de liberdade e estratégias para negociar ou conquistar a alforria.",
+      "revisar": false
+    },
+    {
+      "id": "bra-imp-d-015",
+      "tipo": "multipla",
+      "pergunta": "Como Emília Viotti da Costa relacionou a abolição às transformações econômicas?",
+      "opcoes": [
+        "Fazendeiros do oeste paulista, com mão de obra imigrante, passaram a aceitar o fim da escravidão",
+        "A abolição ocorreu por falta de café",
+        "Os fazendeiros do Vale do Paraíba lideraram a abolição",
+        "A economia não teve papel"
+      ],
+      "correta": 0,
+      "explicacao": "Para a autora, a expansão cafeeira com trabalho livre enfraqueceu o compromisso de parte da elite com a escravidão.",
+      "revisar": false
+    },
+    {
+      "id": "bra-imp-d-016",
+      "tipo": "multipla",
+      "pergunta": "Qual é o debate historiográfico sobre as causas da Guerra do Paraguai?",
+      "opcoes": [
+        "A tese de manipulação britânica foi criticada por estudos que destacam conflitos regionais, como os de Doratioto",
+        "Todos concordam que a Inglaterra causou a guerra",
+        "A guerra não teve causas",
+        "O Paraguai foi atacado sem nenhum conflito anterior"
+      ],
+      "correta": 0,
+      "explicacao": "Nos anos 1970, Chiavenato popularizou a tese imperialista. Doratioto (Maldita guerra, 2002) destaca a disputa no Prata e as decisões de Solano López.",
+      "revisar": false
+    },
+    {
+      "id": "bra-imp-d-017",
+      "tipo": "multipla",
+      "pergunta": "Que contradição Roberto Schwarz analisou em As ideias fora do lugar (1973)?",
+      "opcoes": [
+        "Um discurso liberal convivendo com a escravidão e o favor",
+        "A ausência de ideias liberais no Brasil",
+        "O fim da escravidão pelo liberalismo em 1824",
+        "A adoção do socialismo pelo Império"
+      ],
+      "correta": 0,
+      "explicacao": "A Constituição falava em liberdade e direitos, mas a sociedade se baseava no trabalho escravo e em relações de favor.",
+      "revisar": false
+    },
+    {
+      "id": "bra-imp-d-018",
+      "tipo": "multipla",
+      "pergunta": "Que proposta o naturalista von Martius fez ao IHGB sobre como escrever a história do Brasil (1845)?",
+      "opcoes": [
+        "Narrar a nação a partir da mistura de três raças, com primazia do elemento português",
+        "Escrever só a história dos indígenas",
+        "Ignorar a presença africana e indígena",
+        "Escrever a história de cada província separadamente"
+      ],
+      "correta": 0,
+      "explicacao": "O texto venceu um concurso do IHGB. Criou um modelo de história nacional em que o português aparecia como elemento dirigente.",
+      "revisar": false
+    },
+    {
+      "id": "bra-imp-d-019",
+      "tipo": "multipla",
+      "pergunta": "Por que historiadores como Maria Odila Leite da Silva Dias falam em interiorização da metrópole?",
+      "opcoes": [
+        "Com a Corte no Rio desde 1808, a independência deu continuidade a um centro de poder já instalado no Brasil",
+        "Porque Portugal se mudou para o interior do Brasil",
+        "Porque a capital foi para Minas",
+        "Porque a independência foi uma revolução popular"
+      ],
+      "correta": 0,
+      "explicacao": "A presença da Corte enraizou interesses no Centro-Sul, e a independência preservou dinastia, escravidão e ordem social.",
+      "revisar": false
+    },
+    {
+      "id": "bra-imp-d-020",
+      "tipo": "multipla",
+      "pergunta": "Por que a ideia de uma independência pacífica é criticada?",
+      "opcoes": [
+        "Houve guerras, como na Bahia, onde tropas portuguesas só saíram em 2 de julho de 1823",
+        "Porque houve uma guerra com a Inglaterra",
+        "Porque o Brasil foi invadido pela Espanha",
+        "Porque D. Pedro foi morto"
+      ],
+      "correta": 0,
+      "explicacao": "Bahia, Maranhão, Pará e Cisplatina tiveram combates. O 2 de Julho é a data cívica baiana da independência.",
+      "revisar": false
+    },
+    {
+      "id": "bra-imp-d-021",
+      "tipo": "multipla",
+      "pergunta": "Qual foi o efeito da Lei Saraiva (1881) sobre o eleitorado?",
+      "opcoes": [
+        "Introduziu eleição direta, mas exigiu alfabetização de novos eleitores e reduziu muito o número de votantes",
+        "Criou o voto feminino",
+        "Aboliu a renda mínima",
+        "Dobrou o número de eleitores"
+      ],
+      "correta": 0,
+      "explicacao": "José Murilo de Carvalho mostra que a participação eleitoral caiu drasticamente após a lei, e só voltou a crescer décadas depois.",
+      "revisar": false
+    },
+    {
+      "id": "bra-imp-d-022",
+      "tipo": "multipla",
+      "pergunta": "Quem eram os republicanos de 13 de maio?",
+      "opcoes": [
+        "Ex-escravistas que aderiram à República por ressentimento com a abolição sem indenização",
+        "Abolicionistas negros",
+        "Militares positivistas",
+        "Imigrantes italianos"
+      ],
+      "correta": 0,
+      "explicacao": "Fazendeiros, sobretudo do Vale do Paraíba, retiraram o apoio à monarquia após a Lei Áurea.",
+      "revisar": false
+    },
+    {
+      "id": "bra-imp-d-023",
+      "tipo": "multipla",
+      "pergunta": "Como o racismo científico influenciou a política imigratória no fim do Império?",
+      "opcoes": [
+        "Defendia a imigração europeia como forma de branquear a população",
+        "Defendia a imigração africana",
+        "Proibia toda imigração",
+        "Valorizava a miscigenação com indígenas"
+      ],
+      "correta": 0,
+      "explicacao": "Teorias raciais europeias inspiraram a ideia de que o progresso exigia branqueamento, o que orientou subsídios à imigração.",
+      "revisar": false
+    },
+    {
+      "id": "bra-imp-d-024",
+      "tipo": "multipla",
+      "pergunta": "O que José de Souza Martins quis dizer, em O cativeiro da terra (1979), sobre a Lei de Terras?",
+      "opcoes": [
+        "Quando o trabalho começou a ficar livre, a terra ficou cativa",
+        "A terra foi distribuída a todos",
+        "O trabalho escravo ficou mais forte",
+        "A terra deixou de ter valor"
+      ],
+      "correta": 0,
+      "explicacao": "A lei transformou a terra em mercadoria cara, mantendo os trabalhadores dependentes dos grandes proprietários.",
+      "revisar": false
+    },
+    {
+      "id": "bra-imp-d-025",
+      "tipo": "multipla",
+      "pergunta": "O que significa a expressão para inglês ver, ligada à lei de 1831?",
+      "opcoes": [
+        "A lei que proibia o tráfico não foi cumprida, servindo só para agradar à Inglaterra",
+        "Uma lei escrita em inglês",
+        "Uma lei aprovada pela Inglaterra",
+        "Uma lei que permitia o tráfico"
+      ],
+      "correta": 0,
+      "explicacao": "Centenas de milhares de africanos entraram ilegalmente após 1831, e foram mantidos escravizados apesar da proibição.",
+      "revisar": false
+    },
+    {
+      "id": "bra-imp-d-026",
+      "tipo": "fonte",
+      "trecho": "É declarada extincta desde a data desta lei a escravidão no Brazil.",
+      "autor": "Lei Áurea (Lei 3.353), art. 1º",
+      "ano": 1888,
+      "pergunta": "O que chama atenção no texto curto da Lei Áurea?",
+      "opcoes": [
+        "Não previa indenização aos senhores nem medidas de integração dos libertos",
+        "Previa terras para todos os libertos",
+        "Mantinha a escravidão por mais dez anos",
+        "Criava escolas para os libertos"
+      ],
+      "correta": 0,
+      "explicacao": "A lei tinha só dois artigos. A ausência de políticas para os libertos é central nos debates sobre o pós-abolição.",
+      "revisar": false
+    },
+    {
+      "id": "bra-imp-d-027",
+      "tipo": "fonte",
+      "trecho": "O Poder Moderador é a chave de toda a organização política, e é delegado privativamente ao Imperador, como Chefe Supremo da Nação.",
+      "autor": "Constituição do Império, art. 98",
+      "ano": 1824,
+      "pergunta": "O que o artigo revela sobre o regime imperial?",
+      "opcoes": [
+        "A concentração de poder nas mãos do imperador, acima dos demais poderes",
+        "A divisão igual de poderes entre os cidadãos",
+        "O fim da monarquia",
+        "A eleição do imperador pelo povo"
+      ],
+      "correta": 0,
+      "explicacao": "Inspirado em Benjamin Constant, o Moderador deveria equilibrar os poderes, mas na prática deu ao imperador a palavra final.",
+      "revisar": false
+    },
+    {
+      "id": "bra-imp-d-028",
+      "tipo": "fonte",
+      "trecho": "A escravidão permanecerá por muito tempo como a característica nacional do Brasil.",
+      "autor": "Joaquim Nabuco, O Abolicionismo",
+      "ano": 1883,
+      "pergunta": "Qual ideia o trecho expressa?",
+      "opcoes": [
+        "A escravidão deixaria marcas duradouras na sociedade, mesmo após a abolição",
+        "A escravidão terminaria sem deixar efeitos",
+        "O Brasil nunca teve escravidão",
+        "A abolição já havia ocorrido em 1883"
+      ],
+      "correta": 0,
+      "explicacao": "Nabuco via a escravidão como estrutura que moldava economia, política e costumes, e previa seus efeitos de longo prazo.",
+      "revisar": true
+    },
+    {
+      "id": "bra-imp-d-029",
+      "tipo": "verdadeiro_falso",
+      "pergunta": "Para parte da historiografia, a abolição resultou também da ação dos próprios escravizados, como fugas em massa.",
+      "correta": true,
+      "explicacao": "Verdadeiro. Nos anos 1880, fugas coletivas e quilombos abolicionistas tornaram a escravidão insustentável em várias regiões.",
+      "revisar": false
+    },
+    {
+      "id": "bra-imp-d-030",
+      "tipo": "verdadeiro_falso",
+      "pergunta": "A historiografia atual considera a Guerra do Paraguai apenas resultado da manipulação britânica.",
+      "correta": false,
+      "explicacao": "Falso. Essa tese, popular nos anos 1970, foi revista. Hoje se destacam as disputas regionais no Prata.",
+      "revisar": false
     }
   ]
 }

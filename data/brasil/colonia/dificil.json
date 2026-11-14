@@ -187,6 +187,224 @@
       "correta": 1,
       "explicacao": "Apoiados nas rendas do comércio colonial e nos metais preciosos da América, Portugal e Espanha deixaram de desenvolver manufaturas internas robustas, tornando-se dependentes de produtos importados de outras nações europeias.",
       "revisar": false
+    },
+    {
+      "id": "bra-col-d-015",
+      "tipo": "multipla",
+      "pergunta": "Qual é a diferença usual entre revoltas nativistas e movimentos separatistas no período colonial?",
+      "opcoes": [
+        "Os nativistas contestavam impostos e monopólios sem propor romper com Portugal; os separatistas projetavam a independência",
+        "Os nativistas queriam a independência; os separatistas, não",
+        "Os dois tipos defendiam a abolição imediata",
+        "Não há nenhuma diferença"
+      ],
+      "correta": 0,
+      "explicacao": "Revoltas como a de Beckman e a de Vila Rica atacavam abusos locais. Inconfidência Mineira e Conjuração Baiana discutiam romper com a metrópole.",
+      "revisar": false
+    },
+    {
+      "id": "bra-col-d-016",
+      "tipo": "multipla",
+      "pergunta": "Qual era o perfil predominante dos participantes da Inconfidência Mineira (1789)?",
+      "opcoes": [
+        "Membros da elite: proprietários, padres, militares e letrados",
+        "Escravizados e libertos",
+        "Camponeses sem terra",
+        "Comerciantes portugueses recém-chegados"
+      ],
+      "correta": 0,
+      "explicacao": "Muitos inconfidentes eram endividados com a Coroa e temiam a derrama, a cobrança forçada dos impostos atrasados.",
+      "revisar": false
+    },
+    {
+      "id": "bra-col-d-017",
+      "tipo": "multipla",
+      "pergunta": "O que distingue a Conjuração Baiana (1798) da Inconfidência Mineira?",
+      "opcoes": [
+        "Maior participação de setores populares, como alfaiates, soldados e escravizados",
+        "Ausência de qualquer influência iluminista",
+        "Liderança exclusiva de grandes senhores de engenho",
+        "Apoio aberto da Coroa portuguesa"
+      ],
+      "correta": 0,
+      "explicacao": "Também chamada de Revolta dos Alfaiates, ela teve propostas de igualdade e, em parte dos papéis, de fim da escravidão.",
+      "revisar": false
+    },
+    {
+      "id": "bra-col-d-018",
+      "tipo": "multipla",
+      "pergunta": "Como as punições da Inconfidência Mineira e da Conjuração Baiana revelam a hierarquia social da colônia?",
+      "opcoes": [
+        "Em Minas, só Tiradentes, de menor posição, foi executado; na Bahia, quatro réus pobres e pardos foram enforcados",
+        "Todos os réus de ambas foram perdoados",
+        "Os líderes de elite foram os únicos executados",
+        "Nenhum réu foi preso"
+      ],
+      "correta": 0,
+      "explicacao": "Os inconfidentes de elite tiveram penas comutadas em degredo. A punição mais dura recaiu sobre os de condição social mais baixa.",
+      "revisar": false
+    },
+    {
+      "id": "bra-col-d-019",
+      "tipo": "multipla",
+      "pergunta": "Por que a figura de Tiradentes ganhou destaque após 1889?",
+      "opcoes": [
+        "A República precisava de heróis e o transformou em mártir nacional",
+        "Ele foi o primeiro presidente do Brasil",
+        "Ele liderou a Independência em 1822",
+        "A monarquia já o celebrava como herói"
+      ],
+      "correta": 0,
+      "explicacao": "José Murilo de Carvalho (A formação das almas, 1990) mostra como a República construiu o mito de Tiradentes, inclusive na imagem semelhante à de Cristo.",
+      "revisar": false
+    },
+    {
+      "id": "bra-col-d-020",
+      "tipo": "multipla",
+      "pergunta": "Que influências externas aparecem nos movimentos de 1789 e 1798?",
+      "opcoes": [
+        "As ideias iluministas, a independência dos EUA e a Revolução Francesa",
+        "O fascismo italiano",
+        "A Revolução Russa",
+        "O liberalismo do século XX"
+      ],
+      "correta": 0,
+      "explicacao": "Os inconfidentes conheciam a Constituição americana; os conjurados baianos citavam ideais franceses de liberdade e igualdade.",
+      "revisar": false
+    },
+    {
+      "id": "bra-col-d-021",
+      "tipo": "multipla",
+      "pergunta": "Como Fernando Novais (Portugal e Brasil na crise do Antigo Sistema Colonial, 1979) interpretou a colônia?",
+      "opcoes": [
+        "Como peça do sistema colonial, que transferia riqueza para a acumulação de capital na Europa",
+        "Como economia independente da metrópole",
+        "Como sociedade feudal isolada",
+        "Como território sem importância econômica"
+      ],
+      "correta": 0,
+      "explicacao": "Para Novais, o exclusivo metropolitano garantia lucros à burguesia mercantil europeia, dentro da acumulação primitiva.",
+      "revisar": false
+    },
+    {
+      "id": "bra-col-d-022",
+      "tipo": "multipla",
+      "pergunta": "Que crítica João Fragoso e Manolo Florentino (O arcaísmo como projeto, 1993) fazem a visões como a de Novais?",
+      "opcoes": [
+        "Mostram acumulação interna, mercado interno e elites mercantis coloniais fortes",
+        "Negam que houvesse escravidão",
+        "Afirmam que Portugal não lucrava nada",
+        "Dizem que a colônia era industrializada"
+      ],
+      "correta": 0,
+      "explicacao": "Estudando o Rio de Janeiro, os autores mostram que grandes fortunas se formavam na própria colônia, sobretudo no comércio de escravizados.",
+      "revisar": false
+    },
+    {
+      "id": "bra-col-d-023",
+      "tipo": "multipla",
+      "pergunta": "Que crítica é feita à interpretação de Gilberto Freyre em Casa-Grande & Senzala (1933)?",
+      "opcoes": [
+        "Suavizou a violência da escravidão e favoreceu a ideia de democracia racial",
+        "Ignorou a miscigenação",
+        "Negou a presença africana no Brasil",
+        "Defendeu a separação entre os grupos"
+      ],
+      "correta": 0,
+      "explicacao": "Freyre valorizou a contribuição africana, mas destacou a convivência na casa-grande. Autores como Florestan Fernandes criticaram a ideia de harmonia racial.",
+      "revisar": false
+    },
+    {
+      "id": "bra-col-d-024",
+      "tipo": "multipla",
+      "pergunta": "Como a historiografia recente, com autores como João José Reis, interpreta a escravidão?",
+      "opcoes": [
+        "Destaca os escravizados como sujeitos, entre negociação e conflito",
+        "Vê os escravizados como totalmente passivos",
+        "Nega que houvesse resistência",
+        "Afirma que a escravidão era branda"
+      ],
+      "correta": 0,
+      "explicacao": "Reis e Eduardo Silva (Negociação e conflito, 1989) mostram fugas, revoltas, irmandades e negociações cotidianas.",
+      "revisar": false
+    },
+    {
+      "id": "bra-col-d-025",
+      "tipo": "multipla",
+      "pergunta": "Que metáfora Sérgio Buarque de Holanda usa em Raízes do Brasil (1936) para comparar a colonização portuguesa e a espanhola?",
+      "opcoes": [
+        "O semeador português e o ladrilhador espanhol",
+        "O caçador e o agricultor",
+        "O mercador e o soldado",
+        "O padre e o bandeirante"
+      ],
+      "correta": 0,
+      "explicacao": "Para ele, os espanhóis planejavam cidades regulares, enquanto os portugueses fundavam núcleos de modo mais desordenado, junto ao litoral.",
+      "revisar": false
+    },
+    {
+      "id": "bra-col-d-026",
+      "tipo": "multipla",
+      "pergunta": "Qual é a tese de Luiz Felipe de Alencastro em O trato dos viventes (2000)?",
+      "opcoes": [
+        "O Brasil se formou no Atlântico Sul, ligado a Angola pelo tráfico de escravizados",
+        "O Brasil se formou isolado do mundo",
+        "A colônia dependia só do comércio com a Ásia",
+        "O tráfico teve pouca importância"
+      ],
+      "correta": 0,
+      "explicacao": "Alencastro mostra que a economia e a sociedade coloniais se formaram fora do território, num espaço que unia Brasil e África.",
+      "revisar": false
+    },
+    {
+      "id": "bra-col-d-027",
+      "tipo": "fonte",
+      "trecho": "Os escravos são as mãos e os pés do senhor do engenho, porque sem eles no Brasil não é possível fazer, conservar e aumentar fazenda, nem ter engenho corrente.",
+      "autor": "André João Antonil, Cultura e opulência do Brasil",
+      "ano": 1711,
+      "pergunta": "O que o trecho revela sobre a economia colonial?",
+      "opcoes": [
+        "A dependência estrutural do trabalho escravizado",
+        "A preferência pelo trabalho assalariado",
+        "O pequeno peso dos engenhos",
+        "A ausência de escravidão nas fazendas"
+      ],
+      "correta": 0,
+      "explicacao": "Antonil, jesuíta, descreve a escravidão como base de toda a produção. O livro foi confiscado pela Coroa por revelar riquezas da colônia.",
+      "revisar": false
+    },
+    {
+      "id": "bra-col-d-028",
+      "tipo": "fonte",
+      "trecho": "Não se acha nela F, nem L, nem R, cousa digna de espanto, porque assim não têm Fé, nem Lei, nem Rei.",
+      "autor": "Pero de Magalhães Gândavo, sobre a língua tupi",
+      "ano": 1576,
+      "pergunta": "Que visão sobre os indígenas o trecho expressa?",
+      "opcoes": [
+        "Uma visão eurocêntrica, que os define pela falta de instituições europeias",
+        "Um estudo neutro da língua tupi",
+        "A defesa da autonomia indígena",
+        "A admiração pela organização política indígena"
+      ],
+      "correta": 0,
+      "explicacao": "Gândavo transforma uma característica da língua em julgamento moral. A frase justificava a catequese e a dominação.",
+      "revisar": false
+    },
+    {
+      "id": "bra-col-d-029",
+      "tipo": "verdadeiro_falso",
+      "pergunta": "A Inconfidência Mineira tinha como proposta central abolir imediatamente a escravidão em todo o Brasil.",
+      "correta": false,
+      "explicacao": "Falso. A abolição não era consenso entre os inconfidentes, muitos deles proprietários de escravizados.",
+      "revisar": false
+    },
+    {
+      "id": "bra-col-d-030",
+      "tipo": "verdadeiro_falso",
+      "pergunta": "Para Fernando Novais, o exclusivo comercial tornava a colônia uma peça da acumulação de capital da metrópole.",
+      "correta": true,
+      "explicacao": "Verdadeiro. Essa é a base da noção de Antigo Sistema Colonial, depois criticada por estudos sobre a economia interna.",
+      "revisar": false
     }
   ]
 }

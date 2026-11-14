@@ -101,6 +101,333 @@
       "correta": 3,
       "explicacao": "Mesmo após romper politicamente com Portugal, o Brasil manteve a estrutura econômica herdada da colônia, centrada no trabalho escravo e na agroexportação. A industrialização só ganharia impulso consistente mais de um século depois.",
       "revisar": false
+    },
+    {
+      "id": "bra-imp-f-008",
+      "tipo": "multipla",
+      "pergunta": "Quem proclamou a independência do Brasil às margens do riacho Ipiranga, em 7 de setembro de 1822?",
+      "opcoes": [
+        "D. Pedro I",
+        "D. João VI",
+        "D. Pedro II",
+        "José Bonifácio"
+      ],
+      "correta": 0,
+      "explicacao": "O príncipe regente D. Pedro declarou a independência e foi aclamado imperador. José Bonifácio foi seu principal ministro.",
+      "revisar": false
+    },
+    {
+      "id": "bra-imp-f-009",
+      "tipo": "multipla",
+      "pergunta": "O que foi o Dia do Fico, em 9 de janeiro de 1822?",
+      "opcoes": [
+        "D. Pedro anunciou que ficaria no Brasil, desobedecendo às Cortes de Lisboa",
+        "D. João VI voltou ao Brasil",
+        "A família real chegou ao Rio de Janeiro",
+        "D. Pedro abdicou do trono"
+      ],
+      "correta": 0,
+      "explicacao": "As Cortes portuguesas exigiam a volta do príncipe. Ao ficar, D. Pedro se aproximou das elites que queriam a autonomia.",
+      "revisar": false
+    },
+    {
+      "id": "bra-imp-f-010",
+      "tipo": "multipla",
+      "pergunta": "Como foi feita a primeira Constituição do Brasil, de 1824?",
+      "opcoes": [
+        "Foi outorgada, isto é, imposta por D. Pedro I",
+        "Foi aprovada por plebiscito",
+        "Foi escrita por Portugal",
+        "Foi votada por todos os cidadãos"
+      ],
+      "correta": 0,
+      "explicacao": "D. Pedro I dissolveu a Assembleia Constituinte em 1823 e impôs uma Constituição redigida por um conselho de sua confiança.",
+      "revisar": false
+    },
+    {
+      "id": "bra-imp-f-011",
+      "tipo": "multipla",
+      "pergunta": "Que poder, exclusivo do imperador, foi criado pela Constituição de 1824?",
+      "opcoes": [
+        "Poder Moderador",
+        "Poder Constituinte",
+        "Poder Popular",
+        "Poder Municipal"
+      ],
+      "correta": 0,
+      "explicacao": "O Poder Moderador permitia ao imperador nomear ministros, dissolver a Câmara e interferir nos demais poderes.",
+      "revisar": false
+    },
+    {
+      "id": "bra-imp-f-012",
+      "tipo": "multipla",
+      "pergunta": "Qual revolta de 1824, no Nordeste, reagiu ao autoritarismo de D. Pedro I e teve Frei Caneca entre os líderes?",
+      "opcoes": [
+        "Confederação do Equador",
+        "Inconfidência Mineira",
+        "Revolta dos Malês",
+        "Cabanagem"
+      ],
+      "correta": 0,
+      "explicacao": "A Confederação do Equador começou em Pernambuco e propunha uma república. Frei Caneca foi executado em 1825.",
+      "revisar": false
+    },
+    {
+      "id": "bra-imp-f-013",
+      "tipo": "multipla",
+      "pergunta": "Que país surgiu ao fim da Guerra da Cisplatina, em 1828?",
+      "opcoes": [
+        "Uruguai",
+        "Paraguai",
+        "Bolívia",
+        "Argentina"
+      ],
+      "correta": 0,
+      "explicacao": "A Província Cisplatina, disputada por Brasil e Buenos Aires, tornou-se o Uruguai independente.",
+      "revisar": false
+    },
+    {
+      "id": "bra-imp-f-014",
+      "tipo": "multipla",
+      "pergunta": "O que aconteceu com D. Pedro I em abril de 1831?",
+      "opcoes": [
+        "Abdicou do trono em favor do filho, de 5 anos",
+        "Foi eleito presidente",
+        "Foi coroado rei de Portugal no Brasil",
+        "Morreu em batalha"
+      ],
+      "correta": 0,
+      "explicacao": "Desgastado, D. Pedro I abdicou e voltou a Portugal. O filho, futuro D. Pedro II, era menor de idade.",
+      "revisar": false
+    },
+    {
+      "id": "bra-imp-f-015",
+      "tipo": "multipla",
+      "pergunta": "Como se chama o período de 1831 a 1840, em que o Brasil foi governado por regentes?",
+      "opcoes": [
+        "Período Regencial",
+        "Primeiro Reinado",
+        "Segundo Reinado",
+        "República Velha"
+      ],
+      "correta": 0,
+      "explicacao": "Como D. Pedro II era criança, regentes governaram em seu nome. Foi uma fase de muitas revoltas.",
+      "revisar": false
+    },
+    {
+      "id": "bra-imp-f-016",
+      "tipo": "multipla",
+      "pergunta": "O que foi o Golpe da Maioridade, em 1840?",
+      "opcoes": [
+        "A antecipação da maioridade de D. Pedro II, que assumiu o trono aos 14 anos",
+        "A deposição de D. Pedro II",
+        "A proclamação da República",
+        "A volta de D. Pedro I"
+      ],
+      "correta": 0,
+      "explicacao": "Os liberais articularam a antecipação para encerrar as Regências. A Constituição previa maioridade aos 18 anos.",
+      "revisar": false
+    },
+    {
+      "id": "bra-imp-f-017",
+      "tipo": "multipla",
+      "pergunta": "Qual revolta regencial durou de 1835 a 1845 no Rio Grande do Sul?",
+      "opcoes": [
+        "Revolução Farroupilha",
+        "Sabinada",
+        "Balaiada",
+        "Cabanagem"
+      ],
+      "correta": 0,
+      "explicacao": "A Farroupilha foi a mais longa revolta do Império. Os rebeldes chegaram a proclamar a República Rio-Grandense.",
+      "revisar": false
+    },
+    {
+      "id": "bra-imp-f-018",
+      "tipo": "ligar",
+      "pergunta": "Ligue cada revolta do Período Regencial à província onde ocorreu.",
+      "pares": [
+        [
+          "Farroupilha",
+          "Rio Grande do Sul"
+        ],
+        [
+          "Cabanagem",
+          "Pará"
+        ],
+        [
+          "Sabinada",
+          "Bahia"
+        ],
+        [
+          "Balaiada",
+          "Maranhão"
+        ]
+      ],
+      "explicacao": "Farroupilha (1835–1845), Cabanagem (1835–1840), Sabinada (1837–1838) e Balaiada (1838–1841).",
+      "revisar": false
+    },
+    {
+      "id": "bra-imp-f-019",
+      "tipo": "multipla",
+      "pergunta": "O que foi a Revolta dos Malês, em 1835, em Salvador?",
+      "opcoes": [
+        "Levante de africanos escravizados e libertos, muitos muçulmanos",
+        "Revolta de fazendeiros contra impostos",
+        "Motim de soldados portugueses",
+        "Guerra contra o Paraguai"
+      ],
+      "correta": 0,
+      "explicacao": "Malê era o nome dado aos muçulmanos de origem africana na Bahia. A revolta foi duramente reprimida.",
+      "revisar": false
+    },
+    {
+      "id": "bra-imp-f-020",
+      "tipo": "multipla",
+      "pergunta": "Qual lei de 1850 acabou com o tráfico atlântico de escravizados para o Brasil?",
+      "opcoes": [
+        "Lei Eusébio de Queirós",
+        "Lei Áurea",
+        "Lei do Ventre Livre",
+        "Lei dos Sexagenários"
+      ],
+      "correta": 0,
+      "explicacao": "A Lei Eusébio de Queirós foi aprovada sob forte pressão da Inglaterra e, ao contrário da lei de 1831, foi cumprida.",
+      "revisar": false
+    },
+    {
+      "id": "bra-imp-f-021",
+      "tipo": "multipla",
+      "pergunta": "O que determinou a Lei do Ventre Livre, de 1871?",
+      "opcoes": [
+        "Que os filhos de escravizadas nascidos a partir dali seriam livres",
+        "O fim imediato da escravidão",
+        "A libertação dos idosos",
+        "O fim do tráfico africano"
+      ],
+      "correta": 0,
+      "explicacao": "A lei não libertou ninguém que já estava escravizado, e os filhos podiam trabalhar para o senhor até os 21 anos.",
+      "revisar": false
+    },
+    {
+      "id": "bra-imp-f-022",
+      "tipo": "multipla",
+      "pergunta": "Qual lei de 1885 libertou os escravizados com mais de 60 anos?",
+      "opcoes": [
+        "Lei dos Sexagenários",
+        "Lei Áurea",
+        "Lei Eusébio de Queirós",
+        "Lei de Terras"
+      ],
+      "correta": 0,
+      "explicacao": "Conhecida também como Lei Saraiva-Cotegipe, beneficiou poucos, pois a expectativa de vida dos escravizados era baixa.",
+      "revisar": false
+    },
+    {
+      "id": "bra-imp-f-023",
+      "tipo": "multipla",
+      "pergunta": "Em que data foi assinada a Lei Áurea, que aboliu a escravidão no Brasil?",
+      "opcoes": [
+        "13 de maio de 1888",
+        "7 de setembro de 1822",
+        "15 de novembro de 1889",
+        "28 de setembro de 1871"
+      ],
+      "correta": 0,
+      "explicacao": "A princesa Isabel assinou a lei em 13 de maio de 1888. O Brasil foi o último país das Américas a abolir a escravidão.",
+      "revisar": false
+    },
+    {
+      "id": "bra-imp-f-024",
+      "tipo": "multipla",
+      "pergunta": "Quais países formaram a Tríplice Aliança contra o Paraguai (1864–1870)?",
+      "opcoes": [
+        "Brasil, Argentina e Uruguai",
+        "Brasil, Chile e Peru",
+        "Argentina, Bolívia e Chile",
+        "Brasil, Portugal e Inglaterra"
+      ],
+      "correta": 0,
+      "explicacao": "A Guerra do Paraguai foi o maior conflito armado da América do Sul e terminou com a derrota paraguaia.",
+      "revisar": false
+    },
+    {
+      "id": "bra-imp-f-025",
+      "tipo": "multipla",
+      "pergunta": "Quais eram os dois principais partidos políticos do Segundo Reinado?",
+      "opcoes": [
+        "Liberal e Conservador",
+        "ARENA e MDB",
+        "PSD e UDN",
+        "Republicano e Comunista"
+      ],
+      "correta": 0,
+      "explicacao": "Liberais e conservadores se alternavam no governo, conforme a escolha do imperador. O Partido Republicano surgiu só em 1870.",
+      "revisar": false
+    },
+    {
+      "id": "bra-imp-f-026",
+      "tipo": "multipla",
+      "pergunta": "Qual produto se tornou o principal item de exportação do Brasil no Segundo Reinado?",
+      "opcoes": [
+        "Café",
+        "Açúcar",
+        "Ouro",
+        "Borracha"
+      ],
+      "correta": 0,
+      "explicacao": "O café se expandiu pelo Vale do Paraíba e depois pelo oeste paulista. A borracha teve auge no fim do século XIX.",
+      "revisar": false
+    },
+    {
+      "id": "bra-imp-f-027",
+      "tipo": "multipla",
+      "pergunta": "Qual empresário investiu em ferrovias, estaleiros e bancos no Segundo Reinado?",
+      "opcoes": [
+        "Barão de Mauá",
+        "Duque de Caxias",
+        "José Bonifácio",
+        "Barão do Rio Branco"
+      ],
+      "correta": 0,
+      "explicacao": "Irineu Evangelista de Sousa, o Barão de Mauá, é símbolo das primeiras iniciativas de modernização. Caxias foi militar.",
+      "revisar": false
+    },
+    {
+      "id": "bra-imp-f-028",
+      "tipo": "lacuna",
+      "pergunta": "A Lei de Terras, de ____, determinou que as terras públicas só poderiam ser obtidas por compra.",
+      "opcoes": [
+        "1850",
+        "1822",
+        "1888",
+        "1808"
+      ],
+      "correta": 0,
+      "explicacao": "A Lei de Terras é do mesmo ano do fim do tráfico. Ao exigir compra, dificultou o acesso à terra para pobres, libertos e imigrantes.",
+      "revisar": false
+    },
+    {
+      "id": "bra-imp-f-029",
+      "tipo": "ordenar",
+      "pergunta": "Coloque em ordem cronológica, do mais antigo ao mais recente.",
+      "itens": [
+        "Independência do Brasil",
+        "Constituição outorgada por D. Pedro I",
+        "Abdicação de D. Pedro I",
+        "Golpe da Maioridade",
+        "Abolição da escravidão"
+      ],
+      "explicacao": "Independência, 1822; Constituição, 1824; abdicação, 1831; Maioridade, 1840; Abolição, 1888.",
+      "revisar": false
+    },
+    {
+      "id": "bra-imp-f-030",
+      "tipo": "verdadeiro_falso",
+      "pergunta": "D. Pedro II assumiu o governo com 14 anos, antes da idade prevista pela Constituição.",
+      "correta": true,
+      "explicacao": "Verdadeiro. A Constituição previa maioridade aos 18 anos, mas ela foi antecipada em 1840.",
+      "revisar": false
     }
   ]
 }

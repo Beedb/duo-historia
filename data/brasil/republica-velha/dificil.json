@@ -180,6 +180,255 @@
       "correta": 0,
       "explicacao": "A 'política dos governadores', consolidada com Campos Sales, assegurou estabilidade entre o Executivo federal e as oligarquias estaduais, fechando o sistema político e respondendo às mobilizações populares com repressão.",
       "revisar": false
+    },
+    {
+      "id": "bra-rv-d-013",
+      "tipo": "multipla",
+      "pergunta": "Como Victor Nunes Leal (Coronelismo, enxada e voto, 1949) definiu o coronelismo?",
+      "opcoes": [
+        "Um compromisso entre o poder público fortalecido e chefes locais em decadência",
+        "O poder absoluto e crescente dos coronéis",
+        "Uma forma de democracia direta",
+        "Um sistema militar"
+      ],
+      "correta": 0,
+      "explicacao": "Para Leal, os coronéis trocavam votos por favores do Estado. Não era poder ilimitado, mas troca entre os governos e chefes locais.",
+      "revisar": false
+    },
+    {
+      "id": "bra-rv-d-014",
+      "tipo": "multipla",
+      "pergunta": "Que distinção José Murilo de Carvalho propõe entre coronelismo, mandonismo e clientelismo?",
+      "opcoes": [
+        "O coronelismo é um sistema datado da Primeira República; mandonismo e clientelismo são mais amplos",
+        "Os três são sinônimos",
+        "O coronelismo existe até hoje no mesmo formato",
+        "O clientelismo acabou em 1930"
+      ],
+      "correta": 0,
+      "explicacao": "Para Carvalho, o coronelismo depende do federalismo de 1891 e acaba com a centralização pós-1930. As outras práticas persistem.",
+      "revisar": false
+    },
+    {
+      "id": "bra-rv-d-015",
+      "tipo": "multipla",
+      "pergunta": "Que contradição a historiografia aponta em Os Sertões (1902), de Euclides da Cunha?",
+      "opcoes": [
+        "Denuncia o massacre de Canudos, mas usa determinismos raciais e geográficos da época",
+        "Defende o Exército sem críticas",
+        "Ignora Canudos",
+        "Nega que houve guerra"
+      ],
+      "correta": 0,
+      "explicacao": "Euclides acompanhou a guerra como jornalista. Sua obra condena o crime, mas descreve o sertanejo com teorias raciais hoje rejeitadas.",
+      "revisar": false
+    },
+    {
+      "id": "bra-rv-d-016",
+      "tipo": "fonte",
+      "trecho": "O sertanejo é, antes de tudo, um forte.",
+      "autor": "Euclides da Cunha, Os Sertões",
+      "ano": 1902,
+      "pergunta": "Como essa frase se relaciona com a visão de Euclides sobre o sertanejo?",
+      "opcoes": [
+        "Valoriza a resistência do sertanejo, mesmo dentro de um olhar marcado pelo determinismo",
+        "Mostra desprezo total pelo sertanejo",
+        "Defende a modernização imediata do sertão",
+        "Elogia o Exército"
+      ],
+      "correta": 0,
+      "explicacao": "Euclides oscila entre a admiração pela força do sertanejo e teorias raciais que o viam como atrasado.",
+      "revisar": false
+    },
+    {
+      "id": "bra-rv-d-017",
+      "tipo": "fonte",
+      "trecho": "Canudos não se rendeu. Exemplo único em toda a história, resistiu até ao esgotamento completo.",
+      "autor": "Euclides da Cunha, Os Sertões",
+      "ano": 1902,
+      "pergunta": "O que o trecho destaca sobre o fim de Canudos?",
+      "opcoes": [
+        "A resistência até o fim e a violência do aniquilamento",
+        "A rendição pacífica dos moradores",
+        "A vitória dos sertanejos",
+        "O apoio da população ao Exército"
+      ],
+      "correta": 0,
+      "explicacao": "O arraial foi destruído em outubro de 1897, com execução de prisioneiros. Euclides narra o episódio como tragédia nacional.",
+      "revisar": false
+    },
+    {
+      "id": "bra-rv-d-018",
+      "tipo": "multipla",
+      "pergunta": "Como estudos como O sertão prometido, de Robert Levine (1995), revisaram a imagem de Canudos?",
+      "opcoes": [
+        "Mostraram uma comunidade organizada, e não apenas fanáticos",
+        "Confirmaram que Canudos era um quartel monarquista",
+        "Negaram a religiosidade dos moradores",
+        "Afirmaram que Canudos nunca existiu"
+      ],
+      "correta": 0,
+      "explicacao": "Canudos tinha trabalho coletivo, comércio e vida religiosa. A ideia de fanatismo foi construída pela imprensa e pelo Exército.",
+      "revisar": false
+    },
+    {
+      "id": "bra-rv-d-019",
+      "tipo": "multipla",
+      "pergunta": "Qual é a tese de José Murilo de Carvalho em Os bestializados (1987)?",
+      "opcoes": [
+        "A população do Rio participava da política por fora das eleições, em revoltas, festas e associações",
+        "A população era totalmente apática",
+        "O povo apoiou unanimemente a República",
+        "Havia voto universal no Rio"
+      ],
+      "correta": 0,
+      "explicacao": "Carvalho mostra uma cidadania fora dos canais oficiais. O povo não era bestializado, mas excluído do sistema eleitoral.",
+      "revisar": false
+    },
+    {
+      "id": "bra-rv-d-020",
+      "tipo": "multipla",
+      "pergunta": "Como Carvalho interpreta a Revolta da Vacina?",
+      "opcoes": [
+        "Também como defesa da casa e da honra contra a invasão do Estado",
+        "Como simples ignorância científica",
+        "Como revolta monarquista organizada",
+        "Como golpe militar"
+      ],
+      "correta": 0,
+      "explicacao": "A vacinação obrigatória exigia que agentes entrassem nas casas e examinassem o corpo, o que muitos viam como ofensa moral.",
+      "revisar": false
+    },
+    {
+      "id": "bra-rv-d-021",
+      "tipo": "multipla",
+      "pergunta": "O que Sidney Chalhoub analisa em Cidade febril (1996)?",
+      "opcoes": [
+        "O combate aos cortiços como política higienista que também expulsava os pobres",
+        "A fundação do Rio",
+        "O ciclo da borracha",
+        "A Coluna Prestes"
+      ],
+      "correta": 0,
+      "explicacao": "A demolição do cortiço Cabeça de Porco (1893) mostra como saúde pública e controle social se misturavam.",
+      "revisar": false
+    },
+    {
+      "id": "bra-rv-d-022",
+      "tipo": "multipla",
+      "pergunta": "Como as teorias raciais influenciaram intelectuais da Primeira República?",
+      "opcoes": [
+        "Muitos viam a miscigenação como problema e defendiam o branqueamento",
+        "Todos rejeitavam o racismo científico",
+        "As teorias raciais só chegaram após 1945",
+        "Defendiam a igualdade racial plena"
+      ],
+      "correta": 0,
+      "explicacao": "Autores como Nina Rodrigues adotaram ideias de hierarquia racial. A imigração europeia era vista como solução.",
+      "revisar": false
+    },
+    {
+      "id": "bra-rv-d-023",
+      "tipo": "multipla",
+      "pergunta": "Como a Revolta da Chibata pode ser lida no contexto do pós-abolição?",
+      "opcoes": [
+        "Como revolta contra castigos que reproduziam a disciplina da escravidão",
+        "Como revolta de oficiais brancos",
+        "Como movimento pelo fim da República",
+        "Como luta pela volta da monarquia"
+      ],
+      "correta": 0,
+      "explicacao": "Duas décadas após 1888, marinheiros negros ainda eram açoitados. A revolta expôs a permanência de práticas escravistas.",
+      "revisar": false
+    },
+    {
+      "id": "bra-rv-d-024",
+      "tipo": "multipla",
+      "pergunta": "Como Maurício Vinhas de Queiroz (Messianismo e conflito social, 1966) interpretou o Contestado?",
+      "opcoes": [
+        "A religiosidade foi a linguagem de um conflito social pela terra",
+        "Foi um movimento só religioso, sem motivo social",
+        "Foi uma guerra entre estados",
+        "Foi uma greve industrial"
+      ],
+      "correta": 0,
+      "explicacao": "O messianismo deu sentido e organização à resistência dos camponeses expulsos pelas empresas.",
+      "revisar": false
+    },
+    {
+      "id": "bra-rv-d-025",
+      "tipo": "multipla",
+      "pergunta": "Qual crítica foi feita à interpretação de Virgínio Santa Rosa sobre o tenentismo?",
+      "opcoes": [
+        "Os tenentes agiam mais como militares do que como representantes da classe média",
+        "Os tenentes eram operários",
+        "Os tenentes eram oligarcas",
+        "Os tenentes nunca existiram"
+      ],
+      "correta": 0,
+      "explicacao": "Santa Rosa (1933) via os tenentes como expressão das classes médias. Autores posteriores destacam o caráter corporativo e elitista do movimento.",
+      "revisar": false
+    },
+    {
+      "id": "bra-rv-d-026",
+      "tipo": "multipla",
+      "pergunta": "Por que historiadores relativizam a Semana de 1922 como único marco do modernismo?",
+      "opcoes": [
+        "Havia experiências modernas em outras cidades, e a memória da Semana foi construída pelos modernistas paulistas",
+        "A Semana não ocorreu",
+        "O modernismo começou em 1950",
+        "A Semana foi um fracasso total"
+      ],
+      "correta": 0,
+      "explicacao": "No Rio, por exemplo, havia produção moderna antes e fora da Semana. A centralidade de 1922 também reflete a força de São Paulo.",
+      "revisar": false
+    },
+    {
+      "id": "bra-rv-d-027",
+      "tipo": "multipla",
+      "pergunta": "O que Boris Fausto analisou em Trabalho urbano e conflito social (1976)?",
+      "opcoes": [
+        "O movimento operário e o anarquismo nas primeiras décadas da República",
+        "A Revolução de 1930",
+        "O ciclo da borracha",
+        "A Guerra de Canudos"
+      ],
+      "correta": 0,
+      "explicacao": "Fausto estudou greves como a de 1917 e o papel dos imigrantes, mostrando a força e os limites do movimento operário.",
+      "revisar": false
+    },
+    {
+      "id": "bra-rv-d-028",
+      "tipo": "fonte",
+      "trecho": "Não podem alistar-se eleitores para as eleições federais ou para as dos Estados: 1º os mendigos; 2º os analfabetos; 3º as praças de pré.",
+      "autor": "Constituição de 1891, art. 70, § 1º",
+      "ano": 1891,
+      "pergunta": "Qual foi o efeito dessa regra sobre a participação política?",
+      "opcoes": [
+        "Excluiu a maioria da população adulta, já que grande parte era analfabeta",
+        "Ampliou o eleitorado a todos",
+        "Garantiu o voto às mulheres",
+        "Criou o voto secreto"
+      ],
+      "correta": 0,
+      "explicacao": "Com a maioria analfabeta e as mulheres excluídas, poucos votavam. Nas eleições presidenciais, os votantes ficaram em geral abaixo de 6% da população.",
+      "revisar": false
+    },
+    {
+      "id": "bra-rv-d-029",
+      "tipo": "verdadeiro_falso",
+      "pergunta": "Para Victor Nunes Leal, o coronelismo expressava o poder ilimitado e crescente dos coronéis.",
+      "correta": false,
+      "explicacao": "Falso. Leal via os coronéis em decadência, dependentes do Estado para manter sua influência.",
+      "revisar": false
+    },
+    {
+      "id": "bra-rv-d-030",
+      "tipo": "verdadeiro_falso",
+      "pergunta": "José Murilo de Carvalho argumenta que a população do Rio participava da política por canais fora das eleições.",
+      "correta": true,
+      "explicacao": "Verdadeiro. Essa é a tese de Os bestializados: o povo não era apático, mas estava fora do sistema formal.",
+      "revisar": false
     }
   ]
 }

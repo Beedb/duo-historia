@@ -181,6 +181,269 @@
       ],
       "explicacao": "No Egito, o faraó era visto como um deus. Na Mesopotâmia surgiu a escrita cuneiforme. Atenas criou a democracia, restrita aos cidadãos. Roma teve uma República governada com o Senado.",
       "revisar": false
+    },
+    {
+      "id": "ger-ant-f-013",
+      "tipo": "multipla",
+      "pergunta": "Qual código de leis, criado na Babilônia por volta de 1750 a.C., ficou famoso pelo princípio do olho por olho?",
+      "opcoes": [
+        "Código de Hamurábi",
+        "Lei das Doze Tábuas",
+        "Código Napoleônico",
+        "Leis de Sólon"
+      ],
+      "correta": 0,
+      "explicacao": "O Código de Hamurábi foi gravado em pedra e aplicava penas conforme a posição social. A Lei das Doze Tábuas é romana.",
+      "revisar": false
+    },
+    {
+      "id": "ger-ant-f-014",
+      "tipo": "multipla",
+      "pergunta": "Qual povo da Mesopotâmia criou a escrita cuneiforme?",
+      "opcoes": [
+        "Os sumérios",
+        "Os egípcios",
+        "Os gregos",
+        "Os romanos"
+      ],
+      "correta": 0,
+      "explicacao": "A cuneiforme era feita com cunhas em tábuas de argila, por volta de 3200 a.C. Os egípcios usavam hieróglifos.",
+      "revisar": false
+    },
+    {
+      "id": "ger-ant-f-015",
+      "tipo": "multipla",
+      "pergunta": "Qual objeto permitiu a Champollion decifrar os hieróglifos egípcios, em 1822?",
+      "opcoes": [
+        "A Pedra de Roseta",
+        "O Código de Hamurábi",
+        "A Tábua de Esmeralda",
+        "A Coluna de Trajano"
+      ],
+      "correta": 0,
+      "explicacao": "A Pedra de Roseta tem o mesmo texto em hieróglifos, demótico e grego, o que permitiu comparar as escritas.",
+      "revisar": false
+    },
+    {
+      "id": "ger-ant-f-016",
+      "tipo": "multipla",
+      "pergunta": "Como era visto o faraó no Egito Antigo?",
+      "opcoes": [
+        "Como governante com caráter divino",
+        "Como representante eleito pelo povo",
+        "Como chefe militar sem poder religioso",
+        "Como sacerdote sem poder político"
+      ],
+      "correta": 0,
+      "explicacao": "O faraó concentrava poder político, militar e religioso, e era visto como intermediário entre deuses e homens.",
+      "revisar": false
+    },
+    {
+      "id": "ger-ant-f-017",
+      "tipo": "multipla",
+      "pergunta": "Qual era a função das pirâmides de Gizé?",
+      "opcoes": [
+        "Servir de túmulo para faraós",
+        "Servir de palácio",
+        "Guardar alimentos",
+        "Funcionar como fortaleza"
+      ],
+      "correta": 0,
+      "explicacao": "A Grande Pirâmide foi construída para o faraó Quéops, por volta de 2560 a.C.",
+      "revisar": false
+    },
+    {
+      "id": "ger-ant-f-018",
+      "tipo": "multipla",
+      "pergunta": "Por que os egípcios mumificavam seus mortos?",
+      "opcoes": [
+        "Acreditavam que o corpo precisava ser preservado para a vida após a morte",
+        "Para estudar medicina",
+        "Para vender os corpos",
+        "Por ordem dos romanos"
+      ],
+      "correta": 0,
+      "explicacao": "A mumificação fazia parte de crenças sobre a sobrevivência da alma, que precisava reconhecer o corpo.",
+      "revisar": false
+    },
+    {
+      "id": "ger-ant-f-019",
+      "tipo": "multipla",
+      "pergunta": "Qual povo da Antiguidade ficou conhecido por praticar o monoteísmo, a crença em um só deus?",
+      "opcoes": [
+        "Os hebreus",
+        "Os egípcios",
+        "Os gregos",
+        "Os romanos"
+      ],
+      "correta": 0,
+      "explicacao": "Os hebreus cultuavam Iavé. Egípcios, gregos e romanos eram politeístas, isto é, cultuavam vários deuses.",
+      "revisar": false
+    },
+    {
+      "id": "ger-ant-f-020",
+      "tipo": "multipla",
+      "pergunta": "Como se chamavam as cidades-estado da Grécia Antiga?",
+      "opcoes": [
+        "Pólis",
+        "Nomos",
+        "Feudos",
+        "Províncias"
+      ],
+      "correta": 0,
+      "explicacao": "Cada pólis tinha governo, leis e exército próprios. Nomos eram as unidades administrativas do Egito.",
+      "revisar": false
+    },
+    {
+      "id": "ger-ant-f-021",
+      "tipo": "multipla",
+      "pergunta": "Em qual cidade grega surgiu a democracia, no fim do século VI a.C.?",
+      "opcoes": [
+        "Atenas",
+        "Esparta",
+        "Tebas",
+        "Corinto"
+      ],
+      "correta": 0,
+      "explicacao": "Com as reformas de Clístenes, por volta de 508 a.C., os cidadãos atenienses passaram a decidir na assembleia.",
+      "revisar": false
+    },
+    {
+      "id": "ger-ant-f-022",
+      "tipo": "multipla",
+      "pergunta": "Qual era a característica principal da educação em Esparta?",
+      "opcoes": [
+        "Formação militar rígida desde a infância",
+        "Ensino de filosofia e retórica",
+        "Educação só para mulheres",
+        "Ausência de educação pública"
+      ],
+      "correta": 0,
+      "explicacao": "A partir dos 7 anos, os meninos espartanos recebiam treinamento militar do Estado, chamado agogê.",
+      "revisar": false
+    },
+    {
+      "id": "ger-ant-f-023",
+      "tipo": "multipla",
+      "pergunta": "Em que local e ano a tradição situa os primeiros Jogos Olímpicos?",
+      "opcoes": [
+        "Olímpia, em 776 a.C.",
+        "Atenas, em 1896",
+        "Roma, em 476 d.C.",
+        "Esparta, em 1500 a.C."
+      ],
+      "correta": 0,
+      "explicacao": "Os jogos homenageavam Zeus e reuniam diferentes pólis. Os jogos modernos começaram em Atenas, em 1896.",
+      "revisar": false
+    },
+    {
+      "id": "ger-ant-f-024",
+      "tipo": "ligar",
+      "pergunta": "Ligue cada filósofo grego a uma característica.",
+      "pares": [
+        [
+          "Sócrates",
+          "Não deixou escritos e foi condenado à morte em Atenas"
+        ],
+        [
+          "Platão",
+          "Fundou a Academia e escreveu diálogos"
+        ],
+        [
+          "Aristóteles",
+          "Foi professor de Alexandre e fundou o Liceu"
+        ],
+        [
+          "Heráclito",
+          "Dizia que tudo está em constante mudança"
+        ]
+      ],
+      "explicacao": "Sócrates é conhecido pelos diálogos de Platão; Platão fundou a Academia; Aristóteles, o Liceu; Heráclito via o mundo em fluxo permanente.",
+      "revisar": false
+    },
+    {
+      "id": "ger-ant-f-025",
+      "tipo": "multipla",
+      "pergunta": "Segundo a lenda, quem fundou Roma em 753 a.C.?",
+      "opcoes": [
+        "Rômulo e Remo",
+        "Júlio César e Pompeu",
+        "Augusto e Marco Antônio",
+        "Aquiles e Heitor"
+      ],
+      "correta": 0,
+      "explicacao": "A lenda dos gêmeos criados por uma loba explicava a origem da cidade. Arqueólogos datam os primeiros povoados do mesmo período.",
+      "revisar": false
+    },
+    {
+      "id": "ger-ant-f-026",
+      "tipo": "multipla",
+      "pergunta": "Qual líder romano foi assassinado no Senado em 44 a.C.?",
+      "opcoes": [
+        "Júlio César",
+        "Augusto",
+        "Nero",
+        "Constantino"
+      ],
+      "correta": 0,
+      "explicacao": "César havia concentrado poderes como ditador. Sua morte levou a novas guerras civis e, depois, ao Império de Augusto.",
+      "revisar": false
+    },
+    {
+      "id": "ger-ant-f-027",
+      "tipo": "multipla",
+      "pergunta": "Qual imperador garantiu liberdade de culto aos cristãos pelo Édito de Milão, em 313?",
+      "opcoes": [
+        "Constantino",
+        "Nero",
+        "Augusto",
+        "Calígula"
+      ],
+      "correta": 0,
+      "explicacao": "O Édito de Milão encerrou as perseguições. Nero é lembrado por ter perseguido cristãos.",
+      "revisar": false
+    },
+    {
+      "id": "ger-ant-f-028",
+      "tipo": "multipla",
+      "pergunta": "Em que ano o Império Romano foi dividido definitivamente entre Ocidente e Oriente?",
+      "opcoes": [
+        "395",
+        "476",
+        "27 a.C.",
+        "1453"
+      ],
+      "correta": 0,
+      "explicacao": "Após a morte de Teodósio, em 395, seus filhos dividiram o Império. O Ocidente caiu em 476; o Oriente, em 1453.",
+      "revisar": false
+    },
+    {
+      "id": "ger-ant-f-029",
+      "tipo": "multipla",
+      "pergunta": "O que significava a política do pão e circo em Roma?",
+      "opcoes": [
+        "Distribuir alimento e oferecer espetáculos para conter a insatisfação popular",
+        "Proibir festas públicas",
+        "Cobrar impostos sobre o pão",
+        "Exportar trigo para a Grécia"
+      ],
+      "correta": 0,
+      "explicacao": "Trigo distribuído e lutas de gladiadores ajudavam a manter a população urbana sob controle.",
+      "revisar": false
+    },
+    {
+      "id": "ger-ant-f-030",
+      "tipo": "ordenar",
+      "pergunta": "Coloque em ordem cronológica, do mais antigo ao mais recente.",
+      "itens": [
+        "Código de Hamurábi",
+        "Primeiros Jogos Olímpicos",
+        "Reformas democráticas de Clístenes",
+        "Assassinato de Júlio César",
+        "Édito de Milão"
+      ],
+      "explicacao": "Hamurábi, c. 1750 a.C.; Jogos, 776 a.C.; Clístenes, c. 508 a.C.; César, 44 a.C.; Édito de Milão, 313 d.C.",
+      "revisar": false
     }
   ]
 }

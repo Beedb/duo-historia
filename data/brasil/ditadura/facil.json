@@ -101,6 +101,333 @@
       "correta": 0,
       "explicacao": "O INPS (Instituto Nacional de Previdência Social) foi criado em 1966 e reuniu os antigos institutos de aposentadorias e pensões. IBGE, BNDES e SUDENE tratam de estatística, financiamento e desenvolvimento regional.",
       "revisar": false
+    },
+    {
+      "id": "bra-dit-f-008",
+      "tipo": "multipla",
+      "pergunta": "Quem foi o primeiro presidente da ditadura militar, empossado em abril de 1964?",
+      "opcoes": [
+        "Humberto de Alencar Castelo Branco",
+        "Artur da Costa e Silva",
+        "Emílio Garrastazu Médici",
+        "Ernesto Geisel"
+      ],
+      "correta": 0,
+      "explicacao": "Castelo Branco governou de 1964 a 1967. Depois vieram Costa e Silva, Médici, Geisel e Figueiredo.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dit-f-009",
+      "tipo": "multipla",
+      "pergunta": "Em que ano foi decretado o Ato Institucional nº 5 (AI-5)?",
+      "opcoes": [
+        "1968",
+        "1964",
+        "1974",
+        "1979"
+      ],
+      "correta": 0,
+      "explicacao": "O AI-5 é de 13 de dezembro de 1968 e vigorou até o fim de 1978.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dit-f-010",
+      "tipo": "multipla",
+      "pergunta": "Que garantia o AI-5 suspendeu nos casos de crimes políticos?",
+      "opcoes": [
+        "O habeas corpus",
+        "O voto feminino",
+        "A liberdade de culto",
+        "O 13º salário"
+      ],
+      "correta": 0,
+      "explicacao": "Sem habeas corpus, presos políticos não podiam recorrer à Justiça contra prisões ilegais, o que facilitou abusos.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dit-f-011",
+      "tipo": "multipla",
+      "pergunta": "Quais foram os dois partidos permitidos no bipartidarismo criado em 1965?",
+      "opcoes": [
+        "ARENA e MDB",
+        "PSD e UDN",
+        "PTB e PCB",
+        "PT e PMDB"
+      ],
+      "correta": 0,
+      "explicacao": "O AI-2 extinguiu os partidos antigos. A ARENA apoiava o governo; o MDB era a oposição consentida.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dit-f-012",
+      "tipo": "multipla",
+      "pergunta": "Como os presidentes eram escolhidos durante a ditadura?",
+      "opcoes": [
+        "Por eleição indireta, no Congresso ou no Colégio Eleitoral",
+        "Por voto direto da população",
+        "Por sorteio entre generais",
+        "Por plebiscito anual"
+      ],
+      "correta": 0,
+      "explicacao": "A eleição indireta garantia que o candidato escolhido pelos militares fosse confirmado.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dit-f-013",
+      "tipo": "multipla",
+      "pergunta": "Qual presidente governou de 1969 a 1974, período conhecido como anos de chumbo?",
+      "opcoes": [
+        "Emílio Garrastazu Médici",
+        "João Figueiredo",
+        "Castelo Branco",
+        "José Sarney"
+      ],
+      "correta": 0,
+      "explicacao": "O governo Médici combinou o auge da repressão com o milagre econômico.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dit-f-014",
+      "tipo": "multipla",
+      "pergunta": "Qual grande manifestação contra a ditadura ocorreu no Rio de Janeiro em junho de 1968?",
+      "opcoes": [
+        "Passeata dos Cem Mil",
+        "Marcha da Família com Deus pela Liberdade",
+        "Comício da Central do Brasil",
+        "Revolta da Chibata"
+      ],
+      "correta": 0,
+      "explicacao": "A Passeata dos Cem Mil reuniu estudantes, artistas e religiosos. A Marcha da Família foi a favor do golpe, em 1964.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dit-f-015",
+      "tipo": "multipla",
+      "pergunta": "Qual lema da propaganda oficial do governo Médici atacava os críticos do regime?",
+      "opcoes": [
+        "Brasil, ame-o ou deixe-o",
+        "O petróleo é nosso",
+        "Cinquenta anos em cinco",
+        "Diretas Já"
+      ],
+      "correta": 0,
+      "explicacao": "O lema sugeria que quem criticava o governo deveria sair do país.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dit-f-016",
+      "tipo": "multipla",
+      "pergunta": "Qual conquista esportiva de 1970 foi usada pela propaganda do governo Médici?",
+      "opcoes": [
+        "O tricampeonato mundial de futebol",
+        "A primeira medalha olímpica do Brasil",
+        "A vitória na Fórmula 1",
+        "O título mundial de vôlei"
+      ],
+      "correta": 0,
+      "explicacao": "A Copa do México foi associada ao clima de ufanismo do milagre econômico.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dit-f-017",
+      "tipo": "multipla",
+      "pergunta": "Qual rodovia, iniciada em 1970, pretendia integrar a Amazônia ao resto do país?",
+      "opcoes": [
+        "Transamazônica",
+        "Via Dutra",
+        "Rodovia Anchieta",
+        "Belém-Brasília"
+      ],
+      "correta": 0,
+      "explicacao": "A Transamazônica foi uma das grandes obras do período, e nunca foi totalmente concluída. A Belém-Brasília é do governo JK.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dit-f-018",
+      "tipo": "multipla",
+      "pergunta": "Como se chamavam os órgãos militares de repressão criados a partir de 1970?",
+      "opcoes": [
+        "DOI-CODI",
+        "DIP",
+        "SUDENE",
+        "SENAI"
+      ],
+      "correta": 0,
+      "explicacao": "Os DOI-CODI prendiam e interrogavam opositores e foram centros de tortura. O DIP é do Estado Novo.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dit-f-019",
+      "tipo": "multipla",
+      "pergunta": "Como alguns jornais reagiram à censura prévia nos anos 1970?",
+      "opcoes": [
+        "Publicavam poemas ou receitas no lugar das matérias cortadas",
+        "Deixavam de circular para sempre",
+        "Publicavam as matérias em outra língua",
+        "Pediam ao público para escrever as notícias"
+      ],
+      "correta": 0,
+      "explicacao": "O Estado de S. Paulo publicava trechos de Os Lusíadas, e o Jornal da Tarde, receitas, sinalizando ao leitor a censura.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dit-f-020",
+      "tipo": "multipla",
+      "pergunta": "Qual jornalista morreu em 1975 no DOI-CODI de São Paulo, caso que gerou protestos?",
+      "opcoes": [
+        "Vladimir Herzog",
+        "Carlos Lacerda",
+        "Assis Chateaubriand",
+        "Roberto Marinho"
+      ],
+      "correta": 0,
+      "explicacao": "O regime alegou suicídio. Um culto ecumênico na Catedral da Sé reuniu milhares de pessoas. Em 2013 a certidão de óbito foi corrigida.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dit-f-021",
+      "tipo": "lacuna",
+      "pergunta": "O presidente Geisel prometeu uma abertura política lenta, gradual e ____.",
+      "opcoes": [
+        "segura",
+        "imediata",
+        "popular",
+        "radical"
+      ],
+      "correta": 0,
+      "explicacao": "A abertura lenta, gradual e segura deveria ser controlada pelos militares, sem rupturas.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dit-f-022",
+      "tipo": "multipla",
+      "pergunta": "Qual emenda constitucional propunha eleições diretas para presidente e foi rejeitada em 1984?",
+      "opcoes": [
+        "Emenda Dante de Oliveira",
+        "Emenda Constitucional do Divórcio",
+        "Emenda Parlamentarista",
+        "Emenda da Reeleição"
+      ],
+      "correta": 0,
+      "explicacao": "A emenda, defendida pelas Diretas Já, não alcançou os dois terços necessários na Câmara.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dit-f-023",
+      "tipo": "multipla",
+      "pergunta": "Quem assumiu a presidência em 1985, após a doença e morte de Tancredo Neves?",
+      "opcoes": [
+        "José Sarney",
+        "Ulysses Guimarães",
+        "Paulo Maluf",
+        "João Figueiredo"
+      ],
+      "correta": 0,
+      "explicacao": "Tancredo foi eleito indiretamente, mas adoeceu antes da posse. O vice, José Sarney, assumiu e iniciou a Nova República.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dit-f-024",
+      "tipo": "multipla",
+      "pergunta": "Qual líder sindical se destacou nas greves do ABC paulista no fim dos anos 1970?",
+      "opcoes": [
+        "Luiz Inácio Lula da Silva",
+        "Leonel Brizola",
+        "Carlos Marighella",
+        "Ulysses Guimarães"
+      ],
+      "correta": 0,
+      "explicacao": "As greves de metalúrgicos de 1978 a 1980 desafiaram a lei de greve e deram origem ao novo sindicalismo.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dit-f-025",
+      "tipo": "multipla",
+      "pergunta": "O que mudou no sistema partidário em 1979?",
+      "opcoes": [
+        "O bipartidarismo acabou, e novos partidos puderam ser criados",
+        "Todos os partidos foram proibidos",
+        "Foi criado o partido único",
+        "Voltaram a ARENA e o MDB"
+      ],
+      "correta": 0,
+      "explicacao": "A reforma de 1979 extinguiu ARENA e MDB. Surgiram PDS, PMDB, PT, PDT e PTB, entre outros.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dit-f-026",
+      "tipo": "multipla",
+      "pergunta": "Que fato internacional de 1973 ajudou a encerrar o milagre econômico?",
+      "opcoes": [
+        "A crise do petróleo",
+        "A queda do Muro de Berlim",
+        "O fim da Segunda Guerra",
+        "A Revolução Cubana"
+      ],
+      "correta": 0,
+      "explicacao": "O preço do petróleo, que o Brasil importava, disparou, elevando inflação e dívida externa.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dit-f-027",
+      "tipo": "multipla",
+      "pergunta": "Em que região ocorreu a Guerrilha do Araguaia, organizada pelo PCdoB?",
+      "opcoes": [
+        "Sul do Pará, perto do rio Araguaia",
+        "Litoral de São Paulo",
+        "Interior do Rio Grande do Sul",
+        "Centro do Rio de Janeiro"
+      ],
+      "correta": 0,
+      "explicacao": "A guerrilha, no início dos anos 1970, foi destruída pelo Exército. Muitos dos mortos seguem desaparecidos.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dit-f-028",
+      "tipo": "verdadeiro_falso",
+      "pergunta": "Durante a ditadura militar, os presidentes eram eleitos pelo voto direto da população.",
+      "correta": false,
+      "explicacao": "Falso. As eleições presidenciais eram indiretas. O voto direto para presidente só voltou em 1989.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dit-f-029",
+      "tipo": "ordenar",
+      "pergunta": "Coloque em ordem cronológica, do mais antigo ao mais recente.",
+      "itens": [
+        "Golpe que derrubou João Goulart",
+        "Decretação do AI-5",
+        "Posse do general Geisel",
+        "Lei da Anistia",
+        "Campanha das Diretas Já"
+      ],
+      "explicacao": "Golpe, 1964; AI-5, 1968; posse de Geisel, 1974; Lei da Anistia, 1979; Diretas Já, 1984.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dit-f-030",
+      "tipo": "ligar",
+      "pergunta": "Ligue cada presidente a uma marca de seu governo.",
+      "pares": [
+        [
+          "Castelo Branco",
+          "AI-2 e bipartidarismo"
+        ],
+        [
+          "Costa e Silva",
+          "AI-5"
+        ],
+        [
+          "Médici",
+          "Milagre econômico e anos de chumbo"
+        ],
+        [
+          "Geisel",
+          "Abertura lenta e gradual"
+        ]
+      ],
+      "explicacao": "Castelo Branco baixou o AI-2 (1965); Costa e Silva, o AI-5 (1968); Médici governou no auge do milagre; Geisel iniciou a distensão.",
+      "revisar": false
     }
   ]
 }

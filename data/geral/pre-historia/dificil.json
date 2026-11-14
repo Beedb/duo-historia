@@ -143,6 +143,268 @@
       "correta": 0,
       "explicacao": "Leroi-Gourhan demonstrou que a hominização resulta da interação contínua entre morfologia (cérebro e postura ereta) e cultura (ferramentas, fogo, linguagem e expressão simbólica), tornando artificial traçar uma fronteira cronológica pontual. Fósseis de hominídeos e o domínio do fogo antecedem o Neolítico em centenas de milhares de anos.",
       "revisar": false
+    },
+    {
+      "id": "ger-pre-d-011",
+      "tipo": "multipla",
+      "pergunta": "Por que a hipótese Clovis First, sobre o povoamento da América, entrou em crise?",
+      "opcoes": [
+        "Sítios como Monte Verde, no Chile, foram datados como mais antigos que a cultura Clovis",
+        "Descobriu-se que não houve povoamento",
+        "Provou-se que os americanos vieram da Europa por barco no século X",
+        "Clovis foi datado de 50 mil anos"
+      ],
+      "correta": 0,
+      "explicacao": "Clovis tem cerca de 13 mil anos. Monte Verde, com cerca de 14,5 mil anos, mostrou ocupação anterior e mudou o debate.",
+      "revisar": false
+    },
+    {
+      "id": "ger-pre-d-012",
+      "tipo": "multipla",
+      "pergunta": "Por que as pegadas de White Sands, nos EUA, divulgadas em 2021, geraram debate?",
+      "opcoes": [
+        "Foram datadas de mais de 20 mil anos, antes do que muitos modelos aceitavam",
+        "Eram de dinossauros",
+        "Eram do século XIX",
+        "Mostravam escrita antiga"
+      ],
+      "correta": 0,
+      "explicacao": "Se confirmadas, indicam presença humana na América durante o auge da última glaciação. Parte dos pesquisadores questiona a datação.",
+      "revisar": false
+    },
+    {
+      "id": "ger-pre-d-013",
+      "tipo": "multipla",
+      "pergunta": "Que crítica foi feita à expressão Revolução Neolítica, de Gordon Childe?",
+      "opcoes": [
+        "A passagem para a agricultura foi gradual, levando milhares de anos",
+        "A agricultura nunca existiu",
+        "A mudança foi instantânea e uniforme",
+        "O Neolítico ocorreu depois da escrita"
+      ],
+      "correta": 0,
+      "explicacao": "Pesquisas mostram longos períodos de cultivo de plantas selvagens antes da domesticação plena.",
+      "revisar": false
+    },
+    {
+      "id": "ger-pre-d-014",
+      "tipo": "multipla",
+      "pergunta": "Que explicações foram propostas para a origem da agricultura?",
+      "opcoes": [
+        "Mudanças climáticas, pressão demográfica e motivações sociais e rituais, entre outras",
+        "Apenas a invenção do arado",
+        "Apenas ordens de reis",
+        "A chegada dos metais"
+      ],
+      "correta": 0,
+      "explicacao": "Childe falou em oásis; Braidwood, em zonas nucleares; outros, em pressão populacional ou competição por prestígio. Não há consenso.",
+      "revisar": false
+    },
+    {
+      "id": "ger-pre-d-015",
+      "tipo": "multipla",
+      "pergunta": "O que o antropólogo Marshall Sahlins chamou de sociedade afluente original?",
+      "opcoes": [
+        "Caçadores-coletores que satisfaziam necessidades com relativamente poucas horas de trabalho",
+        "Os primeiros impérios ricos",
+        "As cidades da Mesopotâmia",
+        "Os agricultores com grandes excedentes"
+      ],
+      "correta": 0,
+      "explicacao": "Sahlins contestou a ideia de que caçadores viviam na miséria. A tese é debatida, mas mudou a visão sobre esses povos.",
+      "revisar": false
+    },
+    {
+      "id": "ger-pre-d-016",
+      "tipo": "multipla",
+      "pergunta": "Que crítica se faz à visão da agricultura como progresso inevitável?",
+      "opcoes": [
+        "Ela trouxe também desigualdade, doenças e trabalho mais pesado",
+        "Ela não teve nenhum efeito",
+        "Ela só trouxe benefícios",
+        "Ela não existiu fora da Europa"
+      ],
+      "correta": 0,
+      "explicacao": "Autores como Jared Diamond chegaram a chamá-la de pior erro da humanidade. Outros consideram a visão exagerada.",
+      "revisar": false
+    },
+    {
+      "id": "ger-pre-d-017",
+      "tipo": "multipla",
+      "pergunta": "Que hipótese Klaus Schmidt defendeu a partir de Göbekli Tepe?",
+      "opcoes": [
+        "Rituais coletivos teriam vindo antes e estimulado a vida sedentária",
+        "A agricultura veio antes da religião",
+        "O sítio era uma cidade industrial",
+        "O sítio era uma fortaleza militar"
+      ],
+      "correta": 0,
+      "explicacao": "A frase primeiro veio o templo, depois a cidade resume a proposta, que segue sob discussão.",
+      "revisar": false
+    },
+    {
+      "id": "ger-pre-d-018",
+      "tipo": "multipla",
+      "pergunta": "Que modelo foi questionado por descobertas como a de uma caçadora sepultada nos Andes há cerca de 9 mil anos?",
+      "opcoes": [
+        "O modelo do homem caçador e da mulher só coletora",
+        "A ideia de que existiam caçadores",
+        "A existência dos Andes",
+        "A datação por carbono"
+      ],
+      "correta": 0,
+      "explicacao": "Estudos de sepulturas indicam que mulheres também caçavam. A arqueologia revê projeções de papéis de gênero atuais.",
+      "revisar": false
+    },
+    {
+      "id": "ger-pre-d-019",
+      "tipo": "multipla",
+      "pergunta": "Por que as interpretações das chamadas Vênus paleolíticas são cautelosas?",
+      "opcoes": [
+        "Não há registros sobre seu uso, e é fácil projetar valores atuais sobre elas",
+        "Elas foram feitas no século XIX",
+        "Elas têm inscrições explicativas",
+        "Elas representam deuses gregos"
+      ],
+      "correta": 0,
+      "explicacao": "Há hipóteses de culto à fertilidade, de amuletos ou de autorrepresentação. Nenhuma pode ser comprovada.",
+      "revisar": false
+    },
+    {
+      "id": "ger-pre-d-020",
+      "tipo": "multipla",
+      "pergunta": "Qual é o limite do uso de povos atuais como modelo para entender sociedades pré-históricas?",
+      "opcoes": [
+        "Os povos atuais têm história própria e não são fósseis vivos",
+        "Não existe nenhum limite",
+        "Os povos atuais são idênticos aos pré-históricos",
+        "Não há povos caçadores hoje"
+      ],
+      "correta": 0,
+      "explicacao": "A analogia etnográfica ajuda a formular hipóteses, mas tratar povos atuais como parados no tempo é um erro.",
+      "revisar": false
+    },
+    {
+      "id": "ger-pre-d-021",
+      "tipo": "multipla",
+      "pergunta": "Como pesquisas recentes, como as de Eduardo Neves, mudaram a visão sobre a Amazônia antiga?",
+      "opcoes": [
+        "Mostraram florestas moldadas por povos indígenas numerosos, contra a ideia de ambiente que impedia sociedades complexas",
+        "Confirmaram que a Amazônia nunca foi ocupada",
+        "Provaram que a floresta é recente",
+        "Mostraram que só europeus a ocuparam"
+      ],
+      "correta": 0,
+      "explicacao": "Betty Meggers via o ambiente como limitador. Terra preta, aterros e plantas manejadas indicam longa ação humana.",
+      "revisar": false
+    },
+    {
+      "id": "ger-pre-d-022",
+      "tipo": "multipla",
+      "pergunta": "Qual é um limite da datação por carbono 14?",
+      "opcoes": [
+        "Funciona para materiais orgânicos de até cerca de 50 mil anos",
+        "Data qualquer pedra de qualquer idade",
+        "Data apenas objetos de metal",
+        "Funciona só para objetos do século XX"
+      ],
+      "correta": 0,
+      "explicacao": "Depois de cerca de 50 mil anos, resta pouco carbono 14 para medir. Para períodos mais antigos usam-se outros métodos.",
+      "revisar": false
+    },
+    {
+      "id": "ger-pre-d-023",
+      "tipo": "multipla",
+      "pergunta": "O que é a datação relativa pela estratigrafia?",
+      "opcoes": [
+        "A ordem das camadas do solo indica o que é mais antigo ou mais recente",
+        "A medição exata da idade em anos",
+        "A leitura de documentos escritos",
+        "A análise de DNA"
+      ],
+      "correta": 0,
+      "explicacao": "Em geral, camadas de baixo são mais antigas. O método não dá a idade em anos, mas ordena os vestígios.",
+      "revisar": false
+    },
+    {
+      "id": "ger-pre-d-024",
+      "tipo": "multipla",
+      "pergunta": "Por que a evolução humana é hoje descrita como um arbusto, e não como uma linha reta?",
+      "opcoes": [
+        "Várias espécies de hominínios coexistiram e muitas não deixaram descendentes",
+        "Só houve uma espécie em cada época",
+        "A evolução humana não existiu",
+        "Os humanos vieram diretamente dos chimpanzés atuais"
+      ],
+      "correta": 0,
+      "explicacao": "Neandertais, denisovanos e o Homo floresiensis viveram ao mesmo tempo que o Homo sapiens.",
+      "revisar": false
+    },
+    {
+      "id": "ger-pre-d-025",
+      "tipo": "multipla",
+      "pergunta": "Qual lei brasileira protege os sítios arqueológicos?",
+      "opcoes": [
+        "A Lei 3.924, de 1961",
+        "A Lei Áurea",
+        "A CLT",
+        "A Lei de Terras"
+      ],
+      "correta": 0,
+      "explicacao": "A lei considera os sítios patrimônio da União e proíbe sua destruição. O IPHAN fiscaliza pesquisas e obras.",
+      "revisar": false
+    },
+    {
+      "id": "ger-pre-d-026",
+      "tipo": "multipla",
+      "pergunta": "Por que a hipótese de Lewis-Williams sobre arte rupestre e xamanismo é debatida?",
+      "opcoes": [
+        "Interpreta imagens a partir de estados de transe, algo difícil de comprovar",
+        "Foi provada por documentos",
+        "Nega que a arte rupestre exista",
+        "Afirma que as pinturas são do século XX"
+      ],
+      "correta": 0,
+      "explicacao": "Ele comparou a arte de cavernas a povos atuais do sul da África. Críticos apontam o risco de generalizar.",
+      "revisar": false
+    },
+    {
+      "id": "ger-pre-d-027",
+      "tipo": "multipla",
+      "pergunta": "Por que muitos arqueólogos evitam associar diretamente ferramentas a etnias ou povos?",
+      "opcoes": [
+        "Estilos de artefatos não equivalem automaticamente a identidades, línguas ou grupos",
+        "Porque as ferramentas não existem",
+        "Porque todos usavam as mesmas ferramentas",
+        "Porque as ferramentas são todas recentes"
+      ],
+      "correta": 0,
+      "explicacao": "A ideia de cultura arqueológica como povo foi usada de forma nacionalista no início do século XX, e hoje é vista com cuidado.",
+      "revisar": false
+    },
+    {
+      "id": "ger-pre-d-028",
+      "tipo": "verdadeiro_falso",
+      "pergunta": "A hipótese Clovis First, de que os primeiros americanos chegaram há cerca de 13 mil anos, é hoje contestada por sítios mais antigos.",
+      "correta": true,
+      "explicacao": "Verdadeiro. Monte Verde e outros sítios indicam ocupação anterior a Clovis.",
+      "revisar": false
+    },
+    {
+      "id": "ger-pre-d-029",
+      "tipo": "verdadeiro_falso",
+      "pergunta": "Para Sahlins, caçadores-coletores viviam em fome constante e trabalhavam mais que agricultores.",
+      "correta": false,
+      "explicacao": "Falso. Sahlins defendeu o contrário: eles atendiam suas necessidades com menos horas de trabalho.",
+      "revisar": false
+    },
+    {
+      "id": "ger-pre-d-030",
+      "tipo": "verdadeiro_falso",
+      "pergunta": "A datação por carbono 14 serve para objetos de qualquer idade, inclusive com milhões de anos.",
+      "correta": false,
+      "explicacao": "Falso. O método funciona só até cerca de 50 mil anos e apenas em material orgânico.",
+      "revisar": false
     }
   ]
 }

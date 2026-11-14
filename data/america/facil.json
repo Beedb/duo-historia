@@ -142,6 +142,297 @@
       "correta": 0,
       "explicacao": "Os maias destacaram-se na escrita hieroglífica, na astronomia e na matemática com a invenção do zero, vivendo em cidades-Estado independentes governadas por um halach. Os incas, por sua vez, não possuíam sistema de escrita.",
       "revisar": false
+    },
+    {
+      "id": "ame-f-011",
+      "tipo": "multipla",
+      "pergunta": "Qual conquistador espanhol liderou a conquista do Império Inca, a partir de 1532?",
+      "opcoes": [
+        "Francisco Pizarro",
+        "Hernán Cortés",
+        "Cristóvão Colombo",
+        "Pedro Álvares Cabral"
+      ],
+      "correta": 0,
+      "explicacao": "Pizarro capturou o imperador Atahualpa em Cajamarca. Cortés conquistou os astecas; Cabral chegou ao Brasil.",
+      "revisar": false
+    },
+    {
+      "id": "ame-f-012",
+      "tipo": "multipla",
+      "pergunta": "Quem era o governante mexica (asteca) quando os espanhóis chegaram a Tenochtitlán, em 1519?",
+      "opcoes": [
+        "Moctezuma II",
+        "Atahualpa",
+        "Pachacuti",
+        "Túpac Amaru"
+      ],
+      "correta": 0,
+      "explicacao": "Moctezuma II recebeu Cortés na capital e morreu em 1520, durante os conflitos. Atahualpa era inca.",
+      "revisar": false
+    },
+    {
+      "id": "ame-f-013",
+      "tipo": "multipla",
+      "pergunta": "O que eram os quipus usados pelos incas?",
+      "opcoes": [
+        "Cordões com nós usados para registrar números e informações",
+        "Templos dedicados ao Sol",
+        "Armas de guerra",
+        "Barcos de junco"
+      ],
+      "correta": 0,
+      "explicacao": "Sem escrita alfabética, os incas registravam censos, tributos e estoques com os quipus.",
+      "revisar": false
+    },
+    {
+      "id": "ame-f-014",
+      "tipo": "multipla",
+      "pergunta": "O que eram as chinampas dos astecas?",
+      "opcoes": [
+        "Ilhas artificiais de cultivo em lagos",
+        "Pirâmides de pedra",
+        "Estradas de montanha",
+        "Moedas de cacau"
+      ],
+      "correta": 0,
+      "explicacao": "As chinampas, no lago Texcoco, permitiam várias colheitas por ano e alimentavam Tenochtitlán.",
+      "revisar": false
+    },
+    {
+      "id": "ame-f-015",
+      "tipo": "multipla",
+      "pergunta": "Em que ano a expedição de Cristóvão Colombo chegou à América?",
+      "opcoes": [
+        "1492",
+        "1500",
+        "1519",
+        "1453"
+      ],
+      "correta": 0,
+      "explicacao": "Colombo chegou às Antilhas em outubro de 1492, a serviço da Espanha, buscando um caminho para as Índias.",
+      "revisar": false
+    },
+    {
+      "id": "ame-f-016",
+      "tipo": "multipla",
+      "pergunta": "Qual tratado de 1494 dividiu entre Portugal e Espanha as terras descobertas e a descobrir?",
+      "opcoes": [
+        "Tratado de Tordesilhas",
+        "Tratado de Madri",
+        "Tratado de Versalhes",
+        "Paz de Vestfália"
+      ],
+      "correta": 0,
+      "explicacao": "A linha imaginária ficava a 370 léguas a oeste de Cabo Verde. O Tratado de Madri, de 1750, a substituiu.",
+      "revisar": false
+    },
+    {
+      "id": "ame-f-017",
+      "tipo": "multipla",
+      "pergunta": "Qual cidade dos Andes, na atual Bolívia, ficou famosa por suas minas de prata no período colonial?",
+      "opcoes": [
+        "Potosí",
+        "Cusco",
+        "Lima",
+        "Buenos Aires"
+      ],
+      "correta": 0,
+      "explicacao": "A prata de Potosí, extraída com trabalho indígena forçado, abasteceu a Espanha e o comércio mundial.",
+      "revisar": false
+    },
+    {
+      "id": "ame-f-018",
+      "tipo": "multipla",
+      "pergunta": "Quais eram os dois primeiros vice-reinos da América espanhola?",
+      "opcoes": [
+        "Nova Espanha e Peru",
+        "Brasil e Prata",
+        "Nova Granada e Cuba",
+        "Chile e Venezuela"
+      ],
+      "correta": 0,
+      "explicacao": "Nova Espanha (México) foi criada em 1535 e o Peru em 1542. Nova Granada e Rio da Prata vieram no século XVIII.",
+      "revisar": false
+    },
+    {
+      "id": "ame-f-019",
+      "tipo": "multipla",
+      "pergunta": "Como eram chamados os filhos de espanhóis nascidos na América?",
+      "opcoes": [
+        "Criollos",
+        "Chapetones",
+        "Mestiços",
+        "Mulatos"
+      ],
+      "correta": 0,
+      "explicacao": "Os criollos tinham riqueza, mas eram afastados dos altos cargos, reservados aos chapetones, nascidos na Espanha.",
+      "revisar": false
+    },
+    {
+      "id": "ame-f-020",
+      "tipo": "multipla",
+      "pergunta": "Qual foi a principal causa da queda da população indígena após a conquista?",
+      "opcoes": [
+        "Epidemias de doenças trazidas pelos europeus, como a varíola",
+        "Migração para a Europa",
+        "Falta de chuvas",
+        "Guerras entre astecas e incas"
+      ],
+      "correta": 0,
+      "explicacao": "Os indígenas não tinham imunidade às doenças europeias. Guerras, fome e trabalho forçado agravaram a catástrofe demográfica.",
+      "revisar": false
+    },
+    {
+      "id": "ame-f-021",
+      "tipo": "multipla",
+      "pergunta": "Como se chamava o conjunto de colônias inglesas que deu origem aos Estados Unidos?",
+      "opcoes": [
+        "Treze Colônias",
+        "Vice-reino do Prata",
+        "Nova Espanha",
+        "Capitanias hereditárias"
+      ],
+      "correta": 0,
+      "explicacao": "As Treze Colônias ficavam na costa atlântica da América do Norte e declararam independência em 1776.",
+      "revisar": false
+    },
+    {
+      "id": "ame-f-022",
+      "tipo": "multipla",
+      "pergunta": "Em que data os Estados Unidos declararam sua independência?",
+      "opcoes": [
+        "4 de julho de 1776",
+        "7 de setembro de 1822",
+        "14 de julho de 1789",
+        "12 de outubro de 1492"
+      ],
+      "correta": 0,
+      "explicacao": "A Declaração de Independência foi redigida principalmente por Thomas Jefferson.",
+      "revisar": false
+    },
+    {
+      "id": "ame-f-023",
+      "tipo": "multipla",
+      "pergunta": "Qual foi o primeiro país da América Latina a se tornar independente, em 1804?",
+      "opcoes": [
+        "Haiti",
+        "México",
+        "Argentina",
+        "Brasil"
+      ],
+      "correta": 0,
+      "explicacao": "No Haiti, a independência resultou de uma revolução de escravizados contra a França.",
+      "revisar": false
+    },
+    {
+      "id": "ame-f-024",
+      "tipo": "multipla",
+      "pergunta": "Qual líder ficou conhecido como Libertador por conduzir a independência de vários países do norte da América do Sul?",
+      "opcoes": [
+        "Simón Bolívar",
+        "José de San Martín",
+        "Miguel Hidalgo",
+        "Toussaint Louverture"
+      ],
+      "correta": 0,
+      "explicacao": "Bolívar liderou a independência de Venezuela, Colômbia, Equador, Peru e Bolívia, país que leva seu nome.",
+      "revisar": false
+    },
+    {
+      "id": "ame-f-025",
+      "tipo": "multipla",
+      "pergunta": "Qual líder camponês do sul do México tinha o lema Terra e Liberdade na Revolução Mexicana?",
+      "opcoes": [
+        "Emiliano Zapata",
+        "Porfirio Díaz",
+        "Francisco Madero",
+        "Benito Juárez"
+      ],
+      "correta": 0,
+      "explicacao": "Zapata defendia a devolução das terras às comunidades camponesas. Porfirio Díaz era o ditador derrubado.",
+      "revisar": false
+    },
+    {
+      "id": "ame-f-026",
+      "tipo": "multipla",
+      "pergunta": "Quem liderou a Revolução Cubana, vitoriosa em 1959?",
+      "opcoes": [
+        "Fidel Castro",
+        "Salvador Allende",
+        "Juan Perón",
+        "Augusto Pinochet"
+      ],
+      "correta": 0,
+      "explicacao": "Os guerrilheiros de Fidel derrubaram o ditador Fulgencio Batista. Allende governou o Chile.",
+      "revisar": false
+    },
+    {
+      "id": "ame-f-027",
+      "tipo": "multipla",
+      "pergunta": "Qual presidente chileno, eleito em 1970, foi deposto por um golpe militar em 1973?",
+      "opcoes": [
+        "Salvador Allende",
+        "Augusto Pinochet",
+        "Fidel Castro",
+        "Juan Perón"
+      ],
+      "correta": 0,
+      "explicacao": "Allende morreu durante o golpe, e Augusto Pinochet chefiou a ditadura até 1990.",
+      "revisar": false
+    },
+    {
+      "id": "ame-f-028",
+      "tipo": "lacuna",
+      "pergunta": "Em 1810, o padre ____ iniciou a luta pela independência do México com o Grito de Dolores.",
+      "opcoes": [
+        "Miguel Hidalgo",
+        "Simón Bolívar",
+        "Antônio Conselheiro",
+        "Bartolomé de las Casas"
+      ],
+      "correta": 0,
+      "explicacao": "Hidalgo mobilizou indígenas e mestiços. Foi capturado e executado em 1811, e o México só ficou independente em 1821.",
+      "revisar": false
+    },
+    {
+      "id": "ame-f-029",
+      "tipo": "ordenar",
+      "pergunta": "Coloque em ordem cronológica, do mais antigo ao mais recente.",
+      "itens": [
+        "Chegada de Colombo à América",
+        "Independência dos Estados Unidos",
+        "Independência do Haiti",
+        "Início da Revolução Mexicana",
+        "Vitória da Revolução Cubana"
+      ],
+      "explicacao": "Colombo, 1492; EUA, 1776; Haiti, 1804; Revolução Mexicana, 1910; Revolução Cubana, 1959.",
+      "revisar": false
+    },
+    {
+      "id": "ame-f-030",
+      "tipo": "ligar",
+      "pergunta": "Ligue cada líder ao país ou região de sua atuação na independência.",
+      "pares": [
+        [
+          "Simón Bolívar",
+          "Venezuela e Colômbia"
+        ],
+        [
+          "José de San Martín",
+          "Argentina, Chile e Peru"
+        ],
+        [
+          "Toussaint Louverture",
+          "Haiti"
+        ],
+        [
+          "Miguel Hidalgo",
+          "México"
+        ]
+      ],
+      "explicacao": "Bolívar atuou no norte da América do Sul; San Martín cruzou os Andes; Toussaint liderou os escravizados haitianos; Hidalgo deu o Grito de Dolores.",
+      "revisar": false
     }
   ]
 }

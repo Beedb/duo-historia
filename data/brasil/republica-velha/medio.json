@@ -103,6 +103,296 @@
       "correta": false,
       "explicacao": "A afirmação é falsa porque os tenentes não rejeitavam o sistema republicano nem o capitalismo; seu objetivo era moralizar a República e substituir seus dirigentes oligárquicos por meio de reformas como o voto secreto e a centralização política.",
       "revisar": false
+    },
+    {
+      "id": "bra-rv-m-009",
+      "tipo": "multipla",
+      "pergunta": "O que foi o Encilhamento, no início da República?",
+      "opcoes": [
+        "Política de emissão de moeda e crédito que gerou especulação e inflação",
+        "Reforma agrária",
+        "Lei de imigração",
+        "Fim do voto aberto"
+      ],
+      "correta": 0,
+      "explicacao": "O ministro Rui Barbosa facilitou crédito para estimular empresas. Surgiram muitas empresas de fachada, e a crise veio em seguida.",
+      "revisar": false
+    },
+    {
+      "id": "bra-rv-m-010",
+      "tipo": "multipla",
+      "pergunta": "O que foi o Funding Loan, negociado por Campos Sales em 1898?",
+      "opcoes": [
+        "Empréstimo para renegociar a dívida externa, com corte de gastos e queima de moeda",
+        "Doação dos EUA ao Brasil",
+        "Plano de industrialização",
+        "Reforma eleitoral"
+      ],
+      "correta": 0,
+      "explicacao": "O acordo deu fôlego às contas, mas exigiu austeridade dura e garantias como a renda da alfândega do Rio.",
+      "revisar": false
+    },
+    {
+      "id": "bra-rv-m-011",
+      "tipo": "multipla",
+      "pergunta": "O que era a degola, praticada pela Comissão Verificadora de Poderes?",
+      "opcoes": [
+        "Recusar o diploma de deputados eleitos que fossem de oposição",
+        "Executar opositores",
+        "Cassar o voto das mulheres",
+        "Anular toda eleição"
+      ],
+      "correta": 0,
+      "explicacao": "A Comissão decidia quem tomava posse no Congresso. Assim, a maioria governista era garantida mesmo quando a oposição vencia.",
+      "revisar": false
+    },
+    {
+      "id": "bra-rv-m-012",
+      "tipo": "multipla",
+      "pergunta": "Por que Canudos foi tão duramente reprimido?",
+      "opcoes": [
+        "Foi visto como ameaça à ordem e à República, e desafiava o poder de fazendeiros e da Igreja",
+        "Porque declarou guerra ao Paraguai",
+        "Porque tinha armas estrangeiras modernas",
+        "Porque o arraial era uma cidade industrial"
+      ],
+      "correta": 0,
+      "explicacao": "A imprensa apresentou Canudos como foco monarquista. Após derrotas do Exército, a quarta expedição arrasou o arraial.",
+      "revisar": false
+    },
+    {
+      "id": "bra-rv-m-013",
+      "tipo": "multipla",
+      "pergunta": "Quais fatores explicam a Guerra do Contestado?",
+      "opcoes": [
+        "Expulsão de camponeses por empresas ferroviária e madeireira, somada ao messianismo",
+        "Disputa entre Brasil e Argentina",
+        "Revolta de imigrantes alemães",
+        "Greve de operários"
+      ],
+      "correta": 0,
+      "explicacao": "A concessão de terras à Brazil Railway e à Lumber expulsou moradores, que seguiram líderes religiosos como o monge José Maria.",
+      "revisar": false
+    },
+    {
+      "id": "bra-rv-m-014",
+      "tipo": "multipla",
+      "pergunta": "Além da vacina, o que alimentou a Revolta da Vacina de 1904?",
+      "opcoes": [
+        "A reforma urbana que demoliu cortiços e expulsou os pobres do centro",
+        "O aumento do preço do café",
+        "A Guerra do Paraguai",
+        "A abolição"
+      ],
+      "correta": 0,
+      "explicacao": "O prefeito Pereira Passos abriu avenidas e demoliu moradias populares, o chamado bota-abaixo. A vacina obrigatória foi a gota d'água.",
+      "revisar": false
+    },
+    {
+      "id": "bra-rv-m-015",
+      "tipo": "multipla",
+      "pergunta": "Qual era a principal reivindicação da Revolta da Chibata?",
+      "opcoes": [
+        "O fim dos castigos físicos na Marinha",
+        "A volta da monarquia",
+        "O fim da República",
+        "Aumento do preço do café"
+      ],
+      "correta": 0,
+      "explicacao": "A maioria dos marinheiros era negra ou mestiça, e os castigos lembravam a escravidão. Após a revolta, muitos foram presos e mortos.",
+      "revisar": false
+    },
+    {
+      "id": "bra-rv-m-016",
+      "tipo": "multipla",
+      "pergunta": "Que fato ajudou a desencadear a greve geral de 1917?",
+      "opcoes": [
+        "A morte do jovem sapateiro José Martinez em confronto com a polícia",
+        "A Semana de Arte Moderna",
+        "A chegada de Vargas ao poder",
+        "O fim da Primeira Guerra"
+      ],
+      "correta": 0,
+      "explicacao": "O enterro de Martinez virou grande manifestação, e a greve se espalhou por São Paulo.",
+      "revisar": false
+    },
+    {
+      "id": "bra-rv-m-017",
+      "tipo": "multipla",
+      "pergunta": "Qual corrente teve forte influência no movimento operário das primeiras décadas do século XX?",
+      "opcoes": [
+        "O anarcossindicalismo, ligado a imigrantes europeus",
+        "O integralismo",
+        "O positivismo militar",
+        "O populismo"
+      ],
+      "correta": 0,
+      "explicacao": "Os anarcossindicalistas defendiam a ação direta e a greve geral, sem partidos. Após 1922, o PCB ganhou espaço.",
+      "revisar": false
+    },
+    {
+      "id": "bra-rv-m-018",
+      "tipo": "multipla",
+      "pergunta": "O que permitia a Lei Adolfo Gordo, de 1907?",
+      "opcoes": [
+        "Expulsar estrangeiros envolvidos em agitação operária",
+        "Dar voto aos imigrantes",
+        "Proibir greves de brasileiros apenas",
+        "Criar a CLT"
+      ],
+      "correta": 0,
+      "explicacao": "A lei mostra que a questão operária era tratada como problema de polícia, com foco nos imigrantes.",
+      "revisar": false
+    },
+    {
+      "id": "bra-rv-m-019",
+      "tipo": "multipla",
+      "pergunta": "Por que a política de valorização do café é chamada de socialização das perdas?",
+      "opcoes": [
+        "O governo usava recursos públicos para proteger os lucros dos cafeicultores",
+        "Os lucros eram divididos com os trabalhadores",
+        "O café era distribuído de graça",
+        "Os cafeicultores pagavam todos os prejuízos"
+      ],
+      "correta": 0,
+      "explicacao": "Na crise, o Estado comprava café e se endividava. Os custos eram pagos por toda a sociedade.",
+      "revisar": false
+    },
+    {
+      "id": "bra-rv-m-020",
+      "tipo": "multipla",
+      "pergunta": "Por que o ciclo da borracha amazônica entrou em declínio por volta de 1910?",
+      "opcoes": [
+        "A concorrência dos seringais britânicos na Ásia, plantados com sementes levadas do Brasil",
+        "A proibição do uso de borracha",
+        "O fim dos automóveis",
+        "A falta de árvores na Amazônia"
+      ],
+      "correta": 0,
+      "explicacao": "As plantações asiáticas eram mais produtivas e baratas que a extração na floresta.",
+      "revisar": false
+    },
+    {
+      "id": "bra-rv-m-021",
+      "tipo": "multipla",
+      "pergunta": "Por que a indústria brasileira cresceu durante a Primeira Guerra Mundial?",
+      "opcoes": [
+        "As importações caíram e a produção nacional substituiu parte delas",
+        "O Brasil foi invadido",
+        "As fábricas europeias se mudaram para o Brasil",
+        "O café foi proibido"
+      ],
+      "correta": 0,
+      "explicacao": "Com a guerra, ficou difícil importar manufaturados, o que estimulou a produção local.",
+      "revisar": false
+    },
+    {
+      "id": "bra-rv-m-022",
+      "tipo": "multipla",
+      "pergunta": "Que fatos levaram ao levante tenentista de julho de 1922?",
+      "opcoes": [
+        "Cartas falsas atribuídas a Artur Bernardes ofendendo o Exército e o fechamento do Clube Militar",
+        "A Greve Geral de 1917",
+        "A morte de Vargas",
+        "A Semana de Arte Moderna"
+      ],
+      "correta": 0,
+      "explicacao": "As cartas, depois provadas falsas, aumentaram a tensão entre militares e o candidato eleito, Artur Bernardes.",
+      "revisar": false
+    },
+    {
+      "id": "bra-rv-m-023",
+      "tipo": "multipla",
+      "pergunta": "O que aconteceu na Revolta Paulista de 1924?",
+      "opcoes": [
+        "Tenentes ocuparam São Paulo, e o governo federal bombardeou a cidade",
+        "São Paulo declarou independência",
+        "Operários tomaram o poder no Brasil",
+        "Os imigrantes fundaram um partido"
+      ],
+      "correta": 0,
+      "explicacao": "Os rebeldes ficaram cerca de três semanas na cidade. Ao sair, parte deles se uniu à futura Coluna Prestes.",
+      "revisar": false
+    },
+    {
+      "id": "bra-rv-m-024",
+      "tipo": "multipla",
+      "pergunta": "Qual foi o significado político da Coluna Prestes?",
+      "opcoes": [
+        "Denunciou as oligarquias e manteve o tenentismo vivo, apesar de não tomar o poder",
+        "Derrubou o governo de Bernardes",
+        "Fundou a República",
+        "Foi apoiada pelos coronéis"
+      ],
+      "correta": 0,
+      "explicacao": "A Coluna não conseguiu levantar a população do interior, mas deu prestígio a seus líderes, decisivos em 1930.",
+      "revisar": false
+    },
+    {
+      "id": "bra-rv-m-025",
+      "tipo": "multipla",
+      "pergunta": "Por que a Semana de Arte Moderna de 1922 é considerada um marco?",
+      "opcoes": [
+        "Rompeu com o academicismo e buscou uma arte com identidade brasileira",
+        "Criou a primeira escola de artes do país",
+        "Foi patrocinada pelo governo federal",
+        "Proibiu a influência europeia"
+      ],
+      "correta": 0,
+      "explicacao": "Os modernistas combinavam vanguardas europeias com temas nacionais, como faria o Manifesto Antropófago (1928).",
+      "revisar": false
+    },
+    {
+      "id": "bra-rv-m-026",
+      "tipo": "multipla",
+      "pergunta": "Qual partido foi fundado em 1922, influenciado pela Revolução Russa?",
+      "opcoes": [
+        "Partido Comunista do Brasil (PCB)",
+        "Partido Trabalhista Brasileiro (PTB)",
+        "União Democrática Nacional (UDN)",
+        "Partido Republicano Paulista (PRP)"
+      ],
+      "correta": 0,
+      "explicacao": "O PCB foi posto na ilegalidade pouco depois. PTB e UDN são de 1945; o PRP, de 1873.",
+      "revisar": false
+    },
+    {
+      "id": "bra-rv-m-027",
+      "tipo": "multipla",
+      "pergunta": "Como os historiadores costumam explicar o cangaço?",
+      "opcoes": [
+        "Como fenômeno ligado à pobreza, à seca e às disputas entre coronéis no sertão",
+        "Como movimento operário urbano",
+        "Como exército oficial do governo",
+        "Como revolta de imigrantes"
+      ],
+      "correta": 0,
+      "explicacao": "Os cangaceiros às vezes atuavam a serviço de coronéis e às vezes contra eles. Eric Hobsbawm usou a ideia de banditismo social.",
+      "revisar": false
+    },
+    {
+      "id": "bra-rv-m-028",
+      "tipo": "verdadeiro_falso",
+      "pergunta": "A política dos governadores foi organizada no governo Campos Sales (1898–1902).",
+      "correta": true,
+      "explicacao": "Verdadeiro. Campos Sales apoiava as oligarquias estaduais, e elas elegiam bancadas fiéis ao governo federal.",
+      "revisar": false
+    },
+    {
+      "id": "bra-rv-m-029",
+      "tipo": "verdadeiro_falso",
+      "pergunta": "A Revolta da Vacina foi apenas contra a vacina, sem relação com a reforma urbana.",
+      "correta": false,
+      "explicacao": "Falso. As demolições e a remoção de moradores pobres do centro também alimentaram a revolta.",
+      "revisar": false
+    },
+    {
+      "id": "bra-rv-m-030",
+      "tipo": "verdadeiro_falso",
+      "pergunta": "A Coluna Prestes foi derrotada em batalha pelo Exército em 1925.",
+      "correta": false,
+      "explicacao": "Falso. A Coluna nunca foi derrotada. Em 1927, seus membros se exilaram na Bolívia.",
+      "revisar": false
     }
   ]
 }

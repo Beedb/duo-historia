@@ -145,6 +145,280 @@
       "correta": 1,
       "explicacao": "Os trabalhos de recuperação da memória histórica sistematizam provas documentais sobre os crimes das ditaduras, fortalecendo os direitos humanos contra tentativas de negação ou relativização dos fatos.",
       "revisar": false
+    },
+    {
+      "id": "ame-d-011",
+      "tipo": "multipla",
+      "pergunta": "Que questão Tzvetan Todorov coloca em A conquista da América (1982)?",
+      "opcoes": [
+        "Como os europeus lidaram com o outro, e o papel da comunicação e dos signos na conquista",
+        "Quantos navios Colombo usou",
+        "Qual foi o preço da prata",
+        "Por que a América é um continente"
+      ],
+      "correta": 0,
+      "explicacao": "Todorov analisa como espanhóis e indígenas interpretaram uns aos outros, e como o domínio dos signos ajudou a conquista.",
+      "revisar": false
+    },
+    {
+      "id": "ame-d-012",
+      "tipo": "multipla",
+      "pergunta": "Qual é o debate historiográfico sobre a catástrofe demográfica indígena?",
+      "opcoes": [
+        "Discutem-se os números iniciais e o peso de epidemias, guerras e trabalho forçado",
+        "Todos concordam que não houve queda de população",
+        "A queda foi causada só por guerras",
+        "Os indígenas migraram para a Ásia"
+      ],
+      "correta": 0,
+      "explicacao": "As estimativas da população de 1492 variam muito. Há também debate sobre o uso do termo genocídio para o processo como um todo.",
+      "revisar": false
+    },
+    {
+      "id": "ame-d-013",
+      "tipo": "multipla",
+      "pergunta": "O que é a chamada lenda negra sobre a colonização espanhola?",
+      "opcoes": [
+        "Uma imagem da crueldade espanhola difundida por rivais europeus, que historiadores discutem",
+        "Uma lenda indígena sobre o fim do mundo",
+        "Um mito sobre minas de ouro",
+        "Um documento oficial da Coroa"
+      ],
+      "correta": 0,
+      "explicacao": "Ingleses e holandeses usaram relatos como os de Las Casas contra a Espanha. Historiadores separam propaganda de violência real.",
+      "revisar": false
+    },
+    {
+      "id": "ame-d-014",
+      "tipo": "multipla",
+      "pergunta": "O que estava em jogo no debate de Valladolid (1550–1551) entre Las Casas e Sepúlveda?",
+      "opcoes": [
+        "Se era justo fazer guerra aos indígenas e submetê-los, com base em sua suposta inferioridade",
+        "Se a Terra era redonda",
+        "Qual rei espanhol devia governar",
+        "Se o ouro americano era verdadeiro"
+      ],
+      "correta": 0,
+      "explicacao": "Sepúlveda usava Aristóteles para defender a servidão natural. Las Casas defendia a humanidade plena dos indígenas.",
+      "revisar": false
+    },
+    {
+      "id": "ame-d-015",
+      "tipo": "multipla",
+      "pergunta": "Qual foi a contribuição de Miguel León-Portilla em A visão dos vencidos (1959)?",
+      "opcoes": [
+        "Reuniu relatos indígenas em náuatle sobre a conquista",
+        "Escreveu a biografia de Cortés",
+        "Negou a existência dos astecas",
+        "Defendeu a superioridade espanhola"
+      ],
+      "correta": 0,
+      "explicacao": "O livro deu voz à perspectiva mexica, até então pouco presente nas narrativas da conquista.",
+      "revisar": false
+    },
+    {
+      "id": "ame-d-016",
+      "tipo": "multipla",
+      "pergunta": "Qual mito Matthew Restall critica em Sete mitos da conquista espanhola (2003)?",
+      "opcoes": [
+        "O de que poucos espanhóis venceram sozinhos, ignorando os aliados indígenas",
+        "O de que houve conquista",
+        "O de que Cortés existiu",
+        "O de que havia astecas"
+      ],
+      "correta": 0,
+      "explicacao": "Os tlaxcaltecas e outros povos inimigos dos mexicas forneceram milhares de guerreiros, decisivos para a vitória.",
+      "revisar": false
+    },
+    {
+      "id": "ame-d-017",
+      "tipo": "multipla",
+      "pergunta": "O que Michel-Rolph Trouillot analisou em Silenciando o passado (1995)?",
+      "opcoes": [
+        "Como a Revolução Haitiana foi ignorada por ser impensável para o pensamento ocidental da época",
+        "A vida de Napoleão",
+        "A história do Brasil",
+        "A conquista do Peru"
+      ],
+      "correta": 0,
+      "explicacao": "Para Trouillot, uma revolução vitoriosa de escravizados desafiava o racismo da época, e por isso foi minimizada.",
+      "revisar": false
+    },
+    {
+      "id": "ame-d-018",
+      "tipo": "multipla",
+      "pergunta": "Por que muitos historiadores chamam as independências da América espanhola de conservadoras?",
+      "opcoes": [
+        "As elites criollas mantiveram a estrutura social, a concentração de terras e, em muitos casos, a escravidão",
+        "Porque restauraram o poder espanhol",
+        "Porque foram lideradas por indígenas",
+        "Porque criaram monarquias em todos os países"
+      ],
+      "correta": 0,
+      "explicacao": "A independência trocou quem governava, mas manteve hierarquias. A escravidão só acabou em várias repúblicas nos anos 1850.",
+      "revisar": false
+    },
+    {
+      "id": "ame-d-019",
+      "tipo": "multipla",
+      "pergunta": "Que papel Benedict Anderson (Comunidades imaginadas, 1983) atribuiu aos criollos americanos?",
+      "opcoes": [
+        "Pioneiros do nacionalismo, com identidade formada pela imprensa e pela exclusão dos cargos",
+        "Defensores da unidade com a Espanha",
+        "Indiferentes à política",
+        "Inimigos do nacionalismo"
+      ],
+      "correta": 0,
+      "explicacao": "Anderson mostra que a nação é uma comunidade imaginada, criada por jornais, mapas e experiências administrativas comuns.",
+      "revisar": false
+    },
+    {
+      "id": "ame-d-020",
+      "tipo": "fonte",
+      "trecho": "Eu desejo mais do que ninguém ver formar-se na América a maior nação do mundo, menos por sua extensão e riquezas do que por sua liberdade e glória.",
+      "autor": "Simón Bolívar, Carta da Jamaica",
+      "ano": 1815,
+      "pergunta": "Que projeto o trecho expressa?",
+      "opcoes": [
+        "A ideia de uma grande união americana, baseada na liberdade",
+        "A defesa do domínio espanhol",
+        "A anexação da América pelos EUA",
+        "A criação de monarquias separadas"
+      ],
+      "correta": 0,
+      "explicacao": "Na mesma carta, Bolívar reconhecia as dificuldades da unidade. O Congresso do Panamá (1826) fracassou.",
+      "revisar": false
+    },
+    {
+      "id": "ame-d-021",
+      "tipo": "fonte",
+      "trecho": "Os continentes americanos não devem ser considerados, daqui por diante, como sujeitos a futura colonização por quaisquer potências europeias.",
+      "autor": "Doutrina Monroe, mensagem ao Congresso dos EUA",
+      "ano": 1823,
+      "pergunta": "Como a historiografia interpreta esse princípio?",
+      "opcoes": [
+        "Como defesa contra a Europa que também abriu caminho para a hegemonia dos EUA no continente",
+        "Como acordo para recolonizar a América",
+        "Como aliança com a Espanha",
+        "Como apoio à monarquia brasileira"
+      ],
+      "correta": 0,
+      "explicacao": "O lema América para os americanos foi lido depois como América para os norte-americanos, sobretudo com o Corolário Roosevelt.",
+      "revisar": false
+    },
+    {
+      "id": "ame-d-022",
+      "tipo": "multipla",
+      "pergunta": "Qual é a ideia central do ensaio Nossa América (1891), de José Martí?",
+      "opcoes": [
+        "Valorizar a identidade latino-americana e alertar contra o imperialismo dos EUA",
+        "Defender a anexação de Cuba aos EUA",
+        "Apoiar o domínio espanhol",
+        "Defender a monarquia"
+      ],
+      "correta": 0,
+      "explicacao": "Martí, líder da independência cubana, defendia que a América Latina criasse suas próprias instituições.",
+      "revisar": false
+    },
+    {
+      "id": "ame-d-023",
+      "tipo": "multipla",
+      "pergunta": "Por que As veias abertas da América Latina (1971), de Eduardo Galeano, é objeto de debate?",
+      "opcoes": [
+        "Foi muito influente na denúncia da exploração, mas é criticado por simplificar processos econômicos",
+        "Foi proibido em todos os países",
+        "Defendia as ditaduras",
+        "Era um livro de ficção científica"
+      ],
+      "correta": 0,
+      "explicacao": "O livro popularizou ideias próximas da teoria da dependência. Em 2014, o próprio Galeano disse que não o releria.",
+      "revisar": false
+    },
+    {
+      "id": "ame-d-024",
+      "tipo": "multipla",
+      "pergunta": "Que debate existe sobre o caráter da Revolução Mexicana?",
+      "opcoes": [
+        "Se foi uma revolução popular e agrária ou uma disputa entre elites que terminou num Estado de partido dominante",
+        "Se ela realmente ocorreu",
+        "Se foi contra a Espanha",
+        "Se foi uma revolução socialista igual à russa"
+      ],
+      "correta": 0,
+      "explicacao": "Alan Knight defende o caráter popular. Outros autores destacam que o PRI governou o país por cerca de 70 anos.",
+      "revisar": false
+    },
+    {
+      "id": "ame-d-025",
+      "tipo": "multipla",
+      "pergunta": "Como Daniel James (Resistência e integração, 1988) interpretou a relação entre Perón e os trabalhadores?",
+      "opcoes": [
+        "O peronismo deu aos trabalhadores identidade e dignidade, e não foi só manipulação",
+        "Os trabalhadores rejeitaram Perón",
+        "Perón era contra os sindicatos",
+        "O peronismo não teve base operária"
+      ],
+      "correta": 0,
+      "explicacao": "James mostra que a lealdade a Perón se ligava a experiências concretas de reconhecimento, semelhante ao debate sobre Vargas no Brasil.",
+      "revisar": false
+    },
+    {
+      "id": "ame-d-026",
+      "tipo": "multipla",
+      "pergunta": "O que foi a Teologia da Libertação?",
+      "opcoes": [
+        "Corrente católica latino-americana que defendia a opção preferencial pelos pobres",
+        "Movimento protestante dos EUA",
+        "Doutrina oficial das ditaduras",
+        "Teoria econômica neoliberal"
+      ],
+      "correta": 0,
+      "explicacao": "Ganhou força após a conferência de Medellín (1968) e o livro de Gustavo Gutiérrez (1971). Foi criticada pelo Vaticano nos anos 1980.",
+      "revisar": false
+    },
+    {
+      "id": "ame-d-027",
+      "tipo": "multipla",
+      "pergunta": "O que foi a Revolução Sandinista na Nicarágua?",
+      "opcoes": [
+        "Derrubou a ditadura dos Somoza em 1979 e enfrentou os Contras, apoiados pelos EUA",
+        "Uma revolução contra a Espanha",
+        "Um golpe militar de direita em 1964",
+        "A independência do Panamá"
+      ],
+      "correta": 0,
+      "explicacao": "O apoio americano aos Contras levou ao escândalo Irã-Contras. Os sandinistas perderam a eleição de 1990.",
+      "revisar": false
+    },
+    {
+      "id": "ame-d-028",
+      "tipo": "multipla",
+      "pergunta": "O que levou o Exército Zapatista de Libertação Nacional (EZLN) a se levantar no México, em 1994?",
+      "opcoes": [
+        "A defesa dos direitos indígenas e a oposição ao acordo de livre-comércio NAFTA",
+        "A volta de Porfirio Díaz",
+        "A anexação do México pelos EUA",
+        "A Revolução Cubana"
+      ],
+      "correta": 0,
+      "explicacao": "O levante em Chiapas começou no dia em que o NAFTA entrou em vigor. O nome homenageia Emiliano Zapata.",
+      "revisar": false
+    },
+    {
+      "id": "ame-d-029",
+      "tipo": "verdadeiro_falso",
+      "pergunta": "Para Matthew Restall, a conquista do México dependeu de alianças com povos indígenas inimigos dos mexicas.",
+      "correta": true,
+      "explicacao": "Verdadeiro. Os tlaxcaltecas e outros aliados formavam a maior parte das tropas que cercaram Tenochtitlán.",
+      "revisar": false
+    },
+    {
+      "id": "ame-d-030",
+      "tipo": "verdadeiro_falso",
+      "pergunta": "A Revolução Haitiana recebeu, desde o início, grande destaque na historiografia ocidental.",
+      "correta": false,
+      "explicacao": "Falso. Trouillot mostra que ela foi silenciada ou minimizada por muito tempo.",
+      "revisar": false
     }
   ]
 }

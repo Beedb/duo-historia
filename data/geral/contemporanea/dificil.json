@@ -143,6 +143,289 @@
       "correta": 0,
       "explicacao": "A crítica historiográfica às visões lineares do progresso não significa relativismo absoluto: documentos, vestígios e procedimentos metodológicos sustentam a veracidade factual contra o negacionismo.",
       "revisar": false
+    },
+    {
+      "id": "ger-con-d-011",
+      "tipo": "multipla",
+      "pergunta": "O que Eric Hobsbawm chamou de breve século XX, em A era dos extremos (1994)?",
+      "opcoes": [
+        "O período de 1914 a 1991, da Primeira Guerra ao fim da URSS",
+        "O período de 1900 a 1950",
+        "Os anos entre as duas guerras",
+        "O século XX inteiro, de 1901 a 2000"
+      ],
+      "correta": 0,
+      "explicacao": "Hobsbawm organiza o século por grandes rupturas: guerras mundiais, revoluções e o colapso do socialismo soviético.",
+      "revisar": false
+    },
+    {
+      "id": "ger-con-d-012",
+      "tipo": "multipla",
+      "pergunta": "O que Hobsbawm chamou de dupla revolução?",
+      "opcoes": [
+        "A Revolução Francesa e a Revolução Industrial, que moldaram o século XIX",
+        "As revoluções russas de 1905 e 1917",
+        "As duas guerras mundiais",
+        "A Revolução Gloriosa e a Americana"
+      ],
+      "correta": 0,
+      "explicacao": "Para Hobsbawm, a política vinda da França e a economia vinda da Inglaterra formaram juntas o mundo contemporâneo.",
+      "revisar": false
+    },
+    {
+      "id": "ger-con-d-013",
+      "tipo": "multipla",
+      "pergunta": "Qual é o debate entre a interpretação marxista clássica e a revisionista da Revolução Francesa?",
+      "opcoes": [
+        "A clássica a vê como revolução burguesa; revisionistas como Furet destacam a política e as ideias",
+        "Os dois lados negam que houve revolução",
+        "Os revisionistas dizem que ela foi feita pelos camponeses ingleses",
+        "Os clássicos dizem que ela foi monarquista"
+      ],
+      "correta": 0,
+      "explicacao": "Lefebvre e Soboul enfatizavam classes sociais. Furet (Pensando a Revolução Francesa, 1978) deslocou o foco para a cultura política.",
+      "revisar": false
+    },
+    {
+      "id": "ger-con-d-014",
+      "tipo": "multipla",
+      "pergunta": "Como E. P. Thompson definiu classe em A formação da classe operária inglesa (1963)?",
+      "opcoes": [
+        "Como processo e experiência vividos pelos trabalhadores, não como coisa pronta",
+        "Como categoria fixa definida só pela economia",
+        "Como sinônimo de nação",
+        "Como grupo religioso"
+      ],
+      "correta": 0,
+      "explicacao": "Thompson inaugurou uma história vista de baixo, que valoriza tradições, valores e escolhas dos trabalhadores.",
+      "revisar": false
+    },
+    {
+      "id": "ger-con-d-015",
+      "tipo": "multipla",
+      "pergunta": "O que E. P. Thompson chamou de economia moral da multidão?",
+      "opcoes": [
+        "Valores populares sobre preços justos que legitimavam motins por alimentos",
+        "A teoria econômica de Adam Smith",
+        "A moral religiosa dos patrões",
+        "O planejamento soviético"
+      ],
+      "correta": 0,
+      "explicacao": "Os motins do século XVIII não eram apenas reação à fome, mas defesa de normas tradicionais contra o mercado livre.",
+      "revisar": false
+    },
+    {
+      "id": "ger-con-d-016",
+      "tipo": "multipla",
+      "pergunta": "Como mudou o debate sobre a responsabilidade pela Primeira Guerra?",
+      "opcoes": [
+        "De Fritz Fischer, que culpava sobretudo a Alemanha, a Christopher Clark, que fala em responsabilidade compartilhada",
+        "Todos concordam que a Sérvia foi a única culpada",
+        "Ninguém discute o tema",
+        "A guerra é atribuída só aos EUA"
+      ],
+      "correta": 0,
+      "explicacao": "Fischer (1961) destacou os objetivos alemães. Clark (Os sonâmbulos, 2012) mostrou erros e cálculos de várias potências.",
+      "revisar": false
+    },
+    {
+      "id": "ger-con-d-017",
+      "tipo": "multipla",
+      "pergunta": "Que crítica é feita ao conceito de totalitarismo de Hannah Arendt (1951)?",
+      "opcoes": [
+        "Ao aproximar nazismo e stalinismo, pode apagar diferenças de ideologia e de história",
+        "Ele nega que o nazismo existiu",
+        "Ele elogia os regimes totalitários",
+        "Ele trata só da Antiguidade"
+      ],
+      "correta": 0,
+      "explicacao": "Arendt destacou o terror, a ideologia e o controle total. Críticos lembram as diferenças de origem, objetivos e funcionamento dos dois regimes.",
+      "revisar": false
+    },
+    {
+      "id": "ger-con-d-018",
+      "tipo": "multipla",
+      "pergunta": "Qual é o debate entre intencionalistas e funcionalistas sobre o Holocausto?",
+      "opcoes": [
+        "Se o genocídio seguiu um plano de Hitler ou resultou de uma radicalização cumulativa do aparelho nazista",
+        "Se o Holocausto ocorreu ou não",
+        "Se os judeus apoiaram o nazismo",
+        "Se a guerra começou em 1939"
+      ],
+      "correta": 0,
+      "explicacao": "Hoje muitos historiadores combinam as duas visões. O debate não questiona o fato, mas como as decisões foram tomadas.",
+      "revisar": false
+    },
+    {
+      "id": "ger-con-d-019",
+      "tipo": "multipla",
+      "pergunta": "O que Hannah Arendt quis dizer com banalidade do mal, ao acompanhar o julgamento de Eichmann (1961)?",
+      "opcoes": [
+        "Grandes crimes podem ser cometidos por burocratas comuns, que não pensam no que fazem",
+        "O mal não existe",
+        "Eichmann era um gênio do mal",
+        "Os crimes nazistas foram pequenos"
+      ],
+      "correta": 0,
+      "explicacao": "A expressão gerou polêmica. Pesquisas posteriores mostraram que Eichmann era também ideologicamente comprometido.",
+      "revisar": false
+    },
+    {
+      "id": "ger-con-d-020",
+      "tipo": "multipla",
+      "pergunta": "Quais são as principais correntes sobre as origens da Guerra Fria?",
+      "opcoes": [
+        "Ortodoxa (culpa soviética), revisionista (culpa americana) e pós-revisionista (responsabilidades combinadas)",
+        "Só existe uma interpretação",
+        "Todas culpam a Inglaterra",
+        "Todas negam a Guerra Fria"
+      ],
+      "correta": 0,
+      "explicacao": "Com a abertura de arquivos soviéticos após 1991, autores como John Lewis Gaddis reavaliaram o debate.",
+      "revisar": false
+    },
+    {
+      "id": "ger-con-d-021",
+      "tipo": "multipla",
+      "pergunta": "O que defendia a teoria da dependência, formulada na América Latina nos anos 1960?",
+      "opcoes": [
+        "O subdesenvolvimento resulta da forma de inserção dos países periféricos no capitalismo mundial",
+        "Os países pobres são atrasados por falta de vontade",
+        "O comércio internacional beneficia todos igualmente",
+        "A América Latina não tem relação com o mercado mundial"
+      ],
+      "correta": 0,
+      "explicacao": "Autores como Fernando Henrique Cardoso, Enzo Faletto e André Gunder Frank tinham versões diferentes da teoria.",
+      "revisar": false
+    },
+    {
+      "id": "ger-con-d-022",
+      "tipo": "multipla",
+      "pergunta": "Que crítica recebeu a tese do fim da história, de Francis Fukuyama (1989)?",
+      "opcoes": [
+        "Conflitos étnicos, religiosos e novos autoritarismos mostraram que a democracia liberal não encerrou a disputa histórica",
+        "Ela foi provada sem críticas",
+        "Ela previa a volta da URSS",
+        "Ela tratava da Antiguidade"
+      ],
+      "correta": 0,
+      "explicacao": "Fukuyama via a democracia liberal como ponto final da evolução política. Os eventos após 1991 alimentaram as críticas.",
+      "revisar": false
+    },
+    {
+      "id": "ger-con-d-023",
+      "tipo": "multipla",
+      "pergunta": "Que contraste marca a independência da Índia, em 1947?",
+      "opcoes": [
+        "A luta não violenta liderada por Gandhi e a violenta partilha com o Paquistão",
+        "Uma guerra contra a França",
+        "A vitória militar sobre os EUA",
+        "A permanência como colônia"
+      ],
+      "correta": 0,
+      "explicacao": "A partilha deslocou milhões de pessoas e causou centenas de milhares de mortes em conflitos religiosos.",
+      "revisar": false
+    },
+    {
+      "id": "ger-con-d-024",
+      "tipo": "multipla",
+      "pergunta": "Qual é a tese de Frantz Fanon em Os condenados da terra (1961)?",
+      "opcoes": [
+        "O colonialismo é violência que desumaniza, e a libertação passaria pela luta do colonizado",
+        "O colonialismo trouxe civilização",
+        "A independência deveria ser pedida com paciência",
+        "As colônias eram iguais às metrópoles"
+      ],
+      "correta": 0,
+      "explicacao": "Fanon, psiquiatra da Martinica, atuou na guerra da Argélia. Sua obra influenciou movimentos anticoloniais e antirracistas.",
+      "revisar": false
+    },
+    {
+      "id": "ger-con-d-025",
+      "tipo": "multipla",
+      "pergunta": "Que mudança marcou os governos de Margaret Thatcher e Ronald Reagan, nos anos 1980?",
+      "opcoes": [
+        "Privatizações, corte de gastos sociais e menos regulação, ideias associadas ao neoliberalismo",
+        "Estatização de empresas",
+        "Ampliação do Estado de bem-estar",
+        "Aliança com a URSS"
+      ],
+      "correta": 0,
+      "explicacao": "Inspirados em Hayek e Friedman, esses governos romperam com o consenso keynesiano do pós-guerra.",
+      "revisar": false
+    },
+    {
+      "id": "ger-con-d-026",
+      "tipo": "multipla",
+      "pergunta": "O que o historiador Pierre Nora chamou de lugares de memória?",
+      "opcoes": [
+        "Espaços, datas, símbolos e monumentos onde uma sociedade fixa sua memória coletiva",
+        "Arquivos secretos",
+        "Cemitérios militares apenas",
+        "Museus de ciências naturais"
+      ],
+      "correta": 0,
+      "explicacao": "Nora, nos anos 1980, analisou como a França construiu sua identidade em lugares, datas e símbolos.",
+      "revisar": false
+    },
+    {
+      "id": "ger-con-d-027",
+      "tipo": "fonte",
+      "trecho": "Os homens nascem e permanecem livres e iguais em direitos. As distinções sociais só podem fundamentar-se na utilidade comum.",
+      "autor": "Declaração dos Direitos do Homem e do Cidadão, art. 1º",
+      "ano": 1789,
+      "pergunta": "Que contradição os historiadores apontam entre esse artigo e a realidade da época?",
+      "opcoes": [
+        "A França manteve a escravidão nas colônias e excluiu as mulheres da cidadania política",
+        "A França aboliu todos os privilégios em 1789 e deu voto a todos",
+        "O artigo nunca foi publicado",
+        "O artigo defendia a monarquia absoluta"
+      ],
+      "correta": 0,
+      "explicacao": "A escravidão colonial só foi abolida em 1794, após a revolução no Haiti, e restaurada por Napoleão em 1802.",
+      "revisar": false
+    },
+    {
+      "id": "ger-con-d-028",
+      "tipo": "fonte",
+      "trecho": "A história de todas as sociedades até hoje existentes é a história das lutas de classes.",
+      "autor": "Karl Marx e Friedrich Engels, Manifesto Comunista",
+      "ano": 1848,
+      "pergunta": "Qual é a ideia central do trecho?",
+      "opcoes": [
+        "O conflito entre grupos sociais é o motor das transformações históricas",
+        "A história é feita pelos grandes reis",
+        "A história é determinada pelo clima",
+        "As sociedades não mudam"
+      ],
+      "correta": 0,
+      "explicacao": "Essa leitura influenciou muito a historiografia do século XX, inclusive a interpretação clássica da Revolução Francesa.",
+      "revisar": false
+    },
+    {
+      "id": "ger-con-d-029",
+      "tipo": "fonte",
+      "trecho": "De Stettin, no Báltico, a Trieste, no Adriático, uma cortina de ferro desceu sobre o continente.",
+      "autor": "Winston Churchill, discurso em Fulton (EUA)",
+      "ano": 1946,
+      "pergunta": "O que a expressão cortina de ferro descrevia?",
+      "opcoes": [
+        "A divisão da Europa entre a área de influência soviética e o Ocidente",
+        "Uma muralha física construída em 1946",
+        "A fronteira entre Alemanha e França",
+        "A aliança entre EUA e URSS"
+      ],
+      "correta": 0,
+      "explicacao": "O discurso é um marco simbólico do início da Guerra Fria. O Muro de Berlim só foi erguido em 1961.",
+      "revisar": false
+    },
+    {
+      "id": "ger-con-d-030",
+      "tipo": "verdadeiro_falso",
+      "pergunta": "Para François Furet, a Revolução Francesa deve ser explicada apenas pela luta entre burguesia e aristocracia.",
+      "correta": false,
+      "explicacao": "Falso. Furet criticou justamente essa leitura e enfatizou a dinâmica política e as ideias.",
+      "revisar": false
     }
   ]
 }

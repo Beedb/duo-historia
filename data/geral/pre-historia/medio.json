@@ -131,6 +131,268 @@
       "correta": true,
       "explicacao": "A afirmativa é verdadeira, pois há interpretações evolucionistas que apontam a capacidade de armazenar recursos como condição prévia para a fixação residencial e o crescimento demográfico, invertendo a sequência do modelo clássico.",
       "revisar": false
+    },
+    {
+      "id": "ger-pre-m-011",
+      "tipo": "multipla",
+      "pergunta": "Que vantagens a domesticação de animais trouxe às comunidades neolíticas?",
+      "opcoes": [
+        "Carne, leite, lã, couro e força de tração",
+        "Apenas companhia",
+        "Proteção contra todas as doenças",
+        "Fim da necessidade de plantar"
+      ],
+      "correta": 0,
+      "explicacao": "Cabras, ovelhas e bois davam alimento e matérias-primas. Mais tarde, a força animal ajudou a puxar arados.",
+      "revisar": false
+    },
+    {
+      "id": "ger-pre-m-012",
+      "tipo": "multipla",
+      "pergunta": "Por que o Crescente Fértil foi um dos primeiros centros agrícolas?",
+      "opcoes": [
+        "Tinha cereais selvagens e animais fáceis de domesticar",
+        "Não tinha rios",
+        "Era coberto de gelo",
+        "Tinha cidades industriais"
+      ],
+      "correta": 0,
+      "explicacao": "Trigo, cevada, cabras e ovelhas selvagens existiam na região, o que facilitou a passagem para a produção de alimentos.",
+      "revisar": false
+    },
+    {
+      "id": "ger-pre-m-013",
+      "tipo": "multipla",
+      "pergunta": "O que mostram estudos sobre a origem da agricultura em vários continentes?",
+      "opcoes": [
+        "Ela surgiu de forma independente em vários centros, como Mesoamérica, Andes e China",
+        "Ela surgiu só na Mesopotâmia",
+        "Ela foi levada pelos europeus a todos os povos",
+        "Ela surgiu só no século XV"
+      ],
+      "correta": 0,
+      "explicacao": "O milho foi domesticado na Mesoamérica, a batata nos Andes e o arroz na China, sem contato com o Oriente Próximo.",
+      "revisar": false
+    },
+    {
+      "id": "ger-pre-m-014",
+      "tipo": "multipla",
+      "pergunta": "O que estudos de esqueletos indicam sobre a saúde dos primeiros agricultores?",
+      "opcoes": [
+        "Dieta menos variada, mais doenças e trabalho físico pesado",
+        "Saúde muito melhor que a dos caçadores",
+        "Fim de todas as doenças",
+        "Aumento da altura média"
+      ],
+      "correta": 0,
+      "explicacao": "A dependência de poucos cereais e a vida em aldeias aglomeradas trouxeram cáries, desnutrição e infecções.",
+      "revisar": false
+    },
+    {
+      "id": "ger-pre-m-015",
+      "tipo": "multipla",
+      "pergunta": "O que torna Çatal Höyük, na atual Turquia, importante para o estudo do Neolítico?",
+      "opcoes": [
+        "Era um grande povoado em que as casas eram acessadas pelo telhado",
+        "Era uma cidade industrial",
+        "Foi a capital do Império Romano",
+        "Era um acampamento de caçadores nômades"
+      ],
+      "correta": 0,
+      "explicacao": "Ocupado por volta de 7000 a.C., reunia milhares de pessoas em casas coladas umas às outras, com pinturas e sepultamentos internos.",
+      "revisar": false
+    },
+    {
+      "id": "ger-pre-m-016",
+      "tipo": "multipla",
+      "pergunta": "Por que Göbekli Tepe, na atual Turquia, surpreendeu os arqueólogos?",
+      "opcoes": [
+        "Tem grandes pilares de pedra erguidos por volta de 9500 a.C., antes da agricultura plena",
+        "Foi construído no século XX",
+        "É uma pirâmide egípcia",
+        "Foi feito por agricultores com metal"
+      ],
+      "correta": 0,
+      "explicacao": "A obra exigiu organização de muitas pessoas. Ela sugere que rituais coletivos podem ter estimulado a sedentarização.",
+      "revisar": false
+    },
+    {
+      "id": "ger-pre-m-017",
+      "tipo": "multipla",
+      "pergunta": "O que são os megalitos, como Stonehenge, na Inglaterra?",
+      "opcoes": [
+        "Monumentos de grandes pedras erguidos por sociedades neolíticas e da Idade do Bronze",
+        "Ferramentas de pedra lascada",
+        "Moradias de caçadores",
+        "Fortalezas medievais"
+      ],
+      "correta": 0,
+      "explicacao": "Stonehenge foi construído em fases, entre cerca de 3000 e 2000 a.C., e tinha relação com o calendário solar e rituais.",
+      "revisar": false
+    },
+    {
+      "id": "ger-pre-m-018",
+      "tipo": "multipla",
+      "pergunta": "Qual foi a sequência mais comum dos metais na chamada Idade dos Metais?",
+      "opcoes": [
+        "Cobre, bronze e ferro",
+        "Ferro, ouro e cobre",
+        "Bronze, aço e alumínio",
+        "Prata, ferro e cobre"
+      ],
+      "correta": 0,
+      "explicacao": "O cobre foi trabalhado primeiro. O bronze (cobre com estanho) era mais duro. O ferro exigia temperaturas maiores e se difundiu depois.",
+      "revisar": false
+    },
+    {
+      "id": "ger-pre-m-019",
+      "tipo": "multipla",
+      "pergunta": "Por que o excedente agrícola favoreceu a especialização do trabalho?",
+      "opcoes": [
+        "Parte da população pôde se dedicar a outras tarefas, como artesanato e religião",
+        "Todos passaram a caçar",
+        "O comércio foi proibido",
+        "As aldeias foram abandonadas"
+      ],
+      "correta": 0,
+      "explicacao": "Com comida guardada, surgiram artesãos, sacerdotes e chefes que não produziam alimentos diretamente.",
+      "revisar": false
+    },
+    {
+      "id": "ger-pre-m-020",
+      "tipo": "multipla",
+      "pergunta": "Como a sedentarização se relaciona com o aumento dos conflitos?",
+      "opcoes": [
+        "Terras, rebanhos e estoques passaram a ser bens a defender ou disputar",
+        "Os conflitos acabaram completamente",
+        "Não havia o que disputar",
+        "Os grupos se tornaram nômades"
+      ],
+      "correta": 0,
+      "explicacao": "Muros, como os de Jericó, e sinais de violência em sepulturas indicam disputas por recursos acumulados.",
+      "revisar": false
+    },
+    {
+      "id": "ger-pre-m-021",
+      "tipo": "multipla",
+      "pergunta": "O que as pinturas de cavernas como Lascaux e Chauvet, na França, indicam sobre o Paleolítico?",
+      "opcoes": [
+        "Capacidade de pensamento simbólico e de representação",
+        "Que os humanos já escreviam",
+        "Que havia agricultura",
+        "Que os humanos usavam metais"
+      ],
+      "correta": 0,
+      "explicacao": "Chauvet tem pinturas de mais de 30 mil anos. Elas mostram animais com técnica refinada e, possivelmente, uso ritual.",
+      "revisar": false
+    },
+    {
+      "id": "ger-pre-m-022",
+      "tipo": "multipla",
+      "pergunta": "O que são os sambaquis encontrados no litoral brasileiro?",
+      "opcoes": [
+        "Montes formados por conchas, ossos e sepultamentos de povos pescadores e coletores",
+        "Pirâmides de pedra",
+        "Fortes portugueses",
+        "Restos de navios"
+      ],
+      "correta": 0,
+      "explicacao": "Alguns sambaquis têm milhares de anos e dezenas de metros. Eram também locais de enterro e de rituais.",
+      "revisar": false
+    },
+    {
+      "id": "ger-pre-m-023",
+      "tipo": "multipla",
+      "pergunta": "O que a cerâmica marajoara revela sobre a Amazônia antes da chegada europeia?",
+      "opcoes": [
+        "Havia sociedades complexas, com artesãos especializados",
+        "A Amazônia era desabitada",
+        "Os povos amazônicos eram só nômades",
+        "A cerâmica veio da Europa"
+      ],
+      "correta": 0,
+      "explicacao": "Produzida na ilha de Marajó, entre cerca de 400 e 1400 d.C., ela tem decoração elaborada e uso funerário.",
+      "revisar": false
+    },
+    {
+      "id": "ger-pre-m-024",
+      "tipo": "multipla",
+      "pergunta": "O que é a terra preta amazônica?",
+      "opcoes": [
+        "Solo fértil formado pela ação humana ao longo de séculos",
+        "Solo vulcânico",
+        "Petróleo superficial",
+        "Areia de praia"
+      ],
+      "correta": 0,
+      "explicacao": "Restos de alimentos, carvão e cerâmica criaram solos férteis. Sua extensão indica ocupações longas e numerosas.",
+      "revisar": false
+    },
+    {
+      "id": "ger-pre-m-025",
+      "tipo": "multipla",
+      "pergunta": "Onde surgiu o Homo sapiens, segundo as evidências atuais?",
+      "opcoes": [
+        "Na África, há cerca de 300 mil anos",
+        "Na Europa, há 10 mil anos",
+        "Na América, há 50 mil anos",
+        "Na Ásia, há 1 milhão de anos"
+      ],
+      "correta": 0,
+      "explicacao": "Fósseis como os de Jebel Irhoud, no Marrocos, indicam a origem africana. Depois os sapiens se espalharam pelo mundo.",
+      "revisar": false
+    },
+    {
+      "id": "ger-pre-m-026",
+      "tipo": "multipla",
+      "pergunta": "O que os estudos de DNA revelaram sobre neandertais e Homo sapiens?",
+      "opcoes": [
+        "Houve cruzamentos, e muitas populações atuais têm parte de DNA neandertal",
+        "Nunca se encontraram",
+        "Os neandertais eram nossos ancestrais diretos únicos",
+        "Os neandertais viveram depois dos sapiens"
+      ],
+      "correta": 0,
+      "explicacao": "Fora da África, as pessoas têm cerca de 1% a 2% de DNA neandertal, sinal de contato entre os grupos.",
+      "revisar": false
+    },
+    {
+      "id": "ger-pre-m-027",
+      "tipo": "multipla",
+      "pergunta": "Qual foi a importância do arado e da roda, difundidos no fim do Neolítico e na Idade dos Metais?",
+      "opcoes": [
+        "Aumentaram a produção agrícola e facilitaram o transporte",
+        "Substituíram a agricultura pela caça",
+        "Acabaram com a domesticação de animais",
+        "Foram inventados no século XIX"
+      ],
+      "correta": 0,
+      "explicacao": "Puxado por bois, o arado permitiu cultivar áreas maiores, o que sustentou populações urbanas.",
+      "revisar": false
+    },
+    {
+      "id": "ger-pre-m-028",
+      "tipo": "verdadeiro_falso",
+      "pergunta": "A agricultura surgiu em um único lugar e se espalhou a partir dele para todo o mundo.",
+      "correta": false,
+      "explicacao": "Falso. Houve vários centros independentes, como o Oriente Próximo, a China, a Mesoamérica e os Andes.",
+      "revisar": false
+    },
+    {
+      "id": "ger-pre-m-029",
+      "tipo": "verdadeiro_falso",
+      "pergunta": "Göbekli Tepe foi erguido por grupos que ainda não praticavam a agricultura plenamente.",
+      "correta": true,
+      "explicacao": "Verdadeiro. Por isso o sítio levou arqueólogos a repensar a ordem entre sedentarização, religião e agricultura.",
+      "revisar": false
+    },
+    {
+      "id": "ger-pre-m-030",
+      "tipo": "verdadeiro_falso",
+      "pergunta": "Os sambaquis são montes formados por conchas e restos deixados por povos do litoral brasileiro.",
+      "correta": true,
+      "explicacao": "Verdadeiro. Eles também guardam sepultamentos e são protegidos como patrimônio arqueológico.",
+      "revisar": false
     }
   ]
 }

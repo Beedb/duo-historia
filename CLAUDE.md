@@ -274,24 +274,24 @@ O NotebookLM não tem API pública. O fluxo é manual:
 
 | Matéria / tempo | facil | medio | dificil |
 |---|---|---|---|
-| Brasil / Colônia | 39 (8 do MVP + 27 do NotebookLM + 4 de ordenar/ligar/lacuna) | 30 (6 V/F, 1 ordenar, 2 ligar) | 14 (3 V/F, 2 de fonte) |
-| Brasil / Império | 7 | 6 (2 V/F) | 8 (2 de fonte) |
-| Brasil / República Velha | 10 | 8 (2 V/F) | 12 (3 de fonte) |
-| Brasil / Era Vargas | 30 | 30 (6 V/F) | 30 (2 de fonte) |
-| Brasil / Democracia | 30 | 30 (6 V/F) | 30 (3 de fonte) |
-| Brasil / Ditadura | 7 | falta | 1 |
-| Geral / Pré-história | 30 (2 lacuna, 1 ordenar, 2 ligar) | 10 (2 V/F) | 10 |
-| Geral / Antiguidade | 12 (1 ordenar, 1 ligar) | 10 (2 V/F) | 10 (2 de fonte) |
-| Geral / Contemporânea | 30 (2 lacuna, 1 ordenar, 1 ligar) | 10 (2 V/F) | 10 |
-| América (sem divisão por tempo) | 10 | 10 (2 V/F) | 10 (1 de fonte) |
+| Brasil / Colônia | 39 | 30 | 30 |
+| Brasil / Império | 30 | 30 | 30 |
+| Brasil / República Velha | 30 | 30 | 30 |
+| Brasil / Era Vargas | 30 | 30 | 30 |
+| Brasil / Democracia | 30 | 30 | 30 |
+| Brasil / Ditadura | 30 | 30 | 30 |
+| Geral / Pré-história | 30 | 30 | 30 |
+| Geral / Antiguidade | 30 | 30 | 30 |
+| Geral / Contemporânea | 30 | 30 | 30 |
+| América (sem divisão por tempo) | 30 | 30 | 30 |
 
-Colônia fácil: 3 questões do NotebookLM foram descartadas por repetir assunto do MVP (capitanias, São Vicente, pau-brasil). Meta por nível: 30 questões. Demais tempos: ainda sem conteúdo.
+Meta de 30 por nível atingida em todos os tempos disponíveis (14/11). Questões com `revisar: true` ficam fora do app (ver Pendências). Tempos ainda sem conteúdo: Idade Média, Idade Moderna, Nova República e África.
 
 ### Pendências
 - Revisão de 14/11 (Claude): `revisar: true` em `bra-col-f-024` (feitoria de Santa Cruz com 24 homens: a conhecida é a de Cabo Frio, 1503–1504), `bra-col-f-025` ("primeiro engenho" em 1533 é disputado), `ger-pre-f-012` (nome do sítio "Toca do Baixão do Perna Quatro" não confirmado) e `ame-d-001` (frase do "grande porrete" é de set./1901, quando Roosevelt era vice; a Emenda Platt é do governo McKinley). Corrigidos: gabarito de `bra-var-d-002` (era 1, é 0), datas de `bra-col-f-020` e `f-023`, explicações de `f-022`, `f-027`, `ger-con-f-008` e `ger-con-m-010`, nome em `f-029` (Eckhout) e `ame-f-002` (Hernán Cortés).
 - `bra-rv-m-005` trata do Governo Provisório pós-1930: combina mais com Era Vargas.
 - Aristides Lobo ("bestializado") aparece em `bra-imp-d-001` e `bra-rv-d-002`: escolher um dos tempos.
-- Níveis com poucas questões no app: Império difícil (4), Ditadura difícil (1).
+- Lote de 14/11 (Claude, completando 30 por nível): `revisar: true` no trecho de Nabuco ("A escravidão permanecerá por muito tempo...", *O Abolicionismo*, 1883: confirmar a localização exata no livro). Fontes que convém conferir na tradução: Heródoto e Protágoras (Antiguidade difícil), Bolívar e Doutrina Monroe (América difícil), Churchill (Contemporânea difícil).
 - Lote de Vargas e Democracia (14/11, Claude): `bra-dem-d` com trecho de Carlos Lacerda (1950) está com `revisar: true` (a 4ª frase varia entre as fontes).
 - Lote de 14/11: `bra-rv-d-001` (trecho de J. M. de Carvalho: citação e ano a confirmar) e `bra-rv-d-006` (trecho de Manoel Bomfim, 1905) estão com `revisar: true`. `bra-rv-d-002` (Aristides Lobo, 1889) foi trocada pela citação conhecida da Proclamação; conferir em Carvalho, *Os Bestializados*. O lote repetido de Colônia/Pré-história/Vargas/Democracia/Ditadura foi descartado (já existia).
 - Conferir e liberar as questões com `"revisar": true`: `ger-pre-m-006`, `ger-pre-m-007`, `ger-ant-d-004`, `bra-col-d-002`, `bra-col-d-003`, `ger-con-d-008`, `ger-con-d-009` (enquadramento político: conferir neutralidade) (trechos de fonte e afirmações a confirmar) e `bra-col-f-015` (tese de um autor, não consenso).

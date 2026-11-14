@@ -1,0 +1,392 @@
+{
+  "materia": "brasil",
+  "tempo": "ditadura",
+  "dificuldade": "medio",
+  "licao": "Atos institucionais, milagre, repressão e abertura",
+  "questoes": [
+    {
+      "id": "bra-dit-m-001",
+      "tipo": "multipla",
+      "pergunta": "Qual foi uma medida do Ato Institucional nº 1, de abril de 1964?",
+      "opcoes": [
+        "Cassar mandatos e suspender direitos políticos de opositores",
+        "Convocar eleições diretas imediatas",
+        "Devolver o poder a João Goulart",
+        "Criar o bipartidarismo"
+      ],
+      "correta": 0,
+      "explicacao": "O AI-1 permitiu cassações e expurgos no serviço público e nas Forças Armadas. O bipartidarismo veio com o AI-2.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dit-m-002",
+      "tipo": "multipla",
+      "pergunta": "Que resultado eleitoral de 1965 levou o governo a baixar o AI-2?",
+      "opcoes": [
+        "Vitória de candidatos da oposição para governador na Guanabara e em Minas Gerais",
+        "Derrota do MDB em todo o país",
+        "Vitória de Jango para presidente",
+        "Fim das eleições municipais"
+      ],
+      "correta": 0,
+      "explicacao": "Negrão de Lima e Israel Pinheiro, ligados a JK, venceram. A resposta foi extinguir os partidos e tornar indireta a eleição presidencial.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dit-m-003",
+      "tipo": "multipla",
+      "pergunta": "Qual era o papel da Constituição de 1967?",
+      "opcoes": [
+        "Incorporar ao texto constitucional as regras do regime militar",
+        "Restaurar a democracia de 1946",
+        "Criar o parlamentarismo",
+        "Garantir eleições diretas"
+      ],
+      "correta": 0,
+      "explicacao": "A Carta de 1967 fortaleceu o Executivo e a segurança nacional. Em 1969, uma emenda a tornou ainda mais autoritária.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dit-m-004",
+      "tipo": "multipla",
+      "pergunta": "Que fato de março de 1968 intensificou os protestos estudantis?",
+      "opcoes": [
+        "A morte do estudante Edson Luís pela polícia, no Rio de Janeiro",
+        "A eleição de um estudante para presidente",
+        "O fechamento de todas as escolas",
+        "A Copa do Mundo"
+      ],
+      "correta": 0,
+      "explicacao": "Edson Luís foi morto no restaurante Calabouço. Seu enterro e a missa de sétimo dia viraram grandes protestos.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dit-m-005",
+      "tipo": "multipla",
+      "pergunta": "Qual episódio serviu de pretexto imediato para o AI-5?",
+      "opcoes": [
+        "A Câmara recusou autorizar o processo contra o deputado Márcio Moreira Alves",
+        "Jango tentou voltar ao poder",
+        "O MDB venceu a eleição presidencial",
+        "Uma guerra com a Argentina"
+      ],
+      "correta": 0,
+      "explicacao": "O deputado fez um discurso criticando os militares. Quando a Câmara negou o processo, o governo baixou o AI-5 no dia seguinte.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dit-m-006",
+      "tipo": "multipla",
+      "pergunta": "Quais fatores sustentaram o milagre econômico (1968–1973)?",
+      "opcoes": [
+        "Crédito externo farto, investimento estatal e contenção de salários",
+        "Exportação só de café",
+        "Reforma agrária ampla",
+        "Fechamento da economia ao exterior"
+      ],
+      "correta": 0,
+      "explicacao": "O crescimento passou de 10% ao ano, mas aumentou a dívida externa e a concentração de renda.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dit-m-007",
+      "tipo": "multipla",
+      "pergunta": "Que ideia, associada ao ministro Delfim Netto, justificava a concentração de renda no milagre?",
+      "opcoes": [
+        "Primeiro fazer o bolo crescer, depois dividir",
+        "Dividir tudo igualmente desde o início",
+        "Parar de crescer para distribuir",
+        "Estatizar todas as empresas"
+      ],
+      "correta": 0,
+      "explicacao": "A frase resumia a aposta no crescimento antes da distribuição. Críticos apontaram que a divisão não veio.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dit-m-008",
+      "tipo": "multipla",
+      "pergunta": "Quais foram algumas organizações de luta armada contra a ditadura?",
+      "opcoes": [
+        "ALN, VPR e MR-8",
+        "ARENA, PDS e PFL",
+        "UDN, PSD e PTB",
+        "DOI-CODI, SNI e DOPS"
+      ],
+      "correta": 0,
+      "explicacao": "A ALN (Marighella), a VPR (Lamarca) e o MR-8 fizeram ações armadas. DOI-CODI, SNI e DOPS eram órgãos do regime.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dit-m-009",
+      "tipo": "multipla",
+      "pergunta": "O que foi o sequestro do embaixador americano Charles Elbrick, em 1969?",
+      "opcoes": [
+        "Ação de grupos armados que trocou o embaixador por 15 presos políticos",
+        "Um acordo diplomático entre Brasil e EUA",
+        "Uma operação do Exército contra a guerrilha",
+        "A prisão do embaixador pelo governo"
+      ],
+      "correta": 0,
+      "explicacao": "MR-8 e ALN sequestraram Elbrick e conseguiram a libertação de 15 presos, enviados ao México.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dit-m-010",
+      "tipo": "multipla",
+      "pergunta": "O que foi a Operação Bandeirante (OBAN), criada em 1969 em São Paulo?",
+      "opcoes": [
+        "Centro de repressão com apoio de empresários, modelo para os DOI-CODI",
+        "Programa de construção de estradas",
+        "Campanha de alfabetização",
+        "Movimento de oposição armada"
+      ],
+      "correta": 0,
+      "explicacao": "A OBAN reunia forças militares e policiais e recebia dinheiro de empresários. Serviu de modelo para os DOI-CODI.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dit-m-011",
+      "tipo": "multipla",
+      "pergunta": "Como a música popular participou da resistência cultural?",
+      "opcoes": [
+        "Canções com críticas veladas, como Pra não dizer que não falei das flores, de Vandré",
+        "A música foi proibida no país",
+        "Todos os músicos apoiaram o regime",
+        "Só havia música estrangeira"
+      ],
+      "correta": 0,
+      "explicacao": "Festivais e canções driblavam a censura. Vários artistas, como Caetano Veloso e Gilberto Gil, foram presos e exilados.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dit-m-012",
+      "tipo": "multipla",
+      "pergunta": "Que papel teve parte da Igreja Católica a partir dos anos 1970?",
+      "opcoes": [
+        "Denunciar torturas e apoiar movimentos sociais",
+        "Comandar os DOI-CODI",
+        "Defender o AI-5",
+        "Organizar o bipartidarismo"
+      ],
+      "correta": 0,
+      "explicacao": "A CNBB e líderes como D. Paulo Evaristo Arns denunciaram violações. As Comunidades Eclesiais de Base organizaram moradores.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dit-m-013",
+      "tipo": "multipla",
+      "pergunta": "Como o governo Geisel tentou manter o crescimento após 1973?",
+      "opcoes": [
+        "Com o II PND, investindo em energia e indústria de base com empréstimos externos",
+        "Cortando todos os investimentos",
+        "Fechando as estatais",
+        "Deixando de importar petróleo de uma vez"
+      ],
+      "correta": 0,
+      "explicacao": "O II Plano Nacional de Desenvolvimento manteve o crescimento, mas multiplicou a dívida externa.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dit-m-014",
+      "tipo": "multipla",
+      "pergunta": "Qual foi o resultado das eleições legislativas de 1974?",
+      "opcoes": [
+        "Grande vitória do MDB para o Senado",
+        "Vitória total da ARENA",
+        "Eleições foram canceladas",
+        "O PT venceu em todos os estados"
+      ],
+      "correta": 0,
+      "explicacao": "O MDB venceu 16 das 22 vagas ao Senado, mostrando o desgaste do regime.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dit-m-015",
+      "tipo": "multipla",
+      "pergunta": "O que foi o Pacote de Abril, de 1977?",
+      "opcoes": [
+        "Conjunto de medidas que fechou o Congresso e criou os senadores biônicos",
+        "Plano de combate à inflação",
+        "Lei de anistia",
+        "Reforma agrária"
+      ],
+      "correta": 0,
+      "explicacao": "Geisel fechou o Congresso por alguns dias e mudou as regras para garantir maioria governista, incluindo senadores eleitos indiretamente.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dit-m-016",
+      "tipo": "multipla",
+      "pergunta": "Quando o AI-5 deixou de vigorar?",
+      "opcoes": [
+        "No início de 1979, após emenda aprovada em 1978",
+        "Em 1969",
+        "Em 1985",
+        "Nunca foi revogado"
+      ],
+      "correta": 0,
+      "explicacao": "A emenda de 1978 revogou os atos institucionais a partir de 1º de janeiro de 1979, parte da abertura.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dit-m-017",
+      "tipo": "multipla",
+      "pergunta": "Que ponto da Lei da Anistia de 1979 é ainda hoje debatido?",
+      "opcoes": [
+        "Ter sido interpretada como perdão também aos agentes que torturaram",
+        "Ter anistiado só militares",
+        "Ter proibido a volta de exilados",
+        "Ter criado o AI-5"
+      ],
+      "correta": 0,
+      "explicacao": "Os crimes conexos foram lidos como incluindo agentes do Estado, o que impediu processos contra torturadores.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dit-m-018",
+      "tipo": "multipla",
+      "pergunta": "Quem voltou ao Brasil após a anistia de 1979?",
+      "opcoes": [
+        "Exilados como Leonel Brizola, Miguel Arraes e Luís Carlos Prestes",
+        "Apenas militares",
+        "Os presidentes militares",
+        "Ninguém pôde voltar"
+      ],
+      "correta": 0,
+      "explicacao": "A volta dos exilados marcou a abertura. A canção O bêbado e a equilibrista virou hino da anistia.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dit-m-019",
+      "tipo": "multipla",
+      "pergunta": "O que revelou o atentado do Riocentro, em 1981?",
+      "opcoes": [
+        "A resistência de setores militares radicais à abertura",
+        "O apoio da oposição à luta armada",
+        "O fim da censura",
+        "A vitória das Diretas"
+      ],
+      "correta": 0,
+      "explicacao": "Uma bomba explodiu num carro com militares, durante um show de 1º de maio. O caso foi abafado na época.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dit-m-020",
+      "tipo": "multipla",
+      "pergunta": "Como estava a economia no início dos anos 1980?",
+      "opcoes": [
+        "Recessão, inflação alta e crise da dívida externa",
+        "Crescimento recorde e inflação baixa",
+        "Superávit e fim da dívida",
+        "Pleno emprego e estabilidade"
+      ],
+      "correta": 0,
+      "explicacao": "Os juros internacionais subiram e o Brasil recorreu ao FMI. A crise desgastou o governo Figueiredo.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dit-m-021",
+      "tipo": "multipla",
+      "pergunta": "Por que as Diretas Já, de 1984, foram importantes mesmo com a derrota da emenda?",
+      "opcoes": [
+        "Foram a maior mobilização popular do período e isolaram o regime",
+        "Elegeram diretamente o presidente",
+        "Restauraram o AI-5",
+        "Mantiveram os militares no poder"
+      ],
+      "correta": 0,
+      "explicacao": "Comícios reuniram centenas de milhares de pessoas. A pressão levou à eleição de um civil da oposição em 1985.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dit-m-022",
+      "tipo": "multipla",
+      "pergunta": "Como Tancredo Neves venceu no Colégio Eleitoral em 1985?",
+      "opcoes": [
+        "Com a Aliança Democrática, unindo PMDB e dissidentes do PDS",
+        "Com voto direto da população",
+        "Com apoio único do PT",
+        "Sem adversário"
+      ],
+      "correta": 0,
+      "explicacao": "Dissidentes do PDS formaram a Frente Liberal e apoiaram Tancredo contra Paulo Maluf.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dit-m-023",
+      "tipo": "multipla",
+      "pergunta": "O que caracterizou o novo sindicalismo do fim dos anos 1970?",
+      "opcoes": [
+        "Organização a partir das fábricas, mais independente do Estado",
+        "Total dependência do Ministério do Trabalho",
+        "Apoio ao bipartidarismo",
+        "Fim das greves"
+      ],
+      "correta": 0,
+      "explicacao": "As greves do ABC deram origem a novas lideranças, à CUT (1983) e ao PT (1980).",
+      "revisar": false
+    },
+    {
+      "id": "bra-dit-m-024",
+      "tipo": "multipla",
+      "pergunta": "O que foi a campanha pela anistia ampla, geral e irrestrita?",
+      "opcoes": [
+        "Movimento de familiares e entidades pela libertação de presos e volta de exilados",
+        "Campanha do governo para perdoar só militares",
+        "Campanha pelo AI-5",
+        "Movimento pela volta da monarquia"
+      ],
+      "correta": 0,
+      "explicacao": "O Movimento Feminino pela Anistia (1975) e os Comitês Brasileiros pela Anistia (1978) pressionaram o governo.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dit-m-025",
+      "tipo": "verdadeiro_falso",
+      "pergunta": "O AI-5 foi baixado com prazo de validade de um ano.",
+      "correta": false,
+      "explicacao": "Falso. O AI-5 não tinha prazo e vigorou por dez anos, até o fim de 1978.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dit-m-026",
+      "tipo": "verdadeiro_falso",
+      "pergunta": "Durante o milagre econômico, a desigualdade de renda diminuiu.",
+      "correta": false,
+      "explicacao": "Falso. A renda se concentrou ainda mais nos mais ricos, segundo o Censo de 1970.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dit-m-027",
+      "tipo": "verdadeiro_falso",
+      "pergunta": "O MDB era a oposição permitida dentro do bipartidarismo.",
+      "correta": true,
+      "explicacao": "Verdadeiro. O MDB reunia opositores tolerados pelo regime, embora muitos tivessem mandatos cassados.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dit-m-028",
+      "tipo": "verdadeiro_falso",
+      "pergunta": "A Lei da Anistia de 1979 foi interpretada como beneficiando apenas os opositores do regime.",
+      "correta": false,
+      "explicacao": "Falso. Ela foi aplicada também a agentes do Estado acusados de tortura, o que gera debate até hoje.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dit-m-029",
+      "tipo": "verdadeiro_falso",
+      "pergunta": "O Pacote de Abril de 1977 criou senadores eleitos indiretamente, chamados biônicos.",
+      "correta": true,
+      "explicacao": "Verdadeiro. Um terço do Senado passou a ser escolhido por eleição indireta, garantindo maioria governista.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dit-m-030",
+      "tipo": "verdadeiro_falso",
+      "pergunta": "A emenda Dante de Oliveira foi aprovada em 1984, garantindo eleição direta em 1985.",
+      "correta": false,
+      "explicacao": "Falso. A emenda foi rejeitada, e a eleição de 1985 foi indireta.",
+      "revisar": false
+    }
+  ]
+}
