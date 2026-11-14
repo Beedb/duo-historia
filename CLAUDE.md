@@ -198,12 +198,15 @@ Trabalhar **uma fase por vez**. Não começar a seguinte sem a atual funcionando
 - Fases 1 a 4 prontas: trilha com desbloqueio, XP, vidas, streak, revisão com repetição espaçada. Lições de até 10 questões sorteadas.
 - Fase 5 pronta: `lacuna`, `ordenar` e `ligar` (além de `verdadeiro_falso` e `fonte`). Exemplos em Colônia fácil (`bra-col-f-036` a `039`) e Antiguidade fácil (`ger-ant-f-011`, `012`).
 - Fase 6 (PWA) em andamento: manifest, service worker, ícones e botão "Instalar" prontos e testados no PC (instalável e offline). Site no ar: https://beedb.github.io/duo-historia/. Falta: testar a instalação num Android de verdade.
-- Fase 7 (APK) em andamento: Capacitor 8.6.2 instalado, projeto `android/` criado, ícone e tela de abertura trocados. Falta: JDK 21 e Android SDK no PC para compilar o APK.
+- Fase 7 (APK): primeiro APK de teste gerado em 14/11 (`app-debug.apk`, 4 MB, Android 7+). Falta: instalar e testar num celular de verdade.
 
 ### APK: como gerar
 - O site continua sendo a fonte. Depois de mudar qualquer arquivo do site: `npm run sync` (copia para `www/` e para o projeto Android).
 - Gerar o APK de teste: `npm run apk`. Sai em `android/app/build/outputs/apk/debug/app-debug.apk`.
-- Requisitos: Node 22+, JDK 21 (com `javac`) e Android SDK (`ANDROID_HOME` apontando para ele).
+- Requisitos: Node 22+, JDK 21 e Android SDK. Instalados em `~/Android/jdk-21` e `~/Android/Sdk` (sem sudo). Antes de `npm run apk`, no mesmo terminal:
+  `export JAVA_HOME=~/Android/jdk-21 ANDROID_HOME=~/Android/Sdk`
+- `android/local.properties` (fora do git) aponta para o SDK.
+- APK de teste (debug) serve para instalar no próprio celular. Para loja de apps seria preciso um APK assinado (release), fora de escopo.
 - `node_modules/` e `www/` não vão para o git (são recriados com `npm install` e `npm run web`).
 - Dentro do APK, `pwa.js` não registra o service worker nem mostra o botão "Instalar" (os arquivos já estão no aparelho).
 
