@@ -94,6 +94,8 @@ function atualizarPeriodicamente() {
 }
 
 async function iniciarApp() {
+  registrarServiceWorker();
+  prepararBotaoInstalar();
   ligarBotoes();
   atualizarPainel();
   setInterval(atualizarPeriodicamente, INTERVALO_ATUALIZACAO);
