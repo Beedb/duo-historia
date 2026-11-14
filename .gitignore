@@ -1,0 +1,4 @@
+# Dependências do npm (reinstalar com: npm install)
+node_modules/
+# Cópia do site gerada por "npm run web" para o Capacitor
+www/

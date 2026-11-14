@@ -2,9 +2,14 @@
 
 let pedidoInstalacao = null; // aviso do navegador de que o app pode ser instalado
 
+// Dentro do APK (Capacitor) os arquivos já estão no aparelho: não precisa de cache nem de "Instalar"
+function rodandoNoApk() {
+  return Boolean(window.Capacitor && window.Capacitor.isNativePlatform && window.Capacitor.isNativePlatform());
+}
+
 function registrarServiceWorker() {
   // Só funciona em https ou localhost (não em file://)
-  if (!("serviceWorker" in navigator)) return;
+  if (rodandoNoApk() || !("serviceWorker" in navigator)) return;
   navigator.serviceWorker.register("service-worker.js").catch((erro) => {
     console.warn("Service worker não registrado: o app não vai funcionar offline.", erro);
   });
@@ -13,6 +18,7 @@ function registrarServiceWorker() {
 // O Chrome avisa quando o app pode ser instalado. Guardamos o aviso
 // para mostrar a janela de instalação só quando o aluno tocar no botão.
 function prepararBotaoInstalar() {
+  if (rodandoNoApk()) return;
   const botao = document.getElementById("botao-instalar");
   window.addEventListener("beforeinstallprompt", (evento) => {
     evento.preventDefault();
