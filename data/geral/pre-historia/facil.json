@@ -1,0 +1,148 @@
+{
+  "materia": "geral",
+  "tempo": "pre-historia",
+  "dificuldade": "facil",
+  "licao": "Paleolítico, Neolítico e o fogo",
+  "questoes": [
+    {
+      "id": "ger-pre-f-001",
+      "tipo": "multipla",
+      "pergunta": "Como os grupos humanos obtinham seus alimentos durante o período Paleolítico?",
+      "opcoes": [
+        "Pelo cultivo intensivo de cereais e pela criação de rebanhos bovinos.",
+        "Por meio da caça, da pesca e da coleta de recursos oferecidos pela natureza.",
+        "Através do comércio marítimo de metais fundidos entre cidades-Estado.",
+        "Pela irrigação artificial de grandes lavouras às margens dos rios."
+      ],
+      "correta": 1,
+      "explicacao": "No Paleolítico, os seres humanos praticavam uma economia extrativista baseada exclusivamente na caça, na pesca e na coleta. O cultivo de cereais e a criação de animais só passaram a caracterizar o modo de vida humano no Neolítico.",
+      "revisar": false
+    },
+    {
+      "id": "ger-pre-f-002",
+      "tipo": "multipla",
+      "pergunta": "O que significa dizer que os grupos humanos do Paleolítico eram nômades?",
+      "opcoes": [
+        "Construíam grandes cidades muradas para proteger seus estoques de grãos.",
+        "Viviam exclusivamente em aldeias fixas construídas sobre lagos artificiais.",
+        "Permaneciam por gerações no mesmo território praticando a rotação de culturas.",
+        "Deslocavam-se constantemente em busca de alimentos, ocupando abrigos provisórios."
+      ],
+      "correta": 3,
+      "explicacao": "O nomadismo consistia na mudança contínua de local conforme os recursos naturais de caça e coleta se esgotavam, dispensando habitações permanentes. A fixação em aldeias duradouras ocorreu apenas com a sedentarização no período Neolítico.",
+      "revisar": false
+    },
+    {
+      "id": "ger-pre-f-003",
+      "tipo": "multipla",
+      "pergunta": "Qual espécie de hominídeo do Paleolítico Inferior é reconhecida por ter dominado o uso do fogo e migrado da África para a Ásia e a Europa?",
+      "opcoes": [
+        "Homo erectus",
+        "Australopithecus afarensis",
+        "Paranthropus robustus",
+        "Homo habilis"
+      ],
+      "correta": 0,
+      "explicacao": "O Homo erectus expandiu-se para fora do continente africano e dominou o fogo, utilizando fogueiras para se aquecer, cozinhar e se proteger. Espécies mais antigas, como o Homo habilis, fabricavam seixos lascados rudimentares, mas não possuíam o controle do fogo.",
+      "revisar": false
+    },
+    {
+      "id": "ger-pre-f-004",
+      "tipo": "multipla",
+      "pergunta": "Qual transformação importante o domínio do fogo trouxe para o cotidiano dos grupos humanos na Pré-História?",
+      "opcoes": [
+        "Permitiu fundir o ferro para fabricar arados mecânicos.",
+        "Dispensou completamente o uso de ferramentas de pedra e madeira.",
+        "Possibilitou cozinhar alimentos, iluminar abrigos à noite e afugentar predadores.",
+        "Substituiu a caça e a coleta pela agricultura irrigada em todo o planeta."
+      ],
+      "correta": 2,
+      "explicacao": "Com o controle do fogo, os grupos humanos puderam cozer carnes e vegetais, aquecer-se, iluminar cavernas após o pôr do sol e espantar animais selvagens. A fundição de metais surgiu muito mais tarde, apenas no final do Neolítico e na Idade dos Metais.",
+      "revisar": false
+    },
+    {
+      "id": "ger-pre-f-005",
+      "tipo": "multipla",
+      "pergunta": "O que era a arte rupestre produzida pelos seres humanos durante o período Paleolítico?",
+      "opcoes": [
+        "Estatuetas de ouro fundido usadas como moeda nas primeiras aldeias.",
+        "Pinturas e gravuras feitas nas paredes e tetos rochosos de cavernas e abrigos.",
+        "Vasos de cerâmica esmaltada produzidos para armazenar cereais.",
+        "Inscrições alfabéticas gravadas em tábuas de argila nos templos."
+      ],
+      "correta": 1,
+      "explicacao": "A arte rupestre consistia em representações de animais, mãos e figuras humanas pintadas ou gravadas em rochas e cavernas, como em Lascaux e Altamira. Já a cerâmica e a metalurgia são técnicas posteriores, ausentes no Paleolítico.",
+      "revisar": false
+    },
+    {
+      "id": "ger-pre-f-006",
+      "tipo": "multipla",
+      "pergunta": "Por que o período Neolítico também é conhecido como Idade da Pedra Polida?",
+      "opcoes": [
+        "Porque os instrumentos de pedra passaram a ser desgastados e alisados pelo atrito, tornando-se mais eficientes.",
+        "Porque os seres humanos abandonaram totalmente o uso de pedras e passaram a usar apenas ferro.",
+        "Porque as ferramentas eram obtidas apenas quebrando pedras brutas sem nenhum acabamento.",
+        "Porque o comércio de pedras preciosas substituiu a produção de alimentos."
+      ],
+      "correta": 0,
+      "explicacao": "No Neolítico, a técnica de polir a pedra por meio do atrito aperfeiçoou machados, enxadas e outros utensílios, diferenciando-os das ferramentas apenas lascadas do Paleolítico. O uso generalizado do ferro ocorreu somente séculos depois, na Idade dos Metais.",
+      "revisar": false
+    },
+    {
+      "id": "ger-pre-f-007",
+      "tipo": "multipla",
+      "pergunta": "Quem foi o arqueólogo que cunhou a expressão 'Revolução Neolítica' para descrever a passagem da coleta e da caça para a produção de alimentos?",
+      "opcoes": [
+        "John Lubbock",
+        "Eugène Dubois",
+        "Jean Clottes",
+        "Vere Gordon Childe"
+      ],
+      "correta": 3,
+      "explicacao": "Na década de 1920, o arqueólogo Vere Gordon Childe criou o termo 'Revolução Neolítica' para destacar as profundas mudanças sociais e econômicas trazidas pela agricultura e pela domesticação de animais. John Lubbock, por sua vez, foi quem criou os termos Paleolítico e Neolítico em 1865.",
+      "revisar": false
+    },
+    {
+      "id": "ger-pre-f-008",
+      "tipo": "multipla",
+      "pergunta": "Por volta de qual época o desenvolvimento da agricultura marcou o início do período Neolítico no Oriente Próximo?",
+      "opcoes": [
+        "Por volta de 500000 a.C.",
+        "Por volta de 100000 a.C.",
+        "Por volta de 10000 a.C.",
+        "Por volta de 700 a.C."
+      ],
+      "correta": 2,
+      "explicacao": "O início do Neolítico e da domesticação de plantas e animais no Oriente Próximo situa-se por volta de 10000 a.C., após o recuo das geleiras da última glaciação. A data de 500000 a.C. refere-se ao Paleolítico Inferior, muito antes da prática agrícola.",
+      "revisar": false
+    },
+    {
+      "id": "ger-pre-f-009",
+      "tipo": "multipla",
+      "pergunta": "Quais foram os principais cereais cultivados nos primeiros centros agrícolas do Oriente Próximo, da Europa e da África durante o Neolítico?",
+      "opcoes": [
+        "Café e cana-de-açúcar.",
+        "Trigo e cevada.",
+        "Cacau e batata-doce.",
+        "Soja e girassol."
+      ],
+      "correta": 1,
+      "explicacao": "O trigo e a cevada foram a base dos primeiros sistemas agrícolas desenvolvidos na região do Crescente Fértil e difundidos pela Europa e norte da África. Na América pré-histórica, o cultivo baseou-se principalmente no milho e na mandioca.",
+      "revisar": false
+    },
+    {
+      "id": "ger-pre-f-010",
+      "tipo": "multipla",
+      "pergunta": "Qual inovação artesanal tornou-se essencial nas aldeias sedentárias do Neolítico para armazenar grãos e cozinhar os alimentos produzidos pela agricultura?",
+      "opcoes": [
+        "A fabricação de recipientes de cerâmica.",
+        "O lascamento de seixos brutos de quartzo.",
+        "A fundição de espadas de ferro.",
+        "A pintura de animais nas paredes das cavernas."
+      ],
+      "correta": 0,
+      "explicacao": "Com a fixação dos grupos humanos em aldeias e o surgimento de excedentes agrícolas, a cerâmica tornou-se indispensável para guardar sementes, conservar líquidos e preparar alimentos. Por ser frágil e pesada, tinha uso muito limitado entre os povos nômades do Paleolítico.",
+      "revisar": false
+    }
+  ]
+}

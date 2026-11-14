@@ -1,0 +1,136 @@
+{
+  "materia": "geral",
+  "tempo": "pre-historia",
+  "dificuldade": "medio",
+  "licao": "Revolução Neolítica e sedentarização",
+  "questoes": [
+    {
+      "id": "ger-pre-m-001",
+      "tipo": "multipla",
+      "pergunta": "De que maneira o desenvolvimento da agricultura e da criação de animais no Neolítico impulsionou a especialização do trabalho nas primeiras comunidades sedentárias?",
+      "opcoes": [
+        "Eliminou por completo a necessidade de obras coletivas, permitindo que cada família vivesse isolada.",
+        "Reduziu drasticamente a população das aldeias, concentrando todas as tarefas agrícolas em poucos líderes.",
+        "Garantiu uma oferta maior e mais regular de alimentos, liberando parte do grupo para ofícios como a cerâmica e a tecelagem.",
+        "Substituiu imediatamente o uso de instrumentos de pedra e madeira pela fundição avançada de ferro."
+      ],
+      "correta": 2,
+      "explicacao": "Com colheitas sucessivas e excedentes alimentares, nem todos os membros da comunidade precisavam atuar diretamente no cultivo, possibilitando a divisão social do trabalho. A metalurgia do ferro não surgiu nesse contexto, pois o Neolítico caracterizou-se pelo polimento da pedra e pelo domínio inicial de metais maleáveis.",
+      "revisar": false
+    },
+    {
+      "id": "ger-pre-m-002",
+      "tipo": "multipla",
+      "pergunta": "Qual transformação social ocorreu progressivamente após a sedentarização neolítica e o crescimento demográfico nos grandes vales fluviais?",
+      "opcoes": [
+        "As relações baseadas apenas no parentesco deram lugar à estratificação em classes, definida pelo acesso desigual aos meios de produção.",
+        "O desaparecimento imediato das diferenças de gênero e faixa etária na organização das tarefas cotidianas.",
+        "O retorno generalizado ao nomadismo caçador-coletor devido ao esgotamento rápido dos solos férteis.",
+        "A abolição de qualquer autoridade coletiva, uma vez que a abundância de recursos dispensava regras sociais."
+      ],
+      "correta": 0,
+      "explicacao": "A fixação em áreas férteis e a necessidade de gerir obras coletivas e recursos produtivos favoreceram a emergência de classes sociais ligadas ao controle dos meios de produção. Embora divisões tradicionais por sexo e idade tenham persistido inicialmente, o parentesco deixou de ser o único eixo organizador.",
+      "revisar": false
+    },
+    {
+      "id": "ger-pre-m-003",
+      "tipo": "multipla",
+      "pergunta": "Na África Oriental, qual fator ambiental contribuiu para que grupos de pescadores parcialmente sedentários adotassem a criação de animais e a agricultura a partir do III milênio a.C.?",
+      "opcoes": [
+        "O avanço de geleiras polares sobre a bacia do rio Nilo, inviabilizando a pesca lacustre.",
+        "O transbordamento permanente dos grandes lagos africanos, que submergiu todas as áreas de coleta.",
+        "A extinção repentina de todas as gramíneas selvagens da savana, forçando a importação de trigo europeu.",
+        "A aceleração da desertificação do Saara, que pressionou os recursos naturais e estimulou técnicas de produção alimentar."
+      ],
+      "correta": 3,
+      "explicacao": "A rápida desertificação saariana reduziu a disponibilidade de recursos silvestres e levou comunidades que já dominavam a cerâmica a incorporar a domesticação de animais e plantas para garantir sua subsistência. As glaciações afetaram latitudes setentrionais em períodos anteriores, não a África Oriental do III milênio a.C.",
+      "revisar": false
+    },
+    {
+      "id": "ger-pre-m-004",
+      "tipo": "multipla",
+      "pergunta": "Por que a fixação de comunidades neolíticas nas margens de grandes rios, como o Nilo, o Tigre e o Eufrates, favoreceu o surgimento de Estados centralizados?",
+      "opcoes": [
+        "Porque os rios impediam qualquer contato comercial entre aldeias vizinhas, isolando cada núcleo urbano.",
+        "Porque o aproveitamento agrícola exigia a construção e a manutenção coletiva de diques e canais de irrigação e drenagem.",
+        "Porque a fertilidade natural dispensava qualquer trabalho humano, deixando a população livre para guerras contínuas.",
+        "Porque a ausência de madeira e pedra nessas regiões obrigou a criação de exércitos para conquistar montanhas distantes."
+      ],
+      "correta": 1,
+      "explicacao": "O aumento populacional e a expansão agrícola nas planícies fluviais demandaram obras hidráulicas complexas, cuja coordenação impulsionou a unificação política e a centralização estatal. Longe de isolar as aldeias, os rios facilitaram o intercâmbio e a concentração demográfica.",
+      "revisar": false
+    },
+    {
+      "id": "ger-pre-m-005",
+      "tipo": "multipla",
+      "pergunta": "Qual foi a principal consequência ecológica da passagem de uma economia de apropriação (caça e coleta) para uma economia de produção (agricultura e pastoreio)?",
+      "opcoes": [
+        "A total independência da espécie humana em relação ao clima, às chuvas e às características do solo.",
+        "A eliminação imediata da caça e da pesca em todas as sociedades que conheceram o cultivo de cereais.",
+        "A redução da dependência direta dos ciclos naturais imediatos, diminuindo a vulnerabilidade a falhas sazonais de alimentos.",
+        "O desaparecimento definitivo dos deslocamentos humanos, encerrando qualquer forma de migração inter-regional."
+      ],
+      "correta": 2,
+      "explicacao": "Ao controlar a reprodução de plantas e animais e armazenar excedentes, os grupos neolíticos liberaram-se parcialmente das imposições imediatas dos ecossistemas, reduzindo o risco de fome por oscilações naturais. Contudo, a agricultura continuou dependente do regime hídrico e não suprimiu totalmente a caça ou as migrações.",
+      "revisar": false
+    },
+    {
+      "id": "ger-pre-m-006",
+      "tipo": "multipla",
+      "pergunta": "De que modo as condições de vida dos povos pastores nômades das estepes e desertos do Velho Mundo explicam suas frequentes invasões aos vales agrícolas sedentários?",
+      "opcoes": [
+        "O desconhecimento total da domesticação animal obrigava os nômades a saquear os rebanhos das cidades fluviais.",
+        "A monogamia estrita e a escassez de leite reduziram a natalidade nas estepes, forçando o rapto de populações urbanas.",
+        "A superioridade técnica dos nômades na escrita e na astronomia permitiu-lhes planejar impérios marítimos.",
+        "A abundância de leite animal encurtava o aleitamento e elevava a natalidade, gerando pressões demográficas sobre terras férteis vizinhas."
+      ],
+      "correta": 3,
+      "explicacao": "Na economia pastoril, a disponibilidade constante de leite animal reduzia o período de amamentação materna e acelerava o crescimento populacional, levando grupos nômades a transpor seus limites territoriais e conquistar vales férteis. Invenções como a escrita e a irrigação, ao contrário, originaram-se sobretudo entre povos sedentários.",
+      "revisar": true
+    },
+    {
+      "id": "ger-pre-m-007",
+      "tipo": "multipla",
+      "pergunta": "Além do polimento da pedra, qual prática difundida no Neolítico provocou transformações químicas nos alimentos com impacto direto na evolução fisiológica humana?",
+      "opcoes": [
+        "O cozimento sistemático dos alimentos por meio do domínio ampliado do fogo.",
+        "A salga industrial de carnes em grandes minas subterrâneas de sal-gema.",
+        "A conservação de grãos em recipientes metálicos fundidos em altos-fornos.",
+        "O consumo exclusivo de proteínas animais cruas obtidas pela caça de megafauna."
+      ],
+      "correta": 0,
+      "explicacao": "O uso generalizado do fogo para cozinhar alimentos alterou quimicamente os nutrientes ingeridos, facilitando a digestão e influindo na evolução fisiológica humana. A fundição em altos-fornos e a exploração industrial de minas pertencem a períodos históricos posteriores.",
+      "revisar": true
+    },
+    {
+      "id": "ger-pre-m-008",
+      "tipo": "multipla",
+      "pergunta": "Como a chamada Revolução Neolítica alcançou o continente europeu a partir de seus núcleos originários no Oriente Próximo?",
+      "opcoes": [
+        "Por meio de decretos administrativos impostos pelos faraós egípcios às tribos do norte da Europa.",
+        "De forma simultânea e idêntica em todo o planeta, sem qualquer contato entre grupos humanos distintos.",
+        "Por processos graduais de difusão, migrações e intercâmbios culturais que levaram técnicas agrícolas e pastoris aos europeus.",
+        "Exclusivamente pela conquista militar de Roma, que introduziu o trigo e a cevada na Europa Ocidental."
+      ],
+      "correta": 2,
+      "explicacao": "A agricultura e a domesticação de animais surgiram em focos específicos, como as regiões montanhosas da Anatólia, Irã e norte do Iraque, difundindo-se gradualmente para a Europa por meio de deslocamentos humanos e contatos culturais. O processo não foi simultâneo no globo e antecedeu em milênios a expansão romana.",
+      "revisar": false
+    },
+    {
+      "id": "ger-pre-m-009",
+      "tipo": "verdadeiro_falso",
+      "pergunta": "A transição do Paleolítico para o Neolítico representou uma ruptura instantânea e uniforme em todo o planeta, eliminando imediatamente a caça, a pesca e a coleta nas comunidades que passaram a cultivar plantas.",
+      "correta": false,
+      "explicacao": "A afirmação é falsa porque a neolitização foi um processo lento, gradual e desigual entre as regiões, no qual o cultivo e o pastoreio foram combinados por longo tempo com a caça, a pesca e a coleta.",
+      "revisar": false
+    },
+    {
+      "id": "ger-pre-m-010",
+      "tipo": "verdadeiro_falso",
+      "pergunta": "Segundo a hipótese que enfatiza o papel do armazenamento na Pré-História, a invenção e a difusão de técnicas para estocar alimentos teriam favorecido a sedentarização e o aumento populacional antes mesmo da plena consolidação da agricultura.",
+      "correta": true,
+      "explicacao": "A afirmativa é verdadeira, pois há interpretações evolucionistas que apontam a capacidade de armazenar recursos como condição prévia para a fixação residencial e o crescimento demográfico, invertendo a sequência do modelo clássico.",
+      "revisar": false
+    }
+  ]
+}

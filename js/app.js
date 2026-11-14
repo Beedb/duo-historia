@@ -1,25 +1,15 @@
 // Inicialização e navegação entre telas.
 
-const CAMINHO_LICAO = "data/brasil/colonia/facil.json";
 const INTERVALO_ATUALIZACAO = 30 * 1000; // confere a recarga de vidas a cada 30 s
-let licaoCarregada = null;
 
-// Provisório: na Fase 3 esses nomes virão do materias.json
-const NOMES = {
-  brasil: "História do Brasil",
-  colonia: "Colônia (1500–1822)",
-  facil: "🟢 Fácil",
-  medio: "🟡 Médio",
-  dificil: "🔴 Difícil",
-};
-
-function nomeLegivel(codigo) {
-  return NOMES[codigo] || codigo;
-}
+// Lição escolhida na trilha: { licao, id }. A sessão é criada a cada "Começar",
+// para as opções saírem embaralhadas de novo quando refizer.
+let licaoAberta = null;
 
 function mostrarTela(idTela) {
   document.querySelectorAll(".tela").forEach((tela) => tela.classList.add("escondida"));
   document.getElementById(idTela).classList.remove("escondida");
+  window.scrollTo(0, 0);
 }
 
 // --- Painel (streak, XP, vidas) ---
@@ -37,58 +27,82 @@ function atualizarPainel() {
   preencherItemPainel("painel-vidas", "❤️", lerVidas(), "vidas");
 }
 
-// --- Tela de início ---
+// --- Tela de início da lição ---
 
-function atualizarBotaoComecar() {
-  if (!licaoCarregada) return;
-  const botao = document.getElementById("botao-comecar");
-  const semVidas = lerVidas() === 0;
-  botao.disabled = semVidas;
-  botao.textContent = semVidas ? `Sem vidas · próxima em ${minutosParaProximaVida()} min` : "Começar";
+async function abrirLicao(idLicao) {
+  try {
+    const licao = await carregarLicao(idLicao);
+    licaoAberta = { licao, id: idLicao };
+    preencherInicio(licao, idLicao);
+    mostrarTela("tela-inicio");
+  } catch (erro) {
+    console.error(erro);
+    mostrarAvisoTrilha("Não foi possível abrir a lição. Confira o console (F12).");
+  }
 }
 
-function atualizarTelaInicio() {
-  atualizarPainel();
-  atualizarBotaoComecar();
-}
-
-function voltarAoInicio() {
-  mostrarTela("tela-inicio");
-  atualizarTelaInicio();
-}
-
-async function carregarLicao(caminho) {
-  const resposta = await fetch(caminho);
-  if (!resposta.ok) throw new Error(`Não foi possível abrir ${caminho}`);
-  return resposta.json();
-}
-
-function preencherInicio(licao) {
-  document.getElementById("inicio-materia").textContent =
-    [licao.materia, licao.tempo, licao.dificuldade].map(nomeLegivel).join(" · ");
+function preencherInicio(licao, idLicao) {
+  document.getElementById("inicio-materia").textContent = descreverLicao(idLicao);
   document.getElementById("inicio-titulo").textContent = licao.licao;
   document.getElementById("inicio-resumo").textContent = licao.resumo || "";
   atualizarBotaoComecar();
 }
 
+function atualizarBotaoComecar() {
+  if (!licaoAberta) return;
+  const botao = document.getElementById("botao-comecar");
+  const semQuestoes = prepararQuestoes(licaoAberta.licao, licaoAberta.id).length === 0;
+  const semVidas = lerVidas() === 0;
+
+  botao.disabled = semQuestoes || semVidas;
+  if (semQuestoes) botao.textContent = "Nenhuma questão liberada ainda";
+  else if (semVidas) botao.textContent = `Sem vidas · próxima em ${minutosParaProximaVida()} min`;
+  else botao.textContent = "Começar";
+}
+
+function comecarLicaoAberta() {
+  iniciarLicao(criarSessaoLicao(licaoAberta.licao, licaoAberta.id));
+}
+
+// --- Trilha ---
+
+function mostrarAvisoTrilha(texto) {
+  document.getElementById("aviso-trilha").textContent = texto;
+}
+
+function voltarParaTrilha() {
+  mostrarAvisoTrilha("");
+  atualizarPainel();
+  mostrarTrilha();
+}
+
+// --- Inicialização ---
+
 function ligarBotoes() {
-  document.getElementById("botao-comecar").addEventListener("click", () => iniciarLicao(licaoCarregada));
+  document.getElementById("botao-comecar").addEventListener("click", comecarLicaoAberta);
+  document.getElementById("botao-voltar-inicio").addEventListener("click", voltarParaTrilha);
   document.getElementById("botao-continuar").addEventListener("click", proximaQuestao);
-  document.getElementById("botao-voltar").addEventListener("click", voltarAoInicio);
+  document.getElementById("botao-sair").addEventListener("click", voltarParaTrilha);
+  document.getElementById("botao-voltar").addEventListener("click", voltarParaTrilha);
+  document.getElementById("botao-revisao").addEventListener("click", iniciarRevisao);
+}
+
+function atualizarPeriodicamente() {
+  atualizarPainel();
+  atualizarBotaoComecar();
 }
 
 async function iniciarApp() {
   ligarBotoes();
   atualizarPainel();
-  setInterval(atualizarTelaInicio, INTERVALO_ATUALIZACAO);
+  setInterval(atualizarPeriodicamente, INTERVALO_ATUALIZACAO);
   try {
-    licaoCarregada = await carregarLicao(CAMINHO_LICAO);
-    preencherInicio(licaoCarregada);
+    await carregarTrilha();
+    mostrarTrilha();
   } catch (erro) {
     // Erro comum: abrir o index.html direto (file://) bloqueia o fetch
-    document.getElementById("inicio-titulo").textContent = "Erro ao carregar a lição.";
-    document.getElementById("inicio-resumo").textContent = "Abra pelo servidor local (python3 -m http.server).";
     console.error(erro);
+    mostrarAvisoTrilha("Erro ao carregar o conteúdo. Abra pelo servidor local (python3 -m http.server).");
   }
 }
 

@@ -1,0 +1,148 @@
+{
+  "materia": "geral",
+  "tempo": "pre-historia",
+  "dificuldade": "dificil",
+  "licao": "Periodização e povoamento da América",
+  "questoes": [
+    {
+      "id": "ger-pre-d-001",
+      "tipo": "multipla",
+      "pergunta": "Qual crítica historiográfica fundamenta o questionamento atual ao uso tradicional do conceito de \"Pré-História\"?",
+      "opcoes": [
+        "A constatação de que os seres humanos só desenvolveram linguagem articulada e vida social após a invenção da imprensa.",
+        "O caráter eurocêntrico da divisão, que restringe a História aos registros escritos e trata sociedades ágrafas como estáticas ou atrasadas.",
+        "A comprovação arqueológica de que a escrita surgiu simultaneamente em todos os continentes por volta de 10000 a.C.",
+        "O fato de os documentos escritos do século XIX serem as únicas fontes confiáveis para estudar os primeiros hominídeos."
+      ],
+      "correta": 1,
+      "explicacao": "Consolidada por historiadores europeus no século XIX, a separação entre Pré-História e História vinculou o saber histórico exclusivamente à escrita, impondo uma visão linear de progresso que desvaloriza registros ágrafos como pinturas rupestres e tradições orais. Além disso, a escrita surgiu em momentos muito distintos conforme a sociedade.",
+      "revisar": false
+    },
+    {
+      "id": "ger-pre-d-002",
+      "tipo": "multipla",
+      "pergunta": "Por que os critérios tecnológicos tradicionais usados para separar o Paleolítico do Neolítico (pedra lascada versus pedra polida e cerâmica) são considerados relativos pela arqueologia contemporânea?",
+      "opcoes": [
+        "Porque o polimento da pedra já era praticado por caçadores-coletores muito antes do Neolítico, enquanto a pedra lascada continuou em uso até a Idade do Bronze.",
+        "Porque nenhuma sociedade neolítica chegou a produzir artefatos cerâmicos antes da queda do Império Romano.",
+        "Porque John Lubbock demonstrou em 1865 que os instrumentos de metal precederam os artefatos de pedra lascada.",
+        "Porque os sítios arqueológicos do Oriente Próximo não apresentam vestígios de transição entre coleta e agricultura."
+      ],
+      "correta": 0,
+      "explicacao": "Dados arqueológicos revelam que caçadores-coletores do Pacífico já poliam a pedra por volta de 25000 a.C., ao passo que o lascamento permaneceu ativo no Neolítico e na Idade do Bronze, invalidando fronteiras tecnológicas rígidas. Lubbock, ao contrário, foi quem propôs em 1865 a dicotomia clássica entre Paleolítico e Neolítico.",
+      "revisar": false
+    },
+    {
+      "id": "ger-pre-d-003",
+      "tipo": "multipla",
+      "pergunta": "Por qual razão os arqueólogos reunidos no 3º Congresso Pan-Africano sobre Pré-História abandonaram a terminologia europeia (Paleolítico, Mesolítico, Neolítico) para a África ao sul do Saara?",
+      "opcoes": [
+        "Porque a África Subsaariana permaneceu desabitada até o surgimento da escrita hieroglífica no Egito faraônico.",
+        "Porque as técnicas de datação por radiocarbono comprovaram que não houve evolução tecnológica na África antes do século XV.",
+        "Porque as categorias europeias não refletiam as especificidades cronológicas e tecnológicas africanas, sendo substituídas por Early, Middle e Late Stone Age.",
+        "Porque o termo Neolítico aplicava-se exclusivamente às civilizações urbanas dotadas de escrita cuneiforme."
+      ],
+      "correta": 2,
+      "explicacao": "Os especialistas consideraram que o esquema europeu distorcia a realidade subsaariana, adotando uma divisão própria (Early, Middle e Late Stone Age) pautada em transformações tecnológicas locais e criticando a ambiguidade do termo \"Neolítico\". A África possui alguns dos mais antigos registros de hominização e indústrias líticas do planeta.",
+      "revisar": false
+    },
+    {
+      "id": "ger-pre-d-004",
+      "tipo": "multipla",
+      "pergunta": "Na África Oriental, a coexistência prolongada entre as indústrias líticas Olduvaiense (seixos lascados) e Acheulense (bifaces) durante cerca de meio milhão de anos desafia qual pressuposto da periodização clássica?",
+      "opcoes": [
+        "A concepção evolucionista linear de que cada técnica corresponde a um estágio cronológico único que substitui imediatamente o anterior.",
+        "A hipótese de que os primeiros hominídeos surgiram no continente africano durante a era Quaternária.",
+        "A possibilidade de utilizar a estratigrafia geológica como método auxiliar de datação relativa.",
+        "A existência de diferenciação ambiental entre áreas florestais e savanas durante o Pleistoceno."
+      ],
+      "correta": 0,
+      "explicacao": "A permanência simultânea de duas tradições tecnológicas distintas por meio milhão de anos contradiz a ideia de sucessão linear de estágios, sugerindo a convivência de grupos com tradições culturais próprias ou adaptações a nichos ecológicos diferentes. A origem africana dos hominídeos e o valor da estratigrafia permanecem válidos.",
+      "revisar": false
+    },
+    {
+      "id": "ger-pre-d-005",
+      "tipo": "multipla",
+      "pergunta": "De que maneira o avanço das técnicas radiométricas e dos estudos genéticos impactou o debate sobre a periodização da história humana mais remota?",
+      "opcoes": [
+        "Reduziu a antiguidade da presença humana na Terra para menos de seis mil anos, confirmando a cronologia bíblica literal.",
+        "Provou que as culturas da Idade da Pedra permaneceram biologicamente e culturalmente estáticas até o surgimento das cidades.",
+        "Ampliou o alcance temporal da História para abranger toda a trajetória humana, favorecendo termos técnicos como Paleolítico e Neolítico em vez de \"Pré-História\".",
+        "Tornou obsoleta qualquer escavação arqueológica, já que o DNA permite reconstruir sozinho as instituições políticas antigas."
+      ],
+      "correta": 2,
+      "explicacao": "Novas datações (como o potássio-argônio e o radiocarbono revisado) e mapeamentos genéticos permitiram integrar toda a trajetória humana ao campo da História, levando pesquisadores a preferir designações técnicas como Paleolítico e Neolítico à noção excludente de \"Pré-História\". Esses métodos complementam, mas não substituem, a arqueologia.",
+      "revisar": false
+    },
+    {
+      "id": "ger-pre-d-006",
+      "tipo": "multipla",
+      "pergunta": "Qual é o principal impacto historiográfico e científico da validação de sítios arqueológicos como a Serra da Capivara (Piauí), Lewisville (Texas) e Pikimachay (Peru)?",
+      "opcoes": [
+        "Comprovar que o ser humano surgiu originalmente na América do Sul e migrou posteriormente para a África.",
+        "Contestar o monopólio do modelo \"Clóvis\" e a tese de que o povoamento americano iniciou-se apenas entre 18 mil e 13,5 mil anos atrás.",
+        "Demonstrar que os primeiros habitantes da América possuíam escrita alfabética e metalurgia avançada do bronze.",
+        "Confirmar que houve apenas uma única onda migratória homogênea pelo estreito de Bering há cerca de 11 mil anos."
+      ],
+      "correta": 1,
+      "explicacao": "Com vestígios datados entre 22 mil e mais de 50 mil anos, esses sítios \"pré-Clóvis\" refutam a ideia de uma chegada humana exclusivamente tardia à América e reforçam a hipótese de múltiplas ondas migratórias muito mais antigas. Eles não alteram o consenso sobre a origem africana da espécie humana.",
+      "revisar": false
+    },
+    {
+      "id": "ger-pre-d-007",
+      "tipo": "multipla",
+      "pergunta": "O que os estudos genéticos e morfológicos realizados em vestígios como os do homem de Kennewick e de populações indígenas atuais sugerem sobre as origens dos primeiros americanos?",
+      "opcoes": [
+        "Que todos os indígenas americanos descendem exclusivamente de navegadores fenícios chegados no século IV a.C.",
+        "Que não houve qualquer contato entre populações asiáticas e o continente americano antes das grandes navegações europeias.",
+        "Que os povos nativos da América formavam um bloco genético e linguístico uniforme originado na Sibéria Ártica há 5 mil anos.",
+        "Que o povoamento envolveu múltiplas migrações com afinidades genéticas ligadas à Ásia Central (região do Lago Baical) e à Europa, possivelmente incluindo rotas marítimas."
+      ],
+      "correta": 3,
+      "explicacao": "Análises de DNA apontam marcadores genéticos próximos aos de populações da Europa e da Ásia Central (como o Lago Baical), e traços morfológicos como os de Kennewick reforçam a pluralidade de correntes migratórias terrestres e marítimas. A hipótese de chegada apenas na Antiguidade Clássica não tem respaldo científico.",
+      "revisar": false
+    },
+    {
+      "id": "ger-pre-d-008",
+      "tipo": "multipla",
+      "pergunta": "Ao comparar as hipóteses sobre as rotas de povoamento do continente americano, qual distinção a literatura especializada estabelece entre a rota do estreito de Bering e a rota transpacífica?",
+      "opcoes": [
+        "A travessia pelo estreito de Bering (grupos asiáticos pelo norte) é a hipótese mais aceita, enquanto a travessia pelo Pacífico (grupos da Austrália e Polinésia pelo sul) possui menor aceitação científica.",
+        "A rota do Pacífico é considerada a única comprovada por fósseis, enquanto a rota de Bering foi totalmente descartada pela climatologia.",
+        "Ambas as rotas explicam exclusivamente a ocupação da América Central, deixando a América do Sul desabitada até 1500 d.C.",
+        "A rota de Bering ocorreu por meio de navios a vela no Neolítico tardio, e a do Pacífico deu-se a pé sobre geleiras antárticas."
+      ],
+      "correta": 0,
+      "explicacao": "Embora haja consenso crescente sobre múltiplas migrações, a passagem terrestre pelo norte via estreito de Bering durante a glaciação mantém maior respaldo do que a hipótese de navegação pelo sul através do oceano Pacífico a partir da Oceania. A América do Sul apresenta vestígios humanos de dezenas de milhares de anos.",
+      "revisar": false
+    },
+    {
+      "id": "ger-pre-d-009",
+      "tipo": "multipla",
+      "pergunta": "Na interpretação de historiadores e arqueólogos como Pedro Paulo Funari, Francisco Silva Noeli e Benedito Prezia, o que a grande diversidade linguística e étnica dos povos indígenas americanos evidencia?",
+      "opcoes": [
+        "A fragmentação recente de uma única língua trazida pelos colonizadores europeus no século XVI.",
+        "A incapacidade das sociedades pré-colombianas de estabelecer redes de troca ou mobilidade territorial.",
+        "A antiguidade da ocupação humana e a ocorrência de sucessivos e distintos processos históricos de migração e diferenciação cultural.",
+        "A existência de um império centralizado que impôs a língua tupi a todo o continente há 50 mil anos."
+      ],
+      "correta": 2,
+      "explicacao": "A multiplicidade de troncos linguísticos (como a dispersão tupi há cerca de 3 a 4 mil anos) e de etnias atesta dezenas de milhares de anos de ocupação marcada por múltiplos fluxos migratórios, continuidades e descontinuidades históricas. Não houve um império continental único nem origem europeia dessas línguas.",
+      "revisar": false
+    },
+    {
+      "id": "ger-pre-d-010",
+      "tipo": "multipla",
+      "pergunta": "Na síntese antropológica formulada por André Leroi-Gourhan em 1965, por que é problemático fixar uma data exata para o \"aparecimento do homem\" na Pré-História?",
+      "opcoes": [
+        "Porque a própria definição de humanidade articula processos graduais tanto anatômicos (bipedalismo, expansão cerebral) quanto culturais (gesto, linguagem, técnica e arte).",
+        "Porque os métodos estratigráficos só conseguem datar camadas geológicas posteriores ao surgimento da escrita cuneiforme.",
+        "Porque não existem fósseis de hominídeos anteriores ao período Neolítico em nenhum continente.",
+        "Porque o bipedismo e o uso do fogo surgiram apenas após a domesticação dos cereais no Crescente Fértil."
+      ],
+      "correta": 0,
+      "explicacao": "Leroi-Gourhan demonstrou que a hominização resulta da interação contínua entre morfologia (cérebro e postura ereta) e cultura (ferramentas, fogo, linguagem e expressão simbólica), tornando artificial traçar uma fronteira cronológica pontual. Fósseis de hominídeos e o domínio do fogo antecedem o Neolítico em centenas de milhares de anos.",
+      "revisar": false
+    }
+  ]
+}

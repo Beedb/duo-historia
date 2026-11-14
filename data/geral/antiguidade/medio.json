@@ -1,0 +1,136 @@
+{
+  "materia": "geral",
+  "tempo": "antiguidade",
+  "dificuldade": "medio",
+  "licao": "Atenas, Esparta e Roma",
+  "questoes": [
+    {
+      "id": "ger-ant-m-001",
+      "tipo": "multipla",
+      "pergunta": "Qual relação histórica explica as reformas políticas de Sólon e Clístenes em Atenas ao longo do século VI a.C.?",
+      "opcoes": [
+        "Foram impostas pelos reis persas após a destruição de Atenas na Guerra do Peloponeso.",
+        "Resultaram da derrota definitiva de Atenas para o Império Macedônico na batalha de Queroneia.",
+        "Decorreram da abolição completa da escravidão e da concessão de voto às mulheres atenienses.",
+        "Foram impulsionadas pelas transformações econômicas, pela colonização e pela ascensão de uma classe média que pressionava a aristocracia."
+      ],
+      "correta": 3,
+      "explicacao": "Entre 750 e 600 a.C., a revolução econômica e a colonização grega fortaleceram uma classe média urbana e mercantil, gerando tensões sociais que culminaram nas reformas de Sólon e Clístenes e na construção da democracia. As guerras contra os persas e a Guerra do Peloponeso ocorreram no século V a.C.",
+      "revisar": false
+    },
+    {
+      "id": "ger-ant-m-002",
+      "tipo": "multipla",
+      "pergunta": "Por que a democracia ateniense do século V a.C., apesar de pioneira na participação cidadã, excluía a maioria dos habitantes da pólis?",
+      "opcoes": [
+        "Porque o poder político estava concentrado exclusivamente nas mãos de uma casta sacerdotal hereditária.",
+        "Porque se apoiava na mão de obra escrava e adotava um critério excludente que negava cidadania a quem não tivesse pai e mãe atenienses.",
+        "Porque exigia que todos os cidadãos fossem grandes proprietários de terras conquistadas na península Itálica.",
+        "Porque proibia a participação de artesãos, comerciantes e filósofos nas assembleias públicas."
+      ],
+      "correta": 1,
+      "explicacao": "A democracia ateniense coexistia com a escravidão (que sustentava a economia, inclusive nas minas) e restringia severamente os direitos políticos por critérios de nascimento, deixando mulheres, estrangeiros e escravos fora do corpo cívico. Atenas não possuía sacerdócio organizado no poder.",
+      "revisar": false
+    },
+    {
+      "id": "ger-ant-m-003",
+      "tipo": "multipla",
+      "pergunta": "Qual característica da organização religiosa das cidades-estados gregas favoreceu o desenvolvimento da filosofia e do espírito de livre exame?",
+      "opcoes": [
+        "A ausência de um sacerdócio organizado com poder para fixar dogmas religiosos ou controlar o intelecto e a moral.",
+        "A submissão obrigatória de todos os filósofos às decisões de um sumo sacerdote escolhido pelo rei.",
+        "A proibição legal de qualquer questionamento racional sobre a natureza e os fenômenos físicos.",
+        "A adoção do monoteísmo estatal imposto pelos impérios teocráticos do Oriente Próximo."
+      ],
+      "correta": 0,
+      "explicacao": "Diferentemente dos impérios orientais, onde monarcas absolutos apoiavam-se em cleros poderosos, a Grécia mantinha os sacerdotes em plano secundário e sem autoridade dogmática, permitindo que a razão e a investigação lógica prevalecessem sobre a superstição.",
+      "revisar": false
+    },
+    {
+      "id": "ger-ant-m-004",
+      "tipo": "multipla",
+      "pergunta": "Qual desdobramento político marcou a trajetória de Atenas após a vitória dos gregos sobre os persas e a formação da Liga de Delos?",
+      "opcoes": [
+        "A unificação pacífica de todas as cidades-estados gregas sob uma federação igualitária duradoura.",
+        "A renúncia de Atenas a qualquer atividade marítima ou comercial no mar Egeu.",
+        "O envolvimento ateniense em práticas imperialistas e guerras de agressão que levaram ao conflito com Esparta na Guerra do Peloponeso.",
+        "A conversão imediata de Atenas em uma província submetida à República Romana."
+      ],
+      "correta": 2,
+      "explicacao": "À frente da Liga de Delos, Atenas assumiu uma postura imperialista que acirrou rivalidades no mundo grego, desembocando na Guerra do Peloponeso (431-404 a.C.) contra Esparta e no subsequente declínio da democracia grega. A conquista romana ocorreu séculos depois.",
+      "revisar": false
+    },
+    {
+      "id": "ger-ant-m-005",
+      "tipo": "multipla",
+      "pergunta": "Qual foi uma das principais consequências sociais e agrárias das Guerras Púnicas (264-146 a.C.) e da expansão republicana para a população de Roma?",
+      "opcoes": [
+        "A distribuição gratuita de todas as terras públicas aos plebeus, eliminando os latifúndios escravistas.",
+        "A diminuição acentuada do número de escravos na Itália e o fortalecimento da pequena agricultura familiar.",
+        "O declínio do pequeno agricultor romano — afetado pela concorrência do trigo das províncias e pela expansão da escravidão — e o crescimento da multidão urbana.",
+        "O abandono da cidade de Roma pela aristocracia senatorial, que passou a viver exclusivamente nas ilhas gregas."
+      ],
+      "correta": 2,
+      "explicacao": "A entrada de grandes contingentes de escravos e de cereais baratos vindos das províncias conquistadas arruinou os pequenos camponeses romanos, concentrou terras e inchou as cidades com uma plebe empobrecida, motivando crises como a Revolta dos Gracos.",
+      "revisar": false
+    },
+    {
+      "id": "ger-ant-m-006",
+      "tipo": "multipla",
+      "pergunta": "Como se deu a assimilação da cultura helenística pela sociedade romana nos dois últimos séculos da República?",
+      "opcoes": [
+        "Os romanos adotaram integralmente a ciência e a arte helenísticas, mas proibiram o ensino de qualquer filosofia grega.",
+        "A influência helenística restringiu-se aos escravos das minas, sem alcançar as elites políticas de Roma.",
+        "Roma abandonou o latim e adotou o grego como único idioma oficial de suas leis e do Senado.",
+        "As classes elevadas incorporaram filosofias como o estoicismo (Cícero) e o epicurismo (Lucrécio), mas ignoraram em grande parte a ciência e a arte helenísticas."
+      ],
+      "correta": 3,
+      "explicacao": "O contato com o mundo helenístico estimulou o pensamento romano por meio do estoicismo (introduzido por Panécio de Rodes e adotado por Cícero) e do epicurismo (expresso por Lucrécio), embora Roma tenha demonstrado pouco interesse pelas realizações científicas e estéticas helenísticas.",
+      "revisar": false
+    },
+    {
+      "id": "ger-ant-m-007",
+      "tipo": "multipla",
+      "pergunta": "Qual mudança política fundamental distingue o Principado inaugurado por Augusto César (27 a.C.) da estrutura imperial consolidada nos séculos III e IV d.C.?",
+      "opcoes": [
+        "Augusto preservou uma \"ficção republicana\" em torno das instituições de Roma, enquanto nos séculos III e IV o regime tornou-se um Estado autocrático com um imperador sacralizado sobre súditos.",
+        "Augusto governou como monarca absoluto teocrático, ao passo que Diocleciano e Constantino restauraram as eleições livres da República.",
+        "O Principado baseava-se no cristianismo como religião oficial, enquanto o século IV restaurou os cultos pagãos antigos.",
+        "Durante o Principado o Império estava dividido em duas capitais, sendo reunificado definitivamente por Teodósio em 395 d.C."
+      ],
+      "correta": 0,
+      "explicacao": "No início do Império, Augusto manteve formalmente a aparência das magistraturas republicanas; com as crises posteriores, a ideologia imperial transformou-se em autocracia sacralizada, convertendo os antigos cidadãos em súditos. Teodósio, ao contrário, dividiu o Império em 395 d.C.",
+      "revisar": false
+    },
+    {
+      "id": "ger-ant-m-008",
+      "tipo": "multipla",
+      "pergunta": "Quais medidas político-religiosas marcaram o governo do imperador Teodósio I no final do século IV d.C. diante das crises internas e das pressões bárbaras?",
+      "opcoes": [
+        "A primeira grande perseguição sistemática aos cristãos e a transferência da capital para Atenas.",
+        "A oficialização do cristianismo como religião do Império pelo Édito de Tessalônica e a divisão territorial entre Ocidente e Oriente.",
+        "A abolição do Senado romano e a entrega imediata da cidade de Roma aos hérulos.",
+        "A proclamação da tolerância religiosa restrita apenas aos cultos orientais do mitraísmo e de Ísis."
+      ],
+      "correta": 1,
+      "explicacao": "Teodósio oficializou o cristianismo em todo o Império (Édito de Tessalônica), colocando-se como chefe da religião organizada, e dividiu o Império em 395 d.C. em duas partes: Ocidente (capital em Roma) e Oriente (capital em Constantinopla). A tolerância inicial aos cristãos havia ocorrido antes, em 311 d.C.",
+      "revisar": false
+    },
+    {
+      "id": "ger-ant-m-009",
+      "tipo": "verdadeiro_falso",
+      "pergunta": "Na Grécia Antiga, o escravo de Atenas e o hilota de Esparta possuíam o mesmo estatuto jurídico e desfrutavam de direitos políticos plenos nas assembleias de suas respectivas cidades.",
+      "correta": false,
+      "explicacao": "A afirmação é falsa porque os escravos-mercadoria de Atenas distinguiam-se institucionalmente dos hilotas espartanos, e em ambas as cidades os trabalhadores compulsórios eram excluídos da cidadania e das decisões políticas.",
+      "revisar": false
+    },
+    {
+      "id": "ger-ant-m-010",
+      "tipo": "verdadeiro_falso",
+      "pergunta": "Durante a República Romana, os conflitos sociais entre patrícios e plebeus resultaram em conquistas jurídicas importantes, como a elaboração da Lei das Doze Tábuas (c. 450 a.C.) e a aprovação da Lei Hortênsia (287 a.C.).",
+      "correta": true,
+      "explicacao": "A afirmativa é verdadeira, pois as lutas entre patrícios e plebeus ao longo dos séculos V a III a.C. impulsionaram a codificação das leis e a ampliação institucional dos direitos da plebe na República.",
+      "revisar": false
+    }
+  ]
+}

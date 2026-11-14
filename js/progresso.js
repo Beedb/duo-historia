@@ -90,6 +90,11 @@ function perderVida() {
   return restantes;
 }
 
+// Concluir uma revisão enche as vidas (regra do jogo)
+function restaurarVidas() {
+  salvarDado("vidas", VIDAS_MAX);
+}
+
 function minutosParaProximaVida() {
   if (lerVidas() >= VIDAS_MAX) return 0;
   const inicio = lerDado("recargaVidas", Date.now());
@@ -115,12 +120,45 @@ function registrarEstudo() {
   salvarDado("ultimoEstudo", hoje);
 }
 
-// --- Lições concluídas ---
+// --- Lições concluídas e desbloqueios ---
+// ids no formato "materia/tempo/nivel" (ex.: "brasil/colonia/facil")
 
-function marcarLicaoConcluida(idLicao) {
-  const salvas = lerDado("licoesConcluidas", []);
-  const concluidas = Array.isArray(salvas) ? salvas : [];
-  if (concluidas.includes(idLicao)) return;
-  concluidas.push(idLicao);
-  salvarDado("licoesConcluidas", concluidas);
+const PROXIMO_NIVEL = { facil: "medio", medio: "dificil" };
+const ACERTO_PARA_LIBERAR = 80; // %
+
+// Se o dado salvo estiver corrompido (não for lista), recomeça vazio
+function lerLista(chave) {
+  const salva = lerDado(chave, []);
+  return Array.isArray(salva) ? salva : [];
+}
+
+function adicionarNaLista(chave, valor) {
+  const lista = lerLista(chave);
+  if (lista.includes(valor)) return;
+  lista.push(valor);
+  salvarDado(chave, lista);
+}
+
+function licaoConcluida(idLicao) {
+  return lerLista("licoesConcluidas").includes(idLicao);
+}
+
+function nivelDesbloqueado(idLicao) {
+  return lerLista("desbloqueios").includes(idLicao);
+}
+
+// Marca a lição como concluída e, com 80% ou mais, libera o nível seguinte.
+// Devolve o id do nível liberado agora, ou null.
+function registrarConclusao(idLicao, porcentagem) {
+  adicionarNaLista("licoesConcluidas", idLicao);
+  if (porcentagem < ACERTO_PARA_LIBERAR) return null;
+
+  const [materia, tempo, nivel] = idLicao.split("/");
+  const proximo = PROXIMO_NIVEL[nivel];
+  if (!proximo) return null;
+
+  const idProximo = `${materia}/${tempo}/${proximo}`;
+  if (nivelDesbloqueado(idProximo)) return null;
+  adicionarNaLista("desbloqueios", idProximo);
+  return idProximo;
 }

@@ -1,0 +1,154 @@
+{
+  "materia": "geral",
+  "tempo": "antiguidade",
+  "dificuldade": "dificil",
+  "licao": "Escravismo, queda de Roma e helenismo",
+  "questoes": [
+    {
+      "id": "ger-ant-d-001",
+      "tipo": "fonte",
+      "trecho": "o escravo é uma propriedade que vive, um instrumento que é homem. Há homens assim feitos por natureza? Existem homens inferiores, tanto quanto a alma é superior ao corpo, e o homem ao bruto",
+      "autor": "Aristóteles",
+      "ano": "Século IV a.C.",
+      "pergunta": "No excerto da obra Política, qual estratégia argumentativa Aristóteles mobiliza para legitimar a escravidão na Antiguidade grega?",
+      "opcoes": [
+        "Defende que a escravidão é uma convenção jurídica temporária, contrária à ordem natural dos seres humanos.",
+        "Sustenta que a condição servil decorre exclusivamente de critérios raciais modernos baseados na cor da pele.",
+        "Naturaliza a submissão social ao compará-la à hierarquia entre alma e corpo, apresentando certos indivíduos como instrumentos vivos inferiores por natureza.",
+        "Propõe a abolição do trabalho escravo mediante a substituição imediata dos cativos por máquinas autônomas."
+      ],
+      "correta": 2,
+      "explicacao": "Aristóteles rejeita a tese de que a escravidão seja mera imposição legal, justificando-a como uma relação natural e útil análoga ao domínio da alma sobre o corpo. Embora mencione poeticamente estátuas automáticas de Dédalo, ele o faz apenas para ressaltar a indispensabilidade prática dos escravos no lar antigo.",
+      "revisar": false
+    },
+    {
+      "id": "ger-ant-d-002",
+      "tipo": "multipla",
+      "pergunta": "Qual problema metodológico a historiografia contemporânea aponta ao afirmar de modo genérico que \"Grécia e Roma foram civilizações baseadas no modo de produção escravista\"?",
+      "opcoes": [
+        "A generalização abusiva de um modelo teórico para todo o espaço e tempo greco-romano, ignorando regiões onde outras formas de trabalho predominaram.",
+        "A negação de que tenha existido qualquer forma de trabalho compulsório em Atenas ou na península Itálica.",
+        "A confusão entre o escravismo antigo e o trabalho assalariado industrial desenvolvido nas pólis gregas.",
+        "A ideia defendida por Moses Finley de que a simples captura de prisioneiros de guerra basta para explicar uma economia escravista."
+      ],
+      "correta": 0,
+      "explicacao": "O \"modo de produção escravista\" é um instrumento analítico que não deve ser estendido indistintamente a todas as regiões e épocas do mundo greco-romano, pois o trabalho escravo conviveu com outras formas laborais e só se tornou dominante em contextos específicos. Finley argumentou justamente que a abundância de prisioneiros não explica sozinha a estruturação de uma sociedade escravista.",
+      "revisar": false
+    },
+    {
+      "id": "ger-ant-d-003",
+      "tipo": "multipla",
+      "pergunta": "Ao comparar as formas de cativeiro na Antiguidade clássica, no Oriente Próximo e na África tradicional, qual contraste a análise histórica evidencia?",
+      "opcoes": [
+        "Em Atenas, todos os escravos recebiam salários iguais aos dos cidadãos e votavam na assembleia.",
+        "No Código de Hamurabi, todos os prisioneiros de guerra (asiru) possuíam plena cidadania jurídica.",
+        "Na África tradicional, os cativos eram sempre tratados como mercadorias isoladas, sem qualquer laço familiar.",
+        "Em Atenas havia forte diferenciação interna (de domésticos e mestres até mineiros acorrentados), enquanto no cativeiro africano tradicional o cativo tendia a ser integrado à família."
+      ],
+      "correta": 3,
+      "explicacao": "As fontes históricas mostram que a escravidão antiga comportava situações muito distintas — como em Atenas, onde escravos domésticos ou qualificados podiam acumular pecúlio e obter alforria, ao passo que os das minas sofriam exploração extrema —, diferindo também do cativeiro africano tradicional, em que o prisioneiro costumava integrar-se à família ampliada.",
+      "revisar": false
+    },
+    {
+      "id": "ger-ant-d-004",
+      "tipo": "fonte",
+      "trecho": "Roma, envelhecida, aspirava ao repouso",
+      "autor": "Amiano Marcelino",
+      "ano": "Século IV d.C.",
+      "pergunta": "A síntese de Amiano Marcelino sobre o estado do Império Romano no século IV dialoga com qual interpretação historiográfica acerca da queda do Ocidente?",
+      "opcoes": [
+        "A tese de que a deposição de Rômulo Augústulo em 476 foi um acidente repentino sem antecedentes internos.",
+        "A análise de que o enfraquecimento do espírito cívico e militar romano e a terceirização da defesa a mercenários bárbaros minaram a capacidade de sobrevivência do Ocidente.",
+        "A visão de que o Império Romano do Ocidente atingiu seu auge demográfico e expansionista no século V d.C.",
+        "A ideia de que os imperadores do Baixo-Império restauraram plenamente a democracia republicana participativa."
+      ],
+      "correta": 1,
+      "explicacao": "A expressão de Amiano Marcelino ilustra a perda de vigor cívico e castrense observada nos séculos finais do Império, fator que historiadores associam à \"privatização\" da defesa militar por meio de contingentes não romanos e à incapacidade de sustentar o sistema diante das invasões. O colapso de 476 foi o desfecho de um processo secular, não um evento súbito.",
+      "revisar": true
+    },
+    {
+      "id": "ger-ant-d-005",
+      "tipo": "multipla",
+      "pergunta": "No debate historiográfico moderno sobre o fim do Império Romano do Ocidente, qual oposição central divide os especialistas quanto à natureza do processo ocorrido entre os séculos III e V?",
+      "opcoes": [
+        "A disputa entre os que atribuem a queda à descoberta da América e os que a explicam pela Revolução Industrial.",
+        "O conflito entre arqueólogos que negam a existência do Império Bizantino e historiadores que negam as invasões germânicas.",
+        "O contraste entre os que interpretam o período como decadência irreversível (por causas internas ou externas) e os que o veem como transformação estrutural similar à do Oriente.",
+        "A divergência sobre se Júlio César foi deposto pelos hérulos em 476 d.C. ou pelos persas no século I a.C."
+      ],
+      "correta": 2,
+      "explicacao": "A historiografia debate se o Baixo-Império constituiu um declínio fatal — impulsionado por crises internas e golpeado externamente pelos bárbaros — ou uma metamorfose histórica que, no Oriente, permitiu a continuidade imperial. Compreender por que o Oriente sobreviveu é considerado chave para explicar o colapso ocidental.",
+      "revisar": false
+    },
+    {
+      "id": "ger-ant-d-006",
+      "tipo": "multipla",
+      "pergunta": "Por que a historiografia crítica rejeita as explicações puramente moralistas sobre a queda de Roma — tanto as de autores antigos pagãos e cristãos quanto as de modernos que citam sátiras sobre a libertinagem?",
+      "opcoes": [
+        "Porque tais leituras reduzem processos estruturais a julgamentos morais ou à intervenção divina, ignorando que a moralidade romana tornou-se mais austera nos séculos finais.",
+        "Porque não sobreviveu nenhum texto escrito por autores cristãos ou pagãos dos séculos III a V d.C.",
+        "Porque o cristianismo foi proibido em todo o Império Romano até a queda de Constantinopla em 1453.",
+        "Porque os historiadores antigos nunca se preocuparam em explicar as derrotas militares de Roma diante dos bárbaros."
+      ],
+      "correta": 0,
+      "explicacao": "Tanto apologistas cristãos (que viam nas crises um castigo divino contra o paganismo) quanto pagãos (que culpavam o abandono dos deuses tradicionais) recorriam a explicações moralizantes, enquanto moralistas modernos ignoram que religiões ascéticas tornaram os costumes mais rígidos antes do colapso. Os fatores determinantes foram de ordem política, militar, econômica e social.",
+      "revisar": false
+    },
+    {
+      "id": "ger-ant-d-007",
+      "tipo": "multipla",
+      "pergunta": "Qual articulação entre fatores econômicos, sociais e militares explica o agravamento da crise romana nos séculos III a V d.C.?",
+      "opcoes": [
+        "O superávit financeiro constante permitiu abolir todos os impostos sobre os camponeses, esvaziando os cofres do exército.",
+        "A expansão acelerada da conquista de novos territórios multiplicou a oferta de escravos baratos até o século V.",
+        "A igualdade jurídica plena entre ricos e pobres eliminou as revoltas sociais nas províncias da Gália e da Hispânia.",
+        "O fim das conquistas reduziu a mão de obra escrava e a produção, gerando inflação, fissura legal entre Honestiores e Humiliores, revoltas como as dos Bagaudas e dependência de mercenários."
+      ],
+      "correta": 3,
+      "explicacao": "Esgotado o expansionismo, a crise produtiva e fiscal levou o Estado a prender colonos e artesãos às suas funções, acentuou a desigualdade entre Honestiores (com padrão ouro) e Humiliores (com moeda de cobre desvalorizada), provocou levantes como os dos Bagaudas e fragilizou as legiões reduzidas. Não houve abolição de impostos nem igualdade jurídica.",
+      "revisar": false
+    },
+    {
+      "id": "ger-ant-d-008",
+      "tipo": "multipla",
+      "pergunta": "Qual crítica historiográfica é dirigida à visão tradicional que interpreta a Época Helenística apenas como um \"capítulo final degenerado\" da história da Grécia Clássica?",
+      "opcoes": [
+        "A civilização helenística nunca utilizou a língua grega nem manteve qualquer vínculo com as conquistas de Alexandre.",
+        "O helenismo constituiu uma nova formação cultural e social, resultante da fusão entre elementos gregos e orientais, com espírito próprio distinto da Idade Áurea ateniense.",
+        "A época helenística caracterizou-se pelo retorno às pequenas cidades-estados democráticas e pela rejeição às monarquias.",
+        "Durante o período helenístico ocorreu uma estagnação completa das ciências matemáticas e astronômicas."
+      ],
+      "correta": 1,
+      "explicacao": "Embora mantivesse o idioma grego, o mundo helenístico não foi uma mera decadência da Grécia clássica, mas uma nova civilização marcada pela síntese greco-oriental, pelo despotismo monárquico, pelo cosmopolitismo e por notáveis avanços científicos. A democracia clássica das pólis havia sido superada.",
+      "revisar": false
+    },
+    {
+      "id": "ger-ant-d-009",
+      "tipo": "multipla",
+      "pergunta": "Ao comparar a produção cultural e filosófica da Grécia Clássica com a do período helenístico, qual deslocamento de perspectiva se destaca?",
+      "opcoes": [
+        "A substituição das religiões místicas de salvação pelo culto cívico exclusivo aos deuses olímpicos das cidades-estados.",
+        "A passagem de uma arte marcada pelo pessimismo e pela dor para uma escultura pautada exclusivamente pela moderação e pelo equilíbrio.",
+        "A transição do racionalismo cívico e do ideal clássico de equilíbrio para filosofias individualistas (estoicismo, epicurismo, ceticismo), arte realista dramática e cultos orientais de salvação.",
+        "O abandono completo das utopias literárias e do interesse pelo bem-estar individual em favor do nacionalismo patriótico."
+      ],
+      "correta": 2,
+      "explicacao": "Com o fim da autonomia das pólis e o aumento das tensões sociais, o ideal clássico deu lugar à busca individual de tranquilidade interior (estoicismo e epicurismo), ao realismo patético na escultura (como no Laocoonte) e à difusão de religiões orientais de salvação (Ísis, mitraísmo). O sentido da transição foi do cívico-clássico ao individual-cosmopolita, e não o inverso.",
+      "revisar": false
+    },
+    {
+      "id": "ger-ant-d-010",
+      "tipo": "multipla",
+      "pergunta": "Na comparação entre a civilização helenística e a época moderna, qual diferença estrutural impede que se identifique plenamente os dois períodos?",
+      "opcoes": [
+        "A mentalidade política helenística era cosmopolita e não conheceu o patriotismo nacionalista nem uma revolução industrial.",
+        "O mundo helenístico desconheceu grandes centros urbanos, comércio de longa distância ou desigualdades entre ricos e pobres.",
+        "A época helenística rejeitou qualquer especialização nos estudos científicos e proibiu o comércio monetário.",
+        "A sociedade moderna baseia-se no despotismo sacralizado e na ausência total de ciência pura desinteressada."
+      ],
+      "correta": 0,
+      "explicacao": "Apesar de semelhanças como metrópoles congestionadas, comércio amplo e especialização técnica, a época helenística pautava-se pelo cosmopolitismo (sem estados-nação modernos) e não desenvolveu uma revolução industrial, além de possuir uma ciência menos voltada à pesquisa pura desinteressada.",
+      "revisar": false
+    }
+  ]
+}

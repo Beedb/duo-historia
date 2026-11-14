@@ -1,0 +1,80 @@
+{
+  "materia": "brasil",
+  "tempo": "colonia",
+  "dificuldade": "dificil",
+  "licao": "Revoltas coloniais e leitura de fontes",
+  "questoes": [
+    {
+      "id": "bra-col-d-001",
+      "tipo": "verdadeiro_falso",
+      "pergunta": "A Guerra dos Mascates envolveu o conflito entre os senhores de engenho de Olinda, que controlavam a câmara municipal local, e os comerciantes de Recife, que buscavam autonomia administrativa para seu povoado.",
+      "correta": true,
+      "explicacao": "A afirmação está correta, pois a crise açucareira após a saída dos holandeses agravou as tensões entre a endividada aristocracia rural olindense e os mercadores recifenses.",
+      "revisar": false
+    },
+    {
+      "id": "bra-col-d-002",
+      "tipo": "fonte",
+      "trecho": "havia um só entendimento, uma só vontade, e um só poder, e este é de quem governa.",
+      "autor": "Padre Antônio Vieira",
+      "ano": "1655",
+      "pergunta": "A que característica da administração colonial portuguesa o trecho da carta de Vieira faz crítica direta?",
+      "opcoes": [
+        "À autonomia excessiva das assembleias indígenas nas missões jesuíticas.",
+        "À concentração de autoridade e aos abusos cometidos pelos governadores coloniais.",
+        "À livre concorrência comercial permitida aos mercadores estrangeiros nos portos.",
+        "À divisão igualitária dos poderes executivo e judiciário nas vilas brasileiras."
+      ],
+      "correta": 1,
+      "explicacao": "O trecho denuncia o centralismo e os abusos de autoridade dos representantes do governo colonial, que concentravam decisões sem freios locais. Não havia separação moderna de poderes nem liberdade comercial plena naquele contexto.",
+      "revisar": true
+    },
+    {
+      "id": "bra-col-d-003",
+      "tipo": "fonte",
+      "trecho": "cidade esquisita, de casas sem moradores, pois os proprietários passavam mais tempo em suas roças rurais, só acudindo no tempo das festas.",
+      "autor": "Frei Vicente do Salvador",
+      "ano": "Século XVI",
+      "pergunta": "O relato sobre a capital da colônia evidencia qual característica estrutural da sociedade brasileira no século XVI?",
+      "opcoes": [
+        "O predomínio da vida rural sobre os núcleos urbanos, que dependiam do campo.",
+        "O abandono definitivo da agricultura em favor das atividades industriais urbanas.",
+        "A proibição régia de construir residências permanentes nas cidades litorâneas.",
+        "A concentração da maior parte da população livre em grandes metrópoles comerciais."
+      ],
+      "correta": 0,
+      "explicacao": "O depoimento mostra que a população colonial vivia majoritariamente no meio rural, tornando as cidades centros esvaziados e subordinados às propriedades agrárias. A atividade industrial era incipiente ou proibida, e não havia proibição de morar no litoral.",
+      "revisar": true
+    },
+    {
+      "id": "bra-col-d-004",
+      "tipo": "multipla",
+      "pergunta": "Em qual capitania ocorreu a revolta liderada pelos irmãos Beckman, em 1684, contra os monopólios e restrições impostos pela companhia de comércio metropolitana?",
+      "opcoes": [
+        "Bahia",
+        "Maranhão",
+        "Minas Gerais",
+        "Rio de Janeiro"
+      ],
+      "correta": 1,
+      "explicacao": "A Revolta de Beckman eclodiu no Maranhão em 1684, motivada pelo descontentamento de colonos e comerciantes locais com o monopólio da Companhia de Comércio do Maranhão. Diferente das revoltas mineiras do século XVIII, seu foco era o abastecimento e o comércio no Norte.",
+      "revisar": false
+    },
+    {
+      "id": "bra-col-d-005",
+      "tipo": "verdadeiro_falso",
+      "pergunta": "A Revolta de Vila Rica, ocorrida em 1720, tinha como objetivo principal proclamar a independência política do Brasil e romper definitivamente todos os laços com a Coroa portuguesa.",
+      "correta": false,
+      "explicacao": "A afirmativa é falsa porque os movimentos coloniais do início do século XVIII, como a Revolta de Vila Rica, contestavam impostos e mecanismos de fiscalização da metrópole, sem propor ainda a emancipação nacional.",
+      "revisar": false
+    },
+    {
+      "id": "bra-col-d-006",
+      "tipo": "verdadeiro_falso",
+      "pergunta": "A Revolução Pernambucana de 1817 foi impulsionada pelo aumento de impostos destinados a custear a Corte no Rio de Janeiro, combinado à queda nos preços internacionais do açúcar e do algodão.",
+      "correta": true,
+      "explicacao": "A afirmação é verdadeira, pois a crise econômica na capitania e o peso tributário imposto pelo período joanino levaram camadas médias e grupos populares a depor o governador e proclamar uma república em Recife.",
+      "revisar": false
+    }
+  ]
+}

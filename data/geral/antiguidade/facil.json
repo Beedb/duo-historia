@@ -1,0 +1,148 @@
+{
+  "materia": "geral",
+  "tempo": "antiguidade",
+  "dificuldade": "facil",
+  "licao": "Primeiras civilizações, Grécia e Roma",
+  "questoes": [
+    {
+      "id": "ger-ant-f-001",
+      "tipo": "multipla",
+      "pergunta": "Como é denominado o processo histórico desenvolvido originalmente na antiga Mesopotâmia, entre 3000 a.C. e 500 a.C., marcado pelo surgimento das primeiras cidades estáveis?",
+      "opcoes": [
+        "Revolução industrial",
+        "Revolução urbana",
+        "Reforma agrária",
+        "Diáspora helenística"
+      ],
+      "correta": 1,
+      "explicacao": "A revolução urbana designa o processo prolongado em que grupos humanos da Mesopotâmia passaram a viver em aglomerações estáveis, originando as primeiras cidades da história. A revolução industrial ocorreu milênios mais tarde na Europa moderna.",
+      "revisar": false
+    },
+    {
+      "id": "ger-ant-f-002",
+      "tipo": "multipla",
+      "pergunta": "Quais dois grandes rios banhavam o vale fértil da antiga Mesopotâmia, região conquistada sucessivamente por babilônios, assírios e caldeus?",
+      "opcoes": [
+        "Nilo e Jordão",
+        "Indo e Ganges",
+        "Tibre e Pó",
+        "Tigre e Eufrates"
+      ],
+      "correta": 3,
+      "explicacao": "A civilização mesopotâmica desenvolveu-se no vale dos rios Tigre e Eufrates, território correspondente ao atual Iraque. O rio Nilo localiza-se no Egito e o rio Tibre banha a cidade de Roma.",
+      "revisar": false
+    },
+    {
+      "id": "ger-ant-f-003",
+      "tipo": "multipla",
+      "pergunta": "No Egito Antigo, como eram chamadas as coletividades locais e regionais situadas às margens do rio Nilo antes de serem unificadas sob o governo de um faraó?",
+      "opcoes": [
+        "Nomos",
+        "Pólis",
+        "Feitorias",
+        "Satrapias"
+      ],
+      "correta": 0,
+      "explicacao": "Os nomos eram as unidades locais lideradas por nomarcas que organizavam a construção de diques e canais de irrigação no vale do Nilo antes da unificação faraônica. Pólis era o nome das cidades-estados gregas.",
+      "revisar": false
+    },
+    {
+      "id": "ger-ant-f-004",
+      "tipo": "multipla",
+      "pergunta": "Qual cidade fundada no Egito após as conquistas de Alexandre Magno tornou-se um dos principais centros da cultura helenística e abrigou um célebre farol de quase 120 metros de altura?",
+      "opcoes": [
+        "Tebas",
+        "Mênfis",
+        "Alexandria",
+        "Cartum"
+      ],
+      "correta": 2,
+      "explicacao": "Alexandria, situada na embocadura do Nilo, destacou-se como polo científico, filosófico e arquitetônico do mundo helenístico, célebre por seu monumental farol. Mênfis e Tebas foram antigas capitais do Egito faraônico.",
+      "revisar": false
+    },
+    {
+      "id": "ger-ant-f-005",
+      "tipo": "multipla",
+      "pergunta": "De qual povo da Antiguidade Oriental os gregos adaptaram a base de seu alfabeto?",
+      "opcoes": [
+        "Fenícios",
+        "Persas",
+        "Assírios",
+        "Hititas"
+      ],
+      "correta": 0,
+      "explicacao": "O alfabeto grego teve origem no sistema de escrita criado pelos fenícios, povo marítimo estabelecido no vale do Líbano. Os persas e assírios governaram grandes impérios continentais no Oriente Próximo.",
+      "revisar": false
+    },
+    {
+      "id": "ger-ant-f-006",
+      "tipo": "multipla",
+      "pergunta": "Qual autor da Grécia Antiga, considerado o \"pai da história\", utilizou o termo \"bárbaros\" para designar os povos não gregos que desconheciam a língua e a cultura helênicas?",
+      "opcoes": [
+        "Homero",
+        "Sófocles",
+        "Fídias",
+        "Heródoto"
+      ],
+      "correta": 3,
+      "explicacao": "Heródoto (484-425 a.C.) é tradicionalmente reconhecido como o pai da história e empregou a noção de bárbaro para referir-se aos estrangeiros externos ao mundo grego. Homero foi o poeta épico da Ilíada e da Odisseia.",
+      "revisar": false
+    },
+    {
+      "id": "ger-ant-f-007",
+      "tipo": "multipla",
+      "pergunta": "Qual conquistador macedônico promoveu a expansão que difundiu a cultura grega pelo Oriente entre 336 a.C. e 323 a.C., dando origem à época helenística após sua morte?",
+      "opcoes": [
+        "Péricles",
+        "Alexandre Magno",
+        "Leônidas",
+        "Sócrates"
+      ],
+      "correta": 1,
+      "explicacao": "Alexandre Magno comandou a conquista do Império Persa e fundou diversas cidades chamadas Alexandria, desencadeando a fusão cultural conhecida como helenismo após sua morte em 323 a.C. Péricles foi um estadista da Atenas clássica.",
+      "revisar": false
+    },
+    {
+      "id": "ger-ant-f-008",
+      "tipo": "multipla",
+      "pergunta": "Qual série de guerras travadas entre 264 a.C. e 146 a.C. impulsionou o expansionismo de Roma pelo Mediterrâneo durante o período republicano?",
+      "opcoes": [
+        "Guerras Médicas",
+        "Guerra de Troia",
+        "Guerras Púnicas",
+        "Guerra do Peloponeso"
+      ],
+      "correta": 2,
+      "explicacao": "As Guerras Púnicas (264-146 a.C.) marcaram a expansão militar de Roma na República e trouxeram profundas transformações sociais e econômicas. As Guerras Médicas e a do Peloponeso pertencem à história da Grécia.",
+      "revisar": false
+    },
+    {
+      "id": "ger-ant-f-009",
+      "tipo": "multipla",
+      "pergunta": "Qual governante inaugurou o Principado em Roma em 27 a.C., dando início ao período imperial após a crise da República e a ditadura de Júlio César?",
+      "opcoes": [
+        "Nero",
+        "Augusto César",
+        "Constantino",
+        "Teodósio"
+      ],
+      "correta": 1,
+      "explicacao": "Augusto César iniciou o Principado (27 a.C.–14 d.C.), estabelecendo o regime imperial romano. Constantino e Teodósio governaram séculos mais tarde, durante o Baixo-Império.",
+      "revisar": false
+    },
+    {
+      "id": "ger-ant-f-010",
+      "tipo": "multipla",
+      "pergunta": "Quem foi o último imperador romano do Ocidente, deposto em 476 d.C. após a invasão da cidade de Roma pelo povo bárbaro dos hérulos?",
+      "opcoes": [
+        "Marco Aurélio",
+        "Diocleciano",
+        "Júlio César",
+        "Rômulo Augústulo"
+      ],
+      "correta": 3,
+      "explicacao": "A deposição de Rômulo Augústulo (também referido como Rômulo Augusto) em 476 d.C. simbolizou o fim do Império Romano do Ocidente. Diocleciano e Marco Aurélio governaram nos séculos II e III d.C.",
+      "revisar": false
+    }
+  ]
+}

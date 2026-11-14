@@ -173,3 +173,144 @@ h1 {
   font-weight: 700;
   margin: 0;
 }
+
+/* --- Fase 3: trilha --- */
+
+.botao-secundario {
+  background: var(--fundo);
+  color: var(--primaria);
+  border: 2px solid var(--primaria);
+  font-weight: 600;
+}
+
+.botao-secundario:disabled {
+  color: var(--texto-suave);
+  border-color: var(--borda);
+  cursor: default;
+}
+
+.aviso:empty {
+  display: none;
+}
+
+.aviso {
+  margin: 0;
+  color: var(--errado);
+}
+
+.lista-materias {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+
+.materia-bloco {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.materia-bloco h2 {
+  font-size: 1.25rem;
+  margin: 0;
+}
+
+.tempo-cartao {
+  border: 2px solid var(--borda);
+  border-radius: 12px;
+  padding: 12px;
+}
+
+.tempo-cartao h3 {
+  font-size: 1rem;
+  margin: 0 0 10px;
+}
+
+/* 3 colunas quando cabe; em tela muito estreita os botões quebram de linha */
+.niveis {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(92px, 1fr));
+  gap: 8px;
+}
+
+.botao-nivel {
+  padding: 8px;
+  font-size: 0.95rem;
+  background: var(--fundo);
+  color: var(--texto);
+  border: 2px solid var(--borda);
+}
+
+.botao-nivel:disabled {
+  background: #f3f4f6;
+  color: var(--texto-suave);
+  cursor: default;
+}
+
+.em-breve {
+  margin: 0;
+  color: var(--texto-suave);
+  font-size: 0.9rem;
+}
+
+.em-breve:empty {
+  display: none;
+}
+
+/* --- Tela de questão --- */
+
+.topo-questao {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.topo-questao .barra {
+  flex: 1;
+}
+
+.botao-sair {
+  min-width: 44px;
+  padding: 8px;
+  background: transparent;
+  border: none;
+  color: var(--texto-suave);
+  font-size: 1.2rem;
+}
+
+.tipo-questao {
+  margin: 0;
+  font-weight: 700;
+  color: var(--primaria);
+}
+
+.tipo-questao:empty {
+  display: none;
+}
+
+.trecho {
+  margin: 0;
+  padding: 12px 16px;
+  border-left: 4px solid var(--primaria);
+  background: #eff6ff;
+  border-radius: 0 12px 12px 0;
+}
+
+.trecho p {
+  margin: 0 0 6px;
+  font-style: italic;
+}
+
+.trecho cite {
+  color: var(--texto-suave);
+  font-size: 0.9rem;
+}
+
+.resultado-extra {
+  margin: 0;
+  font-weight: 600;
+}
+
+.resultado-extra:empty {
+  display: none;
+}

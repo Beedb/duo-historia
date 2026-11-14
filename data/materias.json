@@ -1,0 +1,43 @@
+{
+  "niveis": [
+    { "id": "facil", "nome": "Fácil", "icone": "🟢" },
+    { "id": "medio", "nome": "Médio", "icone": "🟡" },
+    { "id": "dificil", "nome": "Difícil", "icone": "🔴" }
+  ],
+  "materias": [
+    {
+      "id": "geral",
+      "nome": "História Geral",
+      "tempos": [
+        { "id": "pre-historia", "nome": "Pré-história", "disponivel": true },
+        { "id": "antiguidade", "nome": "Antiguidade", "disponivel": true },
+        { "id": "idade-media", "nome": "Idade Média", "disponivel": false },
+        { "id": "idade-moderna", "nome": "Idade Moderna", "disponivel": false },
+        { "id": "contemporanea", "nome": "Contemporânea", "disponivel": false }
+      ]
+    },
+    {
+      "id": "brasil",
+      "nome": "História do Brasil",
+      "tempos": [
+        { "id": "colonia", "nome": "Colônia (1500–1822)", "disponivel": true },
+        { "id": "imperio", "nome": "Império (1822–1889)", "disponivel": false },
+        { "id": "republica-velha", "nome": "República Velha (1889–1930)", "disponivel": false },
+        { "id": "era-vargas", "nome": "Era Vargas (1930–1945)", "disponivel": false },
+        { "id": "democracia", "nome": "Democracia (1945–1964)", "disponivel": false },
+        { "id": "ditadura", "nome": "Ditadura (1964–1985)", "disponivel": false },
+        { "id": "nova-republica", "nome": "Nova República (1985–hoje)", "disponivel": false }
+      ]
+    },
+    {
+      "id": "america",
+      "nome": "História da América",
+      "tempos": []
+    },
+    {
+      "id": "africa",
+      "nome": "História da África",
+      "tempos": []
+    }
+  ]
+}

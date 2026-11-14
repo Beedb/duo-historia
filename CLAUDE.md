@@ -1,7 +1,7 @@
 # CLAUDE.md
 
 ## Projeto
-App de estudos estilo Duolingo para **História**. Lições curtas, questões com feedback imediato, XP, vidas, streak e revisão de erros. Conteúdo organizado por **matéria → tempo → dificuldade**. Nome provisório: **Duo História**.
+App de estudos estilo Duolingo para **História**. Lições curtas, questões com feedback imediato, XP, vidas, streak e revisão de erros. Conteúdo organizado por **matéria → tempo → dificuldade**. Nome: **DUOPobre** (pasta `DUOPobre/`).
 
 ## Sobre o usuário
 - Ded, estudante no Brasil.
@@ -73,7 +73,7 @@ Matéria → Tempo → Dificuldade → Lições → Questões
 
 ## Estrutura de pastas
 ```
-duo-historia/
+DUOPobre/
 ├── CLAUDE.md
 ├── index.html
 ├── css/
@@ -82,22 +82,22 @@ duo-historia/
 │   ├── app.js          # inicialização e navegação entre telas
 │   ├── licao.js        # lógica da lição (questões, acerto/erro)
 │   ├── progresso.js    # XP, vidas, streak, desbloqueios, localStorage
-│   └── revisao.js      # erros e repetição espaçada
+│   ├── revisao.js      # erros e repetição espaçada
+│   └── trilha.js       # tela de matérias/tempos/níveis e bloqueio
 ├── data/
-│   ├── materias.json   # matérias, tempos e níveis
+│   ├── materias.json   # matérias, tempos (com "disponivel") e níveis
 │   ├── geral/
-│   │   └── antiguidade/
-│   │       ├── facil.json
-│   │       ├── medio.json
-│   │       └── dificil.json
+│   │   ├── pre-historia/   facil.json  medio.json  dificil.json
+│   │   └── antiguidade/    facil.json  medio.json  dificil.json
 │   └── brasil/
-│       └── colonia/
-│           ├── facil.json
-│           ├── medio.json
-│           └── dificil.json
-├── manifest.json
-└── service-worker.js
+│       └── colonia/        facil.json  medio.json  dificil.json
+├── docs/
+│   └── prompts-notebooklm.md   # prompts para gerar questões
+├── manifest.json       # (futuro)
+└── service-worker.js   # (futuro)
 ```
+
+Cada arquivo de `data/` é **um objeto de lição** (não um array solto), no formato abaixo.
 
 ## Formato dos dados
 
@@ -127,13 +127,17 @@ Padrão de `id`: `<materia>-<tempo>-<nivel>-<numero>` (ex.: `bra-col-f-001`; `f`
 
 ### Tipos de questão
 - `multipla`: múltipla escolha.
-- `verdadeiro_falso`: afirmativa com `true` ou `false`.
+- `verdadeiro_falso`: a `pergunta` é uma afirmativa; `correta` é `true` ou `false`; não tem `opcoes`.
 - `lacuna`: completar a frase (ex.: "A Revolução Francesa começou em ____").
 - `ordenar`: colocar fatos em ordem cronológica (muito útil em História).
 - `ligar`: ligar personagem, evento e data.
-- `fonte`: trecho curto de documento ou imagem + pergunta (principalmente no nível difícil).
+- `fonte`: campos extras `trecho` (até 40 palavras), `autor` e `ano`; depois segue como `multipla` (`pergunta`, `opcoes`, `correta`). Usado principalmente no nível difícil.
 
 Todo tipo precisa de: pergunta, resposta correta e explicação.
+
+**Suporte no app hoje:** `licao.js` mostra `multipla`, `verdadeiro_falso` e `fonte`. Os outros tipos (`lacuna`, `ordenar`, `ligar`) são ignorados até a Fase 5. Questões com `"revisar": true` também são ignoradas.
+
+**Tempo novo:** criar os 3 JSONs em `data/<materia>/<tempo>/` e mudar `"disponivel"` para `true` em `data/materias.json`.
 
 ### Progresso (`localStorage`)
 - `xp`: número
@@ -143,7 +147,7 @@ Todo tipo precisa de: pergunta, resposta correta e explicação.
 - `ultimoEstudo`: data ISO (`YYYY-MM-DD`)
 - `licoesConcluidas`: lista de ids (`materia/tempo/nivel`)
 - `desbloqueios`: lista de níveis liberados
-- `erros`: lista de `{ id, proximaRevisao, nivel }`
+- `erros`: lista de `{ id, origem, proximaRevisao, nivel }` (`origem` = id da lição, ex.: `brasil/colonia/facil`; `nivel` = etapa da revisão: 0, 1, 2)
 
 Sempre envolver leitura e escrita em `try/catch`.
 
@@ -151,6 +155,7 @@ Sempre envolver leitura e escrita em `try/catch`.
 - +10 XP por acerto no facil, +15 no medio, +20 no dificil.
 - 5 vidas. Cada erro tira 1. Sem vidas, a lição termina.
 - Vidas regeneram a cada 30 minutos ou ao concluir uma revisão.
+- Revisão não gasta vidas (pode ser feita com 0 vidas). Errar na revisão volta a questão para 1 dia; acertar a etapa de 7 dias tira a questão da revisão.
 - Streak sobe se estudou hoje e ontem. Zera se pular um dia.
 - Questão errada vai para a revisão: volta em 1 dia, depois 3, depois 7.
 
@@ -171,6 +176,12 @@ Sempre envolver leitura e escrita em `try/catch`.
 
 Trabalhar **uma fase por vez**. Não começar a seguinte sem a atual funcionando.
 
+### Estado atual
+- Fases 1 a 4 prontas: trilha com desbloqueio, XP, vidas, streak, revisão com repetição espaçada.
+- Adiantado da Fase 5: `verdadeiro_falso` e `fonte` (os dados já tinham esses tipos).
+- Próxima fase: **5 (Novos tipos)**. Falta: `ordenar`, `ligar`, `lacuna`.
+- Pendente: PWA, APK.
+
 ## Convenções de código
 - Nomes de variáveis e funções em português, `camelCase` (`mostrarQuestao`, `calcularXp`).
 - Um arquivo JS por responsabilidade.
@@ -187,12 +198,47 @@ Trabalhar **uma fase por vez**. Não começar a seguinte sem a atual funcionando
 - Usar linguagem neutra em temas sensíveis (escravidão, ditadura, genocídios): factual e sem sensacionalismo.
 - Para `fonte`, usar apenas documentos de domínio público ou trechos curtos citados com autor e ano.
 - Não inventar fatos, datas ou citações.
+- Questões com `"revisar": true` **não entram nas lições do app** até serem conferidas (o app deve filtrá-las; ao conferir, mudar para `false`).
+- `id` único em todo o projeto, no padrão `<materia>-<tempo>-<nivel>-<numero>`. Sem tempo (América, África): `ame-f-001`, `afr-m-001`.
+- O `correta` das questões geradas segue um padrão previsível (0,1,2,3...). Embaralhar as `opcoes` em `licao.js` e recalcular o índice da correta.
+
+## Geração de conteúdo com NotebookLM
+O NotebookLM não tem API pública. O fluxo é manual:
+1. Um caderno por **tempo**, com as fontes dele.
+2. Colar as "Instruções do caderno" de `docs/prompts-notebooklm.md` nas configurações do chat (uma vez por caderno).
+3. Colar o prompt do nível (lote 1 = 10 questões) e depois o prompt de continuação para os lotes 2 e 3. Meta: 30 questões por nível.
+4. Composição por lote: fácil = 10 `multipla`; médio = 8 `multipla` + 2 `verdadeiro_falso`; difícil = 8 `multipla` + 2 `fonte`.
+5. Juntar os lotes, corrigir o JSON, passar o checklist abaixo e salvar em `data/<materia>/<tempo>/<nivel>.json`.
+
+### Checklist de revisão (antes de salvar)
+1. **JSON válido.** A saída vem com aspas internas sem escape (`"Pré-História"`). Escapar como `\"`.
+2. **`correta` aponta para a opção certa.** A explicação tem que bater com a opção marcada. Erro real já ocorrido: `ger-pre-m-005`.
+3. **Datas e nomes conferidos.** Erros reais já ocorridos: Lei das Doze Tábuas é c. 450 a.C. (não 445); o Rio de Janeiro foi fundado em 1565 e consolidado em 1567.
+4. **Trechos de `fonte` são citações reais**, com autor e ano. Se não for possível confirmar, `"revisar": true`.
+5. **Explicação sem "de acordo com as fontes"** (o aluno não vê as fontes).
+6. **`id` no padrão e sem repetição.**
+
+## Status do conteúdo
+
+| Matéria / tempo | facil | medio | dificil |
+|---|---|---|---|
+| Brasil / Colônia | 8 (MVP, escrito à mão) | 6 | 6 (2 de fonte) |
+| Geral / Pré-história | 10 | 10 (2 V/F) | 10 |
+| Geral / Antiguidade | 10 | 10 (2 V/F) | 10 (2 de fonte) |
+
+Meta por nível: 30 questões. Demais tempos: ainda sem conteúdo.
+
+### Pendências
+- Conferir e liberar as questões com `"revisar": true`: `ger-pre-m-006`, `ger-pre-m-007`, `ger-ant-d-004`, `bra-col-d-002`, `bra-col-d-003` (trechos de fonte e afirmações a confirmar).
+- 30 questões fáceis de Colônia geradas no NotebookLM ainda não foram juntadas. Os ids delas (`bra-col-f-001` a `030`) colidem com as 8 do MVP: renumerar a partir de `bra-col-f-009` ao juntar.
+- Os dois primeiros blocos de Colônia (médio e difícil) vieram sem nível no id e foram classificados por tema e tipo. Reclassificar se necessário.
 
 ## Como testar
 - Abrir o `index.html` no navegador ou usar um servidor local simples.
 - Testar no tamanho de celular (DevTools, modo responsivo).
 - Conferir: acerto, erro, fim de vidas, nota final, XP salvo ao recarregar, desbloqueio de nível.
 - Validar JSON novo antes de usar (vírgulas e aspas são o erro mais comum).
+- Para dados: conferir `id` único, 4 `opcoes` em `multipla` e `fonte`, `correta` entre 0 e 3 e `revisar` booleano.
 
 ## Fluxo de trabalho com o Claude
 1. Dizer qual fase está em andamento.
