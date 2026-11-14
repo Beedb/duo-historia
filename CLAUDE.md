@@ -83,6 +83,7 @@ DUOPobre/
 │   ├── licao.js        # lógica da lição (questões, acerto/erro)
 │   ├── progresso.js    # XP, vidas, streak, desbloqueios, localStorage
 │   ├── revisao.js      # erros e repetição espaçada
+│   ├── montagem.js     # questões de montar resposta (ordenar, ligar)
 │   └── trilha.js       # tela de matérias/tempos/níveis e bloqueio
 ├── data/
 │   ├── materias.json   # matérias, tempos (com "disponivel") e níveis
@@ -135,14 +136,14 @@ Padrão de `id`: `<materia>-<tempo>-<nivel>-<numero>` (ex.: `bra-col-f-001`; `f`
 ### Tipos de questão
 - `multipla`: múltipla escolha.
 - `verdadeiro_falso`: a `pergunta` é uma afirmativa; `correta` é `true` ou `false`; não tem `opcoes`.
-- `lacuna`: completar a frase (ex.: "A Revolução Francesa começou em ____").
-- `ordenar`: colocar fatos em ordem cronológica (muito útil em História).
-- `ligar`: ligar personagem, evento e data.
+- `lacuna`: igual à `multipla` (`opcoes` + `correta`), mas a `pergunta` tem `____` no lugar da resposta (ex.: "A Revolução Francesa começou em ____."). No feedback, o app mostra a frase completa.
+- `ordenar`: campo `itens` com 3 a 5 fatos **já na ordem certa** (do mais antigo ao mais recente). Sem `opcoes`/`correta`: o app embaralha. Textos dos itens sem data (a data entrega a resposta); as datas vão na `explicacao`.
+- `ligar`: campo `pares` com 3 a 4 pares `["esquerda", "direita"]` (ex.: `["Tomé de Sousa", "Primeiro governador-geral"]`). Sem `opcoes`/`correta`: o app embaralha o lado direito. Textos da direita não podem se repetir.
 - `fonte`: campos extras `trecho` (até 40 palavras), `autor` e `ano`; depois segue como `multipla` (`pergunta`, `opcoes`, `correta`). Usado principalmente no nível difícil.
 
 Todo tipo precisa de: pergunta, resposta correta e explicação.
 
-**Suporte no app hoje:** `licao.js` mostra `multipla`, `verdadeiro_falso` e `fonte`. Os outros tipos (`lacuna`, `ordenar`, `ligar`) são ignorados até a Fase 5. Questões com `"revisar": true` também são ignoradas.
+**Suporte no app hoje:** todos os 6 tipos. Questões com `"revisar": true` são ignoradas.
 
 **Tempo novo:** criar os JSONs em `data/<materia>/<tempo>/` e mudar `"disponivel"` para `true` em `data/materias.json`. Se faltar algum nível, listar só os que existem em `"niveis"` (ex.: `["facil", "dificil"]`); o que falta aparece como "em breve" e o difícil abre direto do fácil (80%). Matéria sem divisão por tempo (América, África): arquivos em `data/<materia>/<nivel>.json` e um único tempo com `"id": ""` em `materias.json`.
 
@@ -189,8 +190,8 @@ Trabalhar **uma fase por vez**. Não começar a seguinte sem a atual funcionando
 
 ### Estado atual
 - Fases 1 a 4 prontas: trilha com desbloqueio, XP, vidas, streak, revisão com repetição espaçada. Lições de até 10 questões sorteadas.
-- Adiantado da Fase 5: `verdadeiro_falso` e `fonte` (os dados já tinham esses tipos).
-- Próxima fase: **5 (Novos tipos)**. Falta: `ordenar`, `ligar`, `lacuna`.
+- Fase 5 pronta: `lacuna`, `ordenar` e `ligar` (além de `verdadeiro_falso` e `fonte`). Exemplos em Colônia fácil (`bra-col-f-036` a `039`) e Antiguidade fácil (`ger-ant-f-011`, `012`).
+- Próxima fase: **6 (PWA)**. Falta: `manifest.json`, `service-worker.js`, ícones, hospedagem (GitHub Pages).
 - Pendente: PWA, APK.
 
 ## Convenções de código
@@ -233,14 +234,14 @@ O NotebookLM não tem API pública. O fluxo é manual:
 
 | Matéria / tempo | facil | medio | dificil |
 |---|---|---|---|
-| Brasil / Colônia | 35 (8 do MVP + 27 do NotebookLM) | 16 (3 V/F) | 14 (3 V/F, 2 de fonte) |
+| Brasil / Colônia | 39 (8 do MVP + 27 do NotebookLM + 4 de ordenar/ligar/lacuna) | 16 (3 V/F) | 14 (3 V/F, 2 de fonte) |
 | Brasil / Império | 7 | 6 (2 V/F) | 8 (2 de fonte) |
 | Brasil / República Velha | 10 | 8 (2 V/F) | 12 (3 de fonte) |
 | Brasil / Era Vargas | 7 | falta | 2 |
 | Brasil / Democracia | 6 | falta | 2 |
 | Brasil / Ditadura | 7 | falta | 1 |
 | Geral / Pré-história | 15 | 10 (2 V/F) | 10 |
-| Geral / Antiguidade | 10 | 10 (2 V/F) | 10 (2 de fonte) |
+| Geral / Antiguidade | 12 (1 ordenar, 1 ligar) | 10 (2 V/F) | 10 (2 de fonte) |
 | Geral / Contemporânea | 17 | 10 (2 V/F) | 10 |
 | América (sem divisão por tempo) | 10 | 10 (2 V/F) | 10 (1 de fonte) |
 
@@ -262,7 +263,7 @@ Colônia fácil: 3 questões do NotebookLM foram descartadas por repetir assunto
 - Testar no tamanho de celular (DevTools, modo responsivo).
 - Conferir: acerto, erro, fim de vidas, nota final, XP salvo ao recarregar, desbloqueio de nível.
 - Validar JSON novo antes de usar (vírgulas e aspas são o erro mais comum).
-- Para dados: conferir `id` único, 4 `opcoes` em `multipla` e `fonte`, `correta` entre 0 e 3 e `revisar` booleano.
+- Para dados: conferir `id` único, 4 `opcoes` em `multipla`, `fonte` e `lacuna`, `correta` entre 0 e 3, `revisar` booleano, `itens` (3 a 5) em `ordenar` e `pares` (3 a 4, sem repetir) em `ligar`.
 
 ## Fluxo de trabalho com o Claude
 1. Dizer qual fase está em andamento.

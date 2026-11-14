@@ -314,3 +314,86 @@ h1 {
 .resultado-extra:empty {
   display: none;
 }
+
+/* --- Fase 5: lacuna, ordenar e ligar --- */
+
+.feedback-resposta {
+  font-weight: 600;
+}
+
+.feedback-resposta:empty {
+  display: none;
+}
+
+.vagas {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.vaga {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+/* Em "ordenar" o rótulo é só "1º", então cabe na mesma linha */
+.vagas-ordenar .vaga {
+  flex-direction: row;
+  align-items: center;
+  gap: 10px;
+}
+
+.vaga-rotulo {
+  font-weight: 700;
+  font-size: 0.95rem;
+}
+
+.vagas-ordenar .vaga-rotulo {
+  min-width: 2.2em;
+}
+
+.vaga-botao {
+  flex: 1;
+  width: 100%;
+  text-align: left;
+  background: #eff6ff;
+  color: var(--texto);
+  border: 2px solid var(--primaria);
+}
+
+.vaga-botao.vazia {
+  background: var(--fundo);
+  border: 2px dashed var(--borda);
+  color: var(--texto-suave);
+}
+
+.vaga-botao:disabled {
+  cursor: default;
+}
+
+.vaga-botao.certa {
+  border-color: var(--certo);
+  background: var(--certo-fundo);
+}
+
+.vaga-botao.errada {
+  border-color: var(--errado);
+  background: var(--errado-fundo);
+}
+
+.banco {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-top: 6px;
+  padding-top: 12px;
+  border-top: 2px solid var(--borda);
+}
+
+.banco:empty {
+  display: none;
+}

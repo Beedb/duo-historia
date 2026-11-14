@@ -82,6 +82,7 @@ function ligarBotoes() {
   document.getElementById("botao-comecar").addEventListener("click", comecarLicaoAberta);
   document.getElementById("botao-voltar-inicio").addEventListener("click", voltarParaTrilha);
   document.getElementById("botao-continuar").addEventListener("click", proximaQuestao);
+  document.getElementById("botao-conferir").addEventListener("click", conferirResposta);
   document.getElementById("botao-sair").addEventListener("click", voltarParaTrilha);
   document.getElementById("botao-voltar").addEventListener("click", voltarParaTrilha);
   document.getElementById("botao-revisao").addEventListener("click", iniciarRevisao);

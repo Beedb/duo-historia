@@ -2,8 +2,14 @@
 // Uma "sessão" é uma lição normal ou uma revisão:
 // { modo: "licao" | "revisao", id, titulo, questoes }
 
-const TIPOS_SUPORTADOS = ["multipla", "verdadeiro_falso", "fonte"];
-const ROTULOS_TIPO = { verdadeiro_falso: "Verdadeiro ou falso?", fonte: "Leia o trecho" };
+const TIPOS_SUPORTADOS = ["multipla", "verdadeiro_falso", "fonte", "lacuna", "ordenar", "ligar"];
+const ROTULOS_TIPO = {
+  verdadeiro_falso: "Verdadeiro ou falso?",
+  fonte: "Leia o trecho",
+  lacuna: "Complete a lacuna",
+  ordenar: "Coloque em ordem",
+  ligar: "Ligue os pares",
+};
 const QUESTOES_POR_LICAO = 10;
 const cacheLicoes = {};
 
@@ -44,6 +50,8 @@ function normalizarQuestao(questao, origem, dificuldade) {
   if (questao.tipo === "verdadeiro_falso") {
     return { ...base, opcoes: ["Verdadeiro", "Falso"], correta: questao.correta ? 0 : 1 };
   }
+  // ordenar e ligar não têm "opcoes": quem embaralha é o montagem.js
+  if (ehMontagem(questao)) return base;
   return embaralharOpcoes(base);
 }
 
@@ -93,7 +101,11 @@ function mostrarQuestao() {
   mostrarTrecho(questao);
   document.getElementById("pergunta").textContent = questao.pergunta;
   document.getElementById("feedback").classList.add("escondida");
-  criarOpcoes(questao.opcoes);
+
+  // Montagem precisa de "Conferir"; as outras respondem no toque da opção
+  document.getElementById("botao-conferir").classList.toggle("escondida", !ehMontagem(questao));
+  if (ehMontagem(questao)) iniciarMontagem(questao);
+  else criarOpcoes(questao.opcoes);
 }
 
 function mostrarTrecho(questao) {
@@ -112,7 +124,7 @@ function criarOpcoes(opcoes) {
     const botao = document.createElement("button");
     botao.className = "botao opcao";
     botao.textContent = texto;
-    botao.addEventListener("click", () => responder(indice));
+    botao.addEventListener("click", () => responderOpcao(indice));
     caixa.appendChild(botao);
   });
 }
@@ -122,16 +134,33 @@ function atualizarBarra(respondidas) {
   document.getElementById("barra-progresso").style.width = `${(respondidas / total) * 100}%`;
 }
 
-function responder(indiceEscolhido) {
+// Múltipla, V/F, fonte e lacuna: responde no toque
+function responderOpcao(indiceEscolhido) {
   const questao = sessao.questoes[indiceQuestao];
-  const acertou = indiceEscolhido === questao.correta;
-  const mensagem = acertou ? registrarAcerto(questao) : registrarErro(questao);
+  marcarOpcoes(indiceEscolhido, questao.correta);
+  finalizarResposta(indiceEscolhido === questao.correta, questao);
+}
 
+// Ordenar e ligar: responde no botão "Conferir"
+function conferirResposta() {
+  const questao = sessao.questoes[indiceQuestao];
+  document.getElementById("botao-conferir").classList.add("escondida");
+  finalizarResposta(conferirMontagem(), questao);
+}
+
+function finalizarResposta(acertou, questao) {
+  const mensagem = acertou ? registrarAcerto(questao) : registrarErro(questao);
   registrarEstudo();
   atualizarPainel();
   atualizarBarra(indiceQuestao + 1);
-  marcarOpcoes(indiceEscolhido, questao.correta);
-  mostrarFeedback(acertou, mensagem, questao.explicacao);
+  mostrarFeedback(acertou, mensagem, questao.explicacao, textoResposta(questao, acertou));
+}
+
+// Linha extra no feedback: a frase completa da lacuna, ou a resposta certa da montagem
+function textoResposta(questao, acertou) {
+  if (questao.tipo === "lacuna") return questao.pergunta.replace(/_{2,}/, questao.opcoes[questao.correta]);
+  if (ehMontagem(questao) && !acertou) return textoRespostaMontagem(questao);
+  return "";
 }
 
 function registrarAcerto(questao) {
@@ -161,12 +190,13 @@ function marcarOpcoes(escolhida, correta) {
   });
 }
 
-function mostrarFeedback(acertou, mensagem, explicacao) {
+function mostrarFeedback(acertou, mensagem, explicacao, resposta) {
   const caixa = document.getElementById("feedback");
   caixa.classList.remove("escondida", "acertou", "errou");
   caixa.classList.add(acertou ? "acertou" : "errou");
 
   document.getElementById("feedback-titulo").textContent = mensagem;
+  document.getElementById("feedback-resposta").textContent = resposta;
   document.getElementById("feedback-explicacao").textContent = explicacao;
   document.getElementById("botao-continuar").focus();
 }

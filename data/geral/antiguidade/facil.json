@@ -143,6 +143,44 @@
       "correta": 3,
       "explicacao": "A deposição de Rômulo Augústulo (também referido como Rômulo Augusto) em 476 d.C. simbolizou o fim do Império Romano do Ocidente. Diocleciano e Marco Aurélio governaram nos séculos II e III d.C.",
       "revisar": false
+    },
+    {
+      "id": "ger-ant-f-011",
+      "tipo": "ordenar",
+      "pergunta": "Coloque os acontecimentos da Antiguidade em ordem cronológica, do mais antigo ao mais recente.",
+      "itens": [
+        "Unificação do Egito",
+        "Código de Hamurábi",
+        "Fundação de Roma (segundo a tradição)",
+        "Queda do Império Romano do Ocidente"
+      ],
+      "explicacao": "O Egito foi unificado por volta de 3100 a.C. O Código de Hamurábi é de cerca de 1750 a.C. A tradição romana data a fundação de Roma em 753 a.C. O Império Romano do Ocidente caiu em 476 d.C.",
+      "revisar": false
+    },
+    {
+      "id": "ger-ant-f-012",
+      "tipo": "ligar",
+      "pergunta": "Ligue cada civilização antiga à sua característica.",
+      "pares": [
+        [
+          "Egito",
+          "Faraó considerado um deus"
+        ],
+        [
+          "Mesopotâmia",
+          "Escrita cuneiforme"
+        ],
+        [
+          "Atenas",
+          "Democracia dos cidadãos"
+        ],
+        [
+          "Roma",
+          "Senado e República"
+        ]
+      ],
+      "explicacao": "No Egito, o faraó era visto como um deus. Na Mesopotâmia surgiu a escrita cuneiforme. Atenas criou a democracia, restrita aos cidadãos. Roma teve uma República governada com o Senado.",
+      "revisar": false
     }
   ]
 }

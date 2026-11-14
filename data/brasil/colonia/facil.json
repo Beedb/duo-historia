@@ -494,6 +494,71 @@
       "correta": 3,
       "explicacao": "A transferência da corte portuguesa para o Brasil e a consequente abertura dos portos ocorreram em 1808.",
       "revisar": false
+    },
+    {
+      "id": "bra-col-f-036",
+      "tipo": "ordenar",
+      "pergunta": "Coloque os acontecimentos do Brasil Colônia em ordem cronológica, do mais antigo ao mais recente.",
+      "itens": [
+        "Chegada da esquadra de Cabral",
+        "Criação das capitanias hereditárias",
+        "Instalação do Governo-Geral",
+        "Início da União Ibérica"
+      ],
+      "explicacao": "Cabral chegou em 1500. As capitanias foram criadas a partir de 1534. O Governo-Geral foi instalado em 1549, com Tomé de Sousa. A União Ibérica começou em 1580.",
+      "revisar": false
+    },
+    {
+      "id": "bra-col-f-037",
+      "tipo": "ordenar",
+      "pergunta": "Coloque os acontecimentos do século XVII e XVIII em ordem cronológica, do mais antigo ao mais recente.",
+      "itens": [
+        "Invasão holandesa de Pernambuco",
+        "Fim da União Ibérica",
+        "Expulsão definitiva dos holandeses",
+        "Transferência da capital para o Rio de Janeiro"
+      ],
+      "explicacao": "Os holandeses invadiram Pernambuco em 1630. A União Ibérica terminou em 1640. Os holandeses foram expulsos em 1654. A capital passou de Salvador para o Rio de Janeiro em 1763.",
+      "revisar": false
+    },
+    {
+      "id": "bra-col-f-038",
+      "tipo": "ligar",
+      "pergunta": "Ligue cada personagem ao papel que exerceu no Brasil Colônia.",
+      "pares": [
+        [
+          "Tomé de Sousa",
+          "Primeiro governador-geral"
+        ],
+        [
+          "Duarte Coelho",
+          "Donatário de Pernambuco"
+        ],
+        [
+          "Martim Afonso de Sousa",
+          "Fundador de São Vicente"
+        ],
+        [
+          "Maurício de Nassau",
+          "Governador do Brasil holandês"
+        ]
+      ],
+      "explicacao": "Tomé de Sousa chegou em 1549 como primeiro governador-geral. Duarte Coelho recebeu Pernambuco em 1534. Martim Afonso de Sousa fundou São Vicente em 1532. Maurício de Nassau governou o Brasil holandês de 1637 a 1644.",
+      "revisar": false
+    },
+    {
+      "id": "bra-col-f-039",
+      "tipo": "lacuna",
+      "pergunta": "Pero Vaz de Caminha escreveu sua carta sobre a chegada ao Brasil para o rei D. ____.",
+      "opcoes": [
+        "Manuel I",
+        "João III",
+        "Sebastião",
+        "João VI"
+      ],
+      "correta": 0,
+      "explicacao": "Em 1500 reinava D. Manuel I, a quem a carta foi dirigida. D. João III reinou depois e criou as capitanias. D. Sebastião é posterior. D. João VI só veio ao Brasil em 1808.",
+      "revisar": false
     }
   ]
 }

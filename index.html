@@ -49,9 +49,11 @@
 
       <h2 class="pergunta" id="pergunta"></h2>
       <div class="opcoes" id="opcoes"></div>
+      <button id="botao-conferir" class="botao botao-principal escondida" disabled>Conferir</button>
 
       <div class="feedback escondida" id="feedback" role="status">
         <p class="feedback-titulo" id="feedback-titulo"></p>
+        <p class="feedback-resposta" id="feedback-resposta"></p>
         <p id="feedback-explicacao"></p>
         <button id="botao-continuar" class="botao botao-principal">Continuar</button>
       </div>
@@ -71,6 +73,7 @@
 
   <!-- Ordem importa: as funções usadas pelo app.js precisam ser carregadas antes -->
   <script src="js/progresso.js"></script>
+  <script src="js/montagem.js"></script>
   <script src="js/licao.js"></script>
   <script src="js/revisao.js"></script>
   <script src="js/trilha.js"></script>
