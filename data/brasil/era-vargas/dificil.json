@@ -1,0 +1,36 @@
+{
+  "materia": "brasil",
+  "tempo": "era-vargas",
+  "dificuldade": "dificil",
+  "licao": "Mito político e memória de Vargas",
+  "questoes": [
+    {
+      "id": "bra-var-d-001",
+      "tipo": "multipla",
+      "pergunta": "Na análise historiográfica sobre a construção de mitos políticos no Brasil republicano, como a imagem de Getúlio Vargas foi mobilizada por governantes posteriores?",
+      "opcoes": [
+        "Foi completamente apagada da memória política brasileira após o fim do Estado Novo em 1945",
+        "Passou a ser associada exclusivamente à defesa do liberalismo econômico e das privatizações",
+        "Ficou restrita aos partidos conservadores contrários à criação de empresas estatais",
+        "Serviu de referência simbólica para lideranças posteriores, como no gesto de sujar as mãos de óleo em alusão à criação da Petrobras"
+      ],
+      "correta": 3,
+      "explicacao": "A mitificação de Getúlio Vargas consolidou símbolos duradouros de nacionalismo econômico e liderança popular, retomados décadas depois por diferentes lideranças, como no gesto simbólico de sujar as mãos de óleo em cerimônia da Petrobras, em 2006.",
+      "revisar": false
+    },
+    {
+      "id": "bra-var-d-002",
+      "tipo": "multipla",
+      "pergunta": "Qual relação a reflexão historiográfica estabelece entre a construção do mito político em torno de Getúlio Vargas e os mecanismos de legitimação do poder?",
+      "opcoes": [
+        "O mito político articula propaganda estatal e simbolismos quase religiosos para promover identificação emocional e coesão social em torno do líder",
+        "Os mitos históricos surgem apenas de forma espontânea nas camadas populares, sem qualquer participação da propaganda oficial",
+        "A figura de Vargas nunca sofreu interpretações divergentes, sendo avaliada de modo unânime por todos os historiadores",
+        "O mito varguista baseou-se na rejeição total aos direitos trabalhistas e à industrialização nacional"
+      ],
+      "correta": 0,
+      "explicacao": "Embora heróis políticos mobilizem símbolos preexistentes da cultura popular para não parecerem artificiais, a propaganda estatal tem papel decisivo na mitificação de governantes como Vargas, gerando debates intensos sobre seu legado.",
+      "revisar": false
+    }
+  ]
+}

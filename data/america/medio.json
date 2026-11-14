@@ -1,0 +1,135 @@
+{
+  "materia": "america",
+  "dificuldade": "medio",
+  "licao": "Independências, Doutrina Monroe e Revolução Mexicana",
+  "questoes": [
+    {
+      "id": "ame-m-001",
+      "tipo": "multipla",
+      "pergunta": "Por que a elite criolla liderou os processos de independência na América espanhola no início do século XIX sem promover mudanças profundas na estrutura social?",
+      "opcoes": [
+        "Porque desejava redistribuir imediatamente as terras das haciendas entre indígenas e escravizados.",
+        "Porque pretendia restaurar o absolutismo espanhol e fechar os portos ao comércio britânico.",
+        "Porque buscava eliminar o monopólio comercial metropolitano e assumir o poder político reservado aos chapetones, mantendo seu domínio sobre as camadas populares.",
+        "Porque planejava submeter todas as províncias hispano-americanas à autoridade da monarquia portuguesa."
+      ],
+      "correta": 2,
+      "explicacao": "Os criollos adotaram o liberalismo econômico para comercializar livremente com potências como a Inglaterra e conquistar os altos postos políticos, mas preservaram a exploração sobre indígenas, mestiços e negros. A emancipação não teve caráter de revolução social na maior parte do continente.",
+      "revisar": false
+    },
+    {
+      "id": "ame-m-002",
+      "tipo": "multipla",
+      "pergunta": "Qual acontecimento europeu do início do século XIX enfraqueceu o domínio espanhol sobre suas colônias e precipitou os movimentos de emancipação na América Latina?",
+      "opcoes": [
+        "A invasão napoleônica da Península Ibérica e a consequente crise política da monarquia espanhola.",
+        "A assinatura do Tratado de Madri redefinindo as fronteiras sul-americanas.",
+        "A derrota naval espanhola na Guerra Hispano-Americana pelo controle de Cuba.",
+        "A promulgação do Consenso de Washington pelas potências industriais europeias."
+      ],
+      "correta": 0,
+      "explicacao": "A ocupação da Espanha pelas tropas de Napoleão Bonaparte desestruturou o governo metropolitano, abrindo oportunidade para que as elites coloniais articulassem a ruptura política. A Guerra Hispano-Americana ocorreu bem mais tarde, em 1898.",
+      "revisar": false
+    },
+    {
+      "id": "ame-m-003",
+      "tipo": "multipla",
+      "pergunta": "Qual especificidade distinguiu o processo de independência do Haiti (1791–1804) das demais emancipações ocorridas na América Latina?",
+      "opcoes": [
+        "Resultou de uma negociação pacífica que preservou os privilégios da aristocracia escravista branca.",
+        "Foi conduzido por chapetones espanhóis com apoio militar da Santa Aliança.",
+        "Estabeleceu uma monarquia hereditária alinhada ao pacto colonial francês.",
+        "Foi protagonizado por uma revolução de escravizados e ex-escravizados que derrotou a elite branca e fundou uma república."
+      ],
+      "correta": 3,
+      "explicacao": "Primeira nação independente da América Latina, o Haiti emancipou-se por meio de uma insurgência popular escrava inspirada nos ideais da Revolução Francesa, contrastando com o caráter elitista das independências vizinhas.",
+      "revisar": false
+    },
+    {
+      "id": "ame-m-004",
+      "tipo": "multipla",
+      "pergunta": "Por que o projeto pan-americanista de unidade política defendido por Simón Bolívar no Congresso do Panamá (1826) não se concretizou?",
+      "opcoes": [
+        "Porque a Espanha reconquistou toda a América do Sul após a Batalha de Ayacucho.",
+        "Porque enfrentou a resistência das oligarquias e chefes militares locais, além da oposição dos Estados Unidos e da Inglaterra.",
+        "Porque Bolívar abandonou o ideal republicano para coroar-se imperador do México.",
+        "Porque a Santa Aliança ocupou militarmente o istmo do Panamá com apoio do Brasil."
+      ],
+      "correta": 1,
+      "explicacao": "Os interesses regionalistas dos caudilhos e elites locais, somados à oposição das potências anglo-saxônicas — que preferiam negociar com Estados fragmentados —, inviabilizaram a confederação proposta por Bolívar.",
+      "revisar": false
+    },
+    {
+      "id": "ame-m-005",
+      "tipo": "multipla",
+      "pergunta": "Qual objetivo geopolítico orientou o presidente norte-americano James Monroe ao proclamar a Doutrina Monroe em 1823?",
+      "opcoes": [
+        "Impedir tentativas de recolonização europeia promovidas pela Santa Aliança e afirmar a zona de influência dos Estados Unidos nas Américas.",
+        "Apoiar a restauração dos vice-reinados espanhóis no Peru e na Nova Granada.",
+        "Garantir a devolução imediata do Texas e da Califórnia ao governo mexicano.",
+        "Submeter a política externa dos Estados Unidos às decisões do Congresso de Viena."
+      ],
+      "correta": 0,
+      "explicacao": "Sintetizada no lema 'A América para os americanos', a Doutrina Monroe opunha-se à interferência colonial europeia no Hemisfério Ocidental, abrindo caminho para a hegemonia continental dos Estados Unidos.",
+      "revisar": false
+    },
+    {
+      "id": "ame-m-006",
+      "tipo": "multipla",
+      "pergunta": "De que maneira o Corolário Roosevelt, formulado no início do século XX, alterou a aplicação prática da Doutrina Monroe na América Latina?",
+      "opcoes": [
+        "Proibiu qualquer intervenção militar norte-americana nos países do Caribe e da América Central.",
+        "Estabeleceu o princípio da não intervenção absoluta respeitando a soberania de Cuba e do Panamá.",
+        "Transferiu às repúblicas sul-americanas o controle compartilhado das bases navais dos Estados Unidos.",
+        "Legitimou intervenções armadas e políticas dos Estados Unidos no continente sob a lógica do Big Stick."
+      ],
+      "correta": 3,
+      "explicacao": "Adaptando a Doutrina Monroe, Theodore Roosevelt atribuiu aos Estados Unidos o papel de polícia internacional nas Américas, justificando intervenções em países como Cuba, Panamá e Nicarágua.",
+      "revisar": false
+    },
+    {
+      "id": "ame-m-007",
+      "tipo": "multipla",
+      "pergunta": "Quais fatores sociais e políticos impulsionaram a eclosão da Revolução Mexicana de 1910 contra o regime de Porfirio Díaz?",
+      "opcoes": [
+        "A estatização integral das terras agrícolas e a expulsão de todas as empresas estrangeiras do México.",
+        "O autoritarismo prolongado da ditadura porfirista, a concentração fundiária e a exclusão política de camponeses indígenas e camadas médias.",
+        "A tentativa de Porfirio Díaz de abolir o catolicismo e instaurar um regime socialista agrário.",
+        "A invasão militar da França para coroar o arquiduque Maximiliano na Cidade do México."
+      ],
+      "correta": 1,
+      "explicacao": "A longa ditadura de Porfirio Díaz favoreceu grandes proprietários e capitais estrangeiros em detrimento da maioria camponesa indígena e de setores liberais, desencadeando a revolução em 1910. A intervenção francesa com Maximiliano ocorreu décadas antes, nos anos 1860.",
+      "revisar": false
+    },
+    {
+      "id": "ame-m-008",
+      "tipo": "multipla",
+      "pergunta": "Por que líderes camponeses como Emiliano Zapata e Pancho Villa continuaram em luta armada após a renúncia de Porfirio Díaz e a posse de Francisco Madero em 1911?",
+      "opcoes": [
+        "Porque Madero reinstaurou o regime colonial espanhol nas províncias do norte.",
+        "Porque os movimentos camponeses exigiam a anexação do México aos Estados Unidos.",
+        "Porque as reformas de Madero foram tímidas e não atenderam às demandas populares por distribuição de terras.",
+        "Porque Zapata e Villa apoiavam o golpe militar do general Victoriano Huerta."
+      ],
+      "correta": 2,
+      "explicacao": "Insatisfeitos com o caráter moderado do governo Madero, que manteve intacta a estrutura agrária, os exércitos camponeses prosseguiram na revolução pela reforma agrária. Huerta, ao contrário, liderou a contrarrevolução que derrubou e assassinou Madero em 1913.",
+      "revisar": false
+    },
+    {
+      "id": "ame-m-009",
+      "tipo": "verdadeiro_falso",
+      "pergunta": "Ao contrário da América espanhola, que se fragmentou em várias repúblicas após as guerras de independência, o Brasil manteve sua unidade territorial sob uma monarquia apoiada pelas elites escravistas e respaldada pela Inglaterra e pelos Estados Unidos.",
+      "correta": true,
+      "explicacao": "A afirmação está correta, pois a permanência da corte joanina, o compromisso conservador das elites e o interesse anglo-americano evitaram o fracionamento da América portuguesa em pequenas repúblicas.",
+      "revisar": false
+    },
+    {
+      "id": "ame-m-010",
+      "tipo": "verdadeiro_falso",
+      "pergunta": "No início do século XX, a Doutrina Monroe foi unanimemente aceita pelos governos e intelectuais sul-americanos como uma garantia neutra e desinteressada da plena soberania de seus países.",
+      "correta": false,
+      "explicacao": "A afirmação é falsa porque diplomatas e publicistas latino-americanos criticavam a Doutrina Monroe como uma tutela unilateral e um protetorado disfarçado dos Estados Unidos sobre o continente.",
+      "revisar": false
+    }
+  ]
+}

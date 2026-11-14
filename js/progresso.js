@@ -121,7 +121,18 @@ function registrarEstudo() {
 }
 
 // --- Lições concluídas e desbloqueios ---
-// ids no formato "materia/tempo/nivel" (ex.: "brasil/colonia/facil")
+// ids no formato "materia/tempo/nivel" (ex.: "brasil/colonia/facil").
+// Matéria sem divisão por tempo (América, África) fica "materia/nivel" (ex.: "america/facil").
+
+function montarIdLicao(materia, tempo, nivel) {
+  return [materia, tempo, nivel].filter(Boolean).join("/");
+}
+
+function separarIdLicao(idLicao) {
+  const partes = idLicao.split("/");
+  const nivel = partes.pop();
+  return { materia: partes[0], tempo: partes[1] || "", nivel };
+}
 
 const PROXIMO_NIVEL = { facil: "medio", medio: "dificil" };
 const ACERTO_PARA_LIBERAR = 80; // %
@@ -153,11 +164,11 @@ function registrarConclusao(idLicao, porcentagem) {
   adicionarNaLista("licoesConcluidas", idLicao);
   if (porcentagem < ACERTO_PARA_LIBERAR) return null;
 
-  const [materia, tempo, nivel] = idLicao.split("/");
+  const { materia, tempo, nivel } = separarIdLicao(idLicao);
   const proximo = PROXIMO_NIVEL[nivel];
   if (!proximo) return null;
 
-  const idProximo = `${materia}/${tempo}/${proximo}`;
+  const idProximo = montarIdLicao(materia, tempo, proximo);
   if (nivelDesbloqueado(idProximo)) return null;
   adicionarNaLista("desbloqueios", idProximo);
   return idProximo;

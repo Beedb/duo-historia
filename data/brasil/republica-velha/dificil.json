@@ -1,0 +1,185 @@
+{
+  "materia": "brasil",
+  "tempo": "republica-velha",
+  "dificuldade": "dificil",
+  "licao": "Cidadania, oligarquias e interpretações de 1930",
+  "questoes": [
+    {
+      "id": "bra-rv-d-001",
+      "tipo": "fonte",
+      "trecho": "A república proclamada em 1889 no Brasil estava longe de ser democrática. Ela sobreviveu 41 anos sem povo e sem preocupação social.",
+      "autor": "José Murilo de Carvalho",
+      "ano": "2009",
+      "pergunta": "De acordo com a análise do historiador sobre a cidadania na Primeira República, qual fator legal restringiu a participação nas eleições presidenciais a no máximo 5% da população até 1930?",
+      "opcoes": [
+        "A manutenção do voto censitário baseado exclusivamente na posse de grandes propriedades rurais.",
+        "A proibição legal do voto para qualquer cidadão residente fora da capital federal.",
+        "A exclusão eleitoral dos analfabetos, que representavam cerca de 85% da população brasileira.",
+        "A exigência de filiação obrigatória aos partidos operários para obter o título de eleitor."
+      ],
+      "correta": 2,
+      "explicacao": "A Constituição de 1891 aboliu o critério de renda, mas manteve a exclusão dos analfabetos (já vigente desde a Lei Saraiva, de 1881). Como a maioria da população era analfabeta, o eleitorado ficou muito restrito.",
+      "revisar": true
+    },
+    {
+      "id": "bra-rv-d-002",
+      "tipo": "fonte",
+      "trecho": "O povo assistiu àquilo bestializado, atônito, surpreso, sem conhecer o que significava.",
+      "autor": "Aristides Lobo",
+      "ano": "1889",
+      "pergunta": "O que essa observação de um republicano sobre o 15 de novembro indica quanto à participação popular na Proclamação?",
+      "opcoes": [
+        "A Proclamação foi um movimento de massas, com ampla mobilização popular nas ruas.",
+        "O povo teve pouca participação consciente no episódio, conduzido por militares e elites republicanas.",
+        "O povo apoiou unanimemente o golpe por meio de plebiscito.",
+        "Os escravizados dirigiram a Proclamação."
+      ],
+      "correta": 1,
+      "explicacao": "A frase, escrita no calor dos acontecimentos, registra a perplexidade da população diante de um golpe feito por militares e republicanos. Não houve plebiscito nem mobilização de massas.",
+      "revisar": false
+    },
+    {
+      "id": "bra-rv-d-003",
+      "tipo": "multipla",
+      "pergunta": "De que maneira o voto aberto articulava-se às relações de clientela e compadrio para assegurar a reprodução do poder oligárquico na Primeira República?",
+      "opcoes": [
+        "Garantia o sigilo individual do eleitor rural, obrigando os coronéis a disputar votos por meio de programas partidários nacionais.",
+        "Transferia a apuração eleitoral para tribunais independentes compostos por representantes do movimento operário urbano.",
+        "Permitia aos coronéis fiscalizar e manipular o voto da população pobre dependente de sua proteção, combinando troca de favores e fraude eleitoral.",
+        "Impedia que os proprietários rurais interferissem nas eleições municipais, restringindo o clientelismo às capitais estaduais."
+      ],
+      "correta": 2,
+      "explicacao": "Como o voto não era secreto, os chefes políticos locais controlavam diretamente as escolhas da população pobre sob sua influência por meio do clientelismo e da fraude. Não havia partidos nacionais programáticos nem justiça eleitoral independente nesse período.",
+      "revisar": false
+    },
+    {
+      "id": "bra-rv-d-004",
+      "tipo": "multipla",
+      "pergunta": "Como o conceito de hegemonia formulado por Antonio Gramsci auxilia a interpretar a sustentação das oligarquias durante a Primeira República?",
+      "opcoes": [
+        "Demonstra que o domínio oligárquico dependia exclusivamente da intervenção armada permanente do Exército em todos os municípios.",
+        "Evidencia que a classe dominante não se valia apenas da coerção física, mas também de mecanismos ideológicos e concessões limitadas articulados numa rede de instituições.",
+        "Comprova que as oligarquias eliminaram qualquer desigualdade de classe ao conceder participação política plena aos camponeses.",
+        "Indica que os intelectuais do período atuaram de forma unânime contra as instituições republicanas para instaurar o socialismo."
+      ],
+      "correta": 1,
+      "explicacao": "Na perspectiva gramsciana, a hegemonia combina a possibilidade de coerção com a dominação ideológica e concessões dentro de limites seguros, tecidas por instituições e relações sociais como o coronelismo. A violência policial existia, mas não operava isolada.",
+      "revisar": false
+    },
+    {
+      "id": "bra-rv-d-005",
+      "tipo": "multipla",
+      "pergunta": "De que modo a reflexão historiográfica de Cláudia Viscardi (2001) questiona a visão tradicional sobre a chamada 'República Café com Leite'?",
+      "opcoes": [
+        "Aponta intensos conflitos políticos nos processos sucessórios presidenciais, mostrando que o suposto consenso oligárquico até 1930 era precário e limitado.",
+        "Comprova que São Paulo e Minas Gerais mantiveram uma aliança pacífica e ininterrupta sem qualquer disputa eleitoral durante quarenta anos.",
+        "Sustenta que a Primeira República caracterizou-se pela existência de partidos políticos nacionais sólidos e disciplinados.",
+        "Afirma que os estados do Nordeste detinham o monopólio exclusivo das indicações presidenciais entre 1898 e 1930."
+      ],
+      "correta": 0,
+      "explicacao": "Ao analisar as sucessões presidenciais da Primeira República, Viscardi demonstra que a aliança entre São Paulo e Minas enfrentava limites econômicos e políticos que geravam instabilidade e atrofiavam partidos nacionais, desfazendo o mito de um consenso harmônico.",
+      "revisar": false
+    },
+    {
+      "id": "bra-rv-d-006",
+      "tipo": "fonte",
+      "trecho": "O povo se desabituou de revoltas armadas, não porque lhe dêem mais justiça e mais liberdade, ou condições de vida mais perfeitas; mas porque a oligarquia dominante achou o meio de entretê-lo com o espetáculo da loqüela política.",
+      "autor": "Manoel Bomfim",
+      "ano": "1905",
+      "pergunta": "Na crítica contemporânea ao funcionamento do regime oligárquico da Primeira República, qual mecanismo de controle social é denunciado pelo autor?",
+      "opcoes": [
+        "A distribuição efetiva de terras e direitos sociais para desmobilizar os sindicatos operários.",
+        "A implantação de um sistema parlamentarista autêntico que garantia a soberania popular nas urnas.",
+        "A substituição de transformações sociais reais por uma encenação retórica parlamentar que criava aparências de liberdade sem participação efetiva do povo.",
+        "A proibição total de discursos políticos na imprensa e no Congresso para impedir qualquer debate público."
+      ],
+      "correta": 2,
+      "explicacao": "O trecho critica a substituição de mudanças reais por retórica política: a oligarquia entretinha o povo com discursos, sem lhe dar justiça ou liberdade. Não houve concessão de direitos sociais nem parlamentarismo autêntico.",
+      "revisar": true
+    },
+    {
+      "id": "bra-rv-d-007",
+      "tipo": "multipla",
+      "pergunta": "Por que os historiadores problematizam o uso acrítico do rótulo 'República Velha' para designar o período de 1889 a 1930?",
+      "opcoes": [
+        "Porque essa denominação foi criada pelos grupos vitoriosos em 1930 para desqualificar o regime anterior como atrasado e legitimar seu próprio governo como novidade.",
+        "Porque o regime implantado em 1889 durou menos de dez anos, sendo substituído pela Constituição de 1934 logo no início do século XX.",
+        "Porque o termo 'República Velha' era o nome oficial adotado pela Constituição de 1891 para definir o sistema federativo.",
+        "Porque a Primeira República garantiu ampla inclusão social e participação popular, tornando inadequado o adjetivo 'velha'."
+      ],
+      "correta": 0,
+      "explicacao": "A expressão 'República Velha' carrega o ponto de vista político de quem assumiu o poder após 1930, opondo um suposto passado arcaico à modernidade que afirmava inaugurar, o que exige análise crítica sobre rupturas e permanências.",
+      "revisar": false
+    },
+    {
+      "id": "bra-rv-d-008",
+      "tipo": "multipla",
+      "pergunta": "Segundo o discurso legitimador dos grupos vitoriosos na Revolução de 1930, qual característica institucional da Primeira República teria provocado a decomposição política do país?",
+      "opcoes": [
+        "A excessiva centralização autoritária do Poder Executivo federal sobre as oligarquias regionais.",
+        "O federalismo exacerbado e o liberalismo inspirado em valores europeus, vistos como alheios à realidade cultural brasileira.",
+        "A estatização completa da economia cafeeira promovida pelos presidentes paulistas desde Campos Sales.",
+        "A participação obrigatória dos sindicatos operários na escolha dos governadores estaduais."
+      ],
+      "correta": 1,
+      "explicacao": "Na interpretação oficial dos vencedores de 1930, o movimento teria encerrado um liberalismo e um federalismo vistos como estranhos à realidade nacional. A centralização política foi defendida justamente depois de 1930.",
+      "revisar": false
+    },
+    {
+      "id": "bra-rv-d-009",
+      "tipo": "multipla",
+      "pergunta": "Na historiografia sobre 1930, a expressão 'silêncio dos vencidos' (título de obra de Edgar De Decca, 1981) está associada a qual crítica?",
+      "opcoes": [
+        "A tese de que os cafeicultores paulistas lideraram sozinhos a revolução operária de outubro de 1930.",
+        "A visão de que a Revolução de 1930 eliminou todas as desigualdades sociais e deu voz plena aos trabalhadores urbanos.",
+        "A crítica de que a narrativa oficial de 1930 consagrou a memória dos grupos dominantes vencedores e silenciou outros sujeitos sociais e projetos políticos.",
+        "A ideia de que os militares tenentistas foram completamente excluídos do Governo Provisório instalado em 1930."
+      ],
+      "correta": 2,
+      "explicacao": "A perspectiva do 'silêncio dos vencidos' problematiza o discurso triunfalista da Revolução de 1930, mostrando como a história oficial dos vencedores ocultou as lutas e demandas das camadas trabalhadoras derrotadas ou tuteladas.",
+      "revisar": false
+    },
+    {
+      "id": "bra-rv-d-010",
+      "tipo": "multipla",
+      "pergunta": "Por que a historiografia contemporânea costuma interrogar o conceito de 'Revolução' aplicado a 1930 e analisar o período sob a ótica de 'rupturas e permanências'?",
+      "opcoes": [
+        "Porque não houve qualquer mudança na composição do governo federal nem na legislação trabalhista após 1930.",
+        "Porque o movimento de 1930 promoveu uma revolução socialista radical que extinguiu a propriedade privada no campo.",
+        "Porque a deposição de Washington Luís foi conduzida exclusivamente por forças estrangeiras.",
+        "Porque, embora tenha alterado o arranjo político central e ampliado o papel do Estado, 1930 manteve estruturas sociais e mecanismos de exclusão herdados do período anterior."
+      ],
+      "correta": 3,
+      "explicacao": "Questionar o caráter revolucionário de 1930 permite perceber que a redefinição das elites dirigentes e a centralização estatal conviveram com profundas continuidades na estrutura agrária e na desigualdade social.",
+      "revisar": false
+    },
+    {
+      "id": "bra-rv-d-011",
+      "tipo": "multipla",
+      "pergunta": "Como o bloqueio à alternância de poder na Primeira República contribuiu para a crise política que culminou em 1930?",
+      "opcoes": [
+        "Levou os coronéis do interior a apoiar o voto secreto e a reforma agrária defendidos pelo movimento operário.",
+        "Eliminou todas as divergências entre as elites estaduais, fortalecendo o pacto oligárquico até a década de 1940.",
+        "Condenou famílias secundárias nos estados e oligarquias de fora do eixo Minas–São Paulo à oposição permanente, originando oligarquias dissidentes que romperam o pacto.",
+        "Permitiu que os partidos comunistas conquistassem a maioria do Congresso Nacional nas eleições de 1926."
+      ],
+      "correta": 2,
+      "explicacao": "Como o poder ficava restrito sempre aos mesmos grupos estaduais e ao predomínio de Minas Gerais e São Paulo no plano federal, o descontentamento dos setores excluídos gerou dissidências oligárquicas que fraturaram o sistema.",
+      "revisar": false
+    },
+    {
+      "id": "bra-rv-d-012",
+      "tipo": "multipla",
+      "pergunta": "De que maneira a estratégia política inaugurada no governo Campos Sales (1898–1902) articulou a governabilidade federal com a exclusão das demandas populares na Primeira República?",
+      "opcoes": [
+        "Garantiu apoio recíproco entre o presidente e as bancadas oligárquicas estaduais no Congresso, enquanto demandas populares e greves eram tratadas como questão de ordem pública e reprimidas.",
+        "Instituiu o voto secreto e a Justiça Eleitoral independente para enfraquecer as bancadas estaduais no Congresso Nacional.",
+        "Promoveu a reforma agrária no sertão nordestino e legalizou os sindicatos operários para evitar revoltas urbanas.",
+        "Substituiu o presidencialismo federativo por um regime parlamentarista controlado pelas associações de moradores."
+      ],
+      "correta": 0,
+      "explicacao": "A 'política dos governadores', consolidada com Campos Sales, assegurou estabilidade entre o Executivo federal e as oligarquias estaduais, fechando o sistema político e respondendo às mobilizações populares com repressão.",
+      "revisar": false
+    }
+  ]
+}

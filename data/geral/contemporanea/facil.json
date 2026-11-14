@@ -1,0 +1,246 @@
+{
+  "materia": "geral",
+  "tempo": "contemporanea",
+  "dificuldade": "facil",
+  "licao": "Revolução Francesa, industrialização e guerras mundiais",
+  "questoes": [
+    {
+      "id": "ger-con-f-001",
+      "tipo": "multipla",
+      "pergunta": "Qual acontecimento histórico ocorrido no ano de 1789 marca o início da Idade Contemporânea na periodização tradicional?",
+      "opcoes": [
+        "A Revolução Russa",
+        "A Primeira Guerra Mundial",
+        "A Revolução Francesa",
+        "A queda do Império Romano"
+      ],
+      "correta": 2,
+      "explicacao": "O ano de 1789 assinala o começo da Revolução Francesa, tomada como marco inaugural da época contemporânea. A Revolução Russa e a Primeira Guerra Mundial ocorreram apenas no século XX.",
+      "revisar": false
+    },
+    {
+      "id": "ger-con-f-002",
+      "tipo": "multipla",
+      "pergunta": "Qual assembleia foi aberta na França em 1789, dando início ao processo político da Revolução Francesa?",
+      "opcoes": [
+        "O Parlamento Longo",
+        "A Assembleia da Liga das Nações",
+        "O Congresso de Viena",
+        "Os Estados Gerais"
+      ],
+      "correta": 3,
+      "explicacao": "A abertura dos Estados Gerais em 1789 desencadeou os embates políticos da Revolução Francesa. O Congresso de Viena ocorreu em 1814–1815, após o período napoleônico.",
+      "revisar": false
+    },
+    {
+      "id": "ger-con-f-003",
+      "tipo": "multipla",
+      "pergunta": "De acordo com a interpretação historiográfica clássica sobre a Revolução Francesa, qual classe social consolidou sua ascensão ao superar a antiga divisão entre nobreza, clero e povo?",
+      "opcoes": [
+        "A burguesia",
+        "A aristocracia feudal",
+        "O clero absolutista",
+        "A nobreza togada"
+      ],
+      "correta": 0,
+      "explicacao": "Nessa leitura histórica, a Revolução Francesa coroou a longa evolução econômica e social que projetou a burguesia ao centro do poder e da sociedade contemporânea, substituindo as antigas ordens estamentais.",
+      "revisar": false
+    },
+    {
+      "id": "ger-con-f-004",
+      "tipo": "multipla",
+      "pergunta": "Qual célebre hino surgiu no contexto da Revolução Francesa iniciada em 1789?",
+      "opcoes": [
+        "A Internacional",
+        "O Hino da Independência",
+        "A Marselhesa",
+        "A Voz da América"
+      ],
+      "correta": 2,
+      "explicacao": "A Marselhesa é o hino associado diretamente ao processo revolucionário francês iniciado em 1789. A Internacional surgiu posteriormente no movimento operário socialista do século XIX.",
+      "revisar": false
+    },
+    {
+      "id": "ger-con-f-005",
+      "tipo": "multipla",
+      "pergunta": "Qual líder revolucionário francês apresentou um relatório à Convenção em 25 de dezembro de 1793 defendendo os princípios do governo revolucionário?",
+      "opcoes": [
+        "Maximilien de Robespierre",
+        "Napoleão Bonaparte",
+        "Georges Danton",
+        "Luís XVI"
+      ],
+      "correta": 0,
+      "explicacao": "Em dezembro de 1793 (5 Nivôse do ano II), Robespierre discursou na Convenção diferenciando o governo revolucionário do governo constitucional. Napoleão Bonaparte assumiu o poder posteriormente, no encerramento do processo revolucionário.",
+      "revisar": false
+    },
+    {
+      "id": "ger-con-f-006",
+      "tipo": "multipla",
+      "pergunta": "Qual intervalo de datas delimita a fase mais radical do governo revolucionário jacobino durante a Revolução Francesa?",
+      "opcoes": [
+        "De 1914 a 1918",
+        "De 1939 a 1945",
+        "De 1924 a 1953",
+        "De 31 de maio de 1793 a 27 de julho de 1794"
+      ],
+      "correta": 3,
+      "explicacao": "O período compreendido entre 31 de maio de 1793 e 27 de julho de 1794 corresponde à fase mais intensa e radical da Revolução Francesa. Os demais intervalos referem-se às guerras mundiais e ao stalinismo no século XX.",
+      "revisar": false
+    },
+    {
+      "id": "ger-con-f-007",
+      "tipo": "multipla",
+      "pergunta": "Quais dois grupos sociais destacaram-se como protagonistas da nova sociedade surgida com a Primeira Revolução Industrial?",
+      "opcoes": [
+        "Senhores feudais e servos",
+        "Burguesia e classe operária",
+        "Patrícios e plebeus",
+        "Donatários e bandeirantes"
+      ],
+      "correta": 1,
+      "explicacao": "O avanço da industrialização e do capital projetou a burguesia e a classe operária como atores centrais da era contemporânea. Senhores feudais e servos pertencem à Idade Média, enquanto patrícios e plebeus são grupos da Roma Antiga.",
+      "revisar": false
+    },
+    {
+      "id": "ger-con-f-008",
+      "tipo": "multipla",
+      "pergunta": "Na transição marcada pela industrialização e pela modernização contemporânea, qual nova forma de organização coletiva substituiu a antiga divisão estamental entre nobreza, clero e povo?",
+      "opcoes": [
+        "As classes sociais",
+        "Os nomos fluviais",
+        "As capitanias hereditárias",
+        "As guildas artesanais"
+      ],
+      "correta": 0,
+      "explicacao": "A modernização industrial rompeu com as ordens (estamentos) do Antigo Regime e organizou as desigualdades econômicas em novas coletividades: as classes sociais.",
+      "revisar": false
+    },
+    {
+      "id": "ger-con-f-009",
+      "tipo": "multipla",
+      "pergunta": "Qual transformação no campo acompanhou a industrialização e provocou a expulsão em massa de camponeses para as cidades, engrossando o chamado 'exército urbano'?",
+      "opcoes": [
+        "A distribuição gratuita de terras comunais aos trabalhadores rurais",
+        "A proibição legal do trabalho assalariado nas fábricas urbanas",
+        "A restauração das obrigações servis medievais nas aldeias",
+        "A progressiva privatização do campo"
+      ],
+      "correta": 3,
+      "explicacao": "A privatização progressiva das terras rurais expulsou grandes contingentes de camponeses do campo, que migraram para os centros urbanos e alimentaram a mão de obra fabril.",
+      "revisar": false
+    },
+    {
+      "id": "ger-con-f-010",
+      "tipo": "multipla",
+      "pergunta": "Em que período ocorreu a Primeira Guerra Mundial, conflito que alterou profundamente o cenário político e econômico internacional no início do século XX?",
+      "opcoes": [
+        "1914 a 1918",
+        "1939 a 1945",
+        "1889 a 1930",
+        "1964 a 1985"
+      ],
+      "correta": 0,
+      "explicacao": "A Primeira Guerra Mundial estendeu-se de 1914 a 1918, antecedendo a crise econômica de 1929 e os regimes totalitários do entreguerras. O período de 1939 a 1945 corresponde à Segunda Guerra Mundial.",
+      "revisar": false
+    },
+    {
+      "id": "ger-con-f-011",
+      "tipo": "multipla",
+      "pergunta": "Qual foi o período de duração da Segunda Guerra Mundial no século XX?",
+      "opcoes": [
+        "1914 a 1918",
+        "1930 a 1945",
+        "1939 a 1945",
+        "1946 a 1964"
+      ],
+      "correta": 2,
+      "explicacao": "A Segunda Guerra Mundial ocorreu entre 1939 e 1945, envolvendo as potências do Eixo e os Aliados. O intervalo de 1930 a 1945 corresponde à Era Vargas na história do Brasil.",
+      "revisar": false
+    },
+    {
+      "id": "ger-con-f-012",
+      "tipo": "multipla",
+      "pergunta": "Em que ano ocorreu a Revolução Russa, que deu origem ao Estado soviético durante a Primeira Guerra Mundial?",
+      "opcoes": [
+        "1917",
+        "1789",
+        "1929",
+        "1989"
+      ],
+      "correta": 0,
+      "explicacao": "A Revolução Russa eclodiu em 1917, durante a Primeira Guerra Mundial, inaugurando o primeiro regime socialista do século XX. O ano de 1989 marca o colapso dos regimes socialistas do Leste Europeu.",
+      "revisar": false
+    },
+    {
+      "id": "ger-con-f-013",
+      "tipo": "multipla",
+      "pergunta": "Quem foi o líder do regime nazista alemão às vésperas e durante a Segunda Guerra Mundial, tendo alcançado o poder inicialmente por vias eleitorais?",
+      "opcoes": [
+        "General Franco",
+        "Adolf Hitler",
+        "Josef Stálin",
+        "Maximilien de Robespierre"
+      ],
+      "correta": 1,
+      "explicacao": "Adolf Hitler liderou o nazismo na Alemanha, chegando ao poder pelo voto antes de instaurar um regime totalitário expansionista. O general Franco governou a Espanha e Stálin dirigiu a União Soviética.",
+      "revisar": false
+    },
+    {
+      "id": "ger-con-f-014",
+      "tipo": "multipla",
+      "pergunta": "Como ficou conhecido o regime autoritário instaurado na França durante a Segunda Guerra Mundial, associado à colaboração com a Alemanha nazista?",
+      "opcoes": [
+        "Comuna de Paris",
+        "Convenção Nacional",
+        "Conferência de Bandung",
+        "Período de Vichy"
+      ],
+      "correta": 3,
+      "explicacao": "O regime de Vichy designa o governo autoritário estabelecido na França no contexto da Segunda Guerra Mundial. A Comuna de Paris ocorreu em 1871 e a Convenção pertence à Revolução Francesa de 1793.",
+      "revisar": false
+    },
+    {
+      "id": "ger-con-f-015",
+      "tipo": "multipla",
+      "pergunta": "Qual general espanhol venceu os republicanos na Guerra Civil (1936–1939) e governou a Espanha em ditadura até 1975?",
+      "opcoes": [
+        "Adolf Hitler",
+        "Francisco Franco",
+        "Benito Mussolini",
+        "António de Oliveira Salazar"
+      ],
+      "correta": 1,
+      "explicacao": "Francisco Franco venceu os republicanos na Guerra Civil Espanhola (1936–1939) e governou a Espanha em ditadura até 1975. Hitler liderou a Alemanha nazista; Mussolini, a Itália fascista; Salazar, Portugal.",
+      "revisar": false
+    },
+    {
+      "id": "ger-con-f-016",
+      "tipo": "multipla",
+      "pergunta": "O que aconteceu com a posição geopolítica da Europa na segunda metade do século XX, após ficar arrasada pela Segunda Guerra Mundial?",
+      "opcoes": [
+        "Consolidou-se como a única potência econômica e militar do planeta",
+        "Deixou de ser o centro político e econômico do mundo, dividindo-se em zonas de influência dos Estados Unidos e da União Soviética",
+        "Restaurou integralmente todos os seus impérios coloniais na Ásia e na África sem interferência externa",
+        "Unificou-se sob um governo socialista único liderado pela Inglaterra"
+      ],
+      "correta": 1,
+      "explicacao": "Devastada pela guerra, a Europa perdeu a centralidade mundial que exercera até então e foi dividida entre as áreas de influência das duas superpotências da Guerra Fria, Estados Unidos e União Soviética.",
+      "revisar": false
+    },
+    {
+      "id": "ger-con-f-017",
+      "tipo": "multipla",
+      "pergunta": "Qual regime totalitário europeu está diretamente ligado aos crimes cometidos durante a Segunda Guerra Mundial, frequentemente analisados nos debates sobre memória e justiça do século XX?",
+      "opcoes": [
+        "O nazismo",
+        "O mercantilismo",
+        "O iluminismo",
+        "O feudalismo"
+      ],
+      "correta": 0,
+      "explicacao": "O nazismo é o regime autoritário europeu do século XX diretamente associado aos crimes da Segunda Guerra Mundial, tema central nas pesquisas sobre direitos humanos e memória histórica contemporânea.",
+      "revisar": false
+    }
+  ]
+}

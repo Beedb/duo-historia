@@ -9,7 +9,12 @@
       "id": "bra-col-f-001",
       "tipo": "multipla",
       "pergunta": "Em que ano a esquadra de Pedro Álvares Cabral chegou ao território que hoje é o Brasil?",
-      "opcoes": ["1492", "1500", "1530", "1549"],
+      "opcoes": [
+        "1492",
+        "1500",
+        "1530",
+        "1549"
+      ],
       "correta": 1,
       "explicacao": "Cabral chegou em abril de 1500. 1492 é a chegada de Colombo à América. 1530 é a expedição de Martim Afonso de Sousa. 1549 é a instalação do Governo-Geral.",
       "revisar": false
@@ -18,7 +23,12 @@
       "id": "bra-col-f-002",
       "tipo": "multipla",
       "pergunta": "Qual documento relatou ao rei de Portugal a chegada da esquadra de Cabral e o primeiro contato com os indígenas?",
-      "opcoes": ["Tratado de Tordesilhas", "Carta de Pero Vaz de Caminha", "Bula Inter Coetera", "Regimento de Tomé de Sousa"],
+      "opcoes": [
+        "Tratado de Tordesilhas",
+        "Carta de Pero Vaz de Caminha",
+        "Bula Inter Coetera",
+        "Regimento de Tomé de Sousa"
+      ],
       "correta": 1,
       "explicacao": "Pero Vaz de Caminha, escrivão da frota, escreveu a carta ao rei D. Manuel I em 1500. Tordesilhas (1494) e a bula Inter Coetera (1493) dividiam terras entre Portugal e Espanha. O Regimento de Tomé de Sousa é de 1548.",
       "revisar": false
@@ -27,7 +37,12 @@
       "id": "bra-col-f-003",
       "tipo": "multipla",
       "pergunta": "Qual foi a primeira atividade econômica explorada pelos portugueses no Brasil?",
-      "opcoes": ["Mineração de ouro", "Cultivo de café", "Extração de pau-brasil", "Criação de gado"],
+      "opcoes": [
+        "Mineração de ouro",
+        "Cultivo de café",
+        "Extração de pau-brasil",
+        "Criação de gado"
+      ],
       "correta": 2,
       "explicacao": "Nas primeiras décadas, os portugueses extraíram o pau-brasil, usado para produzir corante vermelho para tecidos. O ouro e o café vieram muito depois (séculos XVIII e XIX). O gado se expandiu junto com a produção de açúcar.",
       "revisar": false
@@ -36,7 +51,12 @@
       "id": "bra-col-f-004",
       "tipo": "multipla",
       "pergunta": "Como os portugueses conseguiam o trabalho indígena na extração do pau-brasil?",
-      "opcoes": ["Pelo escambo", "Pelo pagamento de salário", "Pelo sistema de parceria", "Pela cobrança de impostos"],
+      "opcoes": [
+        "Pelo escambo",
+        "Pelo pagamento de salário",
+        "Pelo sistema de parceria",
+        "Pela cobrança de impostos"
+      ],
       "correta": 0,
       "explicacao": "No escambo, os indígenas cortavam e carregavam a madeira em troca de objetos como facas, machados e tecidos. Não havia salário em dinheiro nem parceria ou impostos sobre os indígenas nesse momento.",
       "revisar": false
@@ -45,7 +65,12 @@
       "id": "bra-col-f-005",
       "tipo": "multipla",
       "pergunta": "Qual foi a primeira vila fundada pelos portugueses no Brasil, em 1532?",
-      "opcoes": ["Salvador", "Rio de Janeiro", "São Vicente", "Olinda"],
+      "opcoes": [
+        "Salvador",
+        "Rio de Janeiro",
+        "São Vicente",
+        "Olinda"
+      ],
       "correta": 2,
       "explicacao": "Martim Afonso de Sousa fundou São Vicente em 1532. Salvador foi fundada em 1549, Rio de Janeiro em 1565. Olinda surgiu depois, na capitania de Pernambuco.",
       "revisar": false
@@ -54,7 +79,12 @@
       "id": "bra-col-f-006",
       "tipo": "multipla",
       "pergunta": "Qual rei de Portugal dividiu o Brasil em capitanias hereditárias, a partir de 1534?",
-      "opcoes": ["D. Manuel I", "D. João III", "D. Sebastião", "D. João VI"],
+      "opcoes": [
+        "D. Manuel I",
+        "D. João III",
+        "D. Sebastião",
+        "D. João VI"
+      ],
       "correta": 1,
       "explicacao": "D. João III criou as capitanias para ocupar e defender o território sem gastar muito da Coroa. D. Manuel I reinava em 1500. D. Sebastião veio depois. D. João VI só chegou ao Brasil em 1808.",
       "revisar": false
@@ -63,7 +93,12 @@
       "id": "bra-col-f-007",
       "tipo": "multipla",
       "pergunta": "Quais capitanias hereditárias prosperaram, principalmente graças ao açúcar?",
-      "opcoes": ["Bahia e Maranhão", "Pernambuco e São Vicente", "Ceará e Espírito Santo", "Itamaracá e Porto Seguro"],
+      "opcoes": [
+        "Bahia e Maranhão",
+        "Pernambuco e São Vicente",
+        "Ceará e Espírito Santo",
+        "Itamaracá e Porto Seguro"
+      ],
       "correta": 1,
       "explicacao": "Pernambuco e São Vicente foram as que deram certo, com engenhos de açúcar. A maioria das capitanias fracassou por falta de recursos, distância de Portugal e conflitos com indígenas.",
       "revisar": false
@@ -72,9 +107,392 @@
       "id": "bra-col-f-008",
       "tipo": "multipla",
       "pergunta": "Na produção de açúcar do Brasil colonial, qual era a principal mão de obra nos engenhos?",
-      "opcoes": ["Imigrantes europeus assalariados", "Pessoas africanas escravizadas", "Colonos portugueses livres", "Trabalhadores asiáticos contratados"],
+      "opcoes": [
+        "Imigrantes europeus assalariados",
+        "Pessoas africanas escravizadas",
+        "Colonos portugueses livres",
+        "Trabalhadores asiáticos contratados"
+      ],
       "correta": 1,
       "explicacao": "Os engenhos dependiam principalmente do trabalho de pessoas africanas escravizadas, trazidas pelo tráfico atlântico. Indígenas também foram escravizados, sobretudo no início. Imigrantes assalariados só chegaram em grande número no século XIX.",
+      "revisar": false
+    },
+    {
+      "id": "bra-col-f-009",
+      "tipo": "multipla",
+      "pergunta": "Quem comandou a expedição de 1530 que percorreu a costa brasileira do Cabo de Santo Agostinho ao Rio da Prata?",
+      "opcoes": [
+        "Cristóvão Jacques",
+        "Martim Afonso de Sousa",
+        "Duarte Coelho",
+        "Mem de Sá"
+      ],
+      "correta": 1,
+      "explicacao": "A expedição de 1530, que percorreu o litoral do Cabo de Santo Agostinho ao Rio da Prata, foi comandada por Martim Afonso de Sousa (grafado também como Martin Afonso de Souza).",
+      "revisar": false
+    },
+    {
+      "id": "bra-col-f-010",
+      "tipo": "multipla",
+      "pergunta": "Quem recebeu a Carta de Doação da Capitania de Pernambuco em 1534?",
+      "opcoes": [
+        "Duarte Coelho",
+        "Pero Vaz de Caminha",
+        "Tomé de Sousa",
+        "Henrique Dias"
+      ],
+      "correta": 0,
+      "explicacao": "A Carta de Doação da Capitania de Pernambuco foi concedida a Duarte Coelho em 1534.",
+      "revisar": false
+    },
+    {
+      "id": "bra-col-f-011",
+      "tipo": "multipla",
+      "pergunta": "Qual era o nome do pau-brasil na língua tupi?",
+      "opcoes": [
+        "Beiju",
+        "Jurupari",
+        "Ibirapitanga",
+        "Banzo"
+      ],
+      "correta": 2,
+      "explicacao": "O pau-brasil era chamado simplesmente de ibirapitanga na língua tupi.",
+      "revisar": false
+    },
+    {
+      "id": "bra-col-f-012",
+      "tipo": "multipla",
+      "pergunta": "Quem foi o autor nascido no Brasil que terminou de escrever uma 'História do Brasil' em 20 de dezembro de 1627?",
+      "opcoes": [
+        "Padre Antônio Vieira",
+        "Frei Vicente do Salvador",
+        "Padre Manuel da Nóbrega",
+        "Pero de Magalhães Gandavo"
+      ],
+      "correta": 1,
+      "explicacao": "Frei Vicente do Salvador (também citado como Vicente Salvador), nascido no Brasil, escreveu uma História do Brasil concluída em 20 de dezembro de 1627.",
+      "revisar": false
+    },
+    {
+      "id": "bra-col-f-013",
+      "tipo": "multipla",
+      "pergunta": "Em que ano ocorreu a invasão holandesa em Pernambuco?",
+      "opcoes": [
+        "1624",
+        "1630",
+        "1645",
+        "1654"
+      ],
+      "correta": 1,
+      "explicacao": "A invasão de Pernambuco pelos holandeses ocorreu em 1630.",
+      "revisar": false
+    },
+    {
+      "id": "bra-col-f-014",
+      "tipo": "multipla",
+      "pergunta": "Qual cidade colonial mais se beneficiou com o domínio holandês no Brasil?",
+      "opcoes": [
+        "Salvador",
+        "São Vicente",
+        "Recife",
+        "Olinda"
+      ],
+      "correta": 2,
+      "explicacao": "Recife foi a cidade colonial que mais se beneficiou com esse domínio.",
+      "revisar": false
+    },
+    {
+      "id": "bra-col-f-015",
+      "tipo": "multipla",
+      "pergunta": "Qual trio é apontado por uma interpretação historiográfica como os \"autores da grandeza territorial\" do Brasil?",
+      "opcoes": [
+        "O jesuíta, o criador e o paulista bandeirante",
+        "O navegador, o minerador e o comerciante",
+        "O governador-geral, o donatário e o ouvidor",
+        "O senhor de engenho, o bispo e o vice-rei"
+      ],
+      "correta": 0,
+      "explicacao": "O jesuíta, o criador e o paulista bandeirante são os autores da grandeza territorial do Brasil.",
+      "revisar": true
+    },
+    {
+      "id": "bra-col-f-016",
+      "tipo": "multipla",
+      "pergunta": "Em que data a esquadra de Pedro Álvares Cabral saiu do rio Tejo em direção à Índia, na viagem que resultou no descobrimento do Brasil?",
+      "opcoes": [
+        "9 de março de 1500",
+        "22 de abril de 1500",
+        "1 de dezembro de 1640",
+        "7 de setembro de 1822"
+      ],
+      "correta": 0,
+      "explicacao": "Pedro Álvares Cabral saiu do rio Tejo em demanda da Índia no dia 9 de março de 1500.",
+      "revisar": false
+    },
+    {
+      "id": "bra-col-f-017",
+      "tipo": "multipla",
+      "pergunta": "Qual português naufragou na altura da Bahia em 1510, foi poupado pelos indígenas e casou-se com Paraguaçu?",
+      "opcoes": [
+        "João Ramalho",
+        "Diogo Álvares (Caramuru)",
+        "Pero Vaz de Caminha",
+        "Estácio de Sá"
+      ],
+      "correta": 1,
+      "explicacao": "Diogo Álvares, conhecido como Caramuru, naufragou na Bahia em 1510, viveu em harmonia com os indígenas e casou-se com Paraguaçu.",
+      "revisar": false
+    },
+    {
+      "id": "bra-col-f-018",
+      "tipo": "multipla",
+      "pergunta": "Quem foi o primeiro Governador-Geral do Brasil, responsável por fundar a cidade de Salvador (Bahia) em 1549?",
+      "opcoes": [
+        "Duarte da Costa",
+        "Mem de Sá",
+        "Tomé de Sousa",
+        "Martim Afonso de Sousa"
+      ],
+      "correta": 2,
+      "explicacao": "O Governo-Geral foi instituído em 1549 com Tomé de Sousa (também grafado Tomé de Souza) como primeiro governador, fundando no mesmo ano a cidade de Salvador, na Bahia.",
+      "revisar": false
+    },
+    {
+      "id": "bra-col-f-019",
+      "tipo": "multipla",
+      "pergunta": "Qual religioso liderou os primeiros seis membros da Companhia de Jesus (jesuítas) que chegaram ao Brasil junto com Tomé de Sousa?",
+      "opcoes": [
+        "Padre Antônio Vieira",
+        "Padre Fernão Cardim",
+        "Padre José de Anchieta",
+        "Padre Manuel da Nóbrega"
+      ],
+      "correta": 3,
+      "explicacao": "Os seis primeiros religiosos da Companhia de Jesus a pisarem em terra brasílica vieram com Tomé de Sousa liderados por Manuel da Nóbrega (Manoel da Nóbrega).",
+      "revisar": false
+    },
+    {
+      "id": "bra-col-f-020",
+      "tipo": "multipla",
+      "pergunta": "Quem foi o primeiro bispo do Brasil, que chegou a Salvador em 1552?",
+      "opcoes": [
+        "D. Pero Fernandes Sardinha",
+        "D. Marcos Teixeira",
+        "D. Gaspar Barata de Mendonça",
+        "D. Henrique"
+      ],
+      "correta": 0,
+      "explicacao": "D. Pero Fernandes Sardinha foi nomeado em 1551, quando o papa criou o bispado da Bahia, e chegou a Salvador em 1552. D. Marcos Teixeira foi bispo da Bahia bem depois, na época da invasão holandesa de 1624.",
+      "revisar": false
+    },
+    {
+      "id": "bra-col-f-021",
+      "tipo": "multipla",
+      "pergunta": "Quem foi o segundo Governador-Geral do Brasil, governando entre os anos de 1553 e 1558?",
+      "opcoes": [
+        "Tomé de Sousa",
+        "Duarte da Costa",
+        "Mem de Sá",
+        "Lourenço da Veiga"
+      ],
+      "correta": 1,
+      "explicacao": "Duarte da Costa foi o segundo Governador-Geral do Brasil, exercendo o cargo de 1553 a 1558.",
+      "revisar": false
+    },
+    {
+      "id": "bra-col-f-022",
+      "tipo": "multipla",
+      "pergunta": "Quem comandou os franceses que ocuparam o Rio de Janeiro no ano de 1555?",
+      "opcoes": [
+        "La Ravardière",
+        "Duguay-Trouin",
+        "Nicolau de Villegagnon",
+        "Jacques Riffault"
+      ],
+      "correta": 2,
+      "explicacao": "Nicolau Durand de Villegagnon comandou os franceses que ocuparam a baía de Guanabara em 1555 e fundaram a França Antártica. La Ravardière liderou a França Equinocial, no Maranhão, em 1612.",
+      "revisar": false
+    },
+    {
+      "id": "bra-col-f-023",
+      "tipo": "multipla",
+      "pergunta": "Quem foi o terceiro Governador-Geral do Brasil (1558-1572), que expulsou os franceses da Guanabara e consolidou a cidade do Rio de Janeiro?",
+      "opcoes": [
+        "Tomé de Sousa",
+        "Duarte da Costa",
+        "D. Francisco de Sousa",
+        "Mem de Sá"
+      ],
+      "correta": 3,
+      "explicacao": "Mem de Sá foi o terceiro Governador-Geral e combateu os franceses na Guanabara. O Rio de Janeiro foi fundado em 1565 por Estácio de Sá e consolidado em 1567, após a expulsão dos franceses.",
+      "revisar": false
+    },
+    {
+      "id": "bra-col-f-024",
+      "tipo": "multipla",
+      "pergunta": "Qual nome recebeu a primeira feitoria portuguesa fundada no Brasil, próxima a Porto Seguro, composta por 24 homens?",
+      "opcoes": [
+        "Santa Cruz",
+        "São Vicente",
+        "Piratininga",
+        "Itanhaém"
+      ],
+      "correta": 0,
+      "explicacao": "Fundou-se próximo de Porto Seguro a primeira feitoria portuguesa no Brasil, chamada Santa Cruz, composta por 24 homens.",
+      "revisar": true
+    },
+    {
+      "id": "bra-col-f-025",
+      "tipo": "multipla",
+      "pergunta": "Em que ano Martim Afonso de Sousa instalou o primeiro engenho de açúcar da colônia em São Vicente, com mudas trazidas da ilha da Madeira?",
+      "opcoes": [
+        "1500",
+        "1533",
+        "1549",
+        "1580"
+      ],
+      "correta": 1,
+      "explicacao": "Martim Afonso de Sousa trouxe mudas de cana-de-açúcar da ilha da Madeira e instalou o primeiro engenho da colônia em São Vicente no ano de 1533.",
+      "revisar": true
+    },
+    {
+      "id": "bra-col-f-026",
+      "tipo": "multipla",
+      "pergunta": "Qual período corresponde à União Ibérica, quando Portugal e o Brasil passaram a integrar os domínios da Espanha?",
+      "opcoes": [
+        "1500 a 1530",
+        "1549 a 1580",
+        "1580 a 1640",
+        "1763 a 1808"
+      ],
+      "correta": 2,
+      "explicacao": "A União Ibérica (domínio espanhol sobre Portugal e suas colônias) estendeu-se por 60 anos, entre 1580 e 1640.",
+      "revisar": false
+    },
+    {
+      "id": "bra-col-f-027",
+      "tipo": "multipla",
+      "pergunta": "Qual rei da Espanha apossou-se da coroa portuguesa em 1580, dando início ao domínio espanhol sobre Portugal e o Brasil?",
+      "opcoes": [
+        "D. Sebastião",
+        "D. João III",
+        "D. João IV",
+        "Filipe II"
+      ],
+      "correta": 3,
+      "explicacao": "Após a extinção da dinastia de Avis, em 1580, Filipe II da Espanha apossou-se do trono português. D. Sebastião morreu em 1578, D. João III reinou antes, e D. João IV encerrou o domínio espanhol em 1640.",
+      "revisar": false
+    },
+    {
+      "id": "bra-col-f-028",
+      "tipo": "multipla",
+      "pergunta": "Quem foi coroado rei de Portugal com o título de D. João IV em 1640, encerrando o domínio espanhol e inaugurando a dinastia de Bragança?",
+      "opcoes": [
+        "Duque de Bragança",
+        "Conde da Ericeira",
+        "Marquês de Montalvão",
+        "Marquês de Pombal"
+      ],
+      "correta": 0,
+      "explicacao": "O domínio espanhol terminou em 1640 quando o Duque de Bragança foi aclamado e coroado rei de Portugal como D. João IV.",
+      "revisar": false
+    },
+    {
+      "id": "bra-col-f-029",
+      "tipo": "multipla",
+      "pergunta": "Quem foi enviado para governar o Brasil Holandês a partir de 1637?",
+      "opcoes": [
+        "Albert Eckhout",
+        "Maurício de Nassau",
+        "Matias de Albuquerque",
+        "Henrique Dias"
+      ],
+      "correta": 1,
+      "explicacao": "O governo do Brasil Holandês foi confiado ao conde/príncipe Maurício de Nassau entre 1637 e 1644.",
+      "revisar": false
+    },
+    {
+      "id": "bra-col-f-030",
+      "tipo": "multipla",
+      "pergunta": "Em que ano ocorreu a expulsão definitiva dos holandeses do Brasil, marcada pela Capitulação do Taborda?",
+      "opcoes": [
+        "1624",
+        "1637",
+        "1654",
+        "1661"
+      ],
+      "correta": 2,
+      "explicacao": "As revoltas e ataques contra os holandeses culminaram com sua expulsão definitiva e a Capitulação do Taborda em 1654.",
+      "revisar": false
+    },
+    {
+      "id": "bra-col-f-031",
+      "tipo": "multipla",
+      "pergunta": "Quem foi o rico lavrador de origem espanhola aclamado rei pelos paulistas por volta de 1640, durante a crise com os jesuítas e a restauração da coroa portuguesa?",
+      "opcoes": [
+        "Manuel Beckman",
+        "Felipe Camarão",
+        "Bento Maciel",
+        "Amador Bueno"
+      ],
+      "correta": 3,
+      "explicacao": "Os paulistas aclamaram um rei na figura de Amador Bueno, um lavrador rico e estimado de origem espanhola.",
+      "revisar": false
+    },
+    {
+      "id": "bra-col-f-032",
+      "tipo": "multipla",
+      "pergunta": "Em que ano a sede do governo e capital do Brasil foi transferida de Salvador para o Rio de Janeiro?",
+      "opcoes": [
+        "1763",
+        "1549",
+        "1640",
+        "1808"
+      ],
+      "correta": 0,
+      "explicacao": "Em 1763 a capital do Brasil foi transferida de Salvador para o Rio de Janeiro.",
+      "revisar": false
+    },
+    {
+      "id": "bra-col-f-033",
+      "tipo": "multipla",
+      "pergunta": "Qual tratado assinado em 1750 fixou os limites territoriais entre as colônias de Portugal e Espanha na América do Sul?",
+      "opcoes": [
+        "Tratado de Utrecht",
+        "Tratado de Madri",
+        "Tratado da Haia",
+        "Tratado de Santo Ildefonso"
+      ],
+      "correta": 1,
+      "explicacao": "A configuração política e os limites do Brasil no século XVIII foram fixados pelo Tratado de Madri (ou Madrid), assinado em 1750.",
+      "revisar": false
+    },
+    {
+      "id": "bra-col-f-034",
+      "tipo": "multipla",
+      "pergunta": "Quem foi o poderoso ministro do rei D. José I, que assumiu o trono em 1750 e ficou marcado pela expulsão dos jesuítas e criação de companhias de comércio?",
+      "opcoes": [
+        "Duque de Caxias",
+        "Conde de Bagnuolo",
+        "Marquês de Pombal",
+        "Conde Maurício de Nassau"
+      ],
+      "correta": 2,
+      "explicacao": "Após a ascensão de D. José I em 1750, destacou-se seu ministro Sebastião José de Carvalho e Melo, futuro Marquês de Pombal, responsável pela expulsão dos jesuítas e pela criação de companhias de comércio.",
+      "revisar": false
+    },
+    {
+      "id": "bra-col-f-035",
+      "tipo": "multipla",
+      "pergunta": "Em que ano a corte portuguesa foi transferida para o Brasil, ocasionando a abertura dos portos da colônia?",
+      "opcoes": [
+        "1750",
+        "1763",
+        "1789",
+        "1808"
+      ],
+      "correta": 3,
+      "explicacao": "A transferência da corte portuguesa para o Brasil e a consequente abertura dos portos ocorreram em 1808.",
       "revisar": false
     }
   ]

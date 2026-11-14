@@ -81,6 +81,134 @@
       "correta": 0,
       "explicacao": "Em 1710 e 1711, o Rio de Janeiro sofreu ataques liderados pelos franceses Jean-François Duclerc e René Duguay-Trouin. Villegagnon e La Ravardière atuaram muito antes, nos séculos XVI e XVII, respectivamente na Guanabara e no Maranhão.",
       "revisar": false
+    },
+    {
+      "id": "bra-col-m-007",
+      "tipo": "multipla",
+      "pergunta": "Qual fator socioeconômico impulsionou a organização das expedições bandeirantes a partir da capitania de São Vicente durante o período colonial?",
+      "opcoes": [
+        "O esgotamento das jazidas de ouro de Minas Gerais no início do século XVI",
+        "A proibição real de cultivar qualquer gênero agrícola no litoral sudeste",
+        "A pobreza relativa de São Vicente diante da prosperidade da economia açucareira no Nordeste",
+        "A invasão holandesa do porto de Santos, que bloqueou o comércio marítimo paulista"
+      ],
+      "correta": 2,
+      "explicacao": "Com poucos recursos comparados aos ricos engenhos açucareiros do Nordeste, os moradores de São Vicente organizaram bandeiras para buscar riquezas no interior e capturar indígenas para vender como escravos. A mineração em Minas Gerais só se desenvolveu bem mais tarde, a partir do final do século XVII.",
+      "revisar": false
+    },
+    {
+      "id": "bra-col-m-008",
+      "tipo": "multipla",
+      "pergunta": "Além da procura por metais preciosos e do apresamento de indígenas, qual outra atividade foi desempenhada pelas expedições bandeirantes em determinados momentos da colonização?",
+      "opcoes": [
+        "A expulsão definitiva dos franceses da Baía de Guanabara em 1567",
+        "A repressão militar e destruição de quilombos mediante contratação",
+        "A arrecadação oficial do quinto do ouro nas casas de fundição mineiras",
+        "A administração direta das missões jesuíticas da região amazônica"
+      ],
+      "correta": 1,
+      "explicacao": "Além de explorar o sertão e escravizar nativos, bandeirantes também foram contratados por autoridades e proprietários para atacar comunidades quilombolas. A expulsão dos franceses da Guanabara foi conduzida por forças ligadas ao Governo-Geral de Mem de Sá.",
+      "revisar": false
+    },
+    {
+      "id": "bra-col-m-009",
+      "tipo": "multipla",
+      "pergunta": "Por que a Coroa portuguesa manteve a América em segundo plano nas três primeiras décadas após 1500, antes de instituir capitanias hereditárias e o Governo-Geral?",
+      "opcoes": [
+        "Porque o Tratado de Tordesilhas impedia Portugal de construir feitorias na costa atlântica",
+        "Porque desconhecia completamente a existência de pau-brasil e de populações indígenas no litoral",
+        "Porque aguardava a autorização do Congresso de Viena para iniciar o povoamento",
+        "Porque priorizava o lucrativo comércio afro-asiático de especiarias, ouro, marfim, seda e porcelanas"
+      ],
+      "correta": 3,
+      "explicacao": "Sem encontrar de imediato metais preciosos ou mercadorias comparáveis às do rentável comércio oriental, Portugal limitou-se inicialmente a defender a posse do território contra concorrentes europeus. O Congresso de Viena pertence a outro contexto, ocorrido no século XIX.",
+      "revisar": false
+    },
+    {
+      "id": "bra-col-m-010",
+      "tipo": "multipla",
+      "pergunta": "Qual estratégia militar e política os conquistadores portugueses privilegiaram ao lidar com as diversas populações indígenas durante a ocupação da América portuguesa?",
+      "opcoes": [
+        "Estabelecer alianças com determinados grupos nativos para combater europeus concorrentes e tribos rivais",
+        "Evitar qualquer contato bélico ou aliança com os povos nativos, recorrendo apenas a tropas metropolitanas",
+        "Unificar todas as etnias indígenas sob um único governo autônomo subordinado ao Conselho Ultramarino",
+        "Substituir imediatamente os aliados indígenas por mercenários holandeses na defesa do litoral"
+      ],
+      "correta": 0,
+      "explicacao": "Os portugueses procuraram atrair nações indígenas como aliadas contra invasores estrangeiros e contra grupos nativos hostis, aproveitando rivalidades locais para viabilizar a conquista. Os holandeses atuaram como rivais coloniais, e não como mercenários a serviço de Portugal.",
+      "revisar": false
+    },
+    {
+      "id": "bra-col-m-011",
+      "tipo": "multipla",
+      "pergunta": "Qual processo cultural resultou da reunião forçada de africanos de diferentes etnias durante a travessia atlântica e o cativeiro no Brasil colonial?",
+      "opcoes": [
+        "O esquecimento imediato de todas as línguas e práticas religiosas trazidas da África",
+        "A reprodução automática e isolada de cada etnia africana sem trocas culturais entre si",
+        "A recusa completa em incorporar qualquer elemento cultural ou linguístico de origem indígena",
+        "A descoberta de elos linguísticos e religiosos profundos entre diferentes grupos africanos, gerando novas identidades"
+      ],
+      "correta": 3,
+      "explicacao": "Misturados no tráfico e nas senzalas, os africanos escravizados reconheceram afinidades culturais e espirituais compartilhadas, forjando laços de solidariedade e sínteses culturais no Brasil. Não houve isolamento rígido nem apagamento total das matrizes africanas.",
+      "revisar": false
+    },
+    {
+      "id": "bra-col-m-012",
+      "tipo": "multipla",
+      "pergunta": "Qual transformação demográfica e econômica acompanhou a expansão da atividade mineradora no Brasil colonial entre os séculos XVII e XVIII?",
+      "opcoes": [
+        "A queda acentuada das exportações coloniais e o desaparecimento da mão de obra escravizada",
+        "O forte crescimento da exportação de ouro associado à intensa entrada de cativos e à reconfiguração entre população livre e escravizada",
+        "A substituição integral do trabalho escravo pelo trabalho assalariado europeu nas lavras auríferas",
+        "O abandono definitivo das áreas urbanas do interior em favor das antigas feitorias de pau-brasil"
+      ],
+      "correta": 1,
+      "explicacao": "Entre 1650 e 1760, o ouro tornou-se o item de exportação de maior crescimento, impulsionando o tráfico negreiro e alterando a proporção entre livres e escravizados no século XVIII. A mineração promoveu intensa urbanização no interior, ao contrário de um retorno ao litoral.",
+      "revisar": false
+    },
+    {
+      "id": "bra-col-m-013",
+      "tipo": "multipla",
+      "pergunta": "Por que centros urbanos da região mineradora, como Vila Rica, converteram-se em polos de tensão política ao longo do século XVIII?",
+      "opcoes": [
+        "Porque a Coroa portuguesa isentou os mineradores de todos os tributos sobre o ouro extraído",
+        "Porque os jesuítas assumiram o controle militar da capitania de Minas Gerais contra os bandeirantes",
+        "Porque o controle fiscal rigoroso e as exigências da administração metropolitana chocavam-se com os interesses locais",
+        "Porque a transferência da corte portuguesa para Vila Rica provocou o fechamento das lavras"
+      ],
+      "correta": 2,
+      "explicacao": "A cobrança de impostos e a vigilância administrativa de Portugal sobre a riqueza aurífera acirraram os conflitos entre a metrópole e os habitantes de núcleos como Vila Rica. A corte portuguesa transferiu-se para o Rio de Janeiro apenas em 1808, não para Minas Gerais.",
+      "revisar": false
+    },
+    {
+      "id": "bra-col-m-014",
+      "tipo": "multipla",
+      "pergunta": "De que maneira espaços religiosos católicos dedicados à população negra foram ressignificados como instrumentos de resistência à escravidão?",
+      "opcoes": [
+        "Capelas devotadas a Nossa Senhora do Rosário dos Homens Pretos serviram também de abrigo e ponto de articulação para fugas rumo a quilombos",
+        "As irmandades negras receberam autorização régia para decretar a abolição da escravidão nas vilas portuárias",
+        "As igrejas coloniais proibiam a entrada de pessoas escravizadas e libertas em qualquer celebração religiosa",
+        "Os padres jesuítas organizavam expedições armadas a partir das capelas para destruir os quilombos vizinhos"
+      ],
+      "correta": 0,
+      "explicacao": "Em Santos, a capela de Nossa Senhora do Rosário dos Homens Pretos, erguida em 1651, teria servido de abrigo a escravizados fugitivos que buscavam o Quilombo do Jabaquara, formado já no século XIX. As irmandades não detinham poder legal para abolir a escravidão.",
+      "revisar": true
+    },
+    {
+      "id": "bra-col-m-015",
+      "tipo": "verdadeiro_falso",
+      "pergunta": "Durante o ciclo do ouro no Brasil colonial, as mulheres estiveram completamente excluídas das atividades econômicas e sociais da região mineradora, limitando-se exclusivamente aos engenhos açucareiros do litoral.",
+      "correta": false,
+      "explicacao": "A afirmação é falsa porque registros documentais e iconográficos, como as gravuras de Rugendas, evidenciam a participação ativa das mulheres no cotidiano e nas atividades ligadas à mineração.",
+      "revisar": false
+    },
+    {
+      "id": "bra-col-m-016",
+      "tipo": "verdadeiro_falso",
+      "pergunta": "A implantação das capitanias hereditárias e a posterior criação do Governo-Geral refletiram a combinação de iniciativas privadas e centralização administrativa para garantir o domínio português na América.",
+      "correta": true,
+      "explicacao": "A afirmativa é verdadeira, pois a Coroa portuguesa recorreu inicialmente aos recursos dos capitães donatários e, diante das dificuldades enfrentadas por várias capitanias, instituiu o Governo-Geral para coordenar a defesa e a colonização.",
+      "revisar": false
     }
   ]
 }

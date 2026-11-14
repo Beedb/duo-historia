@@ -1,0 +1,106 @@
+{
+  "materia": "brasil",
+  "tempo": "imperio",
+  "dificuldade": "facil",
+  "licao": "Independência, Segundo Reinado e o Censo de 1872",
+  "questoes": [
+    {
+      "id": "bra-imp-f-001",
+      "tipo": "multipla",
+      "pergunta": "Qual regime político foi adotado pelo Brasil após a independência em relação a Portugal, diferenciando-o da maioria das ex-colônias americanas?",
+      "opcoes": [
+        "República federativa presidencialista",
+        "Confederação de províncias autônomas",
+        "Monarquia centrada na figura de D. Pedro I",
+        "Regime parlamentarista controlado por juntas militares"
+      ],
+      "correta": 2,
+      "explicacao": "Enquanto as demais ex-colônias americanas adotaram a república após suas lutas emancipatórias, o Brasil organizou-se como uma monarquia tendo D. Pedro I como eixo da nova ordem política. A república federativa só seria implantada no país em 1889.",
+      "revisar": false
+    },
+    {
+      "id": "bra-imp-f-002",
+      "tipo": "multipla",
+      "pergunta": "Quais articulações políticas europeias dificultaram o reconhecimento internacional da independência do Brasil logo após a ruptura com Portugal?",
+      "opcoes": [
+        "Os resultados do Congresso de Viena e a Santa Aliança",
+        "O Tratado de Utrecht e a Liga das Nações",
+        "A Conferência de Berlim e a Tríplice Entente",
+        "O Pacto Colonial inglês e a Comunidade Britânica"
+      ],
+      "correta": 0,
+      "explicacao": "As diretrizes legitimistas do Congresso de Viena e da Santa Aliança criaram obstáculos diplomáticos para o reconhecimento externo da emancipação brasileira. A Conferência de Berlim e a Liga das Nações pertencem a contextos posteriores dos séculos XIX e XX.",
+      "revisar": false
+    },
+    {
+      "id": "bra-imp-f-003",
+      "tipo": "multipla",
+      "pergunta": "Qual levantamento estatístico oficial, realizado em 1872 durante o Segundo Reinado, revelou o perfil agrário, escravista e com altos índices de analfabetismo do Brasil no século XIX?",
+      "opcoes": [
+        "O Código Comercial do Império",
+        "O Registro Geral de Terras Devolutas",
+        "O Inquérito das Províncias do Norte",
+        "O Censo de 1872"
+      ],
+      "correta": 3,
+      "explicacao": "Realizado em 1872, o primeiro censo geral do Império expôs a predominância do trabalho agrícola, o peso da população escravizada e a elevada taxa de analfabetismo no Império. Os demais itens não correspondem ao levantamento demográfico nacional realizado naquele ano.",
+      "revisar": false
+    },
+    {
+      "id": "bra-imp-f-004",
+      "tipo": "multipla",
+      "pergunta": "Durante o Segundo Reinado, quem assumiu o trono interinamente na ausência de D. Pedro II e enfrentou a oposição dos fazendeiros escravocratas ao defender medidas ligadas à abolição e à atração de imigrantes?",
+      "opcoes": [
+        "Imperatriz Leopoldina",
+        "Princesa Isabel",
+        "Marquesa de Santos",
+        "Imperatriz Teresa Cristina"
+      ],
+      "correta": 1,
+      "explicacao": "Aos 24 anos, na ausência do imperador, a princesa Isabel enfrentou políticos ligados aos fazendeiros escravocratas e propôs uma corrente de imigração para suprir a mão de obra diante da perspectiva do fim da escravidão. A imperatriz Leopoldina atuou no período da Independência, décadas antes.",
+      "revisar": true
+    },
+    {
+      "id": "bra-imp-f-005",
+      "tipo": "multipla",
+      "pergunta": "De acordo com o Censo de 1872, qual província brasileira concentrava o maior número absoluto de pessoas escravizadas no Império?",
+      "opcoes": [
+        "São Paulo",
+        "Bahia",
+        "Minas Gerais",
+        "Rio de Janeiro"
+      ],
+      "correta": 2,
+      "explicacao": "Os registros do Censo de 1872 apontam 370.459 escravizados em Minas Gerais, superando o Rio de Janeiro (292.637), a Bahia (167.824) e São Paulo (156.612). Embora o Rio de Janeiro também tivesse contingente muito elevado, Minas Gerais ocupava a primeira posição.",
+      "revisar": false
+    },
+    {
+      "id": "bra-imp-f-006",
+      "tipo": "multipla",
+      "pergunta": "Qual precedente militar e político na América do Sul reforçava o temor dos escravocratas brasileiros quanto às intenções abolicionistas da princesa Isabel?",
+      "opcoes": [
+        "A abolição da escravidão decretada no Paraguai pelo Conde d'Eu",
+        "A proclamação da república socialista no Uruguai por José Artigas",
+        "A estatização imediata das fazendas de café na Argentina",
+        "A expulsão dos imigrantes europeus decretada pelo governo chileno"
+      ],
+      "correta": 0,
+      "explicacao": "Os opositores conservadores da princesa Isabel lembravam que seu marido, o Conde d'Eu, havia abolido a escravidão no Paraguai. Os demais eventos não ocorreram nem se relacionam à família imperial brasileira.",
+      "revisar": true
+    },
+    {
+      "id": "bra-imp-f-007",
+      "tipo": "multipla",
+      "pergunta": "Qual característica estrutural da economia colonial permaneceu praticamente inalterada no Brasil após a Independência de 1822?",
+      "opcoes": [
+        "O predomínio da indústria pesada voltada ao mercado interno",
+        "A pequena propriedade familiar baseada no trabalho assalariado",
+        "O monopólio comercial exercido diretamente pelas companhias holandesas",
+        "A produção de poucos gêneros agrícolas para exportação baseada no trabalho escravo"
+      ],
+      "correta": 3,
+      "explicacao": "Mesmo após romper politicamente com Portugal, o Brasil manteve a estrutura econômica herdada da colônia, centrada no trabalho escravo e na agroexportação. A industrialização só ganharia impulso consistente mais de um século depois.",
+      "revisar": false
+    }
+  ]
+}

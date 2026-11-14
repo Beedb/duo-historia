@@ -1,0 +1,36 @@
+{
+  "materia": "brasil",
+  "tempo": "democracia",
+  "dificuldade": "dificil",
+  "licao": "Guerra Fria, Constituição de 1946 e crise",
+  "questoes": [
+    {
+      "id": "bra-dem-d-001",
+      "tipo": "multipla",
+      "pergunta": "Quais fatores internacionais e internos explicam a guinada na política externa do governo Eurico Gaspar Dutra e o rompimento de relações diplomáticas do Brasil com a União Soviética em 1947?",
+      "opcoes": [
+        "O alinhamento automático do Brasil aos Estados Unidos no início da Guerra Fria e o anticomunismo interno após a queda do Estado Novo",
+        "A assinatura de um pacto militar entre o Brasil e a União Soviética para isolar a Europa Ocidental",
+        "A neutralidade rigorosa defendida por Dutra diante da bipolarização entre Washington e Moscou",
+        "O apoio direto do governo Dutra às reformas agrárias socialistas implantadas na América Central"
+      ],
+      "correta": 0,
+      "explicacao": "Segundo análises como a de Paulo Vizentini, no pós-Segunda Guerra o governo Dutra abandonou a barganha pragmática do Estado Novo para alinhar-se incondicionalmente aos Estados Unidos na ordem bipolar, rompendo com a URSS em 1947.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dem-d-002",
+      "tipo": "multipla",
+      "pergunta": "De que modo o período democrático inaugurado após a queda do Estado Novo em 1945 reorganizou o quadro institucional brasileiro até a crise de 1964?",
+      "opcoes": [
+        "Manteve a vigência da Constituição autoritária de 1937 e proibiu o funcionamento de partidos políticos nacionais",
+        "Instaurou eleições indiretas para todos os cargos executivos e extinguiu o Congresso Nacional",
+        "Promoveu a reorganização partidária e a promulgação da Constituição de 1946, convivendo com agudas tensões políticas como o suicídio de Vargas em 1954",
+        "Garantiu plena estabilidade institucional sem conflitos entre projetos nacionalistas e liberais"
+      ],
+      "correta": 2,
+      "explicacao": "A redemocratização pós-1945 deu origem a novos partidos e à Constituição de 1946, mas a experiência democrática foi atravessada por intensas disputas ideológicas e crises políticas que culminaram no suicídio de Vargas e, posteriormente, no golpe de 1964.",
+      "revisar": false
+    }
+  ]
+}

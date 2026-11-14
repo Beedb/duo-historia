@@ -1,0 +1,148 @@
+{
+  "materia": "brasil",
+  "tempo": "republica-velha",
+  "dificuldade": "facil",
+  "licao": "Proclamação, coronelismo e café",
+  "questoes": [
+    {
+      "id": "bra-rv-f-001",
+      "tipo": "multipla",
+      "pergunta": "Em que data foi proclamada a República no Brasil, encerrando o período monárquico?",
+      "opcoes": [
+        "7 de setembro de 1822",
+        "13 de maio de 1888",
+        "24 de fevereiro de 1891",
+        "15 de novembro de 1889"
+      ],
+      "correta": 3,
+      "explicacao": "A Proclamação da República ocorreu em 15 de novembro de 1889 por meio de um movimento militar que depôs a monarquia. A data de 24 de fevereiro de 1891 refere-se à promulgação da primeira Constituição republicana.",
+      "revisar": false
+    },
+    {
+      "id": "bra-rv-f-002",
+      "tipo": "multipla",
+      "pergunta": "Quem assumiu a chefia do Governo Provisório e tornou-se o primeiro presidente da República do Brasil após 15 de novembro de 1889?",
+      "opcoes": [
+        "Floriano Peixoto",
+        "Marechal Deodoro da Fonseca",
+        "Campos Sales",
+        "Prudente de Morais"
+      ],
+      "correta": 1,
+      "explicacao": "O marechal Deodoro da Fonseca liderou o movimento republicano e assumiu o poder como primeiro presidente da República. Prudente de Morais e Campos Sales governaram posteriormente, já no período das oligarquias civis.",
+      "revisar": false
+    },
+    {
+      "id": "bra-rv-f-003",
+      "tipo": "multipla",
+      "pergunta": "Qual oficial de orientação positivista foi nomeado ministro da Guerra por Deodoro da Fonseca no início do governo republicano?",
+      "opcoes": [
+        "Benjamin Constant",
+        "Rodrigues Alves",
+        "Joaquim Murtinho",
+        "Washington Luís"
+      ],
+      "correta": 0,
+      "explicacao": "Cercado por militares positivistas, Deodoro da Fonseca nomeou Benjamin Constant para o Ministério da Guerra. Joaquim Murtinho foi ministro da Fazenda no governo de Campos Sales.",
+      "revisar": false
+    },
+    {
+      "id": "bra-rv-f-004",
+      "tipo": "multipla",
+      "pergunta": "Qual corporação militar ofereceu resistência inicial ao novo regime republicano por manter fortes vínculos com a Monarquia?",
+      "opcoes": [
+        "A Guarda Nacional",
+        "O Exército de terra",
+        "A Marinha",
+        "A Força Pública paulista"
+      ],
+      "correta": 2,
+      "explicacao": "Nos primeiros momentos da República, o governo enfrentou a falta de apoio da Marinha, cujos quadros permaneciam fortemente identificados com a Monarquia, ao passo que o golpe partira do Exército.",
+      "revisar": false
+    },
+    {
+      "id": "bra-rv-f-005",
+      "tipo": "multipla",
+      "pergunta": "Como ficou organizada a estrutura federativa e legislativa do Brasil com a primeira Constituição republicana, inspirada no modelo norte-americano?",
+      "opcoes": [
+        "Um Estado unitário dividido em províncias sem autonomia fiscal, com Parlamento unicameral",
+        "Uma confederação parlamentarista dividida em 14 capitanias hereditárias",
+        "Um governo centralizado sob o Poder Moderador com câmaras municipais subordinadas ao rei",
+        "Uma federação com 20 estados-membros autônomos e Poder Legislativo bicameral (Câmara dos Deputados e Senado)"
+      ],
+      "correta": 3,
+      "explicacao": "A Constituição republicana instituiu uma federação descentralizada com 20 estados dotados de ampla autonomia administrativa, jurídica e fiscal, além da separação dos três poderes e do Legislativo bicameral.",
+      "revisar": false
+    },
+    {
+      "id": "bra-rv-f-006",
+      "tipo": "multipla",
+      "pergunta": "Qual grupo socioeconômico exercia amplo controle sobre o Congresso Nacional durante os primeiros anos da República, entrando em choque com o autoritarismo de Deodoro da Fonseca?",
+      "opcoes": [
+        "Os cafeicultores",
+        "Os operários têxteis",
+        "Os seringueiros da Amazônia",
+        "Os tenentes do Exército"
+      ],
+      "correta": 0,
+      "explicacao": "Os cafeicultores dominavam majoritariamente o Congresso e apoiaram inicialmente o governo provisório esperando a constitucionalização, entrando depois em atrito frequente com as posturas autoritárias de Deodoro.",
+      "revisar": false
+    },
+    {
+      "id": "bra-rv-f-007",
+      "tipo": "multipla",
+      "pergunta": "Na estrutura de poder da República Velha, como eram chamados os chefes políticos locais que controlavam o eleitorado no interior em aliança com as oligarquias estaduais?",
+      "opcoes": [
+        "Interventores",
+        "Coronéis",
+        "Nomarcas",
+        "Donatários"
+      ],
+      "correta": 1,
+      "explicacao": "Os 'coronéis' constituíam a base local do poder oligárquico na República Velha, sustentando-se no voto aberto e no clientelismo regional. Os interventores foram nomeados por Getúlio Vargas após a Revolução de 1930.",
+      "revisar": false
+    },
+    {
+      "id": "bra-rv-f-008",
+      "tipo": "multipla",
+      "pergunta": "Qual presidente brasileiro repudiou inicialmente a política de valorização do café em 1906, alegando a necessidade de conter gastos públicos e controlar a inflação?",
+      "opcoes": [
+        "Deodoro da Fonseca",
+        "Artur Bernardes",
+        "Rodrigues Alves",
+        "Getúlio Vargas"
+      ],
+      "correta": 2,
+      "explicacao": "Em 1906, o presidente Rodrigues Alves rejeitou a proposta de valorização estatal do café para preservar o equilíbrio fiscal e anti-inflacionário herdado da gestão de Campos Sales e Joaquim Murtinho. Artur Bernardes governou bem depois, entre 1922 e 1926.",
+      "revisar": false
+    },
+    {
+      "id": "bra-rv-f-009",
+      "tipo": "multipla",
+      "pergunta": "Qual frase célebre é atribuída a Martinho Prado da Silva Jr., um dos fundadores do regime republicano, já em 1891, diante dos rumos tomados pelo governo?",
+      "opcoes": [
+        "'Essa não é a república dos meus sonhos'",
+        "'A questão social é caso de polícia'",
+        "'Cinquenta anos em cinco'",
+        "'Façamos a revolução antes que o povo a faça'"
+      ],
+      "correta": 0,
+      "explicacao": "A declaração 'Essa não é a república dos meus sonhos', atribuída a Martinho Prado da Silva Jr. em 1891, expressa a rápida frustração de setores republicanos com os rumos autoritários e oligárquicos do novo regime. A frase sobre a questão social foi dita por Washington Luís em 1926.",
+      "revisar": true
+    },
+    {
+      "id": "bra-rv-f-010",
+      "tipo": "multipla",
+      "pergunta": "Durante o governo de qual presidente (1922–1926) o estado de São Paulo passou a custear sozinho a política de valorização do café?",
+      "opcoes": [
+        "Campos Sales",
+        "Rodrigues Alves",
+        "Washington Luís",
+        "Artur Bernardes"
+      ],
+      "correta": 3,
+      "explicacao": "No quadriênio de Artur Bernardes (1922–1926), o governo estadual paulista assumiu isoladamente o financiamento da defesa dos preços do café. Campos Sales e Rodrigues Alves presidiram o país na virada do século XIX para o XX.",
+      "revisar": false
+    }
+  ]
+}

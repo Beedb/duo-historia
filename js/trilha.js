@@ -8,32 +8,64 @@ async function carregarTrilha() {
   trilha = await resposta.json();
 }
 
+// --- Regras de bloqueio ---
+
+// Tempo sem a lista "niveis" tem os três níveis
+function nivelExiste(tempo, nivel) {
+  return !tempo.niveis || tempo.niveis.includes(nivel);
+}
+
+// Pula tempos ainda sem conteúdo; senão um tempo depois deles nunca abriria
+function tempoAnteriorDisponivel(materia, indiceTempo) {
+  for (let i = indiceTempo - 1; i >= 0; i--) {
+    if (materia.tempos[i].disponivel) return materia.tempos[i];
+  }
+  return null;
+}
+
 // Regras: o 1º tempo abre no fácil; o tempo seguinte abre ao concluir o fácil do anterior;
 // médio e difícil abrem com 80% no nível anterior (salvo em "desbloqueios").
 function nivelLiberado(materia, indiceTempo, nivel) {
   const tempo = materia.tempos[indiceTempo];
-  if (nivel !== "facil") return nivelDesbloqueado(`${materia.id}/${tempo.id}/${nivel}`);
-  if (indiceTempo === 0) return true;
-  const anterior = materia.tempos[indiceTempo - 1];
-  return licaoConcluida(`${materia.id}/${anterior.id}/facil`);
+  if (nivel === "facil") {
+    const anterior = tempoAnteriorDisponivel(materia, indiceTempo);
+    return !anterior || licaoConcluida(montarIdLicao(materia.id, anterior.id, "facil"));
+  }
+  if (nivelDesbloqueado(montarIdLicao(materia.id, tempo.id, nivel))) return true;
+
+  // Tempo sem médio: o difícil abre com o desbloqueio que o fácil (80%) daria ao médio
+  const anterior = nivel === "dificil" ? "medio" : null;
+  return Boolean(anterior) && !nivelExiste(tempo, anterior)
+    && nivelDesbloqueado(montarIdLicao(materia.id, tempo.id, anterior));
 }
 
-function nomeDoTempo(materiaId, tempoId) {
+// Nível que de fato abre para o aluno: se o liberado não existe (tempo sem médio), é o seguinte
+function nivelQueAbre(idLiberado) {
+  const { materia: materiaId, tempo: tempoId, nivel } = separarIdLicao(idLiberado);
   const materia = trilha.materias.find((m) => m.id === materiaId);
   const tempo = materia && materia.tempos.find((t) => t.id === tempoId);
-  return tempo ? tempo.nome : tempoId;
+  if (!tempo || nivelExiste(tempo, nivel) || !PROXIMO_NIVEL[nivel]) return idLiberado;
+  return montarIdLicao(materiaId, tempoId, PROXIMO_NIVEL[nivel]);
 }
+
+// --- Nomes ---
 
 function nivelPorId(nivelId) {
   return trilha.niveis.find((n) => n.id === nivelId) || { nome: nivelId, icone: "" };
 }
 
 // Ex.: "brasil/colonia/medio" → "Colônia (1500–1822) · 🟡 Médio"
+// Sem tempo ("america/facil") → "História da América · 🟢 Fácil"
 function descreverLicao(idLicao) {
-  const [materia, tempo, nivelId] = idLicao.split("/");
+  const { materia: materiaId, tempo: tempoId, nivel: nivelId } = separarIdLicao(idLicao);
+  const materia = trilha.materias.find((m) => m.id === materiaId);
+  const tempo = materia && materia.tempos.find((t) => t.id === tempoId);
+  const nome = tempoId && tempo ? tempo.nome : (materia ? materia.nome : materiaId);
   const nivel = nivelPorId(nivelId);
-  return `${nomeDoTempo(materia, tempo)} · ${nivel.icone} ${nivel.nome}`;
+  return `${nome} · ${nivel.icone} ${nivel.nome}`;
 }
+
+// --- Tela ---
 
 function mostrarTrilha() {
   renderizarTrilha();
@@ -88,12 +120,20 @@ function criarTempo(materia, indice) {
 }
 
 function criarBotaoNivel(materia, indice, nivel) {
-  const idLicao = `${materia.id}/${materia.tempos[indice].id}/${nivel.id}`;
+  const tempo = materia.tempos[indice];
+  const botao = document.createElement("button");
+  botao.className = "botao botao-nivel";
+
+  if (!nivelExiste(tempo, nivel.id)) {
+    botao.disabled = true;
+    botao.textContent = `${nivel.nome}: em breve`;
+    return botao;
+  }
+
+  const idLicao = montarIdLicao(materia.id, tempo.id, nivel.id);
   const liberado = nivelLiberado(materia, indice, nivel.id);
   const concluida = licaoConcluida(idLicao);
 
-  const botao = document.createElement("button");
-  botao.className = "botao botao-nivel";
   botao.disabled = !liberado;
   botao.textContent = `${liberado ? nivel.icone : "🔒"} ${nivel.nome}${concluida ? " ✓" : ""}`;
   botao.setAttribute("aria-label", `${nivel.nome}${liberado ? "" : ", bloqueado"}${concluida ? ", concluído" : ""}`);

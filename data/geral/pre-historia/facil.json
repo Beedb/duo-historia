@@ -143,6 +143,76 @@
       "correta": 0,
       "explicacao": "Com a fixação dos grupos humanos em aldeias e o surgimento de excedentes agrícolas, a cerâmica tornou-se indispensável para guardar sementes, conservar líquidos e preparar alimentos. Por ser frágil e pesada, tinha uso muito limitado entre os povos nômades do Paleolítico.",
       "revisar": false
+    },
+    {
+      "id": "ger-pre-f-011",
+      "tipo": "multipla",
+      "pergunta": "Qual conjunto de transformações define o processo histórico conhecido como Revolução Neolítica?",
+      "opcoes": [
+        "O surgimento da agricultura, a sedentarização dos grupos humanos e a formação das primeiras cidades",
+        "A invenção da imprensa tipográfica e a expansão marítima europeia pelo oceano Atlântico",
+        "O abandono definitivo das aldeias agrícolas em favor da caça nômade de grandes mamíferos",
+        "A substituição dos instrumentos de pedra lascada pela produção industrial de aço"
+      ],
+      "correta": 0,
+      "explicacao": "A Revolução Neolítica corresponde à transição gradual para a economia produtora de alimentos, marcada pelo cultivo agrícola, pela fixação residencial e pelo posterior nascimento dos núcleos urbanos. A produção industrial de aço pertence à Idade Contemporânea.",
+      "revisar": false
+    },
+    {
+      "id": "ger-pre-f-012",
+      "tipo": "multipla",
+      "pergunta": "Que tipo de vestígio material pré-histórico foi identificado em sítios arqueológicos brasileiros como a Toca do Baixão do Perna Quatro (Piauí) e Pedra Pintada (Pará)?",
+      "opcoes": [
+        "Códices escritos em alfabeto fenício",
+        "Moedas cunhadas em bronze e ouro",
+        "Pinturas rupestres preservadas em abrigos rochosos",
+        "Aquedutos romanos construídos em pedra polida"
+      ],
+      "correta": 2,
+      "explicacao": "Esses sítios arqueológicos abrigam registros de arte rupestre produzidos por grupos humanos pré-históricos no atual território brasileiro. As populações nativas pré-cabralinas não utilizavam moedas metálicas nem alfabeto fenício.",
+      "revisar": true
+    },
+    {
+      "id": "ger-pre-f-013",
+      "tipo": "multipla",
+      "pergunta": "Qual critério tradicional foi adotado por historiadores europeus no século XIX para delimitar o fim da chamada 'Pré-História'?",
+      "opcoes": [
+        "A domesticação do fogo pelos primeiros hominídeos",
+        "A chegada dos navegadores portugueses ao continente americano",
+        "A extinção da megafauna no final da última era glacial",
+        "O surgimento da escrita, excluindo as sociedades ágrafas da História propriamente dita"
+      ],
+      "correta": 3,
+      "explicacao": "A divisão clássica criada no século XIX associou a História exclusivamente aos documentos escritos, relegando os povos sem escrita à 'Pré-História', critério hoje criticado por seu caráter eurocêntrico.",
+      "revisar": false
+    },
+    {
+      "id": "ger-pre-f-014",
+      "tipo": "multipla",
+      "pergunta": "De acordo com as pesquisas arqueológicas, qual é a escala temporal estimada para a ocupação humana das Américas antes de 1500?",
+      "opcoes": [
+        "Apenas cerca de 500 anos antes da chegada da esquadra de Cabral",
+        "Dezenas de milhares de anos, com sucessivas levas migratórias e diferenciação cultural",
+        "Exatamente 2 mil anos, iniciada após a queda do Império Romano",
+        "Menos de 3 mil anos, originada por uma única migração homogênea"
+      ],
+      "correta": 1,
+      "explicacao": "Os estudos arqueológicos apontam dezenas de milhares de anos de ocupação humana no continente americano, marcados por múltiplos fluxos migratórios e ampla diversidade linguística e étnica até a chegada dos europeus.",
+      "revisar": false
+    },
+    {
+      "id": "ger-pre-f-015",
+      "tipo": "multipla",
+      "pergunta": "Qual célebre achado arqueológico descoberto no Brasil tornou-se referência nos estudos científicos sobre a antiguidade da presença humana na América do Sul?",
+      "opcoes": [
+        "A Pedra de Roseta",
+        "O Código de Hamurabi",
+        "O fóssil humano conhecido como Luzia",
+        "O vaso de cerâmica etrusco de Vulci"
+      ],
+      "correta": 2,
+      "explicacao": "A datação e a análise morfológica de Luzia trouxeram importantes evidências para o debate científico sobre a antiguidade e as origens do povoamento humano no continente americano. A Pedra de Roseta e o Código de Hamurabi pertencem à Antiguidade Oriental.",
+      "revisar": false
     }
   ]
 }

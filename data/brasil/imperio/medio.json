@@ -1,0 +1,80 @@
+{
+  "materia": "brasil",
+  "tempo": "imperio",
+  "dificuldade": "medio",
+  "licao": "Regências, café e imigração",
+  "questoes": [
+    {
+      "id": "bra-imp-m-001",
+      "tipo": "multipla",
+      "pergunta": "Quais alterações institucionais foram promovidas durante o Período Regencial para atender parcialmente às reivindicações descentralizadoras dos liberais exaltados?",
+      "opcoes": [
+        "A extinção do Senado vitalício e a convocação imediata de eleições diretas para imperador",
+        "A criação das Assembleias Legislativas Provinciais, a substituição da Regência Trina pela Una e a suspensão do Poder Moderador",
+        "A abolição imediata do trabalho escravo nas províncias do Norte e a criação do voto feminino",
+        "A dissolução das câmaras municipais e a entrega do governo das províncias a interventores militares"
+      ],
+      "correta": 1,
+      "explicacao": "As reformas regenciais concederam maior autonomia às províncias ao instituir Assembleias Legislativas Provinciais, estabelecer a Regência Una eleita por essas assembleias e suspender o Poder Moderador até a maioridade de um novo imperador. A figura dos interventores estaduais pertence à Era Vargas.",
+      "revisar": false
+    },
+    {
+      "id": "bra-imp-m-002",
+      "tipo": "multipla",
+      "pergunta": "Qual contraste político marcou a sucessão entre os regentes Diogo Antônio Feijó e Pedro de Araújo Lima durante a fase da Regência Una?",
+      "opcoes": [
+        "Feijó defendia a restauração do domínio português, enquanto Araújo Lima propunha a proclamação imediata da república",
+        "Feijó liderou o movimento abolicionista radical, enquanto Araújo Lima instituiu o voto universal masculino",
+        "Ambos governaram sob a Constituição de 1891, alternando o poder entre os partidos de São Paulo e Minas Gerais",
+        "Feijó representava uma orientação mais liberal e descentralizadora, ao passo que Araújo Lima adotou uma postura conservadora e centralista"
+      ],
+      "correta": 3,
+      "explicacao": "Na fase da Regência Una, a regência de Feijó (1835–1837) expressou tendências liberais e favoráveis à autonomia provincial, enquanto a de Araújo Lima (a partir de 1837) promoveu o regresso conservador e centralizador. A alternância entre São Paulo e Minas pertence à República Velha.",
+      "revisar": false
+    },
+    {
+      "id": "bra-imp-m-003",
+      "tipo": "multipla",
+      "pergunta": "De que maneira a expansão da economia cafeeira no século XIX alterou a geografia econômica e demográfica do Brasil?",
+      "opcoes": [
+        "Transferiu definitivamente o eixo econômico do Nordeste para o Sudeste, impulsionando o crescimento populacional e a entrada de imigrantes",
+        "Concentrou os investimentos industriais e a imigração europeia exclusivamente nas províncias da Amazônia",
+        "Provocou o esvaziamento urbano do Sudeste devido ao retorno da população para as lavouras açucareiras do Nordeste",
+        "Eliminou a exclusão social e democratizou o acesso à terra nas regiões produtoras de café"
+      ],
+      "correta": 0,
+      "explicacao": "A dinâmica produtiva ligada ao café consolidou o deslocamento do centro econômico nacional do Nordeste para o Sudeste, atraindo imigrantes e modificando a composição étnico-social da região sem, contudo, romper o caráter elitista da dominação política.",
+      "revisar": false
+    },
+    {
+      "id": "bra-imp-m-004",
+      "tipo": "multipla",
+      "pergunta": "Por que os projetos de incentivo à imigração europeia ganharam centralidade nas décadas finais do Império, especialmente a partir da década de 1870?",
+      "opcoes": [
+        "Porque o Brasil já havia concluído sua industrialização pesada e precisava de engenheiros para as fábricas estatais",
+        "Porque o Censo de 1872 havia demonstrado o desaparecimento completo da população trabalhadora no campo",
+        "Porque as elites buscavam suprir a demanda de mão de obra diante da crise do escravismo e da iminente abolição da escravidão",
+        "Porque a Constituição imperial proibia o emprego de trabalhadores nascidos no Brasil nas lavouras de exportação"
+      ],
+      "correta": 2,
+      "explicacao": "Com a perspectiva cada vez mais próxima do fim do trabalho escravo, o estímulo a fluxos contínuos de imigrantes tornou-se estratégico para garantir força de trabalho às lavouras e obras de infraestrutura.",
+      "revisar": false
+    },
+    {
+      "id": "bra-imp-m-005",
+      "tipo": "verdadeiro_falso",
+      "pergunta": "O avanço de relações econômicas mais racionais e produtivas no Sudeste cafeeiro durante o século XIX foi acompanhado pela manutenção do caráter elitista da dominação política e de mecanismos de exclusão social.",
+      "correta": true,
+      "explicacao": "A afirmação está correta, pois a modernização produtiva e a transição para o trabalho livre na região Sudeste não significaram a democratização do poder político nem o fim da marginalização das camadas populares.",
+      "revisar": false
+    },
+    {
+      "id": "bra-imp-m-006",
+      "tipo": "verdadeiro_falso",
+      "pergunta": "Durante o Período Regencial, a criação das Assembleias Legislativas Provinciais reforçou o Poder Moderador exercido diretamente pelo jovem imperador D. Pedro II.",
+      "correta": false,
+      "explicacao": "A afirmação é falsa porque a reforma descentralizadora do Período Regencial suspendeu o exercício do Poder Moderador até que houvesse um novo imperador maior de idade.",
+      "revisar": false
+    }
+  ]
+}

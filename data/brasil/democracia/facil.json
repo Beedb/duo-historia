@@ -1,0 +1,92 @@
+{
+  "materia": "brasil",
+  "tempo": "democracia",
+  "dificuldade": "facil",
+  "licao": "Constituição de 1946, Vargas, JK e Jango",
+  "questoes": [
+    {
+      "id": "bra-dem-f-001",
+      "tipo": "multipla",
+      "pergunta": "Qual presidente governou o Brasil entre 1956 e 1961, período do Plano de Metas e da construção de Brasília?",
+      "opcoes": [
+        "Eurico Gaspar Dutra",
+        "Juscelino Kubitschek",
+        "Jânio Quadros",
+        "Tancredo Neves"
+      ],
+      "correta": 1,
+      "explicacao": "Juscelino Kubitschek governou de 1956 a 1961, com o Plano de Metas ('50 anos em 5') e a construção de Brasília. Eurico Dutra governou antes, de 1946 a 1951.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dem-f-002",
+      "tipo": "multipla",
+      "pergunta": "Quem ocupou a presidência da República entre 1961 e 1964, sendo deposto pelo golpe militar que encerrou a experiência democrática iniciada em 1945?",
+      "opcoes": [
+        "João Goulart",
+        "Itamar Franco",
+        "José Sarney",
+        "Fernando Henrique Cardoso"
+      ],
+      "correta": 0,
+      "explicacao": "João Goulart presidiu o Brasil de 1961 até o golpe militar de 1964. José Sarney, Itamar Franco e Fernando Henrique Cardoso governaram o país somente após a redemocratização de 1985.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dem-f-003",
+      "tipo": "multipla",
+      "pergunta": "Qual Constituição foi promulgada em 1946, inaugurando a legalidade democrática brasileira após a queda do Estado Novo?",
+      "opcoes": [
+        "Constituição de 1934",
+        "Constituição de 1937",
+        "Constituição de 1967",
+        "Constituição de 1946"
+      ],
+      "correta": 3,
+      "explicacao": "A Constituição de 1946 restabeleceu as liberdades democráticas e o pluripartidarismo no Brasil após o fim da ditadura de Vargas em 1945. A Carta de 1937 fora a constituição autoritária do Estado Novo.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dem-f-004",
+      "tipo": "multipla",
+      "pergunta": "Qual presidente eleito pelo voto popular governou o Brasil entre 1951 e 1954, período marcado pela criação da Petrobras e encerrado com seu suicídio?",
+      "opcoes": [
+        "Café Filho",
+        "Carlos Lacerda",
+        "Getúlio Vargas",
+        "Jânio Quadros"
+      ],
+      "correta": 2,
+      "explicacao": "Getúlio Vargas retornou à presidência pelo voto para o mandato de 1951 a 1954, criando a Petrobras e cometendo suicídio em meio a grave crise política. Café Filho era seu vice-presidente e assumiu após sua morte.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dem-f-005",
+      "tipo": "multipla",
+      "pergunta": "Qual presidente brasileiro, em 1961, adotou a 'política externa independente' e condecorou o revolucionário Ernesto Che Guevara?",
+      "opcoes": [
+        "Eurico Gaspar Dutra",
+        "Jânio Quadros",
+        "Juscelino Kubitschek",
+        "Fernando Collor"
+      ],
+      "correta": 1,
+      "explicacao": "Jânio Quadros, empossado em 1961, adotou uma política externa independente, aproximou-se de países socialistas e condecorou Che Guevara. Dutra, ao contrário, alinhou-se aos Estados Unidos e rompeu com a URSS em 1947.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dem-f-006",
+      "tipo": "multipla",
+      "pergunta": "Qual partido fez oposição sistemática a Getúlio Vargas e ao trabalhismo de João Goulart entre 1945 e 1964, defendendo o liberalismo e maior alinhamento aos Estados Unidos?",
+      "opcoes": [
+        "União Democrática Nacional (UDN)",
+        "Partido Comunista Brasileiro (PCB)",
+        "Partido Democrático Trabalhista (PDT)",
+        "Partido dos Trabalhadores (PT)"
+      ],
+      "correta": 0,
+      "explicacao": "A UDN reuniu os principais adversários de Vargas e do trabalhismo entre 1945 e 1964. Seus críticos chamavam alguns setores nacionalistas de adversários 'entreguistas'. PDT e PT surgiram no fim da ditadura militar.",
+      "revisar": false
+    }
+  ]
+}

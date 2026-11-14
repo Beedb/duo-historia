@@ -1,0 +1,106 @@
+{
+  "materia": "brasil",
+  "tempo": "ditadura",
+  "dificuldade": "facil",
+  "licao": "Ditadura militar: fases, presidentes e memória",
+  "questoes": [
+    {
+      "id": "bra-dit-f-001",
+      "tipo": "multipla",
+      "pergunta": "Qual intervalo de anos delimita o período da ditadura militar na história do Brasil?",
+      "opcoes": [
+        "1930 a 1945",
+        "1945 a 1964",
+        "1964 a 1985",
+        "1985 a 2003"
+      ],
+      "correta": 2,
+      "explicacao": "A ditadura militar brasileira teve início com o golpe de 1964 e estendeu-se até 1985, quando o poder retornou aos civis. O período de 1930 a 1945 corresponde à Era Vargas.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dit-f-002",
+      "tipo": "multipla",
+      "pergunta": "Qual característica marcou o período de 1968 a 1973 da ditadura militar, conhecido como 'milagre econômico'?",
+      "opcoes": [
+        "A combinação entre crescimento econômico e o endurecimento da repressão política",
+        "A convocação imediata de eleições diretas para presidente da República",
+        "O fim da censura aos meios de comunicação e a legalização dos partidos comunistas",
+        "A retração completa da indústria nacional e o retorno à economia exclusivamente agrária"
+      ],
+      "correta": 0,
+      "explicacao": "Entre 1968 e 1973, o regime combinou forte crescimento econômico com o endurecimento da repressão após o AI-5. A redemocratização veio só na década de 1980.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dit-f-003",
+      "tipo": "multipla",
+      "pergunta": "Qual general presidiu o Brasil entre 1974 e 1979, sucedendo ao ciclo de governos militares que foi de Castelo Branco a Médici?",
+      "opcoes": [
+        "Ernesto Geisel",
+        "João Figueiredo",
+        "Tancredo Neves",
+        "Eurico Gaspar Dutra"
+      ],
+      "correta": 0,
+      "explicacao": "Ernesto Geisel governou o Brasil de 1974 a 1979, após o período que abrangeu de Castelo Branco a Médici (1964–1974). João Figueiredo foi seu sucessor, entre 1979 e 1985.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dit-f-004",
+      "tipo": "multipla",
+      "pergunta": "Quem foi o último presidente militar do Brasil, governando entre 1979 e 1985 até a eleição de Tancredo Neves?",
+      "opcoes": [
+        "Emílio Garrastazu Médici",
+        "Humberto Castelo Branco",
+        "Ernesto Geisel",
+        "João Figueiredo"
+      ],
+      "correta": 3,
+      "explicacao": "João Figueiredo ocupou a presidência de 1979 a 1985, encerrando a sequência de governos militares iniciada em 1964. Médici e Castelo Branco governaram nas primeiras décadas do regime.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dit-f-005",
+      "tipo": "multipla",
+      "pergunta": "Qual legislação aprovada durante a ditadura militar tornou-se centro de intensos debates na sociedade brasileira por tratar do perdão aos crimes políticos do período?",
+      "opcoes": [
+        "Lei da Anistia",
+        "Lei Áurea",
+        "Lei de Segurança Nacional",
+        "Lei de Diretrizes e Bases"
+      ],
+      "correta": 0,
+      "explicacao": "A Lei da Anistia (1979) perdoou crimes políticos e conexos e gerou duradoura polêmica sobre sua revisão. A Lei Áurea aboliu a escravidão em 1888.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dit-f-006",
+      "tipo": "multipla",
+      "pergunta": "Qual organização da sociedade civil destacou-se no registro e na denúncia de mortos e desaparecidos políticos da ditadura militar brasileira?",
+      "opcoes": [
+        "Aliança Nacional Libertadora",
+        "Grupo Tortura Nunca Mais",
+        "Ação Integralista Brasileira",
+        "Partido Democrático"
+      ],
+      "correta": 1,
+      "explicacao": "O grupo Tortura Nunca Mais dedicou-se à preservação da memória sobre as vítimas da violência estatal no regime de 1964–1985. A Ação Integralista Brasileira e a Aliança Nacional Libertadora atuaram nos anos 1930.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dit-f-007",
+      "tipo": "multipla",
+      "pergunta": "Qual órgão unificou os antigos institutos de aposentadorias e pensões em 1966, durante a ditadura militar?",
+      "opcoes": [
+        "INPS",
+        "IBGE",
+        "BNDES",
+        "SUDENE"
+      ],
+      "correta": 0,
+      "explicacao": "O INPS (Instituto Nacional de Previdência Social) foi criado em 1966 e reuniu os antigos institutos de aposentadorias e pensões. IBGE, BNDES e SUDENE tratam de estatística, financiamento e desenvolvimento regional.",
+      "revisar": false
+    }
+  ]
+}

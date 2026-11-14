@@ -1,0 +1,22 @@
+{
+  "materia": "brasil",
+  "tempo": "ditadura",
+  "dificuldade": "dificil",
+  "licao": "Modernização conservadora",
+  "questoes": [
+    {
+      "id": "bra-dit-d-001",
+      "tipo": "multipla",
+      "pergunta": "Por que muitos historiadores empregam o conceito de 'modernização conservadora' para interpretar o período da ditadura militar brasileira (1964–1985)?",
+      "opcoes": [
+        "Porque o regime promoveu ampla reforma agrária e redistribuição de renda enquanto restaurava a monarquia",
+        "Porque combinou crescimento econômico, industrialização e investimentos estatais com autoritarismo político, repressão e manutenção das desigualdades sociais",
+        "Porque paralisou completamente os investimentos em infraestrutura e tecnologia para preservar a economia exclusivamente agrária",
+        "Porque implantou a democracia participativa plena enquanto adotava o receituário neoliberal do Consenso de Washington"
+      ],
+      "correta": 1,
+      "explicacao": "A expressão 'modernização conservadora' sintetiza o paradoxo do regime militar: impulsionou a modernização capitalista e industrial do país sob forte intervenção estatal, mas manteve intactas as estruturas de exclusão social e suprimiu as liberdades democráticas.",
+      "revisar": false
+    }
+  ]
+}

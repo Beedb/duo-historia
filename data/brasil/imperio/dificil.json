@@ -1,0 +1,126 @@
+{
+  "materia": "brasil",
+  "tempo": "imperio",
+  "dificuldade": "dificil",
+  "licao": "Estado nacional, abolição e queda do Império",
+  "questoes": [
+    {
+      "id": "bra-imp-d-001",
+      "tipo": "fonte",
+      "trecho": "o povo assistiu bestializado",
+      "autor": "Aristides Lobo",
+      "ano": "1889",
+      "pergunta": "Na interpretação histórica sobre a crise do Império e o 15 de novembro de 1889, o célebre relato do jornalista republicano Aristides Lobo evidencia qual característica da mudança de regime?",
+      "opcoes": [
+        "A ampla mobilização armada dos trabalhadores urbanos e rurais para derrubar a monarquia",
+        "O caráter de golpe militar conduzido por reduzidos grupos civis sem participação nem consciência popular",
+        "A realização de um plebiscito nacional que legitimou democraticamente a deposição de D. Pedro II",
+        "A aliança entre ex-escravizados e oficiais da Marinha para instaurar o federalismo descentralizado"
+      ],
+      "correta": 1,
+      "explicacao": "A frase de Aristides Lobo sintetiza o afastamento da maioria da população em relação ao movimento de 15 de novembro de 1889, conduzido pelo Exército com apoio de restritos setores civis. A Marinha, ao contrário, mantinha forte inclinação monarquista.",
+      "revisar": false
+    },
+    {
+      "id": "bra-imp-d-002",
+      "tipo": "multipla",
+      "pergunta": "Ao comparar a formação do Estado nacional no Brasil com a das antigas colônias espanholas na América, qual elemento explica a preservação da unidade territorial e da ordem conservadora após 1822?",
+      "opcoes": [
+        "A imediata abolição da escravidão e a distribuição de terras públicas aos camponeses livres",
+        "A adoção precoce do federalismo descentralizado e do voto secreto universal",
+        "O apoio entusiástico da Santa Aliança e do Congresso de Viena às repúblicas sul-americanas",
+        "A centralização política em torno da figura monárquica de D. Pedro I, preservando a estrutura latifundiária e escravista"
+      ],
+      "correta": 3,
+      "explicacao": "Diferentemente da América espanhola, que se fragmentou em repúblicas após guerras prolongadas, o Brasil manteve a integridade territorial sob a monarquia de D. Pedro I sem alterar a base socioeconômica colonial escravista. O federalismo só seria adotado com a República.",
+      "revisar": false
+    },
+    {
+      "id": "bra-imp-d-003",
+      "tipo": "multipla",
+      "pergunta": "Qual leitura os dados do Censo de 1872 permitem fazer sobre o projeto modernizador do Segundo Reinado em comparação com as potências europeias e os Estados Unidos?",
+      "opcoes": [
+        "Evidenciam um profundo descompasso estrutural, pois o Brasil permanecia agrário, escravista e majoritariamente analfabeto enquanto aquelas nações avançavam na Revolução Industrial",
+        "Comprovam que o Rio de Janeiro possuía índices de alfabetização e industrialização superiores aos das capitais europeias",
+        "Demonstram que o número de manufaturas já superava o de trabalhadores agrícolas em todas as províncias do Império",
+        "Indicam que a escravidão havia se tornado residual, restringindo-se a menos de dez mil pessoas na Corte"
+      ],
+      "correta": 0,
+      "explicacao": "O Censo de 1872 mostrou um país agrário e escravista, com cerca de 1,5 milhão de escravizados (15% da população) e mais de 80% de analfabetos, enquanto as potências avançavam na Revolução Industrial.",
+      "revisar": false
+    },
+    {
+      "id": "bra-imp-d-004",
+      "tipo": "multipla",
+      "pergunta": "Na atuação política da princesa Isabel durante a ausência de D. Pedro II, de que modo a questão abolicionista articulava-se a um projeto mais amplo de transformação econômica?",
+      "opcoes": [
+        "Propunha o fechamento dos portos ao comércio externo e o retorno ao monopólio mercantilista português",
+        "Defendia a substituição das lavouras de exportação pela pecuária extensiva no sertão nordestino",
+        "Associava o fim da escravidão à atração planejada de imigrantes e a investimentos em estradas, portos, canais e fábricas",
+        "Condicionava a liberdade dos escravizados à transferência das terras dos fazendeiros para oficiais do Exército"
+      ],
+      "correta": 2,
+      "explicacao": "Ao enfrentar os fazendeiros escravocratas, a princesa Isabel vinculou o horizonte da abolição a metas graduais de imigração e à modernização da infraestrutura e das manufaturas. Não houve proposta de confisco agrário em favor dos militares.",
+      "revisar": true
+    },
+    {
+      "id": "bra-imp-d-005",
+      "tipo": "fonte",
+      "trecho": "nunca houve aqui um conceito de povo, englobando todos os trabalhadores e atribuindo-lhes direitos",
+      "autor": "Darcy Ribeiro",
+      "ano": "s.d.",
+      "pergunta": "A reflexão do antropólogo Darcy Ribeiro dialoga diretamente com qual diagnóstico revelado pelo Censo de 1872 sobre a sociedade imperial brasileira?",
+      "opcoes": [
+        "A plena integração cívica da população feminina e liberta nas instituições jurídicas da capital",
+        "O descaso histórico com a massa trabalhadora, mantida sob a escravidão ou excluída da educação formal e da cidadania",
+        "A superioridade numérica de profissionais liberais, professores e magistrados sobre os trabalhadores do campo",
+        "O sucesso das reformas educacionais do Império na erradicação do analfabetismo no Rio de Janeiro"
+      ],
+      "correta": 1,
+      "explicacao": "A análise de Darcy Ribeiro sintetiza a exclusão estrutural revelada pelo Censo de 1872, no qual a escravidão persistia em larga escala e a maioria da população livre — especialmente as mulheres — era privada de instrução e direitos.",
+      "revisar": true
+    },
+    {
+      "id": "bra-imp-d-006",
+      "tipo": "multipla",
+      "pergunta": "Na metáfora historiográfica que define a Proclamação da República como um 'bisturi num tumor já maduro', qual interpretação é apresentada sobre a crise final do Império?",
+      "opcoes": [
+        "O regime monárquico gozava de plena vitalidade institucional, sendo derrubado apenas por uma conspiração estrangeira",
+        "A queda do Império resultou exclusivamente da insatisfação dos pequenos comerciantes urbanos com o fim do tráfico negreiro em 1850",
+        "A República promoveu imediatamente uma revolução social que superou todas as contradições econômicas legadas pela colônia",
+        "O Império sustentava um equilíbrio conservador artificial baseado em fórmulas políticas gastas, cuja ruptura expôs contradições acumuladas sem resolvê-las plenamente"
+      ],
+      "correta": 3,
+      "explicacao": "A imagem indica que a monarquia já se encontrava esgotada em suas bases políticas e sociais, mas o golpe republicano rompeu esse arranjo pelo alto sem solucionar de imediato os problemas econômicos e sociais estruturais do país.",
+      "revisar": true
+    },
+    {
+      "id": "bra-imp-d-007",
+      "tipo": "multipla",
+      "pergunta": "Qual transformação duradoura na cultura política brasileira foi inaugurada pelo modo como ocorreu a queda da Monarquia em 15 de novembro de 1889?",
+      "opcoes": [
+        "A inserção protagônica do 'militar político' (a espada) como ator recorrente na condução dos rumos institucionais do país",
+        "A submissão definitiva das Forças Armadas ao controle civil exercido pelos partidos operários",
+        "A extinção do Poder Executivo forte em favor de um regime parlamentarista controlado pelos sindicatos",
+        "O fortalecimento da Marinha como principal força sustentadora dos governos oligárquicos da Primeira República"
+      ],
+      "correta": 0,
+      "explicacao": "O caráter militar do golpe de 1889 introduziu o 'militar político' no centro da vida institucional brasileira, papel que antes exercera de forma muito discreta no Império. A Marinha, ao contrário, manteve-se inicialmente vinculada ao monarquismo.",
+      "revisar": false
+    },
+    {
+      "id": "bra-imp-d-008",
+      "tipo": "multipla",
+      "pergunta": "Segundo a interpretação da historiadora Rosa Godoy Silveira sobre a transição do Império para a República, qual princípio institucional constituiu a reivindicação central dos republicanos contra o regime monárquico?",
+      "opcoes": [
+        "A centralização fiscal absoluta nas mãos do Poder Moderador",
+        "A adoção do corporativismo sindical inspirado nos regimes europeus",
+        "O federalismo, opondo a autonomia dos estados à centralização política do Império",
+        "A manutenção do unitarismo administrativo com nomeação vitalícia dos presidentes de província"
+      ],
+      "correta": 2,
+      "explicacao": "Para os movimentos republicanos do final do século XIX, o federalismo representava a principal bandeira institucional contra o unitarismo centralizador da monarquia destituída em 1889. O corporativismo estatal surgiria apenas décadas depois, na Era Vargas.",
+      "revisar": true
+    }
+  ]
+}

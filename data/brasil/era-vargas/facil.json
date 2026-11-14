@@ -1,0 +1,106 @@
+{
+  "materia": "brasil",
+  "tempo": "era-vargas",
+  "dificuldade": "facil",
+  "licao": "Revolução de 1930, Estado Novo e CLT",
+  "questoes": [
+    {
+      "id": "bra-var-f-001",
+      "tipo": "multipla",
+      "pergunta": "Qual acontecimento político-militar ocorrido em 1930 encerrou a República Velha e levou Getúlio Vargas à chefia do Governo Provisório?",
+      "opcoes": [
+        "A Proclamação da República",
+        "A Revolução de 1930",
+        "O Golpe Militar de 1964",
+        "A Revolta da Vacina"
+      ],
+      "correta": 1,
+      "explicacao": "A Revolução de 1930 depôs o governo oligárquico da Primeira República e inaugurou a Era Vargas com a instalação do Governo Provisório. A Proclamação da República havia ocorrido em 1889.",
+      "revisar": false
+    },
+    {
+      "id": "bra-var-f-002",
+      "tipo": "multipla",
+      "pergunta": "Qual carta constitucional foi promulgada durante a Era Vargas após a fase inicial do Governo Provisório, antes do golpe de 1937?",
+      "opcoes": [
+        "Constituição de 1891",
+        "Constituição de 1946",
+        "Constituição de 1934",
+        "Constituição de 1988"
+      ],
+      "correta": 2,
+      "explicacao": "A Constituição de 1934 sucedeu ao Governo Provisório iniciado em 1930, vigorando até a implantação do regime ditatorial em 1937. A Constituição de 1946 foi promulgada somente após a queda do Estado Novo.",
+      "revisar": false
+    },
+    {
+      "id": "bra-var-f-003",
+      "tipo": "multipla",
+      "pergunta": "Qual escritor brasileiro liderou, a partir de 1932, um movimento político inspirado no fascismo europeu que buscava combater o avanço do comunismo?",
+      "opcoes": [
+        "Plínio Salgado",
+        "Jorge Amado",
+        "Graciliano Ramos",
+        "Caio Prado Júnior"
+      ],
+      "correta": 0,
+      "explicacao": "Em 1932, o escritor Plínio Salgado fundou a Ação Integralista Brasileira, inspirada no fascismo europeu. Graciliano Ramos e Jorge Amado eram identificados com a esquerda.",
+      "revisar": false
+    },
+    {
+      "id": "bra-var-f-004",
+      "tipo": "multipla",
+      "pergunta": "Como ficou denominado o regime ditatorial implantado por Getúlio Vargas em 1937 e encerrado em 1945?",
+      "opcoes": [
+        "República das Oligarquias",
+        "Período Regencial",
+        "Nova República",
+        "Estado Novo"
+      ],
+      "correta": 3,
+      "explicacao": "O Estado Novo corresponde à ditadura pessoal instaurada por Getúlio Vargas entre 1937 e 1945. A República das Oligarquias antecedeu 1930 e a Nova República iniciou-se apenas em 1985.",
+      "revisar": false
+    },
+    {
+      "id": "bra-var-f-005",
+      "tipo": "multipla",
+      "pergunta": "Qual importante conjunto de leis trabalhistas foi promulgado durante o Estado Novo, ampliando a legislação social no Brasil?",
+      "opcoes": [
+        "Lei de Terras",
+        "Consolidação das Leis do Trabalho (CLT)",
+        "Lei da Anistia",
+        "Lei Eusébio de Queirós"
+      ],
+      "correta": 1,
+      "explicacao": "Durante o Estado Novo, o governo Vargas promulgou a CLT e sistematizou direitos sociais voltados aos trabalhadores urbanos. A Lei da Anistia refere-se ao período final da ditadura militar nas décadas de 1970 e 1980.",
+      "revisar": false
+    },
+    {
+      "id": "bra-var-f-006",
+      "tipo": "multipla",
+      "pergunta": "Qual medida de Vargas, em 1945, no fim do Estado Novo, libertou numerosos militantes comunistas, entre eles Luís Carlos Prestes?",
+      "opcoes": [
+        "A concessão de anistia a todos os presos políticos",
+        "A criação imediata da Petrobras",
+        "O rompimento diplomático com os Estados Unidos",
+        "A criação do Ministério do Trabalho"
+      ],
+      "correta": 0,
+      "explicacao": "Em 1945, Vargas decretou anistia ampla aos presos políticos, beneficiando integrantes do PCB. A Petrobras seria criada só em seu segundo governo, em 1953. O Ministério do Trabalho foi criado em 1930.",
+      "revisar": false
+    },
+    {
+      "id": "bra-var-f-007",
+      "tipo": "multipla",
+      "pergunta": "Qual conflito internacional ocorrido entre 1939 e 1945 contou com a participação do Brasil durante o governo de Getúlio Vargas?",
+      "opcoes": [
+        "Guerra do Paraguai",
+        "Primeira Guerra Mundial",
+        "Segunda Guerra Mundial",
+        "Guerra de Canudos"
+      ],
+      "correta": 2,
+      "explicacao": "O Brasil participou da Segunda Guerra Mundial (1939–1945) durante o Estado Novo, em um contexto de maior urbanização e industrialização comparado à Primeira Guerra Mundial (1914–1918).",
+      "revisar": false
+    }
+  ]
+}

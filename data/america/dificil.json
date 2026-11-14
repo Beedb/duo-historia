@@ -1,0 +1,150 @@
+{
+  "materia": "america",
+  "dificuldade": "dificil",
+  "licao": "Cuba, ditaduras do Cone Sul e memória",
+  "questoes": [
+    {
+      "id": "ame-d-001",
+      "tipo": "fonte",
+      "trecho": "Devemos falar macio, mas carregar um grande porrete",
+      "autor": "Theodore Roosevelt",
+      "ano": "1901",
+      "pergunta": "No contexto das relações interamericanas do início do século XX, de que modo a política sintetizada na frase do presidente norte-americano materializou-se em Cuba?",
+      "opcoes": [
+        "Pela retirada definitiva de todas as tropas e bases navais norte-americanas do Caribe.",
+        "Pela assinatura de um tratado de livre comércio igualitário com o governo revolucionário de Fidel Castro.",
+        "Pela imposição da Emenda Platt à Constituição cubana de 1901, assegurando aos Estados Unidos o direito de intervir na ilha.",
+        "Pela criação da Aliança para o Progresso para financiar a reforma agrária socialista em Havana."
+      ],
+      "correta": 2,
+      "explicacao": "Aplicando a política do Big Stick, Washington condicionou a independência formal de Cuba à incorporação da Emenda Platt (1901), que institucionalizou a tutela e o direito de intervenção norte-americana sobre a ilha.",
+      "revisar": true
+    },
+    {
+      "id": "ame-d-002",
+      "tipo": "multipla",
+      "pergunta": "Qual significado histórico a historiografia atribui à Revolução Cubana de 1959 no contexto geopolítico da América Latina durante a Guerra Fria?",
+      "opcoes": [
+        "Representou uma ruptura com o alinhamento automático aos Estados Unidos ao enfrentar a miséria e a ditadura pela via revolucionária, tornando-se referência política para a região.",
+        "Consolidou um regime liberal-conservador alinhado à Aliança para o Progresso e às empresas açucareiras norte-americanas.",
+        "Foi resultado de uma intervenção militar direta da União Soviética para depor um governo democrático em Havana.",
+        "Limitou-se a uma troca de governantes sem promover reforma agrária ou nacionalização de empresas estrangeiras."
+      ],
+      "correta": 0,
+      "explicacao": "Ao derrubar a ditadura apoiada por Washington, nacionalizar setores estratégicos e aproximar-se do bloco soviético, a Revolução Cubana desafiou a hegemonia dos Estados Unidos e inspirou movimentos revolucionários latino-americanos.",
+      "revisar": false
+    },
+    {
+      "id": "ame-d-003",
+      "tipo": "multipla",
+      "pergunta": "De que maneira o governo dos Estados Unidos reagiu ao alinhamento socialista de Cuba com a União Soviética em 1961 e ao temor de difusão revolucionária no continente?",
+      "opcoes": [
+        "Suspendendo o embargo econômico contra Havana e reconhecendo a legitimidade da nacionalização das usinas.",
+        "Dissolvendo a Organização dos Estados Americanos (OEA) para adotar uma postura de neutralidade na Guerra Fria.",
+        "Apoiando militarmente a instalação de mísseis defensivos soviéticos no território cubano.",
+        "Lançando a Aliança para o Progresso, programa de empréstimos e reformas sociais destinado a conter revoluções e isolar Cuba."
+      ],
+      "correta": 3,
+      "explicacao": "Criada em março de 1961 por Washington, a Aliança para o Progresso buscou atenuar tensões sociais na América Latina por meio de investimentos financeiros em troca do alinhamento político contra o governo cubano.",
+      "revisar": false
+    },
+    {
+      "id": "ame-d-004",
+      "tipo": "multipla",
+      "pergunta": "Qual avaliação crítica costuma ser feita sobre a situação política e econômica de Cuba a partir do final do século XX, após o colapso da União Soviética?",
+      "opcoes": [
+        "O país adotou o pluripartidarismo liberal e extinguiu o controle estatal sobre os meios de produção.",
+        "O regime enfrentou severas restrições agravadas pelo embargo norte-americano e limitações às liberdades políticas, sendo descrito como uma 'perestroika sem glasnost'.",
+        "A suspensão do embargo dos Estados Unidos transformou Havana no principal centro financeiro do Consenso de Washington.",
+        "A ilha abandonou completamente os programas sociais de educação e emprego para priorizar o mercado financeiro."
+      ],
+      "correta": 1,
+      "explicacao": "Apesar de conquistas sociais iniciais na erradicação do analfabetismo e do desemprego, Cuba enfrentou aguda crise econômica sob o embargo norte-americano e manteve fechado seu sistema político, motivando a expressão 'perestroika sem glasnost'.",
+      "revisar": false
+    },
+    {
+      "id": "ame-d-005",
+      "tipo": "multipla",
+      "pergunta": "Na análise histórica sobre o golpe militar de 1973 no Chile contra o governo de Salvador Allende, qual articulação de fatores explica a queda da Unidade Popular e os rumos da ditadura de Augusto Pinochet?",
+      "opcoes": [
+        "O apoio financeiro da União Soviética ao general Pinochet para conter a influência dos economistas da Universidade de Chicago.",
+        "A combinação entre o embargo econômico e o suporte material e ideológico dos Estados Unidos, a oposição conservadora interna e a posterior implantação de políticas neoliberais sob forte repressão.",
+        "A renúncia pacífica de Allende após a aprovação unânime do Consenso de Washington pelo Parlamento chileno.",
+        "A aliança entre partidos comunistas e militares chilenos para estatizar os bancos privados."
+      ],
+      "correta": 1,
+      "explicacao": "O governo socialista democrático de Allende sofreu forte desestabilização econômica e apoio norte-americano aos golpistas, abrindo caminho para o regime de Pinochet, que uniu repressão política às reformas neoliberais dos Chicago Boys.",
+      "revisar": false
+    },
+    {
+      "id": "ame-d-006",
+      "tipo": "multipla",
+      "pergunta": "Ao comparar as ditaduras militares instaladas no Cone Sul nas décadas de 1960 e 1970 (Brasil, Chile e Argentina), quais traços estruturais comuns são apontados pela análise histórica?",
+      "opcoes": [
+        "Descentralização administrativa ampla, fortalecimento dos sindicatos operários e redução da desigualdade salarial.",
+        "Abolição da censura e subordinação das Forças Armadas aos tribunais civis eleitos pelo voto direto.",
+        "Hipertrofia do Poder Executivo com repressão sistemática às oposições e políticas econômicas elitistas baseadas no arrocho salarial.",
+        "Rompimento diplomático com os Estados Unidos e adesão imediata ao Comecon socialista."
+      ],
+      "correta": 2,
+      "explicacao": "Embora cada país tenha apresentado particularidades institucionais, os regimes militares do Cone Sul compartilharam a concentração autoritária de poder no Executivo, a supressão de opositores e o favorecimento econômico das elites.",
+      "revisar": false
+    },
+    {
+      "id": "ame-d-007",
+      "tipo": "multipla",
+      "pergunta": "De que modo a atuação dos chamados 'Chicago Boys' vinculados à Universidad Católica do Chile ilustra uma especificidade histórica do regime de Augusto Pinochet?",
+      "opcoes": [
+        "Transformou o Chile em laboratório pioneiro de privatizações, isenções fiscais e desregulamentação monetarista sob um governo ditatorial.",
+        "Implementou um modelo de planejamento econômico centralizado inspirado na Revolução Cultural chinesa.",
+        "Rejeitou as teses de Milton Friedman em favor da estatização integral das minas de cobre e dos serviços públicos.",
+        "Promoveu a reforma agrária radical iniciada pela Unidade Popular de Salvador Allende."
+      ],
+      "correta": 0,
+      "explicacao": "Influenciados por Milton Friedman, os economistas chilenos formados na tradição de Chicago aplicaram no regime de Pinochet um programa radical de abertura, privatizações e redução do papel social do Estado.",
+      "revisar": false
+    },
+    {
+      "id": "ame-d-008",
+      "tipo": "multipla",
+      "pergunta": "Qual relação estratégica vincula a Crise dos Mísseis de 1962 em Cuba à onda de golpes militares na América Latina nas décadas de 1960 e 1970?",
+      "opcoes": [
+        "A vitória diplomática soviética obrigou Washington a retirar todo apoio militar às Forças Armadas sul-americanas.",
+        "O acordo entre Kennedy e Khrushtchev determinou a instalação de governos socialistas no Cone Sul.",
+        "A crise levou os Estados Unidos a abandonarem a Doutrina Monroe e a política de segurança hemisférica.",
+        "O temor de que o exemplo revolucionário cubano se expandisse pelo continente levou Washington a apoiar regimes militares anticomunistas na região."
+      ],
+      "correta": 3,
+      "explicacao": "Após o alinhamento soviético de Cuba e a crise de 1962, os Estados Unidos intensificaram o suporte político e militar a setores conservadores latino-americanos para barrar o avanço da esquerda.",
+      "revisar": false
+    },
+    {
+      "id": "ame-d-009",
+      "tipo": "multipla",
+      "pergunta": "Ao analisar os movimentos de resistência armada contra as ditaduras latino-americanas nas décadas de 1960 e 1970, quais referências teóricas e históricas orientaram a tática dos focos guerrilheiros?",
+      "opcoes": [
+        "Os princípios monetaristas de Milton Friedman e as diretrizes do Consenso de Washington.",
+        "A estratégia de desobediência civil pacífica formulada por Mahatma Gandhi na Índia.",
+        "As experiências da Revolução Cubana e da Guerra do Vietnã, sistematizadas nas obras de Che Guevara e Mao Tsé-tung.",
+        "O legitimismo monárquico do Congresso de Viena e a doutrina da Santa Aliança."
+      ],
+      "correta": 2,
+      "explicacao": "Grupos guerrilheiros urbanos e rurais latino-americanos inspiraram-se no triunfo da guerrilha em Cuba e no Vietnã, adotando formulações de Che Guevara e Mao Tsé-tung para tentar desencadear processos revolucionários.",
+      "revisar": false
+    },
+    {
+      "id": "ame-d-010",
+      "tipo": "multipla",
+      "pergunta": "Qual papel histórico e político desempenham iniciativas de memória e justiça de transição — como as Mães da Praça de Maio na Argentina e a Comissão da Verdade no Brasil — nas democracias pós-ditatoriais?",
+      "opcoes": [
+        "Buscam legitimar o apagamento dos arquivos militares em nome da pacificação nacional.",
+        "Recuperam evidências documentais e testemunhos sobre as violações cometidas pelo Estado, confrontando discursos negacionistas.",
+        "Substituem a investigação histórica documental por teorias conspiratórias sobre a Guerra Fria.",
+        "Defendem o retorno dos atos institucionais e da centralização autoritária do Executivo."
+      ],
+      "correta": 1,
+      "explicacao": "Os trabalhos de recuperação da memória histórica sistematizam provas documentais sobre os crimes das ditaduras, fortalecendo os direitos humanos contra tentativas de negação ou relativização dos fatos.",
+      "revisar": false
+    }
+  ]
+}

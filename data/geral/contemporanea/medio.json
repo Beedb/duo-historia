@@ -1,0 +1,136 @@
+{
+  "materia": "geral",
+  "tempo": "contemporanea",
+  "dificuldade": "medio",
+  "licao": "Imperialismo, Revolução Russa, crise de 1929 e totalitarismos",
+  "questoes": [
+    {
+      "id": "ger-con-m-001",
+      "tipo": "multipla",
+      "pergunta": "De que maneira a partilha imperialista da África no final do século XIX beneficiou países europeus que chegaram tardiamente à corrida neocolonial?",
+      "opcoes": [
+        "Garantiu a Portugal e à Espanha o monopólio exclusivo sobre todo o continente africano.",
+        "Impediu que Alemanha, Bélgica e Itália estabelecessem qualquer domínio territorial fora da Europa.",
+        "Assegurou a independência política imediata da Argélia, do Congo e da Namíbia antes da Primeira Guerra Mundial.",
+        "Permitiu que potências de unificação tardia ou menor porte industrial, como Bélgica, Alemanha e Itália, conquistassem colônias ao lado de Inglaterra e França."
+      ],
+      "correta": 3,
+      "explicacao": "Na partilha africana, a Bélgica dominou o Congo, a Alemanha ocupou áreas como Namíbia, Tanzânia e Camarões, e a Itália estabeleceu-se na Líbia, Eritreia e Somália, ampliando a presença europeia no continente.",
+      "revisar": false
+    },
+    {
+      "id": "ger-con-m-002",
+      "tipo": "multipla",
+      "pergunta": "Qual contradição político-jurídica caracterizou o domínio colonial francês na Argélia durante o período imperialista?",
+      "opcoes": [
+        "Os argelinos árabes governavam os departamentos metropolitanos franceses, mas não podiam votar em Argel.",
+        "Embora a Argélia fosse juridicamente integrada à França como departamento, a maioria da população árabe e berbere era súdita francesa sem direitos políticos plenos.",
+        "A França aboliu qualquer hierarquia colonial, garantindo plena igualdade civil e política a toda a população nativa.",
+        "O território foi administrado conjuntamente pelo Império Otomano e pela Inglaterra até 1914."
+      ],
+      "correta": 1,
+      "explicacao": "A maioria dos argelinos muçulmanos tinha nacionalidade francesa, mas não cidadania plena, pois ficava sujeita ao regime do indigenato. Essa condição ambígua gerou tensões coloniais duradouras.",
+      "revisar": false
+    },
+    {
+      "id": "ger-con-m-003",
+      "tipo": "multipla",
+      "pergunta": "Em que aspecto o imperialismo praticado pelo Império Russo no final do século XIX diferenciou-se da expansão ultramarina de Inglaterra e França?",
+      "opcoes": [
+        "Configurou um imperialismo territorial contínuo, expandindo suas fronteiras pela Sibéria até o Pacífico e invadindo áreas chinesas como a Manchúria.",
+        "Concentrou-se exclusivamente na conquista de ilhas no mar do Caribe e na América Central.",
+        "Foi conduzido sem qualquer intervenção do Estado czarista, apenas por companhias privadas africanas.",
+        "Rejeitou qualquer avanço sobre o continente asiático para disputar colônias na África Ocidental."
+      ],
+      "correta": 0,
+      "explicacao": "Diferentemente das potências marítimas da Europa Ocidental, a Rússia expandiu seu domínio por continuidade terrestre através da Ásia até o oceano Pacífico e o norte da China.",
+      "revisar": false
+    },
+    {
+      "id": "ger-con-m-004",
+      "tipo": "multipla",
+      "pergunta": "Qual desdobramento geopolítico resultou da Guerra Hispano-Americana travada pelos Estados Unidos em 1898?",
+      "opcoes": [
+        "A devolução do Havaí e de Porto Rico ao controle direto da monarquia espanhola.",
+        "A retirada completa dos Estados Unidos do Caribe e do oceano Pacífico.",
+        "A incorporação de arquipélagos asiáticos como as Filipinas à órbita imperialista norte-americana, sob o pretexto de libertar Cuba.",
+        "A formação de uma aliança militar entre Estados Unidos e Espanha para partilhar a Manchúria."
+      ],
+      "correta": 2,
+      "explicacao": "Ao derrotar a Espanha em 1898, os Estados Unidos consolidaram sua tutela sobre Cuba e expandiram sua presença imperialista no Pacífico, tomando Porto Rico, Guam e as Filipinas. O Havaí foi anexado no mesmo ano.",
+      "revisar": false
+    },
+    {
+      "id": "ger-con-m-005",
+      "tipo": "multipla",
+      "pergunta": "De que modo o movimento artístico do construtivismo relacionou-se com o processo histórico da Revolução Russa?",
+      "opcoes": [
+        "Buscou restaurar os padrões acadêmicos da nobreza czarista na pintura e na literatura.",
+        "Condenou o uso do cinema e da poesia por considerá-los instrumentos burgueses incompatíveis com o socialismo.",
+        "Surgiu apenas na década de 1980 para celebrar o fim da União Soviética.",
+        "Articulou diversas linguagens — como a poesia de Mayakovsky e o cinema de Eisenstein — à proposta de construir um novo mundo socialista."
+      ],
+      "correta": 3,
+      "explicacao": "O construtivismo expressou a efervescência cultural pós-revolucionária na Rússia, integrando artes visuais, poesia e cinema ao projeto de transformação social.",
+      "revisar": false
+    },
+    {
+      "id": "ger-con-m-006",
+      "tipo": "multipla",
+      "pergunta": "Qual contradição do modelo econômico dos Estados Unidos nos anos 1920 conduziu à eclosão da Crise de 1929?",
+      "opcoes": [
+        "A produção crescia mais do que o consumo, enquanto o crédito fácil e a especulação inflavam as ações na Bolsa de Nova York, até o colapso.",
+        "A estatização integral das fábricas norte-americanas eliminou a iniciativa privada e o comércio exterior.",
+        "A proibição total da imigração europeia desde o século XIX paralisou a produção industrial.",
+        "O abandono do liberalismo econômico pelo Partido Republicano reduziu drasticamente a oferta de mercadorias."
+      ],
+      "correta": 0,
+      "explicacao": "Nos anos 1920, a superprodução, o crédito fácil e a especulação criaram uma prosperidade frágil. Em outubro de 1929, a quebra da Bolsa de Nova York desencadeou a crise e a recessão mundial.",
+      "revisar": false
+    },
+    {
+      "id": "ger-con-m-007",
+      "tipo": "multipla",
+      "pergunta": "Qual relação histórica conecta a Crise de 1929 à ascensão de regimes autoritários e totalitários na Europa no período entreguerras?",
+      "opcoes": [
+        "A crise consolidou a estabilidade das democracias liberais europeias e enfraqueceu os partidos extremistas.",
+        "O colapso econômico provocou a queda imediata de Mussolini na Itália e de Stálin na União Soviética.",
+        "O desemprego em massa e a crise do liberalismo favoreceram o avanço de regimes autoritários como o nazifascismo e o franquismo.",
+        "Os efeitos da crise limitaram-se ao mercado interno norte-americano, sem repercussão na política europeia."
+      ],
+      "correta": 2,
+      "explicacao": "A depressão econômica posterior a 1929 agravou tensões sociais e desacreditou as instituições liberais, impulsionando movimentos fascistas e ditaduras na Europa.",
+      "revisar": false
+    },
+    {
+      "id": "ger-con-m-008",
+      "tipo": "multipla",
+      "pergunta": "Qual estratégia de legitimação política foi compartilhada por regimes como o fascismo italiano, o nazismo alemão e o stalinismo soviético?",
+      "opcoes": [
+        "A defesa do pluralismo partidário e da rotatividade democrática no poder Executivo.",
+        "O culto sistemático à imagem do líder como figura centralizadora e condutora da sociedade.",
+        "A liberdade irrestrita de imprensa e de organização sindical autônoma.",
+        "A rejeição de símbolos nacionais e da mobilização de massas pelo Estado."
+      ],
+      "correta": 1,
+      "explicacao": "Tanto nos regimes nazifascistas quanto no stalinismo, a propaganda estatal promoveu o culto à personalidade do líder — Mussolini, Hitler e Stálin — para consolidar o controle político.",
+      "revisar": false
+    },
+    {
+      "id": "ger-con-m-009",
+      "tipo": "verdadeiro_falso",
+      "pergunta": "Durante a expansão imperialista do final do século XIX, a Itália conseguiu conquistar territórios como a Eritreia e a Somália, mas foi derrotada na guerra contra a Etiópia em 1896.",
+      "correta": true,
+      "explicacao": "A afirmação é verdadeira, pois a resistência etíope impôs uma derrota militar marcante às ambições coloniais italianas em 1896, embora a Itália tenha mantido a Eritreia e a Somália.",
+      "revisar": false
+    },
+    {
+      "id": "ger-con-m-010",
+      "tipo": "verdadeiro_falso",
+      "pergunta": "Após a morte de Lênin em 1924, o governo de Stálin promoveu a abertura política da União Soviética e instaurou o pluripartidarismo democrático até 1953.",
+      "correta": false,
+      "explicacao": "A afirmação é falsa. Stálin consolidou o poder no fim dos anos 1920 e governou até morrer, em 1953, com um regime de partido único, centralizado e repressivo. Foi sucedido por Khrushchov.",
+      "revisar": false
+    }
+  ]
+}

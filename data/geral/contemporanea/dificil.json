@@ -1,0 +1,148 @@
+{
+  "materia": "geral",
+  "tempo": "contemporanea",
+  "dificuldade": "dificil",
+  "licao": "Guerra Fria, descolonização e tempo presente",
+  "questoes": [
+    {
+      "id": "ger-con-d-001",
+      "tipo": "multipla",
+      "pergunta": "Na estruturação da ordem bipolar da Guerra Fria, qual papel histórico desempenharam o Plano Marshall e o Comecon?",
+      "opcoes": [
+        "Promoveram a cooperação econômica irrestrita entre países capitalistas e socialistas sob gestão da ONU.",
+        "Articularam a reconstrução econômica e o alinhamento político-ideológico das áreas de influência lideradas respectivamente pelos Estados Unidos e pela União Soviética.",
+        "Foram criados na Conferência de Bandung para financiar a neutralidade militar dos países não alinhados.",
+        "Substituíram o dólar e o rublo por uma moeda única internacional no comércio europeu."
+      ],
+      "correta": 1,
+      "explicacao": "O Plano Marshall e o Comecon expressaram a divisão econômica da Europa e do mundo entre os blocos capitalista e socialista, vinculando ajuda financeira e integração comercial à hegemonia de cada superpotência.",
+      "revisar": false
+    },
+    {
+      "id": "ger-con-d-002",
+      "tipo": "multipla",
+      "pergunta": "Qual significado geopolítico a historiografia atribui à Conferência de Bandung (1955) no contexto da descolonização e da Guerra Fria?",
+      "opcoes": [
+        "Formalizou a aliança militar das potências coloniais europeias para reocupar o Sudeste Asiático.",
+        "Determinou a divisão da Alemanha e a construção do Muro de Berlim sob supervisão soviética.",
+        "Inaugurou o Consenso de Washington como programa de privatizações para os países africanos.",
+        "Articulou nações asiáticas e africanas recém-emancipadas na busca por autonomia política diante da bipolarização entre Estados Unidos e União Soviética."
+      ],
+      "correta": 3,
+      "explicacao": "Reunindo países afro-asiáticos egressos do colonialismo, a Conferência de Bandung afirmou a autodeterminação dos povos e lançou as bases do não alinhamento frente às duas superpotências.",
+      "revisar": false
+    },
+    {
+      "id": "ger-con-d-003",
+      "tipo": "multipla",
+      "pergunta": "De que maneira a historiografia relaciona as guerras de libertação anticolonial na África e na Ásia aos movimentos pelos direitos civis nos Estados Unidos nas décadas de 1950 e 1960?",
+      "opcoes": [
+        "Compartilharam um repertório comum de pautas emancipatórias voltado à crítica do imperialismo, à igualdade civil e ao fim da violência estatal.",
+        "Os movimentos pelos direitos civis nos EUA defenderam a manutenção dos impérios europeus para conter o comunismo.",
+        "Ambos os movimentos foram financiados pelo governo de Dwight Eisenhower para consolidar a hegemonia norte-americana.",
+        "As independências africanas só tiveram início após o encerramento definitivo das lutas raciais nos Estados Unidos."
+      ],
+      "correta": 0,
+      "explicacao": "As lutas anticoloniais no chamado Terceiro Mundo e o movimento negro norte-americano dialogaram intensamente ao questionar hierarquias raciais, o imperialismo e a repressão governamental.",
+      "revisar": false
+    },
+    {
+      "id": "ger-con-d-004",
+      "tipo": "multipla",
+      "pergunta": "Na análise crítica sobre a África pós-colonial, como o caso de Ruanda ilustra o papel da colonização europeia na fabricação de conflitos identitários?",
+      "opcoes": [
+        "A administração colonial belga extinguiu todas as diferenças sociais, garantindo estabilidade democrática duradoura após a independência.",
+        "O conflito entre tutsis e hutus resultou exclusivamente de disputas comerciais com a União Soviética na década de 1980.",
+        "A colonização belga e a atuação de ordens religiosas manipularam e cristalizaram divisões entre tutsis e hutus, deixando heranças conflituosas após a emancipação.",
+        "A independência de Ruanda foi negociada na Conferência de Berlim com plena participação das populações locais."
+      ],
+      "correta": 2,
+      "explicacao": "A historiografia demonstra que as potências coloniais frequentemente instrumentalizaram e rigidificaram divisões locais para governar, gerando tensões profundas que explodiram no período pós-colonial.",
+      "revisar": false
+    },
+    {
+      "id": "ger-con-d-005",
+      "tipo": "multipla",
+      "pergunta": "Por que os historiadores afirmam que os conflitos ligados à descolonização nas décadas de 1950 e 1960 não se encerraram com a proclamação formal das independências?",
+      "opcoes": [
+        "Porque todas as ex-colônias africanas e asiáticas retornaram voluntariamente ao domínio jurídico europeu.",
+        "Porque a ONU impediu que os países recém-independentes participassem das conferências internacionais.",
+        "Porque persistiram dependências econômicas, disputas da bipolarização e problemas de integração cidadã das populações de origem colonial.",
+        "Porque o pacto colonial mercantilista permaneceu em vigor até o final do século XX."
+      ],
+      "correta": 2,
+      "explicacao": "A emancipação jurídica não eliminou automaticamente as assimetrias econômicas herdadas do colonialismo, as interferências das superpotências na Guerra Fria nem as barreiras à cidadania plena.",
+      "revisar": false
+    },
+    {
+      "id": "ger-con-d-006",
+      "tipo": "multipla",
+      "pergunta": "Qual significado político e cultural os movimentos juvenis dos anos 1960 — como a contracultura e o 'Maio de 1968' — assumiram no cenário internacional?",
+      "opcoes": [
+        "Defendiam o retorno ao conservadorismo moral do século XIX e o apoio às intervenções militares na Ásia.",
+        "Projetaram o jovem como ator político e formularam projetos alternativos à modernidade, criticando o autoritarismo, o consumismo e guerras como a do Vietnã.",
+        "Foram movimentos restritos às elites rurais europeias contra a expansão do ensino universitário público.",
+        "Buscavam restaurar os impérios coloniais europeus na África e no Oriente Médio."
+      ],
+      "correta": 1,
+      "explicacao": "Na década de 1960, a juventude emergiu como protagonista política e cultural, articulando protestos antiguerra, feminismo e contestação às estruturas autoritárias tanto no bloco capitalista quanto no socialista.",
+      "revisar": false
+    },
+    {
+      "id": "ger-con-d-007",
+      "tipo": "multipla",
+      "pergunta": "Na análise historiográfica sobre o Oriente Médio após a decisão da ONU de partilhar a Palestina em dois Estados (um judeu e um árabe), como se relacionam as escalas internacional e local dos conflitos?",
+      "opcoes": [
+        "A partilha da ONU encerrou definitivamente as disputas territoriais sem qualquer impacto da Guerra Fria.",
+        "O conflito restringiu-se a disputas alfandegárias marítimas, sem envolver questões territoriais ou identitárias locais.",
+        "A decisão foi tomada exclusivamente pela Conferência de Bandung sem interferência das grandes potências.",
+        "Embora marcados por forte repercussão internacional na ordem do pós-guerra, os conflitos adquiriram dinâmicas e implicações locais profundas e duradouras."
+      ],
+      "correta": 3,
+      "explicacao": "Os impasses no Oriente Médio combinam a intervenção geopolítica das grandes potências desde o pós-guerra com raízes e desdobramentos locais específicos entre as populações da região.",
+      "revisar": false
+    },
+    {
+      "id": "ger-con-d-008",
+      "tipo": "multipla",
+      "pergunta": "De que modo o conjunto de diretrizes conhecido como Consenso de Washington expressou a hegemonia norte-americana na expansão do neoliberalismo?",
+      "opcoes": [
+        "Promoveu políticas de privatização, isenções fiscais e desregulamentação econômica alinhadas aos interesses dos Estados Unidos, tendo o Chile pós-1973 como laboratório precursor.",
+        "Defendeu o fortalecimento do planejamento estatal centralizado e a nacionalização das empresas estrangeiras na América Latina.",
+        "Estabeleceu um fundo internacional para financiar economias socialistas após a dissolução da União Soviética.",
+        "Restaurou barreiras alfandegárias protecionistas para impedir a circulação global de capitais financeiros."
+      ],
+      "correta": 0,
+      "explicacao": "Associado à centralidade dos interesses de Washington, o receituário neoliberal difundiu o recuo do Estado na economia e a abertura comercial, aplicando-se precocemente no Chile sob a ditadura de Pinochet.",
+      "revisar": true
+    },
+    {
+      "id": "ger-con-d-009",
+      "tipo": "multipla",
+      "pergunta": "Como a historiografia do tempo presente analisa o impacto da globalização digital ('rede mundial de computadores') sobre o ativismo político no século XXI?",
+      "opcoes": [
+        "A internet eliminou a circulação de teorias conspiratórias e consolidou o consenso democrático mundial.",
+        "As redes digitais restringiram o debate histórico exclusivamente às universidades e arquivos públicos.",
+        "O ciberativismo ampliou a visibilidade de grupos da nova extrema direita, estimulando culturas conspiracionistas e usos ideológicos de uma 'pseudo-história'.",
+        "A difusão digital tornou impossível a polarização ideológica entre capitalismo e comunismo nas redes sociais."
+      ],
+      "correta": 2,
+      "explicacao": "As redes digitais potencializaram novas formas de mobilização política que frequentemente recorrem a teorias da conspiração e falsificações do passado ('pseudo-história') para atacar a democracia e os direitos humanos.",
+      "revisar": true
+    },
+    {
+      "id": "ger-con-d-010",
+      "tipo": "multipla",
+      "pergunta": "Qual argumento metodológico a historiografia contemporânea opõe aos revisionismos e negacionismos que afirmam que os fatos históricos são meras 'interpretações' equivalentes?",
+      "opcoes": [
+        "Embora a historiografia atual critique filosofias teleológicas da história, o conhecimento histórico fundamenta-se em evidências documentais e métodos rigorosos que distinguem fatos comprovados de falsificações.",
+        "Nenhum documento oficial ou comissão estatal pode ser utilizado como fonte válida para comprovar crimes políticos.",
+        "A pesquisa histórica deve retornar às concepções evolutivas teleológicas do século XIX que previam um fim predeterminado.",
+        "Todas as opiniões divulgadas na internet possuem o mesmo valor científico que a análise arquivística."
+      ],
+      "correta": 0,
+      "explicacao": "A crítica historiográfica às visões lineares do progresso não significa relativismo absoluto: documentos, vestígios e procedimentos metodológicos sustentam a veracidade factual contra o negacionismo.",
+      "revisar": false
+    }
+  ]
+}

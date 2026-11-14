@@ -1,0 +1,108 @@
+{
+  "materia": "brasil",
+  "tempo": "republica-velha",
+  "dificuldade": "medio",
+  "licao": "Oligarquias, tenentismo e mudança social",
+  "questoes": [
+    {
+      "id": "bra-rv-m-001",
+      "tipo": "multipla",
+      "pergunta": "Qual mecanismo político consolidado na República Velha baseava-se no apoio mútuo entre o governo federal e as oligarquias estaduais, neutralizando oposições e congelando a competição eleitoral?",
+      "opcoes": [
+        "O parlamentarismo às avessas",
+        "A política dos governadores",
+        "O corporativismo sindical",
+        "O Plano de Metas"
+      ],
+      "correta": 1,
+      "explicacao": "A política dos governadores institucionalizou o pacto entre o Executivo federal e as oligarquias dominantes nos estados, assegurando o controle das eleições e bloqueando os grupos oposicionistas. O parlamentarismo às avessas pertence ao Segundo Reinado.",
+      "revisar": false
+    },
+    {
+      "id": "bra-rv-m-002",
+      "tipo": "multipla",
+      "pergunta": "Qual movimento político contestou o arranjo oligárquico que congelava a disputa presidencial na República Velha, inaugurando uma fase de questionamento da ordem vigente antes de 1930?",
+      "opcoes": [
+        "A Frente Ampla",
+        "A Campanha da Legalidade",
+        "A Reação Republicana",
+        "A Aliança Nacional Libertadora"
+      ],
+      "correta": 2,
+      "explicacao": "A Reação Republicana representou uma cisão entre as elites políticas que contestou o monopólio sucessório consolidado pela política dos governadores. A Aliança Nacional Libertadora e a Frente Ampla pertencem respectivamente às décadas de 1930 e 1960.",
+      "revisar": false
+    },
+    {
+      "id": "bra-rv-m-003",
+      "tipo": "multipla",
+      "pergunta": "O que as diversas revoltas sociais ocorridas no campo e nas cidades durante os primeiros anos da República evidenciaram sobre o novo regime?",
+      "opcoes": [
+        "Que a marginalização social e política das camadas pobres permaneceu inalterada, tornando a cidadania republicana uma mera promessa",
+        "Que o governo federal promoveu ampla reforma agrária e integração cidadã para atender aos camponeses",
+        "Que os trabalhadores urbanos conquistaram imediatamente o salário mínimo e a Justiça do Trabalho em 1891",
+        "Que a abolição da escravidão eliminou automaticamente a repressão policial contra os movimentos populares"
+      ],
+      "correta": 0,
+      "explicacao": "Apesar da mudança da forma de governo, os levantes populares da Primeira República demonstraram que a exclusão social persistia e que o Estado respondia às demandas sociais com repressão. A Justiça do Trabalho e o salário mínimo só surgiriam na Era Vargas.",
+      "revisar": false
+    },
+    {
+      "id": "bra-rv-m-004",
+      "tipo": "multipla",
+      "pergunta": "Quais reformas políticas e institucionais eram defendidas pelo movimento tenentista na década de 1920 para combater o domínio das oligarquias e dos 'coronéis'?",
+      "opcoes": [
+        "A restauração da monarquia parlamentar e a abolição da propriedade privada capitalista",
+        "O voto aberto censitário e a ampliação da autonomia fiscal dos governadores estaduais",
+        "A dissolução permanente do Exército e a entrega do governo aos sindicatos comunistas",
+        "O voto secreto, o ensino obrigatório e maior centralização política para moralizar a República"
+      ],
+      "correta": 3,
+      "explicacao": "Os tenentes não rejeitavam a República nem o capitalismo, mas propunham o voto secreto, a educação obrigatória e o fortalecimento do poder central para desarticular o mando local dos coronéis. Eles defendiam justamente o oposto da descentralização oligárquica.",
+      "revisar": false
+    },
+    {
+      "id": "bra-rv-m-005",
+      "tipo": "multipla",
+      "pergunta": "Por que os tenentes e seus aliados civis defenderam a permanência prolongada do Governo Provisório logo após a Revolução de 1930?",
+      "opcoes": [
+        "Porque pretendiam restaurar a Constituição de 1891 sem alterar a composição dos governos estaduais",
+        "Porque temiam que eleições imediatas reproduzissem os vícios eleitorais da República Velha antes de desmontar o poder oligárquico",
+        "Porque desejavam entregar a presidência diretamente aos cafeicultores paulistas derrotados em outubro de 1930",
+        "Porque planejavam extinguir definitivamente qualquer forma de representação constitucional no Brasil"
+      ],
+      "correta": 1,
+      "explicacao": "Na visão dos tenentes, um retorno precipitado à legalidade eleitoral permitiria que as antigas máquinas oligárquicas retomassem o controle político; por isso, defendiam tempo para desmantelar as bases do coronelismo.",
+      "revisar": false
+    },
+    {
+      "id": "bra-rv-m-006",
+      "tipo": "multipla",
+      "pergunta": "Como a imigração europeia e a diversificação econômica transformaram a sociedade brasileira ao longo da República Velha, especialmente no Sul e no Sudeste?",
+      "opcoes": [
+        "Provocaram a estagnação demográfica das capitais e o abandono das ferrovias em favor do transporte rodoviário",
+        "Reduziram a população urbana e concentraram toda a atividade financeira exclusivamente no Nordeste açucareiro",
+        "Aceleraram o crescimento populacional e a urbanização, impulsionando ferrovias, bancos, comércio e meios de comunicação",
+        "Eliminavam a dependência da exportação de café já na primeira década do século XX"
+      ],
+      "correta": 2,
+      "explicacao": "A entrada de imigrantes concentrada no Sul e Sudeste estimulou o crescimento das cidades e a modernização da infraestrutura de transportes (ferrovias), serviços bancários e comunicações (telégrafo, jornal e rádio). A troca das ferrovias pelas rodovias ocorreu apenas nos anos 1950.",
+      "revisar": false
+    },
+    {
+      "id": "bra-rv-m-007",
+      "tipo": "verdadeiro_falso",
+      "pergunta": "A frase 'A questão social é caso de polícia', pronunciada por Washington Luís em 1926, sintetiza a postura repressiva com que o Estado oligárquico da República Velha tratava as reivindicações dos trabalhadores.",
+      "correta": true,
+      "explicacao": "A afirmação está correta, pois durante a Primeira República as demandas operárias e populares eram enfrentadas majoritariamente por meio da repressão policial, sem reconhecimento de direitos trabalhistas.",
+      "revisar": true
+    },
+    {
+      "id": "bra-rv-m-008",
+      "tipo": "verdadeiro_falso",
+      "pergunta": "Os jovens oficiais do movimento tenentista defendiam a derrubada do sistema capitalista e a substituição da República por um regime socialista inspirado na Revolução Russa.",
+      "correta": false,
+      "explicacao": "A afirmação é falsa porque os tenentes não rejeitavam o sistema republicano nem o capitalismo; seu objetivo era moralizar a República e substituir seus dirigentes oligárquicos por meio de reformas como o voto secreto e a centralização política.",
+      "revisar": false
+    }
+  ]
+}

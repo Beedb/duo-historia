@@ -4,6 +4,7 @@
 
 const TIPOS_SUPORTADOS = ["multipla", "verdadeiro_falso", "fonte"];
 const ROTULOS_TIPO = { verdadeiro_falso: "Verdadeiro ou falso?", fonte: "Leia o trecho" };
+const QUESTOES_POR_LICAO = 10;
 const cacheLicoes = {};
 
 let sessao = null;
@@ -23,8 +24,10 @@ async function carregarLicao(idLicao) {
   return cacheLicoes[idLicao];
 }
 
+// Sorteia até 10 questões do banco do nível: lições curtas, e cada vez sai um conjunto diferente
 function criarSessaoLicao(licao, idLicao) {
-  return { modo: "licao", id: idLicao, titulo: licao.licao, questoes: prepararQuestoes(licao, idLicao) };
+  const questoes = embaralhar(prepararQuestoes(licao, idLicao)).slice(0, QUESTOES_POR_LICAO);
+  return { modo: "licao", id: idLicao, titulo: licao.licao, questoes };
 }
 
 // Tira questões "revisar" e tipos que o app ainda não mostra (ordenar, ligar, lacuna)
@@ -208,9 +211,9 @@ function finalizarSessao(porcentagem) {
   }
 
   const liberado = registrarConclusao(sessao.id, porcentagem);
-  if (liberado) return `🎉 Liberado: ${descreverLicao(liberado)}`;
+  if (liberado) return `🎉 Liberado: ${descreverLicao(nivelQueAbre(liberado))}`;
 
-  const nivel = sessao.id.split("/")[2];
+  const { nivel } = separarIdLicao(sessao.id);
   const temProximo = Boolean(PROXIMO_NIVEL[nivel]);
   if (temProximo && porcentagem < ACERTO_PARA_LIBERAR) {
     return `Acerte ${ACERTO_PARA_LIBERAR}% ou mais para liberar o próximo nível.`;

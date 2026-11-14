@@ -1,0 +1,147 @@
+{
+  "materia": "america",
+  "dificuldade": "facil",
+  "licao": "Civilizações pré-colombianas e colonização espanhola",
+  "questoes": [
+    {
+      "id": "ame-f-001",
+      "tipo": "multipla",
+      "pergunta": "Qual cidade foi fundada em 1325 e serviu como capital do Império Asteca, no território correspondente à atual Cidade do México?",
+      "opcoes": [
+        "Cuzco",
+        "Tenochtitlán",
+        "Tikal",
+        "Chichén Itzá"
+      ],
+      "correta": 1,
+      "explicacao": "Tenochtitlán foi o grande centro urbano e político do Império Asteca até a conquista espanhola. Cuzco foi a capital do Império Inca, enquanto Tikal e Chichén Itzá foram importantes cidades maias.",
+      "revisar": false
+    },
+    {
+      "id": "ame-f-002",
+      "tipo": "multipla",
+      "pergunta": "Qual conquistador espanhol liderou a expedição que derrubou o Império Asteca entre os anos de 1519 e 1521?",
+      "opcoes": [
+        "Francisco Pizarro",
+        "Cristóvão Colombo",
+        "Bartolomé de las Casas",
+        "Hernán Cortés"
+      ],
+      "correta": 3,
+      "explicacao": "Hernán Cortés (em português antigo, Fernão Cortez) comandou os conquistadores espanhóis na tomada de Tenochtitlán e na queda do Império Asteca, entre 1519 e 1521. Pizarro conquistou os incas, Colombo chegou à América em 1492 e Bartolomé de las Casas foi um religioso crítico da violência contra os indígenas.",
+      "revisar": false
+    },
+    {
+      "id": "ame-f-003",
+      "tipo": "multipla",
+      "pergunta": "Qual cidade transformou-se na capital do Império Inca sob o governo do imperador Pachakuti, no século XV?",
+      "opcoes": [
+        "Cuzco",
+        "Palenque",
+        "Copán",
+        "Tenochtitlán"
+      ],
+      "correta": 0,
+      "explicacao": "Sob Pachakuti (1438–1471), Cuzco consolidou-se como o centro administrativo e político do vasto Império Inca nos Andes. Palenque e Copán pertencem à civilização maia na Mesoamérica.",
+      "revisar": false
+    },
+    {
+      "id": "ame-f-004",
+      "tipo": "multipla",
+      "pergunta": "Como era denominado o sistema de trabalho compulsório utilizado pelos incas em obras públicas e posteriormente adaptado pelos espanhóis na mineração andina?",
+      "opcoes": [
+        "Cabildo",
+        "Intendência",
+        "Mita",
+        "Porto único"
+      ],
+      "correta": 2,
+      "explicacao": "A mita consistia no trabalho obrigatório periódico prestado pelos aldeões andinos, mecanismo apropriado pelos espanhóis para extrair prata em minas como Potosí. Cabildo era a câmara municipal das cidades hispano-americanas.",
+      "revisar": false
+    },
+    {
+      "id": "ame-f-005",
+      "tipo": "multipla",
+      "pergunta": "Na economia da civilização maia, qual produto agrícola servia tanto como importante cultivo quanto como unidade de troca comercial, ao lado das sinetas de cobre?",
+      "opcoes": [
+        "Grãos de café",
+        "Folhas de chá",
+        "Fardos de algodão",
+        "Sementes de cacau"
+      ],
+      "correta": 3,
+      "explicacao": "Os maias cultivavam o cacau e utilizavam suas sementes como moeda de troca nas transações mercantis, embora o milho fosse sua base alimentar. O café foi introduzido nas Américas muito depois, durante a colonização europeia.",
+      "revisar": false
+    },
+    {
+      "id": "ame-f-006",
+      "tipo": "multipla",
+      "pergunta": "Qual cidade inca, localizada a cerca de 2.400 metros de altitude próximo à floresta amazônica, destacou-se como importante centro religioso e astronômico?",
+      "opcoes": [
+        "La Venta",
+        "Machu Picchu",
+        "Teotihuacán",
+        "Uxmal"
+      ],
+      "correta": 1,
+      "explicacao": "Machu Picchu destaca-se pelo planejamento urbano sofisticado na região andina e por sua função religiosa e astronômica no Império Inca. Teotihuacán e La Venta são sítios arqueológicos mesoamericanos.",
+      "revisar": false
+    },
+    {
+      "id": "ame-f-007",
+      "tipo": "multipla",
+      "pergunta": "Na hierarquia social da América espanhola colonial, como eram chamados os espanhóis nascidos na metrópole que ocupavam os principais cargos administrativos, judiciais, militares e eclesiásticos?",
+      "opcoes": [
+        "Chapetones",
+        "Criollos",
+        "Curacas",
+        "Encomenderos"
+      ],
+      "correta": 0,
+      "explicacao": "Os chapetones formavam a elite administrativa vinda diretamente da Espanha para governar as colônias em nome da Coroa. Os criollos eram os descendentes de espanhóis nascidos na América, restritos sobretudo às câmaras municipais.",
+      "revisar": false
+    },
+    {
+      "id": "ame-f-008",
+      "tipo": "multipla",
+      "pergunta": "Qual instituição sediada na Espanha controlava o comércio colonial, arrecadava impostos e instituiu o regime de 'porto único'?",
+      "opcoes": [
+        "Conselho Ultramarino",
+        "Mesa do Desembargo",
+        "Casa de Contratação",
+        "Santa Aliança"
+      ],
+      "correta": 2,
+      "explicacao": "A Casa de Contratação regulava o fluxo mercantil e fiscal entre a Espanha e suas colônias por meio de portos autorizados como Sevilha e Cádiz. O Conselho Ultramarino era o órgão administrativo das colônias portuguesas.",
+      "revisar": false
+    },
+    {
+      "id": "ame-f-009",
+      "tipo": "multipla",
+      "pergunta": "Qual prática colonial espanhola concedia a colonos o direito de explorar o trabalho de grupos indígenas sob o compromisso de oferecer-lhes educação cristã?",
+      "opcoes": [
+        "Ayllu",
+        "Corveia",
+        "Hilota",
+        "Encomienda"
+      ],
+      "correta": 3,
+      "explicacao": "Por meio da encomienda, a Coroa espanhola atribuía mão de obra indígena a encomenderos em troca da catequese cristã dos nativos. Ayllu era o nome dado às aldeias comunitárias no mundo andino.",
+      "revisar": false
+    },
+    {
+      "id": "ame-f-010",
+      "tipo": "multipla",
+      "pergunta": "Qual civilização pré-colombiana desenvolveu um complexo sistema de escrita hieroglífica, concebeu o número zero e organizou-se em dezenas de cidades-Estado como Tikal e Palenque?",
+      "opcoes": [
+        "Maia",
+        "Inca",
+        "Asteca",
+        "Chimu"
+      ],
+      "correta": 0,
+      "explicacao": "Os maias destacaram-se na escrita hieroglífica, na astronomia e na matemática com a invenção do zero, vivendo em cidades-Estado independentes governadas por um halach. Os incas, por sua vez, não possuíam sistema de escrita.",
+      "revisar": false
+    }
+  ]
+}

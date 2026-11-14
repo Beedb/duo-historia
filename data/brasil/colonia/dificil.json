@@ -75,6 +75,118 @@
       "correta": true,
       "explicacao": "A afirmação é verdadeira, pois a crise econômica na capitania e o peso tributário imposto pelo período joanino levaram camadas médias e grupos populares a depor o governador e proclamar uma república em Recife.",
       "revisar": false
+    },
+    {
+      "id": "bra-col-d-007",
+      "tipo": "multipla",
+      "pergunta": "Qual crítica historiográfica fundamenta o questionamento atual ao emprego da expressão 'Brasil Colônia' para designar o período entre 1500 e 1822?",
+      "opcoes": [
+        "A comprovação de que o território nunca esteve submetido ao domínio político ou comercial de Portugal",
+        "O fato de o Brasil já existir como Estado nacional soberano unificado antes da chegada de Cabral",
+        "A descoberta de que a Independência de 1822 não alterou nenhuma instituição política da América portuguesa",
+        "O anacronismo de projetar no passado colonial a ideia de uma nação brasileira já pronta, construída no século XIX para afirmar a identidade nacional"
+      ],
+      "correta": 3,
+      "explicacao": "A historiografia contemporânea aponta que 'Brasil' é uma invenção político-jurídica consolidada no século XIX, quando instituições como o IHGB narraram o período colonial como embrião natural da nação. O território era, na verdade, um conjunto heterogêneo de possessões da América portuguesa.",
+      "revisar": false
+    },
+    {
+      "id": "bra-col-d-008",
+      "tipo": "multipla",
+      "pergunta": "De que maneira as revisões historiográficas recentes nuançam a visão clássica e rígida do 'pacto colonial' na América portuguesa?",
+      "opcoes": [
+        "Demonstram que não existia qualquer monopólio comercial nem cobrança de impostos pela Coroa portuguesa",
+        "Comprovam que as colônias americanas exportavam exclusivamente manufaturas industriais para a Europa",
+        "Sustentam que a metrópole portuguesa dependia integralmente da agricultura de subsistência produzida no sertão",
+        "Evidenciam a existência de uma dinâmica colonial interna própria, com circuitos mercantis e interesses locais que não se reduziam a beneficiar apenas a metrópole"
+      ],
+      "correta": 3,
+      "explicacao": "Sem negar a exploração metropolitana, pesquisas recentes mostram que a economia colonial articulou mercados internos, acumulação local e negociações entre elites coloniais e a Coroa. O monopólio existia formalmente, mas a vida econômica da colônia possuía autonomia relativa.",
+      "revisar": false
+    },
+    {
+      "id": "bra-col-d-009",
+      "tipo": "multipla",
+      "pergunta": "Na interpretação clássica formulada por Caio Prado Júnior, qual elemento define o 'sentido da colonização' brasileira na Época Moderna?",
+      "opcoes": [
+        "Um empreendimento comercial voltado à produção tropical para o mercado europeu, articulado também à expansão religiosa",
+        "Um projeto de povoamento baseado na pequena propriedade familiar autossuficiente e no trabalho livre",
+        "Uma tentativa de reproduzir na América as instituições feudais europeias sem vínculo com o comércio atlântico",
+        "Uma missão exclusivamente filantrópica destinada a integrar os povos indígenas à cidadania portuguesa"
+      ],
+      "correta": 0,
+      "explicacao": "Para Caio Prado Júnior, a colonização dos trópicos americanos teve caráter intencionalmente econômico, estruturando-se para fornecer gêneros primários e metais ao comércio europeu, dimensão que se somou à ação missionária católica. Não visava criar uma sociedade autônoma voltada ao mercado interno.",
+      "revisar": false
+    },
+    {
+      "id": "bra-col-d-010",
+      "tipo": "multipla",
+      "pergunta": "Ao analisar as permanências coloniais na história do Brasil, quais duas interpretações historiográficas opostas o historiador Boris Fausto critica?",
+      "opcoes": [
+        "A defesa do mercantilismo e a crítica ao iluminismo pombalino",
+        "O determinismo geográfico amazônico e o eurocentrismo da Pré-História",
+        "A visão simplista de um progresso contínuo e a tese conservadora do imobilismo histórico absoluto",
+        "A teoria das capitanias hereditárias e a hipótese do povoamento pelo estreito de Bering"
+      ],
+      "correta": 2,
+      "explicacao": "Boris Fausto rejeita tanto a ideia ingênua de evolução linear rumo ao progresso quanto o fatalismo conservador segundo o qual vícios coloniais como clientelismo e corrupção condenariam o país à imutabilidade. Ambas as leituras empobrecem a compreensão das transformações históricas.",
+      "revisar": true
+    },
+    {
+      "id": "bra-col-d-011",
+      "tipo": "multipla",
+      "pergunta": "Na interpretação sociopolítica de Raymundo Faoro sobre a formação histórica iniciada com as feitorias e empresas coloniais em 1500, qual conceito explica a relação entre Estado e elites econômicas?",
+      "opcoes": [
+        "Federalismo descentralizado",
+        "Liberalismo democrático",
+        "Patrimonialismo",
+        "Socialismo utópico"
+      ],
+      "correta": 2,
+      "explicacao": "Para Raymundo Faoro, desde os arrendatários e feitorias coloniais consolidou-se o patrimonialismo, estrutura em que a comunidade política conduz os negócios públicos como se fossem propriedade privada de seus dirigentes e elites. O federalismo só foi adotado no Brasil com a República.",
+      "revisar": false
+    },
+    {
+      "id": "bra-col-d-012",
+      "tipo": "multipla",
+      "pergunta": "Como a historiografia brasileira modificou sua leitura da Carta de Pero Vaz de Caminha entre o final do século XIX e o século XX?",
+      "opcoes": [
+        "De 'certidão de nascimento' exaltadora da terra no século XIX, passou a ser analisada no século XX como expressão da mentalidade de superioridade do conquistador europeu",
+        "De documento sigiloso proibido pelos jesuítas no século XIX, tornou-se a primeira Constituição escrita do Império",
+        "De relato crítico contra a escravidão africana, passou a ser vista como um tratado econômico sobre a mineração",
+        "De prova arqueológica do período pré-cabralino, foi descartada como falsificação produzida pelo IHGB"
+      ],
+      "correta": 0,
+      "explicacao": "Recuperada por historiadores do século XIX interessados em forjar uma narrativa nacional ufanista, a carta foi submetida no século XX a uma crítica documental que revelou os filtros culturais e etnocêntricos dos navegantes europeus. O documento é autêntico e data de 1500.",
+      "revisar": false
+    },
+    {
+      "id": "bra-col-d-013",
+      "tipo": "multipla",
+      "pergunta": "Ao comparar os confrontos e revoltas ocorridos na América portuguesa nos séculos XVII e XVIII, qual aspecto social caracteriza a liderança da maioria desses movimentos?",
+      "opcoes": [
+        "Foram comandados exclusivamente por indígenas aldeados que exigiam o fim das câmaras municipais",
+        "Tiveram direção unificada de operários urbanos inspirados nas revoluções industriais europeias",
+        "Contaram com o apoio oficial dos governadores-gerais para romper o monopólio da Coroa",
+        "Foram liderados por setores das elites e camadas médias coloniais insatisfeitos com restrições fiscais e comerciais metropolitanas"
+      ],
+      "correta": 3,
+      "explicacao": "A análise da composição social dos movimentos coloniais mostra o protagonismo de proprietários, comerciantes e letrados locais em choque com a fiscalidade e os monopólios da metrópole, geralmente sem incluir projetos de emancipação para escravizados e pobres.",
+      "revisar": false
+    },
+    {
+      "id": "bra-col-d-014",
+      "tipo": "multipla",
+      "pergunta": "Qual consequência econômica estrutural o monopólio colonial e o fluxo de riquezas americanas produziram sobre as próprias metrópoles ibéricas (Portugal e Espanha) na Idade Moderna?",
+      "opcoes": [
+        "Aceleraram a industrialização autônoma de Lisboa e Madri, superando a economia inglesa",
+        "Desestimularam investimentos na produção manufatureira interna, ampliando a dependência ibérica de importações estrangeiras",
+        "Eliminaram o déficit comercial de Portugal e Espanha diante das potências do norte da Europa",
+        "Promoveram a redistribuição igualitária da renda entre camponeses metropolitanos e colonos americanos"
+      ],
+      "correta": 1,
+      "explicacao": "Apoiados nas rendas do comércio colonial e nos metais preciosos da América, Portugal e Espanha deixaram de desenvolver manufaturas internas robustas, tornando-se dependentes de produtos importados de outras nações europeias.",
+      "revisar": false
     }
   ]
 }

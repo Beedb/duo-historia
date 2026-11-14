@@ -88,9 +88,16 @@ DUOPobre/
 │   ├── materias.json   # matérias, tempos (com "disponivel") e níveis
 │   ├── geral/
 │   │   ├── pre-historia/   facil.json  medio.json  dificil.json
-│   │   └── antiguidade/    facil.json  medio.json  dificil.json
+│   │   ├── antiguidade/    facil.json  medio.json  dificil.json
+│   │   └── contemporanea/  facil.json  medio.json  dificil.json
+│   ├── america/            facil.json  medio.json  dificil.json
 │   └── brasil/
-│       └── colonia/        facil.json  medio.json  dificil.json
+│       ├── colonia/        facil.json  medio.json  dificil.json
+│       ├── imperio/        facil.json  medio.json  dificil.json
+│       ├── republica-velha/ facil.json  medio.json  dificil.json
+│       ├── era-vargas/     facil.json  dificil.json
+│       ├── democracia/     facil.json  dificil.json
+│       └── ditadura/       facil.json  dificil.json
 ├── docs/
 │   └── prompts-notebooklm.md   # prompts para gerar questões
 ├── manifest.json       # (futuro)
@@ -137,7 +144,11 @@ Todo tipo precisa de: pergunta, resposta correta e explicação.
 
 **Suporte no app hoje:** `licao.js` mostra `multipla`, `verdadeiro_falso` e `fonte`. Os outros tipos (`lacuna`, `ordenar`, `ligar`) são ignorados até a Fase 5. Questões com `"revisar": true` também são ignoradas.
 
-**Tempo novo:** criar os 3 JSONs em `data/<materia>/<tempo>/` e mudar `"disponivel"` para `true` em `data/materias.json`.
+**Tempo novo:** criar os JSONs em `data/<materia>/<tempo>/` e mudar `"disponivel"` para `true` em `data/materias.json`. Se faltar algum nível, listar só os que existem em `"niveis"` (ex.: `["facil", "dificil"]`); o que falta aparece como "em breve" e o difícil abre direto do fácil (80%). Matéria sem divisão por tempo (América, África): arquivos em `data/<materia>/<nivel>.json` e um único tempo com `"id": ""` em `materias.json`.
+
+**Tamanho da lição:** cada lição sorteia até 10 questões do arquivo do nível. Arquivos grandes (30 questões) não deixam a lição longa; cada vez sai um conjunto diferente.
+
+**Tempo vazio no meio:** a regra "o tempo seguinte abre ao concluir o fácil do anterior" pula tempos com `disponivel: false` (ex.: Contemporânea abre com o fácil da Antiguidade).
 
 ### Progresso (`localStorage`)
 - `xp`: número
@@ -177,7 +188,7 @@ Sempre envolver leitura e escrita em `try/catch`.
 Trabalhar **uma fase por vez**. Não começar a seguinte sem a atual funcionando.
 
 ### Estado atual
-- Fases 1 a 4 prontas: trilha com desbloqueio, XP, vidas, streak, revisão com repetição espaçada.
+- Fases 1 a 4 prontas: trilha com desbloqueio, XP, vidas, streak, revisão com repetição espaçada. Lições de até 10 questões sorteadas.
 - Adiantado da Fase 5: `verdadeiro_falso` e `fonte` (os dados já tinham esses tipos).
 - Próxima fase: **5 (Novos tipos)**. Falta: `ordenar`, `ligar`, `lacuna`.
 - Pendente: PWA, APK.
@@ -222,15 +233,28 @@ O NotebookLM não tem API pública. O fluxo é manual:
 
 | Matéria / tempo | facil | medio | dificil |
 |---|---|---|---|
-| Brasil / Colônia | 8 (MVP, escrito à mão) | 6 | 6 (2 de fonte) |
-| Geral / Pré-história | 10 | 10 (2 V/F) | 10 |
+| Brasil / Colônia | 35 (8 do MVP + 27 do NotebookLM) | 16 (3 V/F) | 14 (3 V/F, 2 de fonte) |
+| Brasil / Império | 7 | 6 (2 V/F) | 8 (2 de fonte) |
+| Brasil / República Velha | 10 | 8 (2 V/F) | 12 (3 de fonte) |
+| Brasil / Era Vargas | 7 | falta | 2 |
+| Brasil / Democracia | 6 | falta | 2 |
+| Brasil / Ditadura | 7 | falta | 1 |
+| Geral / Pré-história | 15 | 10 (2 V/F) | 10 |
 | Geral / Antiguidade | 10 | 10 (2 V/F) | 10 (2 de fonte) |
+| Geral / Contemporânea | 17 | 10 (2 V/F) | 10 |
+| América (sem divisão por tempo) | 10 | 10 (2 V/F) | 10 (1 de fonte) |
 
-Meta por nível: 30 questões. Demais tempos: ainda sem conteúdo.
+Colônia fácil: 3 questões do NotebookLM foram descartadas por repetir assunto do MVP (capitanias, São Vicente, pau-brasil). Meta por nível: 30 questões. Demais tempos: ainda sem conteúdo.
 
 ### Pendências
-- Conferir e liberar as questões com `"revisar": true`: `ger-pre-m-006`, `ger-pre-m-007`, `ger-ant-d-004`, `bra-col-d-002`, `bra-col-d-003` (trechos de fonte e afirmações a confirmar).
-- 30 questões fáceis de Colônia geradas no NotebookLM ainda não foram juntadas. Os ids delas (`bra-col-f-001` a `030`) colidem com as 8 do MVP: renumerar a partir de `bra-col-f-009` ao juntar.
+- Revisão de 14/11 (Claude): `revisar: true` em `bra-col-f-024` (feitoria de Santa Cruz com 24 homens: a conhecida é a de Cabo Frio, 1503–1504), `bra-col-f-025` ("primeiro engenho" em 1533 é disputado), `ger-pre-f-012` (nome do sítio "Toca do Baixão do Perna Quatro" não confirmado) e `ame-d-001` (frase do "grande porrete" é de set./1901, quando Roosevelt era vice; a Emenda Platt é do governo McKinley). Corrigidos: gabarito de `bra-var-d-002` (era 1, é 0), datas de `bra-col-f-020` e `f-023`, explicações de `f-022`, `f-027`, `ger-con-f-008` e `ger-con-m-010`, nome em `f-029` (Eckhout) e `ame-f-002` (Hernán Cortés).
+- `bra-rv-m-005` trata do Governo Provisório pós-1930: combina mais com Era Vargas.
+- Aristides Lobo ("bestializado") aparece em `bra-imp-d-001` e `bra-rv-d-002`: escolher um dos tempos.
+- Níveis com poucas questões no app: Império difícil (4), Vargas difícil (2), Democracia difícil (2), Ditadura difícil (1).
+- Lote de 14/11: `bra-rv-d-001` (trecho de J. M. de Carvalho: citação e ano a confirmar) e `bra-rv-d-006` (trecho de Manoel Bomfim, 1905) estão com `revisar: true`. `bra-rv-d-002` (Aristides Lobo, 1889) foi trocada pela citação conhecida da Proclamação; conferir em Carvalho, *Os Bestializados*. O lote repetido de Colônia/Pré-história/Vargas/Democracia/Ditadura foi descartado (já existia).
+- Conferir e liberar as questões com `"revisar": true`: `ger-pre-m-006`, `ger-pre-m-007`, `ger-ant-d-004`, `bra-col-d-002`, `bra-col-d-003`, `ger-con-d-008`, `ger-con-d-009` (enquadramento político: conferir neutralidade) (trechos de fonte e afirmações a confirmar) e `bra-col-f-015` (tese de um autor, não consenso).
+- Colônia (lote 2): `bra-col-m-014` (o Quilombo do Jabaquara é do séc. XIX) e `bra-col-d-010` (atribuição a Boris Fausto) estão com `revisar: true`.
+- Questões de Império e República Velha com `revisar: true` (`bra-imp-f-004`, `bra-imp-f-006`, `bra-imp-d-004`, `bra-imp-d-005`, `bra-imp-d-006`, `bra-imp-d-008`, `bra-rv-f-009`, `bra-rv-m-007`): frases atribuídas a autores e afirmações apoiadas em uma única fonte. Conferir em bibliografia.
 - Os dois primeiros blocos de Colônia (médio e difícil) vieram sem nível no id e foram classificados por tema e tipo. Reclassificar se necessário.
 
 ## Como testar
