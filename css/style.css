@@ -30,6 +30,26 @@ body {
   padding: 24px 16px;
 }
 
+.painel {
+  display: flex;
+  justify-content: space-between;
+  gap: 8px;
+  margin-bottom: 20px;
+  font-weight: 700;
+}
+
+.painel-item {
+  padding: 6px 12px;
+  border: 2px solid var(--borda);
+  border-radius: 999px;
+}
+
+.resultado-xp {
+  font-weight: 700;
+  color: var(--certo);
+  margin: 0;
+}
+
 .tela {
   display: flex;
   flex-direction: column;

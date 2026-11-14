@@ -9,6 +9,13 @@
 <body>
   <main class="app">
 
+    <!-- Painel fixo: streak, XP e vidas -->
+    <header class="painel">
+      <span class="painel-item" id="painel-streak">🔥 0</span>
+      <span class="painel-item" id="painel-xp">⭐ 0</span>
+      <span class="painel-item" id="painel-vidas">❤️ 5</span>
+    </header>
+
     <!-- Tela 1: início da lição -->
     <section id="tela-inicio" class="tela">
       <p class="materia" id="inicio-materia"></p>
@@ -33,14 +40,17 @@
 
     <!-- Tela 3: resultado -->
     <section id="tela-resultado" class="tela escondida">
-      <h1>Lição concluída!</h1>
+      <h1 id="resultado-titulo">Lição concluída!</h1>
       <p class="nota" id="nota"></p>
       <p id="nota-texto"></p>
-      <button id="botao-refazer" class="botao botao-principal">Refazer lição</button>
+      <p class="resultado-xp" id="resultado-xp"></p>
+      <button id="botao-voltar" class="botao botao-principal">Voltar ao início</button>
     </section>
 
   </main>
 
+  <!-- Ordem importa: progresso e licao precisam existir antes do app iniciar -->
+  <script src="js/progresso.js"></script>
   <script src="js/licao.js"></script>
   <script src="js/app.js"></script>
 </body>

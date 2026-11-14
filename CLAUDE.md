@@ -138,6 +138,7 @@ Todo tipo precisa de: pergunta, resposta correta e explicação.
 ### Progresso (`localStorage`)
 - `xp`: número
 - `vidas`: número (máx. 5)
+- `recargaVidas`: timestamp (ms) de quando começou a contar a próxima vida
 - `streak`: dias seguidos
 - `ultimoEstudo`: data ISO (`YYYY-MM-DD`)
 - `licoesConcluidas`: lista de ids (`materia/tempo/nivel`)
