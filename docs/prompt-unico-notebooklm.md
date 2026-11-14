@@ -61,6 +61,16 @@ REGRAS
 - Temas sensíveis (escravidão, ditadura, genocídios): linguagem neutra, factual, sem sensacionalismo.
 - "revisar": true se as fontes forem ambíguas, divergirem entre si, ou se data, nome ou citação precisar de conferência. Senão, false.
 
+ESTILO (escreva como um professor de cursinho, não como um texto acadêmico)
+- Pergunta curta e direta: até 25 palavras no fácil e médio, até 35 no difícil. Uma ideia por pergunta.
+- Palavras do dia a dia. Evite: "de que maneira", "qual relação", "célebre", "notadamente", "no contexto de", "articular", "evidenciar", "ressignificar", "paradigma", "protagonismo", "cenário", "nesse sentido".
+- Varie o começo das perguntas (Quem, Qual, Por que, O que, Em que ano...) e use casos concretos (um personagem, um lugar, um documento).
+- As 4 opções com tamanho e estilo parecidos. A certa NÃO pode ser sempre a mais longa ou a mais cheia de nuances.
+- Errada não pode se entregar por exagero: nada de "apenas", "nunca", "sempre", "totalmente", "unanimemente" só nas erradas.
+- Distratores do mesmo período e da mesma região, que um aluno desatento poderia marcar. Nada absurdo ou anacrônico.
+- No fácil, não fale em "historiografia" nem em "interpretação".
+- Explicação começa direto pelo fato ("Tiradentes foi..."), sem "A afirmação está correta, pois" ou "A alternativa correta é".
+
 FORMATOS (um objeto por questão)
 multipla: {"id": "...", "tipo": "multipla", "pergunta": "...", "opcoes": ["...", "...", "...", "..."], "correta": 2, "explicacao": "...", "revisar": false}
 verdadeiro_falso (a "pergunta" é uma afirmativa a julgar): {"id": "...", "tipo": "verdadeiro_falso", "pergunta": "...", "correta": true, "explicacao": "...", "revisar": false}
