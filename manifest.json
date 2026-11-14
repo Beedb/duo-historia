@@ -1,8 +1,8 @@
 {
   "id": "./",
-  "name": "DUOPobre: História",
+  "name": "DUOPobre",
   "short_name": "DUOPobre",
-  "description": "Lições curtas de História com XP, vidas, streak e revisão de erros.",
+  "description": "Lições curtas de História e Matemática com XP, vidas, streak e revisão de erros.",
   "lang": "pt-BR",
   "start_url": "./",
   "scope": "./",

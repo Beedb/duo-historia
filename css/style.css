@@ -519,3 +519,80 @@ h1 {
 .banco:empty {
   display: none;
 }
+
+/* --- Abas de área (História, Matemática) --- */
+
+.abas {
+  display: grid;
+  grid-auto-flow: column;
+  grid-auto-columns: 1fr;
+  border-bottom: 1.5px solid var(--linha);
+}
+
+.abas.escondida {
+  display: none;
+}
+
+.aba {
+  background: transparent;
+  color: var(--tinta-suave);
+  border: none;
+  border-bottom: 3px solid transparent;
+  border-radius: 0;
+  margin-bottom: -1.5px;
+  font-family: var(--serifa);
+  font-weight: 700;
+}
+
+.aba[aria-pressed="true"] {
+  color: var(--primaria);
+  border-bottom-color: var(--primaria);
+}
+
+/* --- Questão "numero": campo para digitar a resposta --- */
+
+.campo-numero-linha {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.campo-numero {
+  flex: 1;
+  min-width: 0;
+  min-height: 52px;
+  padding: 10px 14px;
+  font-family: var(--serifa);
+  font-size: 1.3rem;
+  color: var(--tinta);
+  background: var(--superficie);
+  border: 1.5px solid var(--tinta);
+  border-radius: 6px;
+}
+
+.campo-numero:focus {
+  outline: 2px solid var(--primaria);
+  outline-offset: 2px;
+}
+
+.campo-numero.certa {
+  background: var(--certo-fundo);
+  border-color: var(--certo);
+}
+
+.campo-numero.errada {
+  background: var(--errado-fundo);
+  border-color: var(--errado);
+}
+
+.campo-numero-unidade {
+  font-family: var(--serifa);
+  font-size: 1.1rem;
+  color: var(--tinta-suave);
+}
+
+/* "\n" no JSON vira quebra de linha: deixa mostrar a conta passo a passo */
+.pergunta,
+#feedback-explicacao {
+  white-space: pre-line;
+}

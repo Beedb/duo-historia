@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>DUOPobre</title>
-  <meta name="description" content="Lições curtas de História com XP, vidas, streak e revisão de erros.">
+  <meta name="description" content="Lições curtas de História e Matemática com XP, vidas, streak e revisão de erros.">
   <meta name="theme-color" content="#9b3a22">
   <link rel="manifest" href="manifest.json">
   <link rel="icon" href="icons/icone-192.png" type="image/png">
@@ -24,9 +24,10 @@
       </span>
     </header>
 
-    <!-- Tela 1: trilha (matérias, tempos e níveis) -->
+    <!-- Tela 1: trilha (áreas, matérias, tempos/assuntos e níveis) -->
     <section id="tela-trilha" class="tela">
-      <h1>Linha do tempo</h1>
+      <div class="abas escondida" id="abas-areas" role="group" aria-label="Área de estudo"></div>
+      <h1 id="titulo-trilha">Linha do tempo</h1>
       <p class="aviso" id="aviso-trilha" role="status"></p>
       <button id="botao-instalar" class="botao botao-secundario escondida">Instalar no celular</button>
       <button id="botao-revisao" class="botao botao-secundario" disabled>Revisão</button>
@@ -39,7 +40,7 @@
       <h1 id="inicio-titulo"></h1>
       <p class="resumo" id="inicio-resumo"></p>
       <button id="botao-comecar" class="botao botao-principal" disabled>Começar</button>
-      <button id="botao-voltar-inicio" class="botao botao-secundario">← Voltar à linha do tempo</button>
+      <button id="botao-voltar-inicio" class="botao botao-secundario">← Voltar à trilha</button>
     </section>
 
     <!-- Tela 3: questão -->
@@ -75,7 +76,7 @@
       <p id="nota-texto"></p>
       <p class="resultado-xp" id="resultado-xp"></p>
       <p class="resultado-extra" id="resultado-extra"></p>
-      <button id="botao-voltar" class="botao botao-principal">Voltar à linha do tempo</button>
+      <button id="botao-voltar" class="botao botao-principal">Voltar à trilha</button>
     </section>
 
   </main>
@@ -83,6 +84,7 @@
   <!-- Ordem importa: as funções usadas pelo app.js precisam ser carregadas antes -->
   <script src="js/progresso.js"></script>
   <script src="js/montagem.js"></script>
+  <script src="js/numerica.js"></script>
   <script src="js/licao.js"></script>
   <script src="js/revisao.js"></script>
   <script src="js/trilha.js"></script>

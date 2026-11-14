@@ -1,7 +1,7 @@
 # CLAUDE.md
 
 ## Projeto
-App de estudos estilo Duolingo para **História**. Lições curtas, questões com feedback imediato, XP, vidas, streak e revisão de erros. Conteúdo organizado por **matéria → tempo → dificuldade**. Nome: **DUOPobre** (pasta `DUOPobre/`).
+App de estudos estilo Duolingo para **História** e **Matemática** (Matemática: estrutura pronta, aguardando questões). Lições curtas, questões com feedback imediato, XP, vidas, streak e revisão de erros. Conteúdo organizado por **área → matéria → tempo (ou assunto) → dificuldade**. Nome: **DUOPobre** (pasta `DUOPobre/`).
 
 ## Sobre o usuário
 - Ded, estudante no Brasil.
@@ -33,7 +33,13 @@ Não introduzir framework, bundler ou backend sem pedido explícito do Ded.
 Matéria → Tempo → Dificuldade → Lições → Questões
 ```
 
-### Matérias
+### Áreas
+`data/materias.json` tem `areas` (`historia`, `matematica`), que viram abas no topo da trilha. Cada matéria tem `"area"` (sem o campo, conta como História). A aba escolhida fica em `localStorage` (`areaAtual`).
+
+### Matemática
+Uma matéria `matematica` cujos "tempos" são **assuntos**: operações, frações, razão e proporção, porcentagem, juros, equações, funções, geometria, probabilidade, lógica. Todos com `disponivel: false` até chegarem as questões. Guia completo (pastas, ids `mat-<assunto>-<nivel>-<n>`, níveis, tipo `numero`, checklist): `docs/matematica.md`.
+
+### Matérias de História
 1. **geral:** História Geral
 2. **brasil:** História do Brasil
 3. **america:** História da América (complementar)
@@ -84,6 +90,7 @@ DUOPobre/
 │   ├── progresso.js    # XP, vidas, streak, desbloqueios, localStorage
 │   ├── revisao.js      # erros e repetição espaçada
 │   ├── montagem.js     # questões de montar resposta (ordenar, ligar)
+│   ├── numerica.js     # questão de digitar número (Matemática)
 │   └── trilha.js       # tela de matérias/tempos/níveis e bloqueio
 ├── data/
 │   ├── materias.json   # matérias, tempos (com "disponivel") e níveis
@@ -100,7 +107,8 @@ DUOPobre/
 │       ├── democracia/     facil.json  dificil.json
 │       └── ditadura/       facil.json  dificil.json
 ├── docs/
-│   └── prompts-notebooklm.md   # prompts para gerar questões
+│   ├── prompts-notebooklm.md   # prompts para gerar questões
+│   └── matematica.md           # formato das questões de Matemática
 ├── icons/              # ícones do app (gerados por script; 192, 512, maskable, apple)
 ├── manifest.json       # nome, ícones e cores do app instalado
 ├── .nojekyll           # GitHub Pages serve os arquivos sem processar
@@ -146,10 +154,13 @@ Padrão de `id`: `<materia>-<tempo>-<nivel>-<numero>` (ex.: `bra-col-f-001`; `f`
 - `ordenar`: campo `itens` com 3 a 5 fatos **já na ordem certa** (do mais antigo ao mais recente). Sem `opcoes`/`correta`: o app embaralha. Textos dos itens sem data (a data entrega a resposta); as datas vão na `explicacao`.
 - `ligar`: campo `pares` com 3 a 4 pares `["esquerda", "direita"]` (ex.: `["Tomé de Sousa", "Primeiro governador-geral"]`). Sem `opcoes`/`correta`: o app embaralha o lado direito. Textos da direita não podem se repetir.
 - `fonte`: campos extras `trecho` (até 40 palavras), `autor` e `ano`; depois segue como `multipla` (`pergunta`, `opcoes`, `correta`). Usado principalmente no nível difícil.
+- `numero` (Matemática): o aluno digita a resposta. `resposta` é número no JSON (ponto decimal); opcionais `unidade` (texto ao lado do campo) e `tolerancia`. Aceita vírgula ou ponto ao digitar. Sem `opcoes`/`correta`.
+
+`\n` na `pergunta` ou na `explicacao` vira quebra de linha (conta passo a passo).
 
 Todo tipo precisa de: pergunta, resposta correta e explicação.
 
-**Suporte no app hoje:** todos os 6 tipos. Questões com `"revisar": true` são ignoradas.
+**Suporte no app hoje:** todos os 7 tipos. Questões com `"revisar": true` são ignoradas.
 
 **Tempo novo:** criar os JSONs em `data/<materia>/<tempo>/` e mudar `"disponivel"` para `true` em `data/materias.json`. Se faltar algum nível, listar só os que existem em `"niveis"` (ex.: `["facil", "dificil"]`); o que falta aparece como "em breve" e o difícil abre direto do fácil (80%). Matéria sem divisão por tempo (América, África): arquivos em `data/<materia>/<nivel>.json` e um único tempo com `"id": ""` em `materias.json`.
 
@@ -199,6 +210,7 @@ Trabalhar **uma fase por vez**. Não começar a seguinte sem a atual funcionando
 - Fase 5 pronta: `lacuna`, `ordenar` e `ligar` (além de `verdadeiro_falso` e `fonte`). Exemplos em Colônia fácil (`bra-col-f-036` a `039`) e Antiguidade fácil (`ger-ant-f-011`, `012`).
 - Fase 6 (PWA) em andamento: manifest, service worker, ícones e botão "Instalar" prontos e testados no PC (instalável e offline). Site no ar: https://beedb.github.io/duo-historia/. Falta: testar a instalação num Android de verdade.
 - Fase 7 (APK): primeiro APK de teste gerado em 14/11 (`app-debug.apk`, 4 MB, Android 7+). Falta: instalar e testar num celular de verdade.
+- Matemática (14/11): abas História/Matemática, assuntos cadastrados como "em breve", tipo `numero` testado no navegador. Falta: as questões.
 
 ### APK: como gerar
 - O site continua sendo a fonte. Depois de mudar qualquer arquivo do site: `npm run sync` (copia para `www/` e para o projeto Android).
@@ -293,7 +305,7 @@ Colônia fácil: 3 questões do NotebookLM foram descartadas por repetir assunto
 - Testar no tamanho de celular (DevTools, modo responsivo).
 - Conferir: acerto, erro, fim de vidas, nota final, XP salvo ao recarregar, desbloqueio de nível.
 - Validar JSON novo antes de usar (vírgulas e aspas são o erro mais comum).
-- Para dados: conferir `id` único, 4 `opcoes` em `multipla`, `fonte` e `lacuna`, `correta` entre 0 e 3, `revisar` booleano, `itens` (3 a 5) em `ordenar` e `pares` (3 a 4, sem repetir) em `ligar`.
+- Para dados: conferir `id` único, 4 `opcoes` em `multipla`, `fonte` e `lacuna`, `correta` entre 0 e 3, `revisar` booleano, `itens` (3 a 5) em `ordenar`, `pares` (3 a 4, sem repetir) em `ligar` e `resposta` numérica em `numero`.
 
 ## Fluxo de trabalho com o Claude
 1. Dizer qual fase está em andamento.

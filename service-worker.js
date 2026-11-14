@@ -12,6 +12,7 @@ const ARQUIVOS_BASE = [
   "css/style.css",
   "js/progresso.js",
   "js/montagem.js",
+  "js/numerica.js",
   "js/licao.js",
   "js/revisao.js",
   "js/trilha.js",

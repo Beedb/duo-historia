@@ -2,13 +2,14 @@
 // Uma "sessão" é uma lição normal ou uma revisão:
 // { modo: "licao" | "revisao", id, titulo, questoes }
 
-const TIPOS_SUPORTADOS = ["multipla", "verdadeiro_falso", "fonte", "lacuna", "ordenar", "ligar"];
+const TIPOS_SUPORTADOS = ["multipla", "verdadeiro_falso", "fonte", "lacuna", "ordenar", "ligar", "numero"];
 const ROTULOS_TIPO = {
   verdadeiro_falso: "Verdadeiro ou falso?",
   fonte: "Leia o trecho",
   lacuna: "Complete a lacuna",
   ordenar: "Coloque em ordem",
   ligar: "Ligue os pares",
+  numero: "Calcule e digite a resposta",
 };
 const QUESTOES_POR_LICAO = 10;
 const cacheLicoes = {};
@@ -36,7 +37,7 @@ function criarSessaoLicao(licao, idLicao) {
   return { modo: "licao", id: idLicao, titulo: licao.licao, questoes };
 }
 
-// Tira questões "revisar" e tipos que o app ainda não mostra (ordenar, ligar, lacuna)
+// Tira questões "revisar" e tipos que o app não conhece (evita travar com um tipo digitado errado)
 function prepararQuestoes(licao, origem) {
   return licao.questoes
     .filter((questao) => questao.revisar !== true && TIPOS_SUPORTADOS.includes(questao.tipo))
@@ -50,8 +51,8 @@ function normalizarQuestao(questao, origem, dificuldade) {
   if (questao.tipo === "verdadeiro_falso") {
     return { ...base, opcoes: ["Verdadeiro", "Falso"], correta: questao.correta ? 0 : 1 };
   }
-  // ordenar e ligar não têm "opcoes": quem embaralha é o montagem.js
-  if (ehMontagem(questao)) return base;
+  // ordenar e ligar não têm "opcoes" (quem embaralha é o montagem.js); numero também não
+  if (ehMontagem(questao) || ehNumerica(questao)) return base;
   return embaralharOpcoes(base);
 }
 
@@ -102,9 +103,11 @@ function mostrarQuestao() {
   document.getElementById("pergunta").textContent = questao.pergunta;
   document.getElementById("feedback").classList.add("escondida");
 
-  // Montagem precisa de "Conferir"; as outras respondem no toque da opção
-  document.getElementById("botao-conferir").classList.toggle("escondida", !ehMontagem(questao));
+  // Montagem e numero precisam de "Conferir"; as outras respondem no toque da opção
+  const precisaConferir = ehMontagem(questao) || ehNumerica(questao);
+  document.getElementById("botao-conferir").classList.toggle("escondida", !precisaConferir);
   if (ehMontagem(questao)) iniciarMontagem(questao);
+  else if (ehNumerica(questao)) iniciarNumerica(questao);
   else criarOpcoes(questao.opcoes);
 }
 
@@ -143,11 +146,12 @@ function responderOpcao(indiceEscolhido) {
   finalizarResposta(indiceEscolhido === questao.correta, questao);
 }
 
-// Ordenar e ligar: responde no botão "Conferir"
+// Ordenar, ligar e numero: responde no botão "Conferir"
 function conferirResposta() {
   const questao = sessao.questoes[indiceQuestao];
   document.getElementById("botao-conferir").classList.add("escondida");
-  finalizarResposta(conferirMontagem(), questao);
+  const acertou = ehNumerica(questao) ? conferirNumerica(questao) : conferirMontagem();
+  finalizarResposta(acertou, questao);
 }
 
 function finalizarResposta(acertou, questao) {
@@ -158,8 +162,9 @@ function finalizarResposta(acertou, questao) {
   mostrarFeedback(acertou, mensagem, questao.explicacao, textoResposta(questao, acertou));
 }
 
-// Linha extra no feedback: a frase completa da lacuna, ou a resposta certa da montagem
+// Linha extra no feedback: a frase completa da lacuna, a resposta certa da montagem ou da conta
 function textoResposta(questao, acertou) {
+  if (ehNumerica(questao)) return textoRespostaNumerica(questao);
   if (questao.tipo === "lacuna") return questao.pergunta.replace(/_{2,}/, questao.opcoes[questao.correta]);
   if (ehMontagem(questao) && !acertou) return textoRespostaMontagem(questao);
   return "";

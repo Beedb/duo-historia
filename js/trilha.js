@@ -1,4 +1,4 @@
-// Tela da trilha: matérias, tempos e níveis, com bloqueio sequencial.
+// Tela da trilha: áreas, matérias, tempos (ou assuntos, na Matemática) e níveis, com bloqueio sequencial.
 
 let trilha = null; // conteúdo de data/materias.json
 
@@ -48,6 +48,66 @@ function nivelQueAbre(idLiberado) {
   return montarIdLicao(materiaId, tempoId, PROXIMO_NIVEL[nivel]);
 }
 
+// --- Áreas (História, Matemática) ---
+// Cada matéria tem "area" no materias.json; sem ela, conta como História (conteúdo antigo).
+
+const AREA_PADRAO = "historia";
+const CHAVE_AREA = "areaAtual"; // só lembra a aba escolhida; não é progresso
+let areaAtual = null;
+
+function listarAreas() {
+  return trilha.areas || [{ id: AREA_PADRAO, nome: "História", titulo: "Linha do tempo" }];
+}
+
+function areaDaMateria(materia) {
+  return materia.area || AREA_PADRAO;
+}
+
+function lerAreaSalva() {
+  try {
+    return localStorage.getItem(CHAVE_AREA);
+  } catch (erro) {
+    return null;
+  }
+}
+
+function salvarArea(idArea) {
+  try {
+    localStorage.setItem(CHAVE_AREA, idArea);
+  } catch (erro) {
+    // Sem localStorage o app funciona igual; só não lembra a aba
+  }
+}
+
+// Volta na aba usada da última vez; se ela sumiu do materias.json, abre a primeira
+function areaInicial() {
+  const salva = lerAreaSalva();
+  return listarAreas().some((area) => area.id === salva) ? salva : listarAreas()[0].id;
+}
+
+function trocarArea(idArea) {
+  areaAtual = idArea;
+  salvarArea(idArea);
+  renderizarTrilha();
+}
+
+function renderizarAbas() {
+  const caixa = document.getElementById("abas-areas");
+  const areas = listarAreas();
+  caixa.innerHTML = "";
+  caixa.classList.toggle("escondida", areas.length < 2);
+  areas.forEach((area) => {
+    const botao = document.createElement("button");
+    botao.className = "botao aba";
+    botao.textContent = area.nome;
+    botao.setAttribute("aria-pressed", String(area.id === areaAtual));
+    botao.addEventListener("click", () => trocarArea(area.id));
+    caixa.appendChild(botao);
+  });
+  const atual = areas.find((area) => area.id === areaAtual);
+  document.getElementById("titulo-trilha").textContent = atual.titulo || atual.nome;
+}
+
 // --- Nomes ---
 
 function nivelPorId(nivelId) {
@@ -73,10 +133,14 @@ function mostrarTrilha() {
 }
 
 function renderizarTrilha() {
+  if (!areaAtual) areaAtual = areaInicial();
   atualizarBotaoRevisao();
+  renderizarAbas();
   const caixa = document.getElementById("lista-materias");
   caixa.innerHTML = "";
-  trilha.materias.forEach((materia) => caixa.appendChild(criarMateria(materia)));
+  trilha.materias
+    .filter((materia) => areaDaMateria(materia) === areaAtual)
+    .forEach((materia) => caixa.appendChild(criarMateria(materia)));
 }
 
 function criarMateria(materia) {

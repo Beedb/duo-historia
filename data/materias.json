@@ -1,4 +1,16 @@
 {
+  "areas": [
+    {
+      "id": "historia",
+      "nome": "História",
+      "titulo": "Linha do tempo"
+    },
+    {
+      "id": "matematica",
+      "nome": "Matemática",
+      "titulo": "Trilha de Matemática"
+    }
+  ],
   "niveis": [
     {
       "id": "facil",
@@ -17,6 +29,7 @@
     {
       "id": "geral",
       "nome": "História Geral",
+      "area": "historia",
       "tempos": [
         {
           "id": "pre-historia",
@@ -48,6 +61,7 @@
     {
       "id": "brasil",
       "nome": "História do Brasil",
+      "area": "historia",
       "tempos": [
         {
           "id": "colonia",
@@ -93,6 +107,7 @@
     {
       "id": "america",
       "nome": "História da América",
+      "area": "historia",
       "tempos": [
         {
           "id": "",
@@ -104,7 +119,65 @@
     {
       "id": "africa",
       "nome": "História da África",
+      "area": "historia",
       "tempos": []
+    },
+    {
+      "id": "matematica",
+      "nome": "Matemática",
+      "area": "matematica",
+      "tempos": [
+        {
+          "id": "operacoes",
+          "nome": "Operações e números",
+          "disponivel": false
+        },
+        {
+          "id": "fracoes",
+          "nome": "Frações e decimais",
+          "disponivel": false
+        },
+        {
+          "id": "razao-proporcao",
+          "nome": "Razão e proporção",
+          "disponivel": false
+        },
+        {
+          "id": "porcentagem",
+          "nome": "Porcentagem",
+          "disponivel": false
+        },
+        {
+          "id": "juros",
+          "nome": "Juros simples e compostos",
+          "disponivel": false
+        },
+        {
+          "id": "equacoes",
+          "nome": "Equações e sistemas",
+          "disponivel": false
+        },
+        {
+          "id": "funcoes",
+          "nome": "Funções",
+          "disponivel": false
+        },
+        {
+          "id": "geometria",
+          "nome": "Geometria plana",
+          "disponivel": false
+        },
+        {
+          "id": "probabilidade",
+          "nome": "Probabilidade e estatística",
+          "disponivel": false
+        },
+        {
+          "id": "logica",
+          "nome": "Raciocínio lógico",
+          "disponivel": false
+        }
+      ]
     }
   ]
 }
