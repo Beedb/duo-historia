@@ -241,6 +241,62 @@
       "correta": 0,
       "explicacao": "O nazismo é o regime autoritário europeu do século XX diretamente associado aos crimes da Segunda Guerra Mundial, tema central nas pesquisas sobre direitos humanos e memória histórica contemporânea.",
       "revisar": false
+    },
+    {
+      "id": "ger-con-f-018",
+      "tipo": "multipla",
+      "pergunta": "A qual grupo político da Revolução Francesa pertencia Maximilien de Robespierre, um dos principais líderes do período revolucionário?",
+      "opcoes": [
+        "Girondinos",
+        "Monarquistas absolutistas",
+        "Jacobinos",
+        "Bonapartistas"
+      ],
+      "correta": 2,
+      "explicacao": "Maximilien de Robespierre foi um dos principais líderes do governo jacobino durante a Revolução Francesa. Os girondinos formavam o grupo político rival dentro da Convenção Nacional.",
+      "revisar": false
+    },
+    {
+      "id": "ger-con-f-019",
+      "tipo": "lacuna",
+      "pergunta": "Em ____, o Brasil passou a participar da Primeira Guerra Mundial ao lado dos países Aliados.",
+      "opcoes": [
+        "1914",
+        "1917",
+        "1930",
+        "1939"
+      ],
+      "correta": 1,
+      "explicacao": "O Brasil entrou na Primeira Guerra Mundial em 1917, durante a República Velha, com atuação militar reduzida junto aos Aliados. O ano de 1914 marca o início do conflito na Europa.",
+      "revisar": false
+    },
+    {
+      "id": "ger-con-f-020",
+      "tipo": "multipla",
+      "pergunta": "Qual força militar brasileira foi enviada à Europa no governo Vargas para combater na Segunda Guerra Mundial?",
+      "opcoes": [
+        "Guarda Nacional",
+        "Coluna Prestes",
+        "Exército Constitucionalista",
+        "Força Expedicionária Brasileira"
+      ],
+      "correta": 3,
+      "explicacao": "A Força Expedicionária Brasileira foi organizada após o Brasil declarar guerra ao Eixo e combateu na Europa nos estágios finais da Segunda Guerra Mundial. A Coluna Prestes atuou no interior do Brasil na década de 1920.",
+      "revisar": false
+    },
+    {
+      "id": "ger-con-f-021",
+      "tipo": "multipla",
+      "pergunta": "Na Segunda Guerra Mundial, o governo de Getúlio Vargas alinhou-se aos Estados Unidos e declarou guerra a qual bloco?",
+      "opcoes": [
+        "Eixo",
+        "Tríplice Entente",
+        "Santa Aliança",
+        "Pacto de Varsóvia"
+      ],
+      "correta": 0,
+      "explicacao": "Após hesitação inicial, Getúlio Vargas alinhou o Brasil aos Estados Unidos e declarou guerra ao Eixo na Segunda Guerra Mundial. A Tríplice Entente foi uma aliança da Primeira Guerra Mundial.",
+      "revisar": false
     }
   ]
 }

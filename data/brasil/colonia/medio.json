@@ -209,6 +209,205 @@
       "correta": true,
       "explicacao": "A afirmativa é verdadeira, pois a Coroa portuguesa recorreu inicialmente aos recursos dos capitães donatários e, diante das dificuldades enfrentadas por várias capitanias, instituiu o Governo-Geral para coordenar a defesa e a colonização.",
       "revisar": false
+    },
+    {
+      "id": "bra-col-m-017",
+      "tipo": "multipla",
+      "pergunta": "Além do fracasso das capitanias, que fator externo levou D. João III a criar o Governo-Geral no Brasil?",
+      "opcoes": [
+        "A descoberta de prata pelos espanhóis em Potosí e os sinais de crise no comércio das Índias.",
+        "A invasão holandesa em Pernambuco e a perda dos portos portugueses na costa da África.",
+        "A assinatura do Tratado de Madri e a expulsão dos padres jesuítas das missões do Sul.",
+        "A transferência da corte portuguesa para Salvador e a abertura dos portos às nações amigas."
+      ],
+      "correta": 0,
+      "explicacao": "A descoberta da mina de prata de Potosí em 1545 e os primeiros sinais de crise nos negócios da Índia levaram D. João III a centralizar a administração colonial. As invasões holandesas ocorreram apenas no século seguinte.",
+      "revisar": false
+    },
+    {
+      "id": "bra-col-m-018",
+      "tipo": "multipla",
+      "pergunta": "Por que a ação dos primeiros governadores-gerais enfrentava limites práticos fora da Bahia no século XVI?",
+      "opcoes": [
+        "As câmaras municipais proibiam a entrada de funcionários nomeados pelo rei nas vilas.",
+        "Os capitães-donatários mantinham exércitos regulares capazes de derrotar as tropas reais.",
+        "A comunicação marítima entre as capitanias era precária, dificultando o contato com Salvador.",
+        "O Conselho Ultramarino determinava que cada capitania negociasse diretamente com a Espanha."
+      ],
+      "correta": 2,
+      "explicacao": "Os ventos e a escassez de navios na costa tornavam mais rápido receber notícias de Lisboa do que de outras capitanias, isolando os núcleos coloniais. As câmaras municipais tinham autonomia local, mas não proibiam enviados régios.",
+      "revisar": false
+    },
+    {
+      "id": "bra-col-m-019",
+      "tipo": "verdadeiro_falso",
+      "pergunta": "A ocupação holandesa de portos africanos a partir de 1637 intensificou o apresamento de indígenas pelos bandeirantes paulistas.",
+      "correta": true,
+      "explicacao": "Com o controle holandês sobre os principais portos fornecedores de africanos e sobre Pernambuco, faltou mão de obra nas lavouras e cresceu a caça aos indígenas. O tráfico africano só se normalizou após a expulsão dos holandeses.",
+      "revisar": true
+    },
+    {
+      "id": "bra-col-m-020",
+      "tipo": "multipla",
+      "pergunta": "Por que os bandeirantes atacavam com frequência as missões jesuíticas do sul e oeste da colônia?",
+      "opcoes": [
+        "As reduções jesuíticas guardavam as maiores jazidas de ouro e diamantes da América portuguesa.",
+        "Os indígenas aldeados tinham maior valor de venda por já estarem adaptados ao trabalho agrícola.",
+        "Os padres jesuítas financiavam as expedições paulistas para transferir indígenas para o litoral.",
+        "A Coroa portuguesa recompensava com títulos de nobreza quem destruísse igrejas espanholas."
+      ],
+      "correta": 1,
+      "explicacao": "Os indígenas reduzidos nas missões conheciam técnicas agrícolas e hábitos disciplinados, alcançando preços mais altos nos mercados de mão de obra. Os jesuítas opunham-se aos ataques bandeirantes, e o ouro foi encontrado posteriormente em Minas Gerais.",
+      "revisar": false
+    },
+    {
+      "id": "bra-col-m-021",
+      "tipo": "ordenar",
+      "pergunta": "Coloque em ordem cronológica, do mais antigo ao mais recente.",
+      "itens": [
+        "Criação do Governo-Geral por meio de regimento da Coroa portuguesa",
+        "Ataque da bandeira de Manuel Preto e Raposo Tavares às missões do Guaíra",
+        "Instituição do Conselho Ultramarino por D. João IV para centralizar a administração",
+        "Destruição do Quilombo dos Palmares comandada por Domingos Jorge Velho"
+      ],
+      "explicacao": "O Regimento do Governo-Geral é de 1548. O ataque bandeirante ao Guaíra ocorreu em 1628–1629. O Conselho Ultramarino foi criado em 1642. A capital de Palmares, Macaco, caiu em 1694, e Zumbi foi morto em 1695.",
+      "revisar": false
+    },
+    {
+      "id": "bra-col-m-022",
+      "tipo": "multipla",
+      "pergunta": "Por que os lavradores do planalto paulista recorreram sobretudo ao trabalho indígena nos séculos XVI e XVII?",
+      "opcoes": [
+        "As leis coloniais proibiam a entrada de navios negreiros nos portos da capitania de São Vicente.",
+        "A população nativa do planalto aceitava trabalhar voluntariamente nas lavouras de trigo em troca de sal.",
+        "Os engenhos de açúcar paulistas exportavam mais para a Europa do que os engenhos de Pernambuco.",
+        "A dificuldade de transportar produtos pela serra limitava os lucros e impedia comprar escravos africanos."
+      ],
+      "correta": 3,
+      "explicacao": "O transporte difícil pelas escarpas da serra encarecia a exportação agrícola e reduzia os recursos dos paulistas, que não podiam custear escravos africanos. A falta de capital, e não uma proibição legal, levou à captura de indígenas.",
+      "revisar": false
+    },
+    {
+      "id": "bra-col-m-023",
+      "tipo": "multipla",
+      "pergunta": "Qual foi a consequência administrativa da descoberta de ouro e diamantes em Minas Gerais no século XVIII?",
+      "opcoes": [
+        "A Coroa ampliou a fiscalização tributária e impôs rigoroso controle estatal, sobretudo no Distrito Diamantino.",
+        "O governo português entregou a cobrança de impostos das minas às câmaras municipais autônomas.",
+        "A metrópole suspendeu o envio de funcionários régios para estimular a livre circulação de ouro.",
+        "Os capitães-donatários retomaram o domínio hereditário sobre todas as vilas da região mineradora."
+      ],
+      "correta": 0,
+      "explicacao": "Para conter o contrabando e assegurar a arrecadação dos tributos, a Coroa intensificou sua presença administrativa, chegando ao controle extremo no Distrito Diamantino. Ao contrário de conceder autonomia, Portugal reduziu o poder das instâncias locais.",
+      "revisar": false
+    },
+    {
+      "id": "bra-col-m-024",
+      "tipo": "verdadeiro_falso",
+      "pergunta": "A circulação de ouro na sociedade mineradora permitiu que alguns escravizados acumulassem recursos para comprar suas cartas de alforria.",
+      "correta": true,
+      "explicacao": "A economia urbana e a circulação de ouro na região das minas abriram brechas para que parte dos escravizados obtivesse rendimentos próprios e comprasse a alforria. Ainda assim, a sociedade mineradora manteve-se profundamente escravista e desigual.",
+      "revisar": false
+    },
+    {
+      "id": "bra-col-m-025",
+      "tipo": "ligar",
+      "pergunta": "Ligue cada região colonial à atividade econômica que marcou sua ocupação.",
+      "pares": [
+        [
+          "Amazônia",
+          "Coleta de drogas do sertão com mão de obra indígena"
+        ],
+        [
+          "Sertão nordestino",
+          "Pecuária extensiva com pagamento de vaqueiros em crias"
+        ],
+        [
+          "Minas Gerais",
+          "Extração de ouro e diamantes sob forte controle fiscal"
+        ],
+        [
+          "Planalto paulista",
+          "Organização de bandeiras para captura de indígenas e prospecção"
+        ]
+      ],
+      "explicacao": "A ocupação do interior envolveu atividades distintas: a coleta florestal na Amazônia, a pecuária no sertão nordestino, a mineração em Minas Gerais e as bandeiras partidas de São Paulo.",
+      "revisar": false
+    },
+    {
+      "id": "bra-col-m-026",
+      "tipo": "multipla",
+      "pergunta": "Por que a pecuária no sertão nordestino oferecia maior mobilidade social do que a economia açucareira?",
+      "opcoes": [
+        "Contava com isenção total de impostos régios e exportava charque diretamente para a Inglaterra.",
+        "Exigia menos capital inicial e remunerava o vaqueiro com parte das crias do rebanho.",
+        "Empregava exclusivamente trabalhadores assalariados europeus recrutados pelas companhias de comércio.",
+        "Recebia subsídios diretos dos senhores de engenho para substituir o cultivo da cana-de-açúcar."
+      ],
+      "correta": 1,
+      "explicacao": "Ao contrário dos engenhos açucareiros, que demandavam altos investimentos, a criação de gado atraiu colonos de poucos recursos e pagava o vaqueiro com uma cria a cada quatro animais após cinco anos. A pecuária nasceu como atividade complementar ao açúcar, não para substituí-lo.",
+      "revisar": false
+    },
+    {
+      "id": "bra-col-m-027",
+      "tipo": "multipla",
+      "pergunta": "Por que a Coroa portuguesa separou o Estado do Maranhão do restante do Brasil em 1621?",
+      "opcoes": [
+        "Para permitir que os padres jesuítas governassem as aldeias indígenas sem interferência de colonos.",
+        "Porque os ventos e as correntes marítimas dificultavam a navegação entre o extremo norte e a Bahia.",
+        "Para entregar a exploração das jazidas de prata amazônicas aos capitães-donatários.",
+        "Porque o Tratado de Tordesilhas proibia o governo de Salvador de administrar terras ao norte do Ceará."
+      ],
+      "correta": 1,
+      "explicacao": "As correntes oceânicas e os ventos contrários atrasavam as viagens entre o extremo norte e o restante da colônia, tornando mais rápida a comunicação direta com Lisboa. Os jesuítas enfrentavam forte resistência dos colonos locais e não receberam o governo do território.",
+      "revisar": false
+    },
+    {
+      "id": "bra-col-m-028",
+      "tipo": "multipla",
+      "pergunta": "Por que a extração das drogas do sertão na Amazônia empregou sobretudo mão de obra indígena, diferentemente dos engenhos?",
+      "opcoes": [
+        "Porque os indígenas conheciam os recursos da floresta e se adaptaram melhor à coleta do que à lavoura.",
+        "Porque as leis metropolitanas proibiam o desembarque de africanos escravizados nos portos de Belém e São Luís.",
+        "Porque os jesuítas pagavam salários em moedas de ouro aos nativos que colhiam cacau e baunilha.",
+        "Porque a Coroa espanhola reservava os trabalhadores africanos para as minas de prata do Peru."
+      ],
+      "correta": 0,
+      "explicacao": "Na Amazônia, o domínio indígena sobre o ambiente florestal facilitou a coleta de cacau e especiarias nativas, dispensando grandes investimentos em cativos africanos. Além disso, a região sofria com a escassez de moedas, recorrendo muitas vezes a trocas diretas.",
+      "revisar": false
+    },
+    {
+      "id": "bra-col-m-029",
+      "tipo": "verdadeiro_falso",
+      "pergunta": "A transferência da capital colonial de Salvador para o Rio de Janeiro, em 1763, relacionou-se ao avanço da mineração no Centro-Sul.",
+      "correta": true,
+      "explicacao": "Com a expansão aurífera, o eixo econômico deslocou-se para o Centro-Sul e o porto do Rio de Janeiro tornou-se a principal saída do ouro e ponto de fiscalização metropolitana. Salvador perdera sua antiga primazia diante da nova dinâmica mineradora.",
+      "revisar": false
+    },
+    {
+      "id": "bra-col-m-030",
+      "tipo": "ligar",
+      "pergunta": "Ligue cada cargo da administração colonial à sua principal função no século XVI.",
+      "pares": [
+        [
+          "Provedor-mor",
+          "Cuidar das finanças e da arrecadação da Fazenda real"
+        ],
+        [
+          "Ouvidor-mor",
+          "Chefiar a aplicação da justiça na colônia"
+        ],
+        [
+          "Capitão-mor da costa",
+          "Patrulhar o litoral e combater corsários estrangeiros"
+        ],
+        [
+          "Capitão-donatário",
+          "Administrar e povoar uma capitania hereditária com recursos próprios"
+        ]
+      ],
+      "explicacao": "Para estruturar o Governo-Geral a partir de 1549, a Coroa dividiu tarefas entre provedor-mor (finanças), ouvidor-mor (justiça) e capitão-mor da costa (defesa), subordinando gradualmente os antigos capitães-donatários.",
+      "revisar": false
     }
   ]
 }
