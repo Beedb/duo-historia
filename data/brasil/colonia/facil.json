@@ -1,0 +1,81 @@
+{
+  "materia": "brasil",
+  "tempo": "colonia",
+  "dificuldade": "facil",
+  "licao": "Os primeiros tempos da colônia",
+  "resumo": "Em 1500, os portugueses chegaram ao Brasil. Primeiro exploraram o pau-brasil. Depois, para ocupar o território, criaram as capitanias hereditárias e montaram a produção de açúcar.",
+  "questoes": [
+    {
+      "id": "bra-col-f-001",
+      "tipo": "multipla",
+      "pergunta": "Em que ano a esquadra de Pedro Álvares Cabral chegou ao território que hoje é o Brasil?",
+      "opcoes": ["1492", "1500", "1530", "1549"],
+      "correta": 1,
+      "explicacao": "Cabral chegou em abril de 1500. 1492 é a chegada de Colombo à América. 1530 é a expedição de Martim Afonso de Sousa. 1549 é a instalação do Governo-Geral.",
+      "revisar": false
+    },
+    {
+      "id": "bra-col-f-002",
+      "tipo": "multipla",
+      "pergunta": "Qual documento relatou ao rei de Portugal a chegada da esquadra de Cabral e o primeiro contato com os indígenas?",
+      "opcoes": ["Tratado de Tordesilhas", "Carta de Pero Vaz de Caminha", "Bula Inter Coetera", "Regimento de Tomé de Sousa"],
+      "correta": 1,
+      "explicacao": "Pero Vaz de Caminha, escrivão da frota, escreveu a carta ao rei D. Manuel I em 1500. Tordesilhas (1494) e a bula Inter Coetera (1493) dividiam terras entre Portugal e Espanha. O Regimento de Tomé de Sousa é de 1548.",
+      "revisar": false
+    },
+    {
+      "id": "bra-col-f-003",
+      "tipo": "multipla",
+      "pergunta": "Qual foi a primeira atividade econômica explorada pelos portugueses no Brasil?",
+      "opcoes": ["Mineração de ouro", "Cultivo de café", "Extração de pau-brasil", "Criação de gado"],
+      "correta": 2,
+      "explicacao": "Nas primeiras décadas, os portugueses extraíram o pau-brasil, usado para produzir corante vermelho para tecidos. O ouro e o café vieram muito depois (séculos XVIII e XIX). O gado se expandiu junto com a produção de açúcar.",
+      "revisar": false
+    },
+    {
+      "id": "bra-col-f-004",
+      "tipo": "multipla",
+      "pergunta": "Como os portugueses conseguiam o trabalho indígena na extração do pau-brasil?",
+      "opcoes": ["Pelo escambo", "Pelo pagamento de salário", "Pelo sistema de parceria", "Pela cobrança de impostos"],
+      "correta": 0,
+      "explicacao": "No escambo, os indígenas cortavam e carregavam a madeira em troca de objetos como facas, machados e tecidos. Não havia salário em dinheiro nem parceria ou impostos sobre os indígenas nesse momento.",
+      "revisar": false
+    },
+    {
+      "id": "bra-col-f-005",
+      "tipo": "multipla",
+      "pergunta": "Qual foi a primeira vila fundada pelos portugueses no Brasil, em 1532?",
+      "opcoes": ["Salvador", "Rio de Janeiro", "São Vicente", "Olinda"],
+      "correta": 2,
+      "explicacao": "Martim Afonso de Sousa fundou São Vicente em 1532. Salvador foi fundada em 1549, Rio de Janeiro em 1565. Olinda surgiu depois, na capitania de Pernambuco.",
+      "revisar": false
+    },
+    {
+      "id": "bra-col-f-006",
+      "tipo": "multipla",
+      "pergunta": "Qual rei de Portugal dividiu o Brasil em capitanias hereditárias, a partir de 1534?",
+      "opcoes": ["D. Manuel I", "D. João III", "D. Sebastião", "D. João VI"],
+      "correta": 1,
+      "explicacao": "D. João III criou as capitanias para ocupar e defender o território sem gastar muito da Coroa. D. Manuel I reinava em 1500. D. Sebastião veio depois. D. João VI só chegou ao Brasil em 1808.",
+      "revisar": false
+    },
+    {
+      "id": "bra-col-f-007",
+      "tipo": "multipla",
+      "pergunta": "Quais capitanias hereditárias prosperaram, principalmente graças ao açúcar?",
+      "opcoes": ["Bahia e Maranhão", "Pernambuco e São Vicente", "Ceará e Espírito Santo", "Itamaracá e Porto Seguro"],
+      "correta": 1,
+      "explicacao": "Pernambuco e São Vicente foram as que deram certo, com engenhos de açúcar. A maioria das capitanias fracassou por falta de recursos, distância de Portugal e conflitos com indígenas.",
+      "revisar": false
+    },
+    {
+      "id": "bra-col-f-008",
+      "tipo": "multipla",
+      "pergunta": "Na produção de açúcar do Brasil colonial, qual era a principal mão de obra nos engenhos?",
+      "opcoes": ["Imigrantes europeus assalariados", "Pessoas africanas escravizadas", "Colonos portugueses livres", "Trabalhadores asiáticos contratados"],
+      "correta": 1,
+      "explicacao": "Os engenhos dependiam principalmente do trabalho de pessoas africanas escravizadas, trazidas pelo tráfico atlântico. Indígenas também foram escravizados, sobretudo no início. Imigrantes assalariados só chegaram em grande número no século XIX.",
+      "revisar": false
+    }
+  ]
+}

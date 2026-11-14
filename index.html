@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Duo História</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <main class="app">
+
+    <!-- Tela 1: início da lição -->
+    <section id="tela-inicio" class="tela">
+      <p class="materia" id="inicio-materia"></p>
+      <h1 id="inicio-titulo">Carregando...</h1>
+      <p class="resumo" id="inicio-resumo"></p>
+      <button id="botao-comecar" class="botao botao-principal" disabled>Começar</button>
+    </section>
+
+    <!-- Tela 2: questão -->
+    <section id="tela-questao" class="tela escondida">
+      <div class="barra"><div class="barra-preenchida" id="barra-progresso"></div></div>
+      <p class="contador" id="contador"></p>
+      <h2 class="pergunta" id="pergunta"></h2>
+      <div class="opcoes" id="opcoes"></div>
+
+      <div class="feedback escondida" id="feedback">
+        <p class="feedback-titulo" id="feedback-titulo"></p>
+        <p id="feedback-explicacao"></p>
+        <button id="botao-continuar" class="botao botao-principal">Continuar</button>
+      </div>
+    </section>
+
+    <!-- Tela 3: resultado -->
+    <section id="tela-resultado" class="tela escondida">
+      <h1>Lição concluída!</h1>
+      <p class="nota" id="nota"></p>
+      <p id="nota-texto"></p>
+      <button id="botao-refazer" class="botao botao-principal">Refazer lição</button>
+    </section>
+
+  </main>
+
+  <script src="js/licao.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>
