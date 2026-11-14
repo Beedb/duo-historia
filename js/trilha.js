@@ -51,18 +51,18 @@ function nivelQueAbre(idLiberado) {
 // --- Nomes ---
 
 function nivelPorId(nivelId) {
-  return trilha.niveis.find((n) => n.id === nivelId) || { nome: nivelId, icone: "" };
+  return trilha.niveis.find((n) => n.id === nivelId) || { nome: nivelId };
 }
 
-// Ex.: "brasil/colonia/medio" → "Colônia (1500–1822) · 🟡 Médio"
-// Sem tempo ("america/facil") → "História da América · 🟢 Fácil"
+// Ex.: "brasil/colonia/medio" → "Colônia (1500–1822) · Médio"
+// Sem tempo ("america/facil") → "História da América · Fácil"
 function descreverLicao(idLicao) {
   const { materia: materiaId, tempo: tempoId, nivel: nivelId } = separarIdLicao(idLicao);
   const materia = trilha.materias.find((m) => m.id === materiaId);
   const tempo = materia && materia.tempos.find((t) => t.id === tempoId);
   const nome = tempoId && tempo ? tempo.nome : (materia ? materia.nome : materiaId);
   const nivel = nivelPorId(nivelId);
-  return `${nome} · ${nivel.icone} ${nivel.nome}`;
+  return `${nome} · ${nivel.nome}`;
 }
 
 // --- Tela ---
@@ -107,6 +107,8 @@ function criarAvisoEmBreve(materia) {
 function criarTempo(materia, indice) {
   const cartao = document.createElement("div");
   cartao.className = "tempo-cartao";
+  const idFacil = montarIdLicao(materia.id, materia.tempos[indice].id, "facil");
+  cartao.classList.toggle("tempo-concluido", licaoConcluida(idFacil));
 
   const titulo = document.createElement("h3");
   titulo.textContent = materia.tempos[indice].nome;
@@ -135,7 +137,8 @@ function criarBotaoNivel(materia, indice, nivel) {
   const concluida = licaoConcluida(idLicao);
 
   botao.disabled = !liberado;
-  botao.textContent = `${liberado ? nivel.icone : "🔒"} ${nivel.nome}${concluida ? " ✓" : ""}`;
+  botao.classList.toggle("concluida", concluida);
+  botao.textContent = `${nivel.nome}${concluida ? " ✓" : ""}`;
   botao.setAttribute("aria-label", `${nivel.nome}${liberado ? "" : ", bloqueado"}${concluida ? ", concluído" : ""}`);
   botao.addEventListener("click", () => abrirLicao(idLicao));
   return botao;

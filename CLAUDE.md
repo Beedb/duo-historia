@@ -216,6 +216,12 @@ Trabalhar **uma fase por vez**. Não começar a seguinte sem a atual funcionando
 - Estratégia "rede primeiro": com internet, o app sempre pega a versão nova. Não precisa mudar `VERSAO_CACHE` a cada atualização; mudar só para forçar a limpeza do cache antigo.
 - Testar offline: DevTools → Application → Service Workers → marcar "Offline" e recarregar.
 
+## Identidade visual
+- Caderno de História: papel creme (`--papel`), tinta marrom (`--tinta`), destaque terracota (`--primaria`). Cores em variáveis no topo do `style.css`.
+- Títulos, perguntas e notas com serifa; texto corrido sem serifa.
+- Sem emoji na interface. Ícones do app: templo grego creme sobre terracota.
+- Alternativas com letras A–D (como prova). Trilha como linha do tempo.
+
 ## Convenções de código
 - Nomes de variáveis e funções em português, `camelCase` (`mostrarQuestao`, `calcularXp`).
 - Um arquivo JS por responsabilidade.

@@ -85,7 +85,7 @@ function atualizarBotaoRevisao() {
   const botao = document.getElementById("botao-revisao");
   const quantidade = errosParaHoje().length;
   botao.disabled = quantidade === 0;
-  botao.textContent = quantidade === 0 ? "🔁 Revisão: nada para hoje" : `🔁 Revisar erros (${quantidade})`;
+  botao.textContent = quantidade === 0 ? "Nenhum erro para revisar hoje" : `Revisar erros (${quantidade})`;
 }
 
 async function iniciarRevisao() {

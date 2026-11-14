@@ -73,7 +73,10 @@ async function apagarCachesAntigos() {
 async function redePrimeiro(pedido) {
   const cache = await caches.open(VERSAO_CACHE);
   try {
-    const resposta = await fetch(pedido);
+    // "no-cache" = sempre confere com o servidor. Sem isso o navegador podia entregar
+    // uma cópia velha do próprio cache HTTP e a atualização demorava a aparecer.
+    // Um Request novo (só com a URL) porque o de navegação não aceita opções extras.
+    const resposta = await fetch(new Request(pedido.url, { cache: "no-cache", credentials: "same-origin" }));
     if (resposta.ok) cache.put(pedido, resposta.clone());
     return resposta;
   } catch (erro) {

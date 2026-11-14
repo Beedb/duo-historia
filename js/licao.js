@@ -117,9 +117,11 @@ function mostrarTrecho(questao) {
   document.getElementById("trecho-autor").textContent = `${questao.autor}, ${questao.ano}`;
 }
 
+// Letras A, B, C, D só fazem sentido com mais de 2 opções (não em verdadeiro ou falso)
 function criarOpcoes(opcoes) {
   const caixa = document.getElementById("opcoes");
   caixa.innerHTML = "";
+  caixa.classList.toggle("com-letras", opcoes.length > 2);
   opcoes.forEach((texto, indice) => {
     const botao = document.createElement("button");
     botao.className = "botao opcao";
@@ -168,16 +170,16 @@ function registrarAcerto(questao) {
   const ganho = ganharXp(questao.dificuldade);
   xpGanho += ganho;
   if (sessao.modo === "revisao") avancarRevisao(questao.id);
-  return `Correto! +${ganho} XP`;
+  return `Certo. +${ganho} XP`;
 }
 
 function registrarErro(questao) {
   guardarErro(questao.id, questao.origem);
-  if (sessao.modo === "revisao") return "Errou. Ela volta amanhã na revisão.";
+  if (sessao.modo === "revisao") return "Errado. Ela volta amanhã na revisão.";
 
   const restantes = perderVida();
-  if (restantes === 0) return "Errou. Acabaram as vidas.";
-  return `Errou. −1 vida (restam ${restantes}).`;
+  if (restantes === 0) return "Errado. Acabaram as vidas.";
+  return `Errado. Você perdeu 1 vida (restam ${restantes}).`;
 }
 
 // Trava as opções para impedir trocar a resposta depois de ver o gabarito
@@ -237,11 +239,11 @@ function tituloResultado(concluiu) {
 function finalizarSessao(porcentagem) {
   if (sessao.modo === "revisao") {
     restaurarVidas();
-    return "Vidas recarregadas! ❤️";
+    return "Suas 5 vidas foram recarregadas.";
   }
 
   const liberado = registrarConclusao(sessao.id, porcentagem);
-  if (liberado) return `🎉 Liberado: ${descreverLicao(nivelQueAbre(liberado))}`;
+  if (liberado) return `Nível liberado: ${descreverLicao(nivelQueAbre(liberado))}.`;
 
   const { nivel } = separarIdLicao(sessao.id);
   const temProximo = Boolean(PROXIMO_NIVEL[nivel]);

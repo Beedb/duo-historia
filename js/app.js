@@ -14,17 +14,17 @@ function mostrarTela(idTela) {
 
 // --- Painel (streak, XP, vidas) ---
 
-// aria-label deixa o leitor de tela dizer "3 vidas" em vez de "coração 3"
-function preencherItemPainel(id, icone, valor, descricao) {
-  const item = document.getElementById(id);
-  item.textContent = `${icone} ${valor}`;
-  item.setAttribute("aria-label", `${valor} ${descricao}`);
+// "1 vida", "2 vidas": singular e plural certos deixam o texto natural
+function contar(numero, singular, plural) {
+  return `${numero} ${numero === 1 ? singular : plural}`;
 }
 
 function atualizarPainel() {
-  preencherItemPainel("painel-streak", "🔥", lerStreak(), "dias seguidos");
-  preencherItemPainel("painel-xp", "⭐", lerXp(), "XP");
-  preencherItemPainel("painel-vidas", "❤️", lerVidas(), "vidas");
+  const streak = document.getElementById("painel-streak");
+  streak.textContent = contar(lerStreak(), "dia", "dias");
+  streak.setAttribute("aria-label", `${contar(lerStreak(), "dia seguido", "dias seguidos")} de estudo`);
+  document.getElementById("painel-xp").textContent = `${lerXp()} XP`;
+  document.getElementById("painel-vidas").textContent = contar(lerVidas(), "vida", "vidas");
 }
 
 // --- Tela de início da lição ---

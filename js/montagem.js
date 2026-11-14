@@ -38,6 +38,7 @@ function embaralharDiferente(lista) {
 function desenharMontagem() {
   const caixa = document.getElementById("opcoes");
   caixa.innerHTML = "";
+  caixa.classList.remove("com-letras"); // letras A-D são da múltipla escolha
   caixa.appendChild(criarVagas());
   caixa.appendChild(criarBanco());
   document.getElementById("botao-conferir").disabled = montagem.vagas.includes(null);
