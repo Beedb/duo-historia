@@ -101,6 +101,327 @@
       "correta": 2,
       "explicacao": "O Brasil participou da Segunda Guerra Mundial (1939–1945) durante o Estado Novo, em um contexto de maior urbanização e industrialização comparado à Primeira Guerra Mundial (1914–1918).",
       "revisar": false
+    },
+    {
+      "id": "bra-var-f-008",
+      "tipo": "multipla",
+      "pergunta": "Quem venceu a eleição presidencial de março de 1930, mas não chegou a tomar posse?",
+      "opcoes": [
+        "Júlio Prestes",
+        "Getúlio Vargas",
+        "Washington Luís",
+        "Luís Carlos Prestes"
+      ],
+      "correta": 0,
+      "explicacao": "Júlio Prestes, candidato do governo, venceu a eleição, mas a Revolução de 1930 impediu sua posse. Washington Luís era o presidente deposto; Luís Carlos Prestes era o líder tenentista, sem parentesco com Júlio.",
+      "revisar": false
+    },
+    {
+      "id": "bra-var-f-009",
+      "tipo": "multipla",
+      "pergunta": "Qual coligação lançou Getúlio Vargas como candidato à presidência em 1930?",
+      "opcoes": [
+        "Aliança Liberal",
+        "Ação Integralista Brasileira",
+        "Aliança Nacional Libertadora",
+        "União Democrática Nacional"
+      ],
+      "correta": 0,
+      "explicacao": "A Aliança Liberal reuniu Minas Gerais, Rio Grande do Sul e Paraíba. A AIB e a ANL surgiram depois de 1930; a UDN, em 1945.",
+      "revisar": false
+    },
+    {
+      "id": "bra-var-f-010",
+      "tipo": "multipla",
+      "pergunta": "Qual político paraibano, candidato a vice na chapa de Vargas, foi assassinado em julho de 1930, no Recife?",
+      "opcoes": [
+        "João Pessoa",
+        "Oswaldo Aranha",
+        "Juarez Távora",
+        "Antônio Carlos de Andrada"
+      ],
+      "correta": 0,
+      "explicacao": "O assassinato de João Pessoa, por motivos também locais, foi usado como estopim para a Revolução de 1930. Oswaldo Aranha e Juarez Távora foram articuladores do movimento.",
+      "revisar": false
+    },
+    {
+      "id": "bra-var-f-011",
+      "tipo": "multipla",
+      "pergunta": "Em qual estado eclodiu a Revolução Constitucionalista de 1932?",
+      "opcoes": [
+        "São Paulo",
+        "Minas Gerais",
+        "Rio Grande do Sul",
+        "Pernambuco"
+      ],
+      "correta": 0,
+      "explicacao": "Em 1932, São Paulo pegou em armas contra o Governo Provisório, exigindo uma Constituição. Minas e Rio Grande do Sul ficaram, em geral, ao lado de Vargas.",
+      "revisar": false
+    },
+    {
+      "id": "bra-var-f-012",
+      "tipo": "lacuna",
+      "pergunta": "O Código Eleitoral de 1932 instituiu o voto ____ e estendeu o direito de voto às mulheres.",
+      "opcoes": [
+        "secreto",
+        "aberto",
+        "censitário",
+        "indireto"
+      ],
+      "correta": 0,
+      "explicacao": "O voto secreto buscava combater as fraudes e o voto de cabresto da República Velha. O voto aberto era justamente o modelo anterior.",
+      "revisar": false
+    },
+    {
+      "id": "bra-var-f-013",
+      "tipo": "multipla",
+      "pergunta": "Qual órgão, criado em 1932, passou a organizar e fiscalizar as eleições no Brasil?",
+      "opcoes": [
+        "Justiça Eleitoral",
+        "Departamento de Imprensa e Propaganda",
+        "Ministério do Trabalho",
+        "Tribunal de Segurança Nacional"
+      ],
+      "correta": 0,
+      "explicacao": "A Justiça Eleitoral tirou a apuração das mãos das oligarquias. O DIP cuidava de propaganda e censura; o Tribunal de Segurança Nacional julgava crimes políticos.",
+      "revisar": false
+    },
+    {
+      "id": "bra-var-f-014",
+      "tipo": "multipla",
+      "pergunta": "Qual ministério foi criado por Vargas em novembro de 1930, logo após chegar ao poder?",
+      "opcoes": [
+        "Ministério do Trabalho, Indústria e Comércio",
+        "Ministério da Defesa",
+        "Ministério do Meio Ambiente",
+        "Ministério da Cultura"
+      ],
+      "correta": 0,
+      "explicacao": "O Ministério do Trabalho mostra a importância da questão social para o novo governo. Os outros ministérios foram criados décadas depois.",
+      "revisar": false
+    },
+    {
+      "id": "bra-var-f-015",
+      "tipo": "multipla",
+      "pergunta": "A tentativa de levante de novembro de 1935, conhecida como Intentona Comunista, estava ligada a qual organização?",
+      "opcoes": [
+        "Aliança Nacional Libertadora",
+        "Ação Integralista Brasileira",
+        "Aliança Liberal",
+        "Partido Republicano Paulista"
+      ],
+      "correta": 0,
+      "explicacao": "A ANL, com forte presença comunista, já havia sido fechada pelo governo em julho de 1935. A AIB era integralista, de direita.",
+      "revisar": false
+    },
+    {
+      "id": "bra-var-f-016",
+      "tipo": "multipla",
+      "pergunta": "Quem foi o presidente de honra da Aliança Nacional Libertadora e líder do levante de 1935?",
+      "opcoes": [
+        "Luís Carlos Prestes",
+        "Plínio Salgado",
+        "Júlio Prestes",
+        "Eurico Gaspar Dutra"
+      ],
+      "correta": 0,
+      "explicacao": "Luís Carlos Prestes, ex-líder da Coluna Prestes, aderiu ao comunismo e foi preso em 1936. Plínio Salgado liderava o integralismo.",
+      "revisar": false
+    },
+    {
+      "id": "bra-var-f-017",
+      "tipo": "multipla",
+      "pergunta": "Qual documento falso, atribuído aos comunistas, foi usado como pretexto para o golpe de 1937?",
+      "opcoes": [
+        "Plano Cohen",
+        "Plano de Metas",
+        "Manifesto dos Mineiros",
+        "Carta de Caminha"
+      ],
+      "correta": 0,
+      "explicacao": "O Plano Cohen foi forjado e divulgado como prova de um plano comunista. O Plano de Metas é de JK; o Manifesto dos Mineiros (1943) pedia democracia.",
+      "revisar": false
+    },
+    {
+      "id": "bra-var-f-018",
+      "tipo": "multipla",
+      "pergunta": "Por qual apelido ficou conhecida a Constituição de 1937, outorgada por Vargas?",
+      "opcoes": [
+        "Polaca",
+        "Cidadã",
+        "Mandioca",
+        "Liberal"
+      ],
+      "correta": 0,
+      "explicacao": "Ganhou o apelido de Polaca por se inspirar na Constituição autoritária da Polônia de 1935. Cidadã é a de 1988; Mandioca foi o projeto de 1823.",
+      "revisar": false
+    },
+    {
+      "id": "bra-var-f-019",
+      "tipo": "multipla",
+      "pergunta": "Qual órgão do Estado Novo controlava a censura e a propaganda do governo?",
+      "opcoes": [
+        "Departamento de Imprensa e Propaganda (DIP)",
+        "Serviço Nacional de Informações (SNI)",
+        "Instituto Brasileiro de Geografia e Estatística (IBGE)",
+        "Companhia Siderúrgica Nacional (CSN)"
+      ],
+      "correta": 0,
+      "explicacao": "O DIP, criado em 1939, censurava a imprensa e promovia a imagem de Vargas. O SNI é da ditadura militar (1964).",
+      "revisar": false
+    },
+    {
+      "id": "bra-var-f-020",
+      "tipo": "multipla",
+      "pergunta": "Em que ano foi fixado o primeiro salário mínimo nacional no Brasil?",
+      "opcoes": [
+        "1940",
+        "1930",
+        "1951",
+        "1964"
+      ],
+      "correta": 0,
+      "explicacao": "O salário mínimo foi instituído por decreto em 1º de maio de 1940, durante o Estado Novo.",
+      "revisar": false
+    },
+    {
+      "id": "bra-var-f-021",
+      "tipo": "multipla",
+      "pergunta": "Qual empresa estatal, criada em 1941, instalou uma grande usina de aço em Volta Redonda (RJ)?",
+      "opcoes": [
+        "Companhia Siderúrgica Nacional",
+        "Petrobras",
+        "Companhia Vale do Rio Doce",
+        "Eletrobras"
+      ],
+      "correta": 0,
+      "explicacao": "A CSN produzia aço, base para outras indústrias. A Vale (1942) cuidava de minério; a Petrobras (1953) e a Eletrobras (1962) vieram depois.",
+      "revisar": false
+    },
+    {
+      "id": "bra-var-f-022",
+      "tipo": "multipla",
+      "pergunta": "O que aconteceu com os partidos políticos após o golpe do Estado Novo, em 1937?",
+      "opcoes": [
+        "Foram extintos",
+        "Foram reduzidos a dois partidos oficiais",
+        "Passaram a receber dinheiro público",
+        "Passaram a escolher o presidente"
+      ],
+      "correta": 0,
+      "explicacao": "Em dezembro de 1937 um decreto dissolveu todos os partidos, inclusive a Ação Integralista. O bipartidarismo foi imposto só na ditadura militar.",
+      "revisar": false
+    },
+    {
+      "id": "bra-var-f-023",
+      "tipo": "multipla",
+      "pergunta": "Como eram chamados os governantes nomeados por Vargas para administrar os estados após 1930?",
+      "opcoes": [
+        "Interventores",
+        "Coronéis",
+        "Donatários",
+        "Governadores-gerais"
+      ],
+      "correta": 0,
+      "explicacao": "Os interventores substituíram os governadores eleitos e respondiam ao governo central. Donatários e governadores-gerais são da Colônia.",
+      "revisar": false
+    },
+    {
+      "id": "bra-var-f-024",
+      "tipo": "multipla",
+      "pergunta": "Que cerimônia de 1937 simbolizou a centralização do poder no Estado Novo?",
+      "opcoes": [
+        "A queima das bandeiras estaduais",
+        "A coroação de Getúlio Vargas",
+        "A inauguração de Brasília",
+        "A assinatura da Lei Áurea"
+      ],
+      "correta": 0,
+      "explicacao": "A queima das bandeiras dos estados, no Rio de Janeiro, mostrava que só a bandeira nacional valia. Brasília é de 1960 e a Lei Áurea, de 1888.",
+      "revisar": false
+    },
+    {
+      "id": "bra-var-f-025",
+      "tipo": "multipla",
+      "pergunta": "Qual documento, criado em 1932, passou a registrar a vida profissional do trabalhador?",
+      "opcoes": [
+        "Carteira de trabalho",
+        "Título de eleitor",
+        "Certidão de nascimento",
+        "Carteira de motorista"
+      ],
+      "correta": 0,
+      "explicacao": "A carteira profissional, origem da atual carteira de trabalho, registrava empregos e salários e dava acesso a direitos trabalhistas.",
+      "revisar": false
+    },
+    {
+      "id": "bra-var-f-026",
+      "tipo": "verdadeiro_falso",
+      "pergunta": "Durante o Estado Novo (1937–1945), houve eleições diretas para presidente.",
+      "correta": false,
+      "explicacao": "Falso. O Estado Novo cancelou a eleição prevista para 1938 e não realizou nenhuma eleição presidencial até 1945.",
+      "revisar": false
+    },
+    {
+      "id": "bra-var-f-027",
+      "tipo": "verdadeiro_falso",
+      "pergunta": "A Constituição de 1934 manteve o voto feminino criado pelo Código Eleitoral de 1932.",
+      "correta": true,
+      "explicacao": "Verdadeiro. A Constituição de 1934 confirmou o voto feminino e o voto secreto.",
+      "revisar": false
+    },
+    {
+      "id": "bra-var-f-028",
+      "tipo": "ordenar",
+      "pergunta": "Coloque em ordem cronológica, do mais antigo ao mais recente.",
+      "itens": [
+        "Revolução de 1930",
+        "Revolução Constitucionalista em São Paulo",
+        "Promulgação da Constituição de 1934",
+        "Levante comunista da ANL",
+        "Golpe do Estado Novo"
+      ],
+      "explicacao": "Revolução de 1930; Revolução Constitucionalista, 1932; Constituição, 1934; levante comunista, novembro de 1935; Estado Novo, novembro de 1937.",
+      "revisar": false
+    },
+    {
+      "id": "bra-var-f-029",
+      "tipo": "ligar",
+      "pergunta": "Ligue cada personagem à sua atuação na Era Vargas.",
+      "pares": [
+        [
+          "Plínio Salgado",
+          "Líder da Ação Integralista"
+        ],
+        [
+          "Luís Carlos Prestes",
+          "Líder da Aliança Nacional Libertadora"
+        ],
+        [
+          "Lindolfo Collor",
+          "Primeiro ministro do Trabalho"
+        ],
+        [
+          "Gustavo Capanema",
+          "Ministro da Educação e Saúde"
+        ]
+      ],
+      "explicacao": "Plínio Salgado fundou a AIB em 1932; Prestes liderou a ANL; Lindolfo Collor foi ministro do Trabalho em 1930–1932; Capanema foi ministro da Educação de 1934 a 1945.",
+      "revisar": false
+    },
+    {
+      "id": "bra-var-f-030",
+      "tipo": "multipla",
+      "pergunta": "Como terminou o Estado Novo em 1945?",
+      "opcoes": [
+        "Vargas foi deposto pelos militares",
+        "Vargas morreu no cargo",
+        "Uma revolução comunista tomou o poder",
+        "O Brasil voltou a ser uma monarquia"
+      ],
+      "correta": 0,
+      "explicacao": "Em 29 de outubro de 1945, os militares depuseram Vargas, e o presidente do STF assumiu até a eleição de Dutra. Vargas só morreu em 1954, no segundo governo.",
+      "revisar": false
     }
   ]
 }

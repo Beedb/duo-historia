@@ -1,0 +1,392 @@
+{
+  "materia": "brasil",
+  "tempo": "era-vargas",
+  "dificuldade": "medio",
+  "licao": "Governo Provisório, Constituição de 1934 e Estado Novo",
+  "questoes": [
+    {
+      "id": "bra-var-m-001",
+      "tipo": "multipla",
+      "pergunta": "Que decisão rompeu a política do café com leite na sucessão presidencial de 1930?",
+      "opcoes": [
+        "Washington Luís indicou o paulista Júlio Prestes, e não um mineiro",
+        "Minas Gerais aderiu ao integralismo",
+        "O café deixou de ser exportado",
+        "O Exército proibiu as eleições"
+      ],
+      "correta": 0,
+      "explicacao": "Pelo acordo, seria a vez de um mineiro. A indicação de outro paulista levou Minas a se aliar ao Rio Grande do Sul e à Paraíba na Aliança Liberal.",
+      "revisar": false
+    },
+    {
+      "id": "bra-var-m-002",
+      "tipo": "multipla",
+      "pergunta": "Como a crise de 1929 afetou a República Velha?",
+      "opcoes": [
+        "Derrubou os preços do café e enfraqueceu as oligarquias cafeeiras",
+        "Aumentou muito as exportações de café",
+        "Fez o Brasil abandonar a agricultura",
+        "Levou à imediata industrialização pesada"
+      ],
+      "correta": 0,
+      "explicacao": "Com a crise, o preço do café despencou e o governo não conseguiu socorrer os cafeicultores, o que dividiu a elite e abriu espaço para 1930.",
+      "revisar": false
+    },
+    {
+      "id": "bra-var-m-003",
+      "tipo": "multipla",
+      "pergunta": "O que os paulistas exigiam na Revolução Constitucionalista de 1932?",
+      "opcoes": [
+        "Uma nova Constituição e o fim do governo por interventores",
+        "A volta da monarquia",
+        "A independência imediata de São Paulo",
+        "A entrega do poder aos comunistas"
+      ],
+      "correta": 0,
+      "explicacao": "São Paulo exigia a constitucionalização e queria recuperar a autonomia perdida com os interventores. O separatismo existia, mas era minoritário.",
+      "revisar": false
+    },
+    {
+      "id": "bra-var-m-004",
+      "tipo": "multipla",
+      "pergunta": "Qual foi o resultado de 1932 para o governo Vargas?",
+      "opcoes": [
+        "São Paulo foi derrotado, mas Vargas convocou eleições para uma Constituinte",
+        "São Paulo venceu e Vargas renunciou",
+        "O movimento foi esquecido sem consequências",
+        "Vargas fechou o Congresso e implantou o Estado Novo"
+      ],
+      "correta": 0,
+      "explicacao": "Derrotados militarmente, os paulistas viram parte de sua pauta atendida: a Constituinte foi eleita em 1933 e a Constituição saiu em 1934.",
+      "revisar": false
+    },
+    {
+      "id": "bra-var-m-005",
+      "tipo": "multipla",
+      "pergunta": "Que novidade a Constituição de 1934 trouxe em relação à de 1891?",
+      "opcoes": [
+        "Direitos trabalhistas e a previsão da Justiça do Trabalho",
+        "A volta do Poder Moderador",
+        "O fim do voto secreto",
+        "A proibição do voto feminino"
+      ],
+      "correta": 0,
+      "explicacao": "A Carta de 1934 incorporou direitos sociais, como salário mínimo e jornada de 8 horas, e previu a Justiça do Trabalho. Manteve voto secreto e feminino.",
+      "revisar": false
+    },
+    {
+      "id": "bra-var-m-006",
+      "tipo": "multipla",
+      "pergunta": "Como era a relação entre sindicatos e Estado no modelo criado a partir de 1931?",
+      "opcoes": [
+        "Os sindicatos dependiam do reconhecimento do Ministério do Trabalho",
+        "Os sindicatos eram proibidos",
+        "Os sindicatos eram totalmente independentes do governo",
+        "Só patrões podiam formar sindicatos"
+      ],
+      "correta": 0,
+      "explicacao": "A Lei de Sindicalização de 1931 exigia o reconhecimento oficial. Isso trouxe direitos, mas colocou os sindicatos sob tutela do Estado.",
+      "revisar": false
+    },
+    {
+      "id": "bra-var-m-007",
+      "tipo": "multipla",
+      "pergunta": "Qual medida de 1940 garantiu recursos aos sindicatos oficiais e reforçou seu vínculo com o Estado?",
+      "opcoes": [
+        "O imposto sindical obrigatório",
+        "A liberdade sindical plena",
+        "A proibição da carteira de trabalho",
+        "A privatização da previdência"
+      ],
+      "correta": 0,
+      "explicacao": "O imposto sindical descontava um dia de salário por ano de todo trabalhador e financiava os sindicatos oficiais.",
+      "revisar": false
+    },
+    {
+      "id": "bra-var-m-008",
+      "tipo": "multipla",
+      "pergunta": "Qual era o lema da Ação Integralista Brasileira?",
+      "opcoes": [
+        "Deus, Pátria e Família",
+        "Ordem e Progresso",
+        "Pão, Terra e Liberdade",
+        "Liberdade, Igualdade, Fraternidade"
+      ],
+      "correta": 0,
+      "explicacao": "Os integralistas, inspirados no fascismo, usavam esse lema e camisas verdes. Pão, Terra e Liberdade era o lema da ANL, adversária deles.",
+      "revisar": false
+    },
+    {
+      "id": "bra-var-m-009",
+      "tipo": "multipla",
+      "pergunta": "Que bandeiras a Aliança Nacional Libertadora defendia em 1935?",
+      "opcoes": [
+        "Anti-imperialismo, reforma agrária e luta contra o fascismo",
+        "Volta da monarquia e fim da República",
+        "Apoio ao integralismo e ao Eixo",
+        "Fim dos direitos trabalhistas"
+      ],
+      "correta": 0,
+      "explicacao": "A ANL era uma frente antifascista e anti-imperialista, com comunistas, tenentes e liberais. Foi fechada em julho de 1935.",
+      "revisar": false
+    },
+    {
+      "id": "bra-var-m-010",
+      "tipo": "multipla",
+      "pergunta": "Qual foi uma consequência da Intentona Comunista de 1935?",
+      "opcoes": [
+        "Aumento da repressão, com estado de sítio e o Tribunal de Segurança Nacional",
+        "Legalização do Partido Comunista",
+        "Renúncia de Vargas",
+        "Fim da Lei de Segurança Nacional"
+      ],
+      "correta": 0,
+      "explicacao": "O levante derrotado serviu para endurecer o regime: prisões em massa, estado de guerra e, em 1936, o Tribunal de Segurança Nacional.",
+      "revisar": false
+    },
+    {
+      "id": "bra-var-m-011",
+      "tipo": "multipla",
+      "pergunta": "Quem disputaria a eleição presidencial de 1938, cancelada pelo golpe do Estado Novo?",
+      "opcoes": [
+        "Armando de Salles Oliveira e José Américo de Almeida",
+        "Júlio Prestes e Washington Luís",
+        "Eurico Dutra e Eduardo Gomes",
+        "Juscelino Kubitschek e Juarez Távora"
+      ],
+      "correta": 0,
+      "explicacao": "Armando de Salles (SP) e José Américo (PB) eram os candidatos. Dutra e Eduardo Gomes disputaram em 1945; JK e Juarez, em 1955.",
+      "revisar": false
+    },
+    {
+      "id": "bra-var-m-012",
+      "tipo": "multipla",
+      "pergunta": "Por que os integralistas tentaram um levante em maio de 1938?",
+      "opcoes": [
+        "O Estado Novo também fechou a Ação Integralista, frustrando suas expectativas",
+        "Vargas havia se aliado aos comunistas",
+        "Queriam devolver o poder às oligarquias paulistas",
+        "Exigiam o voto feminino"
+      ],
+      "correta": 0,
+      "explicacao": "Os integralistas apoiaram o golpe esperando espaço no governo, mas a AIB foi dissolvida com os demais partidos. O ataque ao Palácio Guanabara fracassou.",
+      "revisar": false
+    },
+    {
+      "id": "bra-var-m-013",
+      "tipo": "multipla",
+      "pergunta": "Qual era o objetivo do DASP, criado em 1938?",
+      "opcoes": [
+        "Organizar a administração pública e o ingresso por concurso",
+        "Censurar jornais e rádios",
+        "Comandar a polícia política",
+        "Comprar e queimar café"
+      ],
+      "correta": 0,
+      "explicacao": "O DASP buscava uma burocracia técnica e menos dependente de favores políticos. A censura cabia ao DIP.",
+      "revisar": false
+    },
+    {
+      "id": "bra-var-m-014",
+      "tipo": "multipla",
+      "pergunta": "Como o governo Vargas tentou sustentar os preços do café após 1930?",
+      "opcoes": [
+        "Comprou e destruiu estoques excedentes",
+        "Proibiu o plantio de café",
+        "Entregou as fazendas aos colonos",
+        "Aumentou a produção sem limites"
+      ],
+      "correta": 0,
+      "explicacao": "O governo comprou e queimou milhões de sacas para reduzir a oferta e conter a queda dos preços.",
+      "revisar": false
+    },
+    {
+      "id": "bra-var-m-015",
+      "tipo": "multipla",
+      "pergunta": "Por que a Companhia Siderúrgica Nacional é vista como marco da industrialização brasileira?",
+      "opcoes": [
+        "Produzia aço, base para outras indústrias",
+        "Fabricava apenas bens de luxo",
+        "Substituía a agricultura de exportação",
+        "Era uma empresa estrangeira"
+      ],
+      "correta": 0,
+      "explicacao": "A CSN inaugurou a indústria de base estatal: o aço abastecia a produção de máquinas, trilhos e outros bens.",
+      "revisar": false
+    },
+    {
+      "id": "bra-var-m-016",
+      "tipo": "multipla",
+      "pergunta": "Como a política externa de Vargas ajudou a financiar a usina de Volta Redonda?",
+      "opcoes": [
+        "Vargas negociou entre EUA e Alemanha e obteve crédito americano em troca de apoio",
+        "A Alemanha nazista doou a usina",
+        "A União Soviética financiou a obra",
+        "O Brasil pagou tudo com ouro de Minas"
+      ],
+      "correta": 0,
+      "explicacao": "Os EUA financiaram a CSN em troca do alinhamento brasileiro e do uso de bases no Nordeste, como a de Natal.",
+      "revisar": false
+    },
+    {
+      "id": "bra-var-m-017",
+      "tipo": "multipla",
+      "pergunta": "Por que o Brasil declarou guerra ao Eixo em agosto de 1942?",
+      "opcoes": [
+        "Submarinos alemães afundaram navios mercantes brasileiros",
+        "A Alemanha invadiu o Rio Grande do Sul",
+        "Vargas queria anexar territórios na Europa",
+        "O Japão bombardeou Santos"
+      ],
+      "correta": 0,
+      "explicacao": "Os afundamentos de navios no litoral, com centenas de mortos, geraram protestos e levaram à declaração de guerra.",
+      "revisar": false
+    },
+    {
+      "id": "bra-var-m-018",
+      "tipo": "multipla",
+      "pergunta": "Por que a participação na Segunda Guerra enfraqueceu o Estado Novo?",
+      "opcoes": [
+        "Era contraditório lutar contra ditaduras na Europa e manter uma ditadura no Brasil",
+        "O Brasil perdeu a guerra",
+        "Os EUA invadiram o Brasil",
+        "A guerra acabou com a indústria brasileira"
+      ],
+      "correta": 0,
+      "explicacao": "A luta contra o nazifascismo deu força a quem pedia democracia no Brasil, como os autores do Manifesto dos Mineiros (1943).",
+      "revisar": false
+    },
+    {
+      "id": "bra-var-m-019",
+      "tipo": "multipla",
+      "pergunta": "O que defendia o Manifesto dos Mineiros, de 1943?",
+      "opcoes": [
+        "A volta da democracia e das liberdades",
+        "A permanência de Vargas no poder",
+        "A entrada do Brasil no Eixo",
+        "A volta do café com leite"
+      ],
+      "correta": 0,
+      "explicacao": "Assinado por políticos e intelectuais de Minas, foi a primeira grande manifestação pública contra o Estado Novo. Vários signatários foram demitidos.",
+      "revisar": false
+    },
+    {
+      "id": "bra-var-m-020",
+      "tipo": "multipla",
+      "pergunta": "O que foi o queremismo, em 1945?",
+      "opcoes": [
+        "Movimento que pedia a permanência de Vargas e uma Constituinte com ele no poder",
+        "Movimento que pedia a volta da monarquia",
+        "Movimento militar que depôs Vargas",
+        "Campanha de Eduardo Gomes à presidência"
+      ],
+      "correta": 0,
+      "explicacao": "O nome vem do lema Queremos Getúlio. O movimento, com apoio de trabalhadores e comunistas, aumentou a desconfiança dos militares.",
+      "revisar": false
+    },
+    {
+      "id": "bra-var-m-021",
+      "tipo": "multipla",
+      "pergunta": "Quais partidos surgiram em 1945 ligados a Getúlio Vargas?",
+      "opcoes": [
+        "PSD e PTB",
+        "UDN e PCB",
+        "ARENA e MDB",
+        "PRP e PRM"
+      ],
+      "correta": 0,
+      "explicacao": "O PSD reuniu interventores e a máquina estatal; o PTB, a base sindical. A UDN era de oposição; ARENA e MDB são da ditadura.",
+      "revisar": false
+    },
+    {
+      "id": "bra-var-m-022",
+      "tipo": "multipla",
+      "pergunta": "Que fato precipitou a deposição de Vargas em outubro de 1945?",
+      "opcoes": [
+        "A nomeação de seu irmão, Benjamim Vargas, para chefe de polícia do Rio",
+        "A vitória de Vargas na eleição presidencial",
+        "A morte de Vargas",
+        "A invasão do Brasil por tropas estrangeiras"
+      ],
+      "correta": 0,
+      "explicacao": "A nomeação foi vista como sinal de que Vargas buscaria se manter no poder. Os generais Dutra e Góis Monteiro o afastaram em 29 de outubro.",
+      "revisar": false
+    },
+    {
+      "id": "bra-var-m-023",
+      "tipo": "multipla",
+      "pergunta": "Qual instituição, criada em 1942, passou a formar mão de obra para a indústria?",
+      "opcoes": [
+        "SENAI",
+        "SNI",
+        "IBGE",
+        "DIP"
+      ],
+      "correta": 0,
+      "explicacao": "O SENAI, mantido pelas indústrias, oferecia ensino profissional. O SNI é de 1964; o IBGE faz estatísticas; o DIP fazia propaganda.",
+      "revisar": false
+    },
+    {
+      "id": "bra-var-m-024",
+      "tipo": "multipla",
+      "pergunta": "Qual era a função da Justiça do Trabalho, instalada em 1941?",
+      "opcoes": [
+        "Julgar conflitos entre empregados e patrões",
+        "Organizar eleições",
+        "Julgar crimes políticos",
+        "Censurar a imprensa"
+      ],
+      "correta": 0,
+      "explicacao": "A Justiça do Trabalho, prevista desde 1934, mediava conflitos trabalhistas dentro da lógica de conciliação entre capital e trabalho.",
+      "revisar": false
+    },
+    {
+      "id": "bra-var-m-025",
+      "tipo": "verdadeiro_falso",
+      "pergunta": "A CLT, de 1943, reuniu em um só texto leis trabalhistas criadas desde 1930.",
+      "correta": true,
+      "explicacao": "Verdadeiro. A CLT consolidou, isto é, juntou e organizou, leis já existentes, além de acrescentar algumas novas.",
+      "revisar": false
+    },
+    {
+      "id": "bra-var-m-026",
+      "tipo": "verdadeiro_falso",
+      "pergunta": "A legislação trabalhista da Era Vargas alcançou igualmente os trabalhadores urbanos e rurais.",
+      "correta": false,
+      "explicacao": "Falso. Os trabalhadores rurais ficaram quase todos de fora. Um estatuto específico para eles só veio em 1963.",
+      "revisar": false
+    },
+    {
+      "id": "bra-var-m-027",
+      "tipo": "verdadeiro_falso",
+      "pergunta": "A Constituição de 1937 concentrava poderes no presidente e permitia governar por decretos-leis.",
+      "correta": true,
+      "explicacao": "Verdadeiro. Como o Parlamento nunca foi convocado, Vargas governou por decretos-leis até 1945.",
+      "revisar": false
+    },
+    {
+      "id": "bra-var-m-028",
+      "tipo": "verdadeiro_falso",
+      "pergunta": "A Revolução Constitucionalista de 1932 terminou com a vitória militar de São Paulo.",
+      "correta": false,
+      "explicacao": "Falso. São Paulo se rendeu após cerca de três meses. Ainda assim, a Constituinte foi convocada.",
+      "revisar": false
+    },
+    {
+      "id": "bra-var-m-029",
+      "tipo": "verdadeiro_falso",
+      "pergunta": "Olga Benário, militante comunista e companheira de Prestes, foi entregue à Alemanha nazista em 1936.",
+      "correta": true,
+      "explicacao": "Verdadeiro. Presa após o levante de 1935, foi deportada grávida e morreu num campo nazista em 1942.",
+      "revisar": false
+    },
+    {
+      "id": "bra-var-m-030",
+      "tipo": "verdadeiro_falso",
+      "pergunta": "Durante o Estado Novo, a Aliança Nacional Libertadora funcionou como partido legal.",
+      "correta": false,
+      "explicacao": "Falso. A ANL foi fechada em julho de 1935, antes mesmo do Estado Novo.",
+      "revisar": false
+    }
+  ]
+}

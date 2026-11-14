@@ -297,6 +297,142 @@
       "correta": 0,
       "explicacao": "Após hesitação inicial, Getúlio Vargas alinhou o Brasil aos Estados Unidos e declarou guerra ao Eixo na Segunda Guerra Mundial. A Tríplice Entente foi uma aliança da Primeira Guerra Mundial.",
       "revisar": false
+    },
+    {
+      "id": "ger-con-f-022",
+      "tipo": "multipla",
+      "pergunta": "Qual evento de 14 de julho de 1789 se tornou o símbolo do início da Revolução Francesa?",
+      "opcoes": [
+        "A Tomada da Bastilha",
+        "A execução de Luís XVI",
+        "A queda do Diretório",
+        "A Batalha de Waterloo"
+      ],
+      "correta": 0,
+      "explicacao": "A Tomada da Bastilha, prisão real em Paris, simbolizou a queda do poder absolutista. A execução do rei foi em 1793, o fim do Diretório em 1799 e Waterloo em 1815.",
+      "revisar": false
+    },
+    {
+      "id": "ger-con-f-023",
+      "tipo": "multipla",
+      "pergunta": "Qual fonte de energia impulsionou a Primeira Revolução Industrial na Inglaterra?",
+      "opcoes": [
+        "O vapor gerado pela queima do carvão mineral",
+        "A eletricidade de alta tensão",
+        "Os derivados refinados do petróleo",
+        "A força dos ventos em moinhos"
+      ],
+      "correta": 0,
+      "explicacao": "O carvão e a máquina a vapor foram a base da Primeira Revolução Industrial. Petróleo e eletricidade ganharam força na Segunda Revolução Industrial, no fim do século XIX.",
+      "revisar": false
+    },
+    {
+      "id": "ger-con-f-024",
+      "tipo": "multipla",
+      "pergunta": "Que tratado, assinado em 1919, impôs sanções à Alemanha após a Primeira Guerra Mundial?",
+      "opcoes": [
+        "O Tratado de Versalhes",
+        "O Tratado de Tordesilhas",
+        "O Acordo de Munique",
+        "A Paz de Vestfália"
+      ],
+      "correta": 0,
+      "explicacao": "O Tratado de Versalhes responsabilizou a Alemanha pela guerra e impôs punições econômicas e militares. Tordesilhas é de 1494, Vestfália de 1648 e o Acordo de Munique de 1938, às vésperas da Segunda Guerra.",
+      "revisar": false
+    },
+    {
+      "id": "ger-con-f-025",
+      "tipo": "multipla",
+      "pergunta": "Qual foi uma consequência social direta da Primeira Revolução Industrial nas cidades europeias?",
+      "opcoes": [
+        "A formação de uma classe operária urbana submetida a longas jornadas",
+        "A extinção das fábricas têxteis em favor do trabalho artesanal",
+        "A distribuição igualitária de terras entre os operários",
+        "O fim do êxodo rural e o retorno da população ao campo"
+      ],
+      "correta": 0,
+      "explicacao": "A industrialização concentrou trabalhadores nas cidades, em condições precárias, formando o proletariado urbano. O artesanato perdeu espaço e o êxodo rural se intensificou.",
+      "revisar": false
+    },
+    {
+      "id": "ger-con-f-026",
+      "tipo": "multipla",
+      "pergunta": "Que grupo de países combateu as potências do Eixo na Segunda Guerra Mundial?",
+      "opcoes": [
+        "Os Aliados",
+        "A Santa Aliança",
+        "A Tríplice Aliança",
+        "O Pacto de Varsóvia"
+      ],
+      "correta": 0,
+      "explicacao": "Os Aliados reuniram Estados Unidos, Reino Unido e União Soviética, entre outros. A Santa Aliança é de 1815, a Tríplice Aliança lutou na Primeira Guerra e o Pacto de Varsóvia surgiu em 1955, na Guerra Fria.",
+      "revisar": false
+    },
+    {
+      "id": "ger-con-f-027",
+      "tipo": "multipla",
+      "pergunta": "Qual máquina acelerou a produção de fios no início da industrialização britânica?",
+      "opcoes": [
+        "A máquina de fiar Spinning Jenny",
+        "O tear manual de uso doméstico",
+        "O motor de combustão interna",
+        "O dínamo gerador de eletricidade"
+      ],
+      "correta": 0,
+      "explicacao": "A Spinning Jenny (c. 1764) permitia fiar vários fios ao mesmo tempo. Motor a combustão e dínamo são inovações da Segunda Revolução Industrial.",
+      "revisar": false
+    },
+    {
+      "id": "ger-con-f-028",
+      "tipo": "lacuna",
+      "pergunta": "A monarquia foi abolida e a Primeira República Francesa foi proclamada em ____.",
+      "opcoes": [
+        "1792",
+        "1789",
+        "1815",
+        "1848"
+      ],
+      "correta": 0,
+      "explicacao": "A Convenção Nacional aboliu a monarquia em setembro de 1792. Em 1789 começou a Revolução; 1815 marca a queda de Napoleão; 1848 é a Segunda República.",
+      "revisar": false
+    },
+    {
+      "id": "ger-con-f-029",
+      "tipo": "ordenar",
+      "pergunta": "Coloque em ordem cronológica, do mais antigo ao mais recente.",
+      "itens": [
+        "Início da Primeira Revolução Industrial na Inglaterra",
+        "Tomada da Bastilha em Paris",
+        "Assinatura do Tratado de Versalhes",
+        "Fim da Segunda Guerra Mundial"
+      ],
+      "explicacao": "A industrialização britânica começou em meados do século XVIII; a Bastilha caiu em 1789; o Tratado de Versalhes é de 1919; a Segunda Guerra terminou em 1945.",
+      "revisar": false
+    },
+    {
+      "id": "ger-con-f-030",
+      "tipo": "ligar",
+      "pergunta": "Ligue cada acontecimento ao seu marco principal.",
+      "pares": [
+        [
+          "Revolução Francesa",
+          "Tomada da Bastilha e fim do Antigo Regime"
+        ],
+        [
+          "Primeira Revolução Industrial",
+          "Carvão e máquina a vapor na produção"
+        ],
+        [
+          "Primeira Guerra Mundial",
+          "Tratado de Versalhes"
+        ],
+        [
+          "Segunda Guerra Mundial",
+          "Confronto entre Aliados e Eixo"
+        ]
+      ],
+      "explicacao": "Revolução Francesa (1789), Primeira Revolução Industrial (séc. XVIII), Primeira Guerra (1914–1918, encerrada por Versalhes em 1919) e Segunda Guerra (1939–1945).",
+      "revisar": false
     }
   ]
 }

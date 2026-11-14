@@ -67,20 +67,12 @@
         {
           "id": "era-vargas",
           "nome": "Era Vargas (1930–1945)",
-          "disponivel": true,
-          "niveis": [
-            "facil",
-            "dificil"
-          ]
+          "disponivel": true
         },
         {
           "id": "democracia",
           "nome": "Democracia (1945–1964)",
-          "disponivel": true,
-          "niveis": [
-            "facil",
-            "dificil"
-          ]
+          "disponivel": true
         },
         {
           "id": "ditadura",

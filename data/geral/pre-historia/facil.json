@@ -213,6 +213,237 @@
       "correta": 2,
       "explicacao": "A datação e a análise morfológica de Luzia trouxeram importantes evidências para o debate científico sobre a antiguidade e as origens do povoamento humano no continente americano. A Pedra de Roseta e o Código de Hamurabi pertencem à Antiguidade Oriental.",
       "revisar": false
+    },
+    {
+      "id": "ger-pre-f-016",
+      "tipo": "multipla",
+      "pergunta": "Quem criou, em 1865, a divisão da Pré-História entre Paleolítico e Neolítico?",
+      "opcoes": [
+        "John Lubbock",
+        "André Leroi-Gourhan",
+        "Jacques Le Goff",
+        "Fernand Braudel"
+      ],
+      "correta": 0,
+      "explicacao": "O naturalista britânico John Lubbock propôs os termos em 1865, no livro Pre-historic Times. Leroi-Gourhan é um pré-historiador do século XX; Le Goff e Braudel são historiadores de outros períodos.",
+      "revisar": false
+    },
+    {
+      "id": "ger-pre-f-017",
+      "tipo": "multipla",
+      "pergunta": "Qual liga metálica, feita de cobre e estanho, deu nome a um período posterior ao Neolítico?",
+      "opcoes": [
+        "Bronze",
+        "Ferro",
+        "Aço",
+        "Latão"
+      ],
+      "correta": 0,
+      "explicacao": "A Idade do Bronze começou quando se passou a misturar cobre e estanho, liga mais dura que o cobre puro. O ferro é um metal, não liga; o aço só se difundiu mais tarde; o latão é cobre com zinco.",
+      "revisar": false
+    },
+    {
+      "id": "ger-pre-f-018",
+      "tipo": "multipla",
+      "pergunta": "Na América, a que período o termo \"Pré-História\" costuma se referir?",
+      "opcoes": [
+        "Ao período anterior à chegada dos europeus",
+        "Ao período posterior à Carta de Caminha",
+        "Ao tempo do Novo Império egípcio",
+        "À fase posterior à invenção da imprensa"
+      ],
+      "correta": 0,
+      "explicacao": "Na América, a expressão costuma designar o período anterior à chegada europeia, quando os registros escritos dos colonizadores começam. A Carta de Caminha (1500) é justamente um desses registros.",
+      "revisar": false
+    },
+    {
+      "id": "ger-pre-f-019",
+      "tipo": "multipla",
+      "pergunta": "Qual ciência estuda vestígios de plantas antigas e ajuda a entender o início da agricultura?",
+      "opcoes": [
+        "Paleobotânica",
+        "Numismática",
+        "Epigrafia",
+        "Heráldica"
+      ],
+      "correta": 0,
+      "explicacao": "A paleobotânica estuda plantas antigas, e, junto com a arqueologia, mostra a passagem da coleta ao cultivo. Numismática estuda moedas; epigrafia, inscrições; heráldica, brasões.",
+      "revisar": false
+    },
+    {
+      "id": "ger-pre-f-020",
+      "tipo": "multipla",
+      "pergunta": "Qual técnica de datação ajudou a confirmar a antiguidade do povo Sao, na região do lago Chade, na África?",
+      "opcoes": [
+        "Carbono 14",
+        "Leitura de inscrições em pedra",
+        "Análise de papiros",
+        "Leitura de crônicas reais"
+      ],
+      "correta": 0,
+      "explicacao": "O carbono 14 data restos orgânicos e, cruzado com escavações e tradição oral, ajudou a datar a ocupação Sao. As outras opções dependem de fontes escritas, ausentes nesse caso.",
+      "revisar": false
+    },
+    {
+      "id": "ger-pre-f-021",
+      "tipo": "multipla",
+      "pergunta": "Como são chamados os registros humanos feitos sem escrita, como pinturas rupestres?",
+      "opcoes": [
+        "Registros ágrafos",
+        "Documentos cartoriais",
+        "Fontes epigráficas",
+        "Crônicas oficiais"
+      ],
+      "correta": 0,
+      "explicacao": "Ágrafo significa \"sem escrita\". Pinturas, esculturas e relatos orais são hoje fontes históricas válidas. Fontes epigráficas e crônicas dependem da escrita.",
+      "revisar": false
+    },
+    {
+      "id": "ger-pre-f-022",
+      "tipo": "multipla",
+      "pergunta": "Qual pré-historiador francês relacionou gesto, cérebro e cultura na obra O gesto e a palavra (1964–1965)?",
+      "opcoes": [
+        "André Leroi-Gourhan",
+        "John Lubbock",
+        "Marc Bloch",
+        "Julio Aróstegui"
+      ],
+      "correta": 0,
+      "explicacao": "Leroi-Gourhan ligou a evolução do corpo e do cérebro ao uso de ferramentas e à linguagem. Lubbock é do século XIX; Marc Bloch foi medievalista; Aróstegui, teórico da história.",
+      "revisar": false
+    },
+    {
+      "id": "ger-pre-f-023",
+      "tipo": "lacuna",
+      "pergunta": "Os primeiros registros de escrita surgiram por volta do 4º milênio a.C. no ____.",
+      "opcoes": [
+        "Oriente Próximo",
+        "Sul da América",
+        "Norte da Europa",
+        "Extremo Oriente"
+      ],
+      "correta": 0,
+      "explicacao": "A escrita cuneiforme surgiu na Mesopotâmia, no Oriente Próximo, por volta de 3200 a.C. Na China, a escrita aparece cerca de dois mil anos depois.",
+      "revisar": false
+    },
+    {
+      "id": "ger-pre-f-024",
+      "tipo": "ordenar",
+      "pergunta": "Coloque em ordem cronológica, do mais antigo ao mais recente.",
+      "itens": [
+        "Paleolítico (Idade da Pedra Lascada)",
+        "Neolítico (Idade da Pedra Polida)",
+        "Surgimento da escrita no Oriente Próximo",
+        "Divisão da Pré-História proposta por John Lubbock"
+      ],
+      "explicacao": "O Paleolítico vai até cerca de 10 mil a.C.; depois vem o Neolítico; a escrita surge por volta de 3200 a.C.; Lubbock criou a periodização em 1865.",
+      "revisar": false
+    },
+    {
+      "id": "ger-pre-f-025",
+      "tipo": "ligar",
+      "pergunta": "Ligue cada conceito ou pesquisador à sua característica.",
+      "pares": [
+        [
+          "Paleolítico",
+          "Idade da pedra antiga"
+        ],
+        [
+          "Neolítico",
+          "Passagem para a produção de alimentos"
+        ],
+        [
+          "John Lubbock",
+          "Dividiu a Pré-História em 1865"
+        ],
+        [
+          "Registros ágrafos",
+          "Vestígios sem escrita"
+        ]
+      ],
+      "explicacao": "Lubbock definiu Paleolítico (pedra antiga) e Neolítico (pedra nova, com agricultura). Registros ágrafos são fontes sem escrita.",
+      "revisar": false
+    },
+    {
+      "id": "ger-pre-f-026",
+      "tipo": "multipla",
+      "pergunta": "Para que a escrita foi usada logo após surgir no Oriente Próximo, por volta de 3200 a.C.?",
+      "opcoes": [
+        "Registrar contas, leis e feitos dos governantes",
+        "Substituir as ferramentas de pedra lascada",
+        "Impedir o crescimento das primeiras cidades",
+        "Acabar com o comércio entre povos"
+      ],
+      "correta": 0,
+      "explicacao": "A escrita nasceu ligada à administração das cidades: estoques, impostos, leis e relatos oficiais. Ela acompanhou o crescimento urbano, não o impediu.",
+      "revisar": false
+    },
+    {
+      "id": "ger-pre-f-027",
+      "tipo": "multipla",
+      "pergunta": "Por que as cavernas da Serra dos Carajás, no Pará, guardam vestígios de ocupação pré-histórica?",
+      "opcoes": [
+        "Serviram de abrigo para grupos humanos",
+        "Ficavam cobertas por geleiras permanentes",
+        "Estavam longe de rios e florestas",
+        "Ficavam junto ao estreito de Bering"
+      ],
+      "correta": 0,
+      "explicacao": "As cavernas ofereciam abrigo, e nelas se acharam vestígios de ocupação humana antiga. Não havia geleiras na Amazônia, e o estreito de Bering fica entre a Ásia e o Alasca.",
+      "revisar": false
+    },
+    {
+      "id": "ger-pre-f-028",
+      "tipo": "multipla",
+      "pergunta": "Por que historiadores do século XIX chamavam os povos sem escrita de \"a-históricos\"?",
+      "opcoes": [
+        "Só aceitavam documentos escritos como fonte histórica",
+        "Achavam que não existiam vestígios arqueológicos",
+        "Desconheciam as pinturas rupestres",
+        "Negavam que tivesse havido agricultura no Oriente"
+      ],
+      "correta": 0,
+      "explicacao": "A historiografia do século XIX só reconhecia documentos escritos. Hoje, fontes materiais, visuais e orais também são usadas pelos historiadores.",
+      "revisar": false
+    },
+    {
+      "id": "ger-pre-f-029",
+      "tipo": "lacuna",
+      "pergunta": "O conceito tradicional de Pré-História é criticado por ____, por tomar a escrita como único critério.",
+      "opcoes": [
+        "eurocentrismo",
+        "feudalismo",
+        "mercantilismo",
+        "absolutismo"
+      ],
+      "correta": 0,
+      "explicacao": "Tomar a escrita, critério das sociedades europeias, para classificar todos os povos é uma visão eurocêntrica. Feudalismo, mercantilismo e absolutismo são sistemas econômicos e políticos, não críticas historiográficas.",
+      "revisar": false
+    },
+    {
+      "id": "ger-pre-f-030",
+      "tipo": "ligar",
+      "pergunta": "Ligue cada elemento da Pré-História ao seu significado.",
+      "pares": [
+        [
+          "Revolução Neolítica",
+          "Agricultura e sedentarização"
+        ],
+        [
+          "Cavernas de Carajás",
+          "Abrigos pré-históricos na Amazônia"
+        ],
+        [
+          "Pinturas rupestres",
+          "Imagens em paredes de cavernas e rochas"
+        ],
+        [
+          "Carbono 14",
+          "Datação de restos orgânicos"
+        ]
+      ],
+      "explicacao": "A Revolução Neolítica trouxe agricultura e vida sedentária; Carajás guarda vestígios amazônicos; pinturas rupestres são arte em rocha; o carbono 14 data materiais orgânicos.",
+      "revisar": false
     }
   ]
 }

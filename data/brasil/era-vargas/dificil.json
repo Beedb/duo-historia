@@ -31,6 +31,392 @@
       "correta": 0,
       "explicacao": "Embora heróis políticos mobilizem símbolos preexistentes da cultura popular para não parecerem artificiais, a propaganda estatal tem papel decisivo na mitificação de governantes como Vargas, gerando debates intensos sobre seu legado.",
       "revisar": false
+    },
+    {
+      "id": "bra-var-d-003",
+      "tipo": "multipla",
+      "pergunta": "Na interpretação de Boris Fausto (A Revolução de 1930, 1970), o que caracterizou o Estado após 1930?",
+      "opcoes": [
+        "Um Estado de compromisso, sem grupo hegemônico, que arbitrava interesses",
+        "O domínio direto da burguesia industrial",
+        "O controle do Estado pelos operários",
+        "A volta da hegemonia cafeeira paulista"
+      ],
+      "correta": 0,
+      "explicacao": "Para Fausto, nenhum grupo conseguiu impor sua vontade sozinho, e o Estado ganhou autonomia para arbitrar entre eles. Ele rejeitou a ideia de uma tomada do poder pela burguesia.",
+      "revisar": false
+    },
+    {
+      "id": "bra-var-d-004",
+      "tipo": "multipla",
+      "pergunta": "Que interpretação clássica de 1930 foi criticada por Boris Fausto?",
+      "opcoes": [
+        "A de que 1930 foi uma revolução da burguesia industrial contra as oligarquias agrárias",
+        "A de que 1930 foi um golpe comunista",
+        "A de que 1930 restaurou a monarquia",
+        "A de que 1930 não teve participação militar"
+      ],
+      "correta": 0,
+      "explicacao": "Parte da historiografia marxista dos anos 1950 e 1960 via 1930 como revolução burguesa. Fausto mostrou que a burguesia industrial não liderou o movimento.",
+      "revisar": false
+    },
+    {
+      "id": "bra-var-d-005",
+      "tipo": "multipla",
+      "pergunta": "Como a teoria do populismo, em autores como Francisco Weffort, interpretou a relação de Vargas com os trabalhadores?",
+      "opcoes": [
+        "Como uma relação de controle das massas por um líder, combinada com concessões reais",
+        "Como uma revolução operária autônoma",
+        "Como uma relação sem qualquer apoio popular",
+        "Como uma aliança entre Vargas e os comunistas"
+      ],
+      "correta": 0,
+      "explicacao": "Weffort via o populismo como manipulação, mas também como forma de as massas pressionarem o Estado. Leituras posteriores enfatizaram só a manipulação.",
+      "revisar": false
+    },
+    {
+      "id": "bra-var-d-006",
+      "tipo": "multipla",
+      "pergunta": "Qual crítica Ângela de Castro Gomes (A invenção do trabalhismo, 1988) fez à noção de populismo?",
+      "opcoes": [
+        "Os trabalhadores não eram passivos e fizeram um pacto em que também ganharam",
+        "Os trabalhadores nunca apoiaram Vargas",
+        "O trabalhismo foi inventado após 1964",
+        "Vargas não criou nenhuma lei trabalhista"
+      ],
+      "correta": 0,
+      "explicacao": "A autora propõe um pacto trabalhista: o Estado oferecia direitos e reconhecimento, e os trabalhadores davam apoio por interesse e identificação, não por simples manipulação.",
+      "revisar": false
+    },
+    {
+      "id": "bra-var-d-007",
+      "tipo": "multipla",
+      "pergunta": "Qual é o debate entre outorga e conquista dos direitos trabalhistas na Era Vargas?",
+      "opcoes": [
+        "O governo apresentava os direitos como doação, mas houve lutas operárias anteriores",
+        "Todos concordam que os direitos foram só doação",
+        "Todos concordam que Vargas foi contra os direitos",
+        "Os direitos foram impostos pelos EUA"
+      ],
+      "correta": 0,
+      "explicacao": "A propaganda falava em dádiva do chefe. Historiadores lembram greves como a de 1917 e leis anteriores a 1930, mostrando que havia pressão de baixo.",
+      "revisar": false
+    },
+    {
+      "id": "bra-var-d-008",
+      "tipo": "multipla",
+      "pergunta": "O que caracteriza o corporativismo adotado no Brasil a partir de 1930?",
+      "opcoes": [
+        "Organização de patrões e empregados em entidades oficiais, sob arbitragem do Estado",
+        "Livre concorrência entre sindicatos independentes",
+        "Proibição de qualquer associação de trabalhadores",
+        "Controle das empresas pelos trabalhadores"
+      ],
+      "correta": 0,
+      "explicacao": "O corporativismo buscava conciliar capital e trabalho e negava a luta de classes. Daí o sindicato único por categoria e a Justiça do Trabalho.",
+      "revisar": false
+    },
+    {
+      "id": "bra-var-d-009",
+      "tipo": "multipla",
+      "pergunta": "Como a historiografia costuma classificar o Estado Novo em relação ao fascismo europeu?",
+      "opcoes": [
+        "Autoritário, com elementos fascistas, mas sem partido único de massas",
+        "Totalitário idêntico ao nazismo",
+        "Liberal democrático",
+        "Socialista"
+      ],
+      "correta": 0,
+      "explicacao": "O Estado Novo teve propaganda, censura e corporativismo, mas não criou partido único nem mobilização permanente das massas. A classificação ainda é debatida.",
+      "revisar": false
+    },
+    {
+      "id": "bra-var-d-010",
+      "tipo": "multipla",
+      "pergunta": "Como historiadores analisam a propaganda do DIP?",
+      "opcoes": [
+        "Como construção deliberada do culto à figura de Vargas como pai dos pobres",
+        "Como mera informação neutra",
+        "Como propaganda contra o próprio governo",
+        "Como algo sem efeito sobre a população"
+      ],
+      "correta": 0,
+      "explicacao": "Rádio, cinejornais, cartilhas escolares e festas cívicas montaram a imagem do líder protetor, que sobreviveu ao fim do Estado Novo.",
+      "revisar": false
+    },
+    {
+      "id": "bra-var-d-011",
+      "tipo": "multipla",
+      "pergunta": "Segundo José Murilo de Carvalho (Cidadania no Brasil, 2001), o que a Era Vargas mostra sobre a ordem dos direitos no país?",
+      "opcoes": [
+        "Os direitos sociais vieram antes, num período de restrição dos direitos políticos",
+        "Os direitos civis vieram primeiro, como na Inglaterra",
+        "Os direitos políticos foram ampliados ao máximo",
+        "Nenhum direito foi criado"
+      ],
+      "correta": 0,
+      "explicacao": "Carvalho inverte a sequência inglesa: no Brasil, direitos sociais foram ampliados enquanto os políticos eram suprimidos, o que marcou a cultura política.",
+      "revisar": false
+    },
+    {
+      "id": "bra-var-d-012",
+      "tipo": "multipla",
+      "pergunta": "Qual sequência de direitos o sociólogo T. H. Marshall descreveu para a Inglaterra, usada como contraste por José Murilo de Carvalho?",
+      "opcoes": [
+        "Civis, depois políticos, depois sociais",
+        "Sociais, depois políticos, depois civis",
+        "Políticos, depois sociais, depois civis",
+        "Todos ao mesmo tempo"
+      ],
+      "correta": 0,
+      "explicacao": "Marshall descreveu direitos civis no século XVIII, políticos no XIX e sociais no XX. No Brasil, a ordem foi outra.",
+      "revisar": false
+    },
+    {
+      "id": "bra-var-d-013",
+      "tipo": "multipla",
+      "pergunta": "O que José Murilo de Carvalho chama de estadania?",
+      "opcoes": [
+        "Uma cidadania construída a partir do Estado, e não da organização da sociedade",
+        "A cidadania plena dos países ricos",
+        "A divisão do país em estados federados",
+        "O voto obrigatório"
+      ],
+      "correta": 0,
+      "explicacao": "O termo indica que os direitos chegaram de cima, pelo Estado, o que favoreceu a valorização do Executivo e do líder.",
+      "revisar": false
+    },
+    {
+      "id": "bra-var-d-014",
+      "tipo": "multipla",
+      "pergunta": "Por que a exclusão dos trabalhadores rurais da legislação trabalhista é relevante para entender a Era Vargas?",
+      "opcoes": [
+        "Preservou o poder dos grandes proprietários, aliados do regime",
+        "Mostra que não havia trabalhadores no campo",
+        "Indica que o campo já tinha todos os direitos",
+        "Prova que Vargas era contra a indústria"
+      ],
+      "correta": 0,
+      "explicacao": "Estender os direitos ao campo afrontaria as oligarquias rurais. O pacto varguista modernizou as cidades sem mexer na estrutura agrária.",
+      "revisar": false
+    },
+    {
+      "id": "bra-var-d-015",
+      "tipo": "multipla",
+      "pergunta": "Qual mudança o Estado Novo trouxe em relação ao federalismo da República Velha?",
+      "opcoes": [
+        "Forte centralização, com fim da autonomia dos estados",
+        "Mais autonomia para os estados",
+        "Independência dos estados do Sul",
+        "Volta das províncias imperiais"
+      ],
+      "correta": 0,
+      "explicacao": "Interventores, fim das bandeiras e hinos estaduais e controle federal dos impostos reduziram o poder das oligarquias regionais.",
+      "revisar": false
+    },
+    {
+      "id": "bra-var-d-016",
+      "tipo": "multipla",
+      "pergunta": "Como a historiografia interpreta o papel do Estado na industrialização da Era Vargas?",
+      "opcoes": [
+        "O Estado passou a investir diretamente na indústria de base, como aço e minério",
+        "O Estado se retirou da economia",
+        "A industrialização foi obra só do capital estrangeiro",
+        "A indústria cresceu sem relação com o Estado"
+      ],
+      "correta": 0,
+      "explicacao": "CSN, Vale do Rio Doce e o Conselho Nacional do Petróleo mostram o Estado como indutor e empresário, marca do nacional-desenvolvimentismo.",
+      "revisar": false
+    },
+    {
+      "id": "bra-var-d-017",
+      "tipo": "multipla",
+      "pergunta": "Como o historiador Gerson Moura descreveu a política externa de Vargas até 1942?",
+      "opcoes": [
+        "Autonomia na dependência: barganha entre EUA e Alemanha",
+        "Alinhamento total à União Soviética",
+        "Isolamento completo",
+        "Submissão automática à Alemanha"
+      ],
+      "correta": 0,
+      "explicacao": "Para Moura, Vargas explorou a rivalidade entre as potências para obter vantagens, até o alinhamento aos EUA em 1942.",
+      "revisar": false
+    },
+    {
+      "id": "bra-var-d-018",
+      "tipo": "multipla",
+      "pergunta": "Qual ideia era comum a intelectuais do Estado Novo, como Francisco Campos e Oliveira Vianna?",
+      "opcoes": [
+        "A crítica ao liberalismo e a defesa de um Estado forte",
+        "A defesa do liberalismo e do federalismo",
+        "A defesa da revolução socialista",
+        "A defesa da volta da monarquia"
+      ],
+      "correta": 0,
+      "explicacao": "Para eles, o liberalismo não servia à realidade brasileira. Francisco Campos redigiu a Constituição de 1937.",
+      "revisar": false
+    },
+    {
+      "id": "bra-var-d-019",
+      "tipo": "multipla",
+      "pergunta": "Que contraste Oliveira Vianna usava para criticar a República liberal?",
+      "opcoes": [
+        "Entre um país legal, das leis copiadas, e um país real, diferente delas",
+        "Entre o Norte agrícola e o Sul industrial",
+        "Entre a cidade e o campo apenas",
+        "Entre monarquia e república"
+      ],
+      "correta": 0,
+      "explicacao": "Para Oliveira Vianna, as instituições liberais eram importadas e não correspondiam à sociedade brasileira, o que justificaria um Estado centralizador.",
+      "revisar": false
+    },
+    {
+      "id": "bra-var-d-020",
+      "tipo": "multipla",
+      "pergunta": "Como a memória de 1932 foi construída em São Paulo ao longo do século XX?",
+      "opcoes": [
+        "Como uma epopeia paulista, celebrada com feriado e monumentos",
+        "Como uma derrota vergonhosa a ser esquecida",
+        "Como um levante comunista",
+        "Como uma vitória de Vargas"
+      ],
+      "correta": 0,
+      "explicacao": "O 9 de julho virou feriado estadual e símbolo de identidade paulista. Historiadores analisam essa memória como construção política.",
+      "revisar": false
+    },
+    {
+      "id": "bra-var-d-021",
+      "tipo": "multipla",
+      "pergunta": "O que foi a campanha de nacionalização do ensino no Estado Novo?",
+      "opcoes": [
+        "Restrição ao ensino em línguas estrangeiras em colônias de imigrantes",
+        "Criação de universidades estrangeiras no Brasil",
+        "Fim das escolas públicas",
+        "Ensino obrigatório de alemão"
+      ],
+      "correta": 0,
+      "explicacao": "Escolas de imigrantes alemães, italianos e japoneses foram obrigadas a ensinar em português. Com a guerra, a repressão a esses grupos aumentou.",
+      "revisar": false
+    },
+    {
+      "id": "bra-var-d-022",
+      "tipo": "multipla",
+      "pergunta": "Que paradoxo os historiadores apontam na gestão de Gustavo Capanema no Ministério da Educação?",
+      "opcoes": [
+        "Intelectuais modernistas trabalharam para um regime autoritário",
+        "O ministério não teve nenhum intelectual",
+        "O ministério combatia toda arte moderna",
+        "Capanema era contra a educação pública"
+      ],
+      "correta": 0,
+      "explicacao": "Drummond foi chefe de gabinete, e o prédio do ministério teve projeto de Lúcio Costa e equipe. Arte moderna e nacionalismo serviram ao projeto do regime.",
+      "revisar": false
+    },
+    {
+      "id": "bra-var-d-023",
+      "tipo": "multipla",
+      "pergunta": "Que papel os tenentes tiveram no Governo Provisório (1930–1934)?",
+      "opcoes": [
+        "Ocuparam interventorias e defenderam reformas e adiamento da Constituição",
+        "Foram todos presos por Vargas",
+        "Apoiaram a volta de Washington Luís",
+        "Não tiveram nenhum cargo"
+      ],
+      "correta": 0,
+      "explicacao": "Os tenentes, reunidos no Clube 3 de Outubro, disputaram espaço com as oligarquias dissidentes e queriam um governo forte antes de uma Constituinte.",
+      "revisar": false
+    },
+    {
+      "id": "bra-var-d-024",
+      "tipo": "multipla",
+      "pergunta": "Como Rodrigo Patto Sá Motta (Em guarda contra o perigo vermelho, 2002) analisa o anticomunismo dos anos 1930?",
+      "opcoes": [
+        "Como imaginário mobilizado politicamente, que justificou o golpe de 1937",
+        "Como medo sem efeito na política",
+        "Como invenção dos comunistas",
+        "Como fenômeno surgido só em 1964"
+      ],
+      "correta": 0,
+      "explicacao": "O autor mostra que o perigo vermelho foi amplificado após 1935 e usado para legitimar medidas autoritárias, como o Plano Cohen.",
+      "revisar": false
+    },
+    {
+      "id": "bra-var-d-025",
+      "tipo": "multipla",
+      "pergunta": "Por que a Revolução de 1930 é chamada por alguns de revolução de elites?",
+      "opcoes": [
+        "Foi liderada por oligarquias dissidentes e militares, sem grande participação popular",
+        "Foi feita por camponeses armados",
+        "Teve participação de toda a população",
+        "Foi conduzida por partidos operários"
+      ],
+      "correta": 0,
+      "explicacao": "O movimento uniu oligarquias de MG, RS e PB com tenentes. A participação popular existiu, mas não dirigiu o processo.",
+      "revisar": false
+    },
+    {
+      "id": "bra-var-d-026",
+      "tipo": "multipla",
+      "pergunta": "Que diferença o golpe de 1937 marca em relação à Revolução de 1930?",
+      "opcoes": [
+        "Em 1937 não houve luta armada: foi um golpe do próprio governo",
+        "Em 1937 houve guerra civil",
+        "Em 1937 Vargas foi deposto",
+        "Em 1937 um novo presidente foi eleito"
+      ],
+      "correta": 0,
+      "explicacao": "Em 1930 houve combates para derrubar um governo. Em 1937, Vargas, já no poder, fechou o Congresso e outorgou nova Constituição.",
+      "revisar": false
+    },
+    {
+      "id": "bra-var-d-027",
+      "tipo": "verdadeiro_falso",
+      "pergunta": "Para a historiografia recente, a ideia de que os trabalhadores foram mera massa de manobra de Vargas é insuficiente.",
+      "correta": true,
+      "explicacao": "Verdadeiro. Estudos sobre o trabalhismo mostram que os trabalhadores tinham interesses próprios e usavam a legislação a seu favor.",
+      "revisar": false
+    },
+    {
+      "id": "bra-var-d-028",
+      "tipo": "verdadeiro_falso",
+      "pergunta": "Há consenso entre historiadores de que o Estado Novo foi um regime totalitário idêntico ao nazismo.",
+      "correta": false,
+      "explicacao": "Falso. A maioria o vê como autoritário, com traços fascistas, mas sem partido único e sem a mobilização total do nazismo.",
+      "revisar": false
+    },
+    {
+      "id": "bra-var-d-029",
+      "tipo": "fonte",
+      "trecho": "Enquanto não se reunir o Parlamento nacional, o Presidente da República terá o poder de expedir decretos-leis sobre todas as matérias da competência legislativa da União.",
+      "autor": "Constituição de 1937, art. 180",
+      "ano": 1937,
+      "pergunta": "O que o artigo revela sobre o funcionamento do Estado Novo?",
+      "opcoes": [
+        "Como o Parlamento nunca foi convocado, o presidente legislou sozinho",
+        "O Parlamento passou a ter mais poderes que o presidente",
+        "Os decretos dependiam de aprovação popular",
+        "O artigo nunca foi usado"
+      ],
+      "correta": 0,
+      "explicacao": "O Parlamento previsto nunca se reuniu, e o provisório virou permanente: Vargas governou por decretos-leis até 1945.",
+      "revisar": false
+    },
+    {
+      "id": "bra-var-d-030",
+      "tipo": "fonte",
+      "trecho": "É declarado em todo o país o estado de emergência.",
+      "autor": "Constituição de 1937, art. 186",
+      "ano": 1937,
+      "pergunta": "Qual era o efeito prático desse artigo?",
+      "opcoes": [
+        "Permitia suspender garantias individuais e reprimir opositores",
+        "Garantia eleições diretas",
+        "Ampliava a liberdade de imprensa",
+        "Dava autonomia aos estados"
+      ],
+      "correta": 0,
+      "explicacao": "O estado de emergência, mantido até o fim do Estado Novo, deu base legal a prisões, censura e perseguição política.",
+      "revisar": false
     }
   ]
 }

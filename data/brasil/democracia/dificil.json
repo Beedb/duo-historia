@@ -31,6 +31,395 @@
       "correta": 2,
       "explicacao": "A redemocratização pós-1945 deu origem a novos partidos e à Constituição de 1946, mas a experiência democrática foi atravessada por intensas disputas ideológicas e crises políticas que culminaram no suicídio de Vargas e, posteriormente, no golpe de 1964.",
       "revisar": false
+    },
+    {
+      "id": "bra-dem-d-003",
+      "tipo": "multipla",
+      "pergunta": "Qual é a tese de René Dreifuss em 1964: a conquista do Estado (1981)?",
+      "opcoes": [
+        "O golpe resultou de uma articulação planejada de empresários e militares, por meio do IPES e do IBAD",
+        "O golpe foi um acidente sem planejamento",
+        "O golpe foi feito por comunistas",
+        "Os empresários foram contra o golpe"
+      ],
+      "correta": 0,
+      "explicacao": "Dreifuss analisou documentos do IPES e mostrou a ação organizada de empresários nacionais e estrangeiros com militares.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dem-d-004",
+      "tipo": "multipla",
+      "pergunta": "Qual é a tese de Argelina Figueiredo em Democracia ou reformas? (1993)?",
+      "opcoes": [
+        "A radicalização de direita e esquerda e o pouco compromisso com a democracia impediram um acordo sobre as reformas",
+        "O golpe era inevitável por causa da economia",
+        "Jango foi deposto só pelos EUA",
+        "Não havia crise política em 1964"
+      ],
+      "correta": 0,
+      "explicacao": "A autora destaca escolhas políticas: as reformas eram possíveis, mas nenhum dos lados aceitou negociar dentro das regras democráticas.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dem-d-005",
+      "tipo": "multipla",
+      "pergunta": "O que Wanderley Guilherme dos Santos chamou de paralisia decisória na crise de 1964?",
+      "opcoes": [
+        "A fragmentação do Congresso impedia aprovar qualquer decisão importante",
+        "O excesso de poder do presidente",
+        "A ausência de partidos",
+        "A falta de militares no governo"
+      ],
+      "correta": 0,
+      "explicacao": "Com partidos divididos e radicalizados, o sistema político não conseguia decidir, o que alimentou soluções de força.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dem-d-006",
+      "tipo": "multipla",
+      "pergunta": "Como Caio Navarro de Toledo (O governo Goulart e o golpe de 64, 1982) interpretou o golpe?",
+      "opcoes": [
+        "Como golpe contra as reformas e contra a democracia",
+        "Como revolução popular",
+        "Como defesa da democracia",
+        "Como movimento sem apoio civil"
+      ],
+      "correta": 0,
+      "explicacao": "Para Toledo, o golpe teve um sentido de classe: barrar as reformas e a participação popular crescente.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dem-d-007",
+      "tipo": "multipla",
+      "pergunta": "Por que muitos historiadores usam a expressão golpe civil-militar?",
+      "opcoes": [
+        "Para destacar o apoio de empresários, políticos, imprensa e Igreja ao golpe",
+        "Para dizer que só civis participaram",
+        "Para negar a participação militar",
+        "Para indicar que o golpe foi pacífico e legal"
+      ],
+      "correta": 0,
+      "explicacao": "O termo mostra que o golpe não foi só obra dos quartéis. Alguns autores usam empresarial-militar para enfatizar o papel dos empresários.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dem-d-008",
+      "tipo": "multipla",
+      "pergunta": "O que foi a Operação Brother Sam?",
+      "opcoes": [
+        "Plano dos EUA de enviar navios para apoiar os golpistas, caso houvesse resistência",
+        "Missão da ONU no Brasil",
+        "Ajuda soviética a Jango",
+        "Plano de Jango para resistir ao golpe"
+      ],
+      "correta": 0,
+      "explicacao": "Documentos liberados nos EUA mostraram a força-tarefa naval. Como não houve resistência, ela não chegou a agir.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dem-d-009",
+      "tipo": "multipla",
+      "pergunta": "Como Francisco Weffort explicou a crise de 1964 a partir da noção de populismo?",
+      "opcoes": [
+        "O pacto entre líder e massas se tornou insustentável com a mobilização popular",
+        "O populismo se fortaleceu sem crise",
+        "As massas apoiaram unanimemente o golpe",
+        "O populismo nunca existiu no Brasil"
+      ],
+      "correta": 0,
+      "explicacao": "Para Weffort, as massas passaram a pressionar além dos limites aceitos pelas elites, e o equilíbrio populista ruiu.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dem-d-010",
+      "tipo": "multipla",
+      "pergunta": "Por que a democracia de 1946–1964 é descrita como limitada?",
+      "opcoes": [
+        "Analfabetos não votavam e o PCB foi posto na ilegalidade",
+        "Não havia eleições",
+        "Só militares podiam votar",
+        "A imprensa era toda estatal"
+      ],
+      "correta": 0,
+      "explicacao": "Grande parte dos adultos era analfabeta e ficava fora das eleições, e o principal partido de esquerda foi proibido em 1947.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dem-d-011",
+      "tipo": "multipla",
+      "pergunta": "Segundo Alfred Stepan (Os militares na política, 1971), qual papel os militares exerciam antes de 1964?",
+      "opcoes": [
+        "Um papel moderador: intervinham e devolviam o poder aos civis",
+        "Nenhum papel político",
+        "Governavam diretamente desde 1945",
+        "Eram subordinados a partidos de esquerda"
+      ],
+      "correta": 0,
+      "explicacao": "Para Stepan, em 1945, 1954 e 1955 os militares agiram como árbitros. Em 1964 eles decidiram ficar no poder.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dem-d-012",
+      "tipo": "multipla",
+      "pergunta": "Qual interpretação destaca fatores econômicos na crise de 1964?",
+      "opcoes": [
+        "Inflação alta e desaceleração após o ciclo de substituição de importações",
+        "Crescimento econômico recorde em 1963",
+        "Fim da inflação",
+        "Descoberta de petróleo"
+      ],
+      "correta": 0,
+      "explicacao": "Em 1963 o crescimento caiu e a inflação passou de 70% ao ano, ampliando os conflitos distributivos.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dem-d-013",
+      "tipo": "multipla",
+      "pergunta": "Qual ideia da Escola Superior de Guerra, criada em 1949, influenciou o golpe?",
+      "opcoes": [
+        "A doutrina de segurança nacional, com foco no inimigo interno",
+        "A defesa do pacifismo",
+        "A neutralidade total na Guerra Fria",
+        "A defesa do comunismo"
+      ],
+      "correta": 0,
+      "explicacao": "A ESG via a subversão interna como principal ameaça. Essa doutrina guiou o regime após 1964.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dem-d-014",
+      "tipo": "multipla",
+      "pergunta": "Como a Revolução Cubana (1959) afetou a política brasileira?",
+      "opcoes": [
+        "Aumentou o medo do comunismo e a atenção dos EUA à América Latina",
+        "Fez o Brasil aderir ao socialismo",
+        "Não teve impacto",
+        "Aproximou o Brasil da União Soviética militarmente"
+      ],
+      "correta": 0,
+      "explicacao": "Após Cuba, os EUA lançaram a Aliança para o Progresso e passaram a apoiar governos anticomunistas na região.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dem-d-015",
+      "tipo": "multipla",
+      "pergunta": "Por que historiadores questionam a memória dos anos JK como anos dourados?",
+      "opcoes": [
+        "Houve inflação, endividamento e tentativas de golpe, como Jacareacanga e Aragarças",
+        "Não houve nenhum crescimento",
+        "JK foi deposto",
+        "Brasília nunca foi construída"
+      ],
+      "correta": 0,
+      "explicacao": "A memória idealizada destaca o otimismo e a bossa nova, mas o período teve revoltas de oficiais da Aeronáutica (1956 e 1959) e crise financeira.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dem-d-016",
+      "tipo": "multipla",
+      "pergunta": "Como os historiadores costumam caracterizar a liderança de Jânio Quadros?",
+      "opcoes": [
+        "Personalista, acima dos partidos, apesar do apoio da UDN",
+        "Totalmente subordinada à UDN",
+        "Comunista",
+        "Ligada ao PTB de Vargas"
+      ],
+      "correta": 0,
+      "explicacao": "Jânio construiu uma imagem pessoal e moralista, sem vínculo forte com partidos, o que o deixou isolado no Congresso.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dem-d-017",
+      "tipo": "multipla",
+      "pergunta": "Por que as tentativas golpistas de 1954, 1955 e 1961 fracassaram e a de 1964 não?",
+      "opcoes": [
+        "Em 1964 havia maior unidade militar e amplo apoio civil e externo",
+        "Em 1964 não havia Congresso",
+        "Em 1964 Jango apoiou o golpe",
+        "As tentativas anteriores não existiram"
+      ],
+      "correta": 0,
+      "explicacao": "Antes, os militares estavam divididos e havia apoio ao respeito à Constituição. Em 1964, a maioria dos oficiais, governadores e empresários se uniu contra Jango.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dem-d-018",
+      "tipo": "multipla",
+      "pergunta": "Que crítica autores como Jorge Ferreira fazem à atuação das esquerdas antes de 1964?",
+      "opcoes": [
+        "Parte delas também desvalorizava as regras democráticas, como no lema reforma agrária na lei ou na marra",
+        "As esquerdas defendiam o golpe militar",
+        "As esquerdas não existiam",
+        "As esquerdas apoiavam a UDN"
+      ],
+      "correta": 0,
+      "explicacao": "Ferreira não iguala os lados, mas mostra que a radicalização também ocorreu à esquerda e contribuiu para o isolamento de Jango.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dem-d-019",
+      "tipo": "multipla",
+      "pergunta": "Por que o nome do 31 de março de 1964 está em disputa na memória?",
+      "opcoes": [
+        "Apoiadores falam em revolução; a historiografia usa golpe, pela deposição de um presidente eleito",
+        "Todos chamam o evento de revolução",
+        "Todos chamam o evento de eleição",
+        "O evento não tem nome"
+      ],
+      "correta": 0,
+      "explicacao": "Os militares chamaram o movimento de Revolução de 1964. Historiadores usam golpe porque houve ruptura da ordem constitucional.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dem-d-020",
+      "tipo": "multipla",
+      "pergunta": "Como a grande imprensa se posicionou diante de Jango em 1964?",
+      "opcoes": [
+        "A maioria dos grandes jornais apoiou sua deposição",
+        "Todos os jornais defenderam Jango",
+        "A imprensa estava proibida",
+        "A imprensa ficou neutra"
+      ],
+      "correta": 0,
+      "explicacao": "O Correio da Manhã publicou os editoriais Basta! e Fora!. Vários jornais depois se distanciaram do regime.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dem-d-021",
+      "tipo": "multipla",
+      "pergunta": "Como estava dividida a Igreja Católica antes do golpe?",
+      "opcoes": [
+        "Setores conservadores apoiaram as marchas, e outros atuavam com movimentos populares",
+        "Toda a Igreja apoiou Jango",
+        "Toda a Igreja apoiou o golpe",
+        "A Igreja não tinha atuação política"
+      ],
+      "correta": 0,
+      "explicacao": "Grupos conservadores estiveram nas marchas; já o Movimento de Educação de Base e a juventude católica atuavam em projetos sociais.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dem-d-022",
+      "tipo": "multipla",
+      "pergunta": "Por que a alfabetização de adultos com o método Paulo Freire, como em Angicos (1963), tinha peso político?",
+      "opcoes": [
+        "Analfabetos não votavam, e alfabetizar ampliava o eleitorado",
+        "Era proibida pela Constituição",
+        "Ensinava apenas línguas estrangeiras",
+        "Era feita só por militares"
+      ],
+      "correta": 0,
+      "explicacao": "Alfabetizar trabalhadores rurais significava novos eleitores, o que preocupava as elites locais. O programa foi extinto em 1964.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dem-d-023",
+      "tipo": "multipla",
+      "pergunta": "Que continuidade da Era Vargas permaneceu na Constituição de 1946?",
+      "opcoes": [
+        "A estrutura sindical oficial da CLT",
+        "O Estado Novo",
+        "Os decretos-leis sem Congresso",
+        "A censura do DIP"
+      ],
+      "correta": 0,
+      "explicacao": "A Carta de 1946 restaurou liberdades, mas manteve o sindicato oficial, o imposto sindical e a Justiça do Trabalho.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dem-d-024",
+      "tipo": "multipla",
+      "pergunta": "Que irregularidade é apontada na declaração de vacância da presidência em 2 de abril de 1964?",
+      "opcoes": [
+        "Jango ainda estava no país, no Rio Grande do Sul",
+        "Jango havia renunciado formalmente",
+        "O Congresso não existia",
+        "Não havia presidente do Senado"
+      ],
+      "correta": 0,
+      "explicacao": "O presidente do Senado, Auro de Moura Andrade, declarou o cargo vago com Jango ainda em território nacional.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dem-d-025",
+      "tipo": "multipla",
+      "pergunta": "Por que o sindicalismo dos anos 1950–1960 é visto como mais autônomo que o do Estado Novo?",
+      "opcoes": [
+        "Surgiram organizações paralelas, como o CGT, fora da estrutura oficial",
+        "Os sindicatos foram proibidos",
+        "Só havia sindicatos patronais",
+        "Os sindicatos eram dirigidos por militares"
+      ],
+      "correta": 0,
+      "explicacao": "Mesmo dentro da estrutura varguista, os trabalhadores criaram entidades intersindicais e fizeram greves políticas.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dem-d-026",
+      "tipo": "verdadeiro_falso",
+      "pergunta": "Para Argelina Figueiredo, a radicalização e o pouco compromisso com a democracia de vários atores ajudam a explicar 1964.",
+      "correta": true,
+      "explicacao": "Verdadeiro. A autora enfatiza as escolhas políticas, e não uma inevitabilidade econômica.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dem-d-027",
+      "tipo": "verdadeiro_falso",
+      "pergunta": "Há consenso historiográfico de que o golpe de 1964 foi exclusivamente uma ação dos Estados Unidos.",
+      "correta": false,
+      "explicacao": "Falso. Os EUA apoiaram o golpe, mas a historiografia destaca os atores internos: militares, empresários, políticos e imprensa.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dem-d-028",
+      "tipo": "fonte",
+      "trecho": "O Sr. Getúlio Vargas, senador, não deve ser candidato à presidência. Candidato, não deve ser eleito. Eleito, não deve tomar posse. Empossado, devemos recorrer à revolução para impedi-lo de governar.",
+      "autor": "Carlos Lacerda, Tribuna da Imprensa",
+      "ano": 1950,
+      "pergunta": "O que o trecho revela sobre parte da oposição udenista?",
+      "opcoes": [
+        "Disposição de recorrer a meios não democráticos para barrar um adversário",
+        "Defesa incondicional do voto popular",
+        "Apoio à candidatura de Vargas",
+        "Neutralidade diante da eleição"
+      ],
+      "correta": 0,
+      "explicacao": "O texto aceita romper a ordem legal se Vargas vencesse. Esse golpismo reapareceu em 1954, 1955 e 1964.",
+      "revisar": true
+    },
+    {
+      "id": "bra-dem-d-029",
+      "tipo": "fonte",
+      "trecho": "Serenamente dou o primeiro passo no caminho da eternidade e saio da vida para entrar na história.",
+      "autor": "Getúlio Vargas, carta-testamento",
+      "ano": 1954,
+      "pergunta": "Que efeito político teve a carta-testamento?",
+      "opcoes": [
+        "Transformou a morte de Vargas em ato político e fortaleceu o trabalhismo",
+        "Encerrou a carreira do PTB",
+        "Apoiou a UDN",
+        "Pediu um golpe militar"
+      ],
+      "correta": 0,
+      "explicacao": "A carta acusava inimigos internos e externos e foi lida no rádio. A comoção ajudou JK e Jango a vencerem em 1955.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dem-d-030",
+      "tipo": "fonte",
+      "trecho": "Forças terríveis levantam-se contra mim e me intrigam ou infamam, até com a desculpa da colaboração.",
+      "autor": "Jânio Quadros, carta de renúncia",
+      "ano": 1961,
+      "pergunta": "Como os historiadores costumam interpretar essa justificativa?",
+      "opcoes": [
+        "Como discurso vago que escondia uma possível manobra para voltar com mais poderes",
+        "Como denúncia comprovada de um golpe",
+        "Como pedido de apoio aos comunistas",
+        "Como anúncio de candidatura"
+      ],
+      "correta": 0,
+      "explicacao": "Jânio não identificou as forças. Muitos autores veem a renúncia como aposta de que o Congresso e os militares o chamariam de volta.",
+      "revisar": false
     }
   ]
 }

@@ -1,0 +1,392 @@
+{
+  "materia": "brasil",
+  "tempo": "democracia",
+  "dificuldade": "medio",
+  "licao": "Nacionalismo, desenvolvimentismo e Reformas de Base",
+  "questoes": [
+    {
+      "id": "bra-dem-m-001",
+      "tipo": "multipla",
+      "pergunta": "Como eram eleitos o presidente e o vice pela Constituição de 1946?",
+      "opcoes": [
+        "Em votações separadas, podendo ser de chapas diferentes",
+        "Em chapa única obrigatória",
+        "Pelo Congresso, de forma indireta",
+        "O vice era nomeado pelo presidente"
+      ],
+      "correta": 0,
+      "explicacao": "O voto separado explica 1960: venceu Jânio, apoiado pela UDN, e o vice eleito foi Jango, do PTB.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dem-m-002",
+      "tipo": "multipla",
+      "pergunta": "Por que o governo Dutra rompeu relações com a União Soviética em 1947?",
+      "opcoes": [
+        "Alinhou-se aos Estados Unidos no início da Guerra Fria",
+        "Foi invadido pela União Soviética",
+        "Queria aderir ao socialismo",
+        "Seguia uma ordem da ONU"
+      ],
+      "correta": 0,
+      "explicacao": "O alinhamento aos EUA veio junto com o combate ao comunismo no país, incluindo a cassação do PCB.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dem-m-003",
+      "tipo": "multipla",
+      "pergunta": "Qual foi um efeito da abertura às importações no início do governo Dutra?",
+      "opcoes": [
+        "Esgotamento das reservas acumuladas durante a guerra",
+        "Aumento das reservas em ouro",
+        "Fim da indústria nacional",
+        "Proibição do comércio exterior"
+      ],
+      "correta": 0,
+      "explicacao": "As divisas guardadas na Segunda Guerra foram gastas rapidamente em importações, e o governo teve de voltar a controlar o câmbio.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dem-m-004",
+      "tipo": "multipla",
+      "pergunta": "Por que a Petrobras virou símbolo do nacionalismo no segundo governo Vargas?",
+      "opcoes": [
+        "Estabeleceu o monopólio estatal da exploração de petróleo",
+        "Foi vendida a empresas americanas",
+        "Proibiu o uso de petróleo no país",
+        "Era uma empresa privada estrangeira"
+      ],
+      "correta": 0,
+      "explicacao": "A lei de 1953 deu à Petrobras o monopólio da exploração, vitória da campanha O petróleo é nosso contra a abertura ao capital estrangeiro.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dem-m-005",
+      "tipo": "multipla",
+      "pergunta": "Qual proposta de João Goulart, ministro do Trabalho, provocou o Manifesto dos Coronéis em 1954?",
+      "opcoes": [
+        "Aumento de 100% do salário mínimo",
+        "Fim da CLT",
+        "Privatização da Petrobras",
+        "Volta do Estado Novo"
+      ],
+      "correta": 0,
+      "explicacao": "Os oficiais criticaram o aumento e o que viam como agitação sindical. Jango deixou o ministério, mas Vargas concedeu o aumento.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dem-m-006",
+      "tipo": "multipla",
+      "pergunta": "Que efeito político imediato teve o suicídio de Vargas em 1954?",
+      "opcoes": [
+        "A comoção popular adiou os planos de golpe da oposição",
+        "Os militares tomaram o poder no mesmo dia",
+        "A UDN venceu a eleição seguinte com folga",
+        "O Congresso foi fechado"
+      ],
+      "correta": 0,
+      "explicacao": "Multidões foram às ruas contra os opositores. A carta-testamento virou o jogo, e a eleição de 1955 foi vencida por JK, herdeiro do getulismo.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dem-m-007",
+      "tipo": "multipla",
+      "pergunta": "O que foi o movimento de 11 de novembro de 1955, liderado pelo general Henrique Lott?",
+      "opcoes": [
+        "Um contragolpe para garantir a posse de JK",
+        "Um golpe para impedir a posse de JK",
+        "Uma revolta comunista",
+        "A volta de Vargas ao poder"
+      ],
+      "correta": 0,
+      "explicacao": "Lott agiu contra setores que tramavam impedir a posse de JK e Jango. Foi chamado de contragolpe preventivo.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dem-m-008",
+      "tipo": "multipla",
+      "pergunta": "Como o governo JK financiou o crescimento industrial?",
+      "opcoes": [
+        "Com investimento estatal e grande entrada de capital estrangeiro",
+        "Apenas com exportação de café",
+        "Com o fechamento da economia ao exterior",
+        "Com a estatização de todas as empresas"
+      ],
+      "correta": 0,
+      "explicacao": "O desenvolvimentismo de JK combinou Estado, empresas nacionais e multinacionais. O tripé atraiu montadoras e financiou infraestrutura.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dem-m-009",
+      "tipo": "multipla",
+      "pergunta": "Qual foi um custo do Plano de Metas?",
+      "opcoes": [
+        "Aumento da inflação e da dívida externa",
+        "Queda da produção industrial",
+        "Fim da construção de estradas",
+        "Redução do número de fábricas"
+      ],
+      "correta": 0,
+      "explicacao": "A expansão acelerada foi paga com emissão de moeda e empréstimos externos, problema herdado pelos governos seguintes.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dem-m-010",
+      "tipo": "multipla",
+      "pergunta": "Por que JK rompeu com o FMI em 1959?",
+      "opcoes": [
+        "O FMI exigia cortes que comprometeriam o Plano de Metas",
+        "O FMI queria financiar Brasília sem condições",
+        "O Brasil pagou toda a dívida",
+        "O FMI exigiu a volta de Vargas"
+      ],
+      "correta": 0,
+      "explicacao": "O FMI condicionava empréstimos a um ajuste duro. JK preferiu manter o crescimento e ganhou apoio dos nacionalistas.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dem-m-011",
+      "tipo": "multipla",
+      "pergunta": "Qual objetivo político e econômico justificava a construção de Brasília?",
+      "opcoes": [
+        "Interiorizar o desenvolvimento e integrar o território",
+        "Proteger a capital de invasões marítimas apenas",
+        "Aproximar a capital de Buenos Aires",
+        "Abandonar a região Sudeste"
+      ],
+      "correta": 0,
+      "explicacao": "A mudança da capital, prevista desde a Constituição de 1891, buscava ocupar o Centro-Oeste e ligar as regiões por estradas.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dem-m-012",
+      "tipo": "multipla",
+      "pergunta": "Qual era a diferença entre nacionalistas e defensores do desenvolvimento associado nos anos 1950?",
+      "opcoes": [
+        "Os nacionalistas queriam limitar o capital estrangeiro; os outros, atraí-lo",
+        "Os nacionalistas queriam a volta da monarquia",
+        "Os dois grupos defendiam o socialismo",
+        "Os dois eram contra a industrialização"
+      ],
+      "correta": 0,
+      "explicacao": "Ambos queriam industrializar. A divergência era sobre o papel do capital estrangeiro e do Estado.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dem-m-013",
+      "tipo": "multipla",
+      "pergunta": "Qual era o papel do ISEB, criado em 1955?",
+      "opcoes": [
+        "Formular ideias do nacional-desenvolvimentismo",
+        "Comandar a polícia política",
+        "Organizar as eleições",
+        "Financiar a oposição ao governo"
+      ],
+      "correta": 0,
+      "explicacao": "O Instituto Superior de Estudos Brasileiros reunia intelectuais que pensavam o desenvolvimento nacional. Foi fechado após o golpe de 1964.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dem-m-014",
+      "tipo": "multipla",
+      "pergunta": "O que propunha a política externa independente de Jânio e Jango?",
+      "opcoes": [
+        "Relações com todos os países, sem alinhamento automático a um bloco",
+        "Alinhamento total aos Estados Unidos",
+        "Alinhamento total à União Soviética",
+        "Isolamento diplomático"
+      ],
+      "correta": 0,
+      "explicacao": "O Brasil reatou relações com a URSS em 1961 e defendeu a autodeterminação de Cuba, buscando mercados e autonomia.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dem-m-015",
+      "tipo": "multipla",
+      "pergunta": "Que explicação Jânio Quadros deu para sua renúncia em 1961?",
+      "opcoes": [
+        "Disse ter sido pressionado por forças terríveis",
+        "Disse que estava doente",
+        "Disse que queria ser rei",
+        "Disse que tinha perdido uma eleição"
+      ],
+      "correta": 0,
+      "explicacao": "A carta falava em forças terríveis. Muitos historiadores interpretam a renúncia como aposta para voltar com mais poderes.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dem-m-016",
+      "tipo": "multipla",
+      "pergunta": "Por que os ministros militares tentaram vetar a posse de Jango em 1961?",
+      "opcoes": [
+        "Viam-no como próximo de sindicalistas e comunistas",
+        "Jango não havia sido eleito",
+        "Jango renunciou junto com Jânio",
+        "Jango queria fechar o Congresso"
+      ],
+      "correta": 0,
+      "explicacao": "Jango estava em viagem à China, e sua ligação com o trabalhismo e os sindicatos assustava setores militares.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dem-m-017",
+      "tipo": "multipla",
+      "pergunta": "Por que o parlamentarismo de 1961 é visto como solução de compromisso?",
+      "opcoes": [
+        "Evitou uma guerra civil, mas reduziu os poderes de Jango",
+        "Deu mais poderes a Jango",
+        "Agradou plenamente os militares e Brizola",
+        "Foi aprovado por plebiscito antes da posse"
+      ],
+      "correta": 0,
+      "explicacao": "A emenda foi aprovada às pressas no Congresso. Em 1963, o plebiscito derrubou o sistema.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dem-m-018",
+      "tipo": "multipla",
+      "pergunta": "O que foi o Plano Trienal, de 1962?",
+      "opcoes": [
+        "Plano de Celso Furtado para conter a inflação e retomar o crescimento",
+        "Plano de construção de Brasília",
+        "Plano militar para o golpe",
+        "Plano de privatização da Petrobras"
+      ],
+      "correta": 0,
+      "explicacao": "O plano exigia sacrifícios, como contenção de salários, e perdeu apoio dos dois lados. Foi abandonado em 1963.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dem-m-019",
+      "tipo": "multipla",
+      "pergunta": "Qual era o objetivo da Lei de Remessa de Lucros, aprovada em 1962?",
+      "opcoes": [
+        "Limitar o envio de lucros de empresas estrangeiras ao exterior",
+        "Proibir empresas estrangeiras no país",
+        "Isentar multinacionais de impostos",
+        "Estatizar todos os bancos"
+      ],
+      "correta": 0,
+      "explicacao": "A lei, de inspiração nacionalista, desagradou empresas e o governo americano, elevando a tensão com Jango.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dem-m-020",
+      "tipo": "multipla",
+      "pergunta": "O que eram o IPES e o IBAD?",
+      "opcoes": [
+        "Organizações empresariais que financiaram propaganda contra o governo Goulart",
+        "Órgãos do governo de Jango",
+        "Partidos de esquerda",
+        "Sindicatos de trabalhadores rurais"
+      ],
+      "correta": 0,
+      "explicacao": "O IBAD financiou candidatos de oposição em 1962 e foi investigado por uma CPI. O IPES produziu filmes e publicações contra as reformas.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dem-m-021",
+      "tipo": "multipla",
+      "pergunta": "Como a Revolta dos Marinheiros, em março de 1964, influenciou a crise?",
+      "opcoes": [
+        "Muitos oficiais viram quebra de hierarquia, reforçando o apoio ao golpe",
+        "Fortaleceu o apoio militar a Jango",
+        "Encerrou as Reformas de Base",
+        "Levou à renúncia de Jango"
+      ],
+      "correta": 0,
+      "explicacao": "A anistia dada aos marinheiros revoltosos foi vista por oficiais como tolerância com a indisciplina.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dem-m-022",
+      "tipo": "multipla",
+      "pergunta": "Qual lei de 1963 estendeu direitos trabalhistas aos trabalhadores do campo?",
+      "opcoes": [
+        "Estatuto do Trabalhador Rural",
+        "CLT",
+        "Lei Áurea",
+        "Lei de Terras"
+      ],
+      "correta": 0,
+      "explicacao": "O Estatuto chegou duas décadas após a CLT, que havia deixado o campo de fora. A Lei de Terras é de 1850.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dem-m-023",
+      "tipo": "multipla",
+      "pergunta": "O que foi o Comando Geral dos Trabalhadores (CGT), formado em 1962?",
+      "opcoes": [
+        "Uma central sindical que apoiou as Reformas de Base",
+        "Um órgão militar de repressão",
+        "Um partido conservador",
+        "Uma associação de fazendeiros"
+      ],
+      "correta": 0,
+      "explicacao": "O CGT não era previsto pela lei sindical, mas organizou greves políticas e foi aliado de Jango. Foi fechado após o golpe.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dem-m-024",
+      "tipo": "multipla",
+      "pergunta": "Quais grupos civis apoiaram o golpe de 1964?",
+      "opcoes": [
+        "Governadores como Lacerda, Magalhães Pinto e Ademar de Barros, além de empresários e grande imprensa",
+        "Apenas os sindicatos",
+        "Somente partidos de esquerda",
+        "Nenhum grupo civil"
+      ],
+      "correta": 0,
+      "explicacao": "O golpe teve apoio de governadores, empresários, grande parte da imprensa e de setores da Igreja e da classe média.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dem-m-025",
+      "tipo": "verdadeiro_falso",
+      "pergunta": "Na eleição de 1960, Jânio Quadros e João Goulart, de chapas diferentes, foram eleitos presidente e vice.",
+      "correta": true,
+      "explicacao": "Verdadeiro. Como presidente e vice eram votados separadamente, Jânio (com apoio da UDN) e Jango (PTB) venceram.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dem-m-026",
+      "tipo": "verdadeiro_falso",
+      "pergunta": "A Petrobras foi criada no governo Dutra.",
+      "correta": false,
+      "explicacao": "Falso. Foi criada em 1953, no segundo governo Vargas.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dem-m-027",
+      "tipo": "verdadeiro_falso",
+      "pergunta": "O governo JK foi marcado por inflação baixa e redução da dívida externa.",
+      "correta": false,
+      "explicacao": "Falso. O crescimento acelerado veio com aumento da inflação e da dívida.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dem-m-028",
+      "tipo": "verdadeiro_falso",
+      "pergunta": "O suicídio de Vargas provocou protestos populares contra seus opositores.",
+      "correta": true,
+      "explicacao": "Verdadeiro. Houve ataques a jornais de oposição e manifestações em várias cidades.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dem-m-029",
+      "tipo": "verdadeiro_falso",
+      "pergunta": "Durante o parlamentarismo (1961–1963), Jango manteve todos os poderes de um presidente do presidencialismo.",
+      "correta": false,
+      "explicacao": "Falso. O governo era chefiado por um primeiro-ministro, e Jango tinha poderes reduzidos.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dem-m-030",
+      "tipo": "verdadeiro_falso",
+      "pergunta": "O PCB permaneceu legal durante todo o período de 1945 a 1964.",
+      "correta": false,
+      "explicacao": "Falso. O PCB foi legal só de 1945 a 1947. Depois atuou na ilegalidade.",
+      "revisar": false
+    }
+  ]
+}

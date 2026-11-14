@@ -87,6 +87,347 @@
       "correta": 0,
       "explicacao": "A UDN reuniu os principais adversários de Vargas e do trabalhismo entre 1945 e 1964. Seus críticos chamavam alguns setores nacionalistas de adversários 'entreguistas'. PDT e PT surgiram no fim da ditadura militar.",
       "revisar": false
+    },
+    {
+      "id": "bra-dem-f-007",
+      "tipo": "multipla",
+      "pergunta": "Quem foi o primeiro presidente eleito após o fim do Estado Novo, governando de 1946 a 1951?",
+      "opcoes": [
+        "Eurico Gaspar Dutra",
+        "Eduardo Gomes",
+        "Café Filho",
+        "Juarez Távora"
+      ],
+      "correta": 0,
+      "explicacao": "Dutra, do PSD e apoiado por Vargas, venceu o brigadeiro Eduardo Gomes, da UDN, em 1945.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dem-f-008",
+      "tipo": "multipla",
+      "pergunta": "Qual partido teve o registro cassado em 1947, no governo Dutra?",
+      "opcoes": [
+        "Partido Comunista do Brasil (PCB)",
+        "Partido Trabalhista Brasileiro (PTB)",
+        "Partido Social Democrático (PSD)",
+        "União Democrática Nacional (UDN)"
+      ],
+      "correta": 0,
+      "explicacao": "No início da Guerra Fria, o PCB foi posto na ilegalidade e, em 1948, seus parlamentares perderam os mandatos.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dem-f-009",
+      "tipo": "multipla",
+      "pergunta": "Qual campanha nacionalista antecedeu a criação da Petrobras, em 1953?",
+      "opcoes": [
+        "O petróleo é nosso",
+        "Diretas Já",
+        "Queremos Getúlio",
+        "Cinquenta anos em cinco"
+      ],
+      "correta": 0,
+      "explicacao": "A campanha O petróleo é nosso defendia o controle nacional do petróleo. Diretas Já é de 1984; Cinquenta anos em cinco era o lema de JK.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dem-f-010",
+      "tipo": "multipla",
+      "pergunta": "Quando Getúlio Vargas se suicidou no Palácio do Catete?",
+      "opcoes": [
+        "Agosto de 1954",
+        "Outubro de 1945",
+        "Março de 1964",
+        "Janeiro de 1956"
+      ],
+      "correta": 0,
+      "explicacao": "Vargas se matou em 24 de agosto de 1954, em meio a forte crise política. Em 1945 ele havia sido deposto.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dem-f-011",
+      "tipo": "multipla",
+      "pergunta": "Qual frase está no final da carta-testamento de Getúlio Vargas?",
+      "opcoes": [
+        "Saio da vida para entrar na história",
+        "Independência ou morte",
+        "Diga ao povo que fico",
+        "Cinquenta anos em cinco"
+      ],
+      "correta": 0,
+      "explicacao": "A carta termina com: saio da vida para entrar na história. As outras frases são atribuídas a D. Pedro I e a JK.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dem-f-012",
+      "tipo": "multipla",
+      "pergunta": "Qual jornalista da UDN sofreu um atentado em agosto de 1954, que agravou a crise do governo Vargas?",
+      "opcoes": [
+        "Carlos Lacerda",
+        "Juscelino Kubitschek",
+        "Jânio Quadros",
+        "Leonel Brizola"
+      ],
+      "correta": 0,
+      "explicacao": "No atentado da rua Tonelero morreu o major Rubens Vaz. A investigação chegou à guarda pessoal de Vargas.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dem-f-013",
+      "tipo": "multipla",
+      "pergunta": "Quem assumiu a presidência após a morte de Vargas, em 1954?",
+      "opcoes": [
+        "O vice-presidente Café Filho",
+        "João Goulart",
+        "Juscelino Kubitschek",
+        "Eurico Dutra"
+      ],
+      "correta": 0,
+      "explicacao": "Café Filho, vice eleito em 1950, assumiu em agosto de 1954 e se afastou em 1955 por motivo de saúde.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dem-f-014",
+      "tipo": "multipla",
+      "pergunta": "Em que ano Brasília foi inaugurada como nova capital do país?",
+      "opcoes": [
+        "1960",
+        "1956",
+        "1955",
+        "1964"
+      ],
+      "correta": 0,
+      "explicacao": "Brasília foi inaugurada em 21 de abril de 1960, no fim do governo JK, que começou em 1956.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dem-f-015",
+      "tipo": "lacuna",
+      "pergunta": "O lema do Plano de Metas de JK prometia cinquenta anos de progresso em ____.",
+      "opcoes": [
+        "cinco",
+        "dez",
+        "vinte",
+        "um"
+      ],
+      "correta": 0,
+      "explicacao": "Cinquenta anos em cinco: o plano queria acelerar o desenvolvimento durante os cinco anos de mandato.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dem-f-016",
+      "tipo": "multipla",
+      "pergunta": "Que setor industrial, com montadoras estrangeiras, se instalou no Brasil no governo JK?",
+      "opcoes": [
+        "Automobilístico",
+        "Açucareiro",
+        "Cafeeiro",
+        "Extrativista da borracha"
+      ],
+      "correta": 0,
+      "explicacao": "Montadoras como Volkswagen e Willys se instalaram sobretudo no ABC paulista, símbolo da industrialização da época.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dem-f-017",
+      "tipo": "multipla",
+      "pergunta": "Que objeto Jânio Quadros usou como símbolo de campanha, prometendo acabar com a corrupção?",
+      "opcoes": [
+        "Uma vassoura",
+        "Uma enxada",
+        "Um martelo",
+        "Uma chave"
+      ],
+      "correta": 0,
+      "explicacao": "O jingle Varre, varre, vassourinha marcou a campanha de 1960, que Jânio venceu com votação recorde.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dem-f-018",
+      "tipo": "multipla",
+      "pergunta": "Quanto tempo durou o governo de Jânio Quadros, que renunciou em agosto de 1961?",
+      "opcoes": [
+        "Cerca de sete meses",
+        "Cinco anos",
+        "Dois anos",
+        "Um mês"
+      ],
+      "correta": 0,
+      "explicacao": "Jânio tomou posse em 31 de janeiro de 1961 e renunciou em 25 de agosto do mesmo ano.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dem-f-019",
+      "tipo": "multipla",
+      "pergunta": "Qual governador do Rio Grande do Sul liderou a Campanha da Legalidade em 1961, pela posse de Jango?",
+      "opcoes": [
+        "Leonel Brizola",
+        "Carlos Lacerda",
+        "Ademar de Barros",
+        "Magalhães Pinto"
+      ],
+      "correta": 0,
+      "explicacao": "Brizola usou uma rede de rádios para defender a posse do vice. Lacerda, governador da Guanabara, era contra.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dem-f-020",
+      "tipo": "multipla",
+      "pergunta": "Que solução permitiu a posse de João Goulart em setembro de 1961?",
+      "opcoes": [
+        "A adoção do parlamentarismo",
+        "A volta da monarquia",
+        "A eleição indireta de um militar",
+        "O fechamento do Congresso"
+      ],
+      "correta": 0,
+      "explicacao": "O parlamentarismo foi um acordo: Jango assumiu, mas com poderes reduzidos, divididos com um primeiro-ministro.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dem-f-021",
+      "tipo": "multipla",
+      "pergunta": "O que decidiu o plebiscito de janeiro de 1963?",
+      "opcoes": [
+        "A volta do presidencialismo",
+        "A volta da monarquia",
+        "A manutenção do parlamentarismo",
+        "A mudança da capital"
+      ],
+      "correta": 0,
+      "explicacao": "A grande maioria votou pela volta do presidencialismo, e Jango recuperou os poderes plenos.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dem-f-022",
+      "tipo": "multipla",
+      "pergunta": "Quem foi o primeiro primeiro-ministro do parlamentarismo de 1961?",
+      "opcoes": [
+        "Tancredo Neves",
+        "Ulysses Guimarães",
+        "Carlos Lacerda",
+        "Juscelino Kubitschek"
+      ],
+      "correta": 0,
+      "explicacao": "Tancredo Neves, do PSD mineiro, chefiou o primeiro gabinete. Décadas depois, seria eleito presidente em 1985.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dem-f-023",
+      "tipo": "multipla",
+      "pergunta": "Qual era a principal bandeira das Reformas de Base de João Goulart?",
+      "opcoes": [
+        "A reforma agrária",
+        "A privatização da Petrobras",
+        "O fim do voto secreto",
+        "A volta do Poder Moderador"
+      ],
+      "correta": 0,
+      "explicacao": "As Reformas de Base incluíam a agrária, a urbana, a bancária e a educacional. A agrária era a mais polêmica.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dem-f-024",
+      "tipo": "multipla",
+      "pergunta": "Em qual evento de março de 1964 Jango anunciou decretos de reforma diante de uma multidão no Rio?",
+      "opcoes": [
+        "Comício da Central do Brasil",
+        "Marcha da Família com Deus pela Liberdade",
+        "Campanha das Diretas Já",
+        "Revolta da Vacina"
+      ],
+      "correta": 0,
+      "explicacao": "No Comício da Central, em 13 de março de 1964, Jango anunciou a desapropriação de terras às margens de rodovias e a encampação de refinarias.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dem-f-025",
+      "tipo": "multipla",
+      "pergunta": "Qual manifestação de março de 1964, em São Paulo, se opôs ao governo Goulart?",
+      "opcoes": [
+        "Marcha da Família com Deus pela Liberdade",
+        "Passeata dos Cem Mil",
+        "Comício da Central do Brasil",
+        "Campanha da Legalidade"
+      ],
+      "correta": 0,
+      "explicacao": "A Marcha, em 19 de março, reuniu setores conservadores e religiosos. A Passeata dos Cem Mil é de 1968, contra a ditadura.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dem-f-026",
+      "tipo": "multipla",
+      "pergunta": "Qual economista dirigiu a SUDENE, criada em 1959 para promover o desenvolvimento do Nordeste?",
+      "opcoes": [
+        "Celso Furtado",
+        "Roberto Campos",
+        "Delfim Netto",
+        "Eugênio Gudin"
+      ],
+      "correta": 0,
+      "explicacao": "Celso Furtado defendia planejamento estatal para reduzir as desigualdades regionais. Delfim Netto foi ministro na ditadura.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dem-f-027",
+      "tipo": "multipla",
+      "pergunta": "Quais organizações de trabalhadores rurais do Nordeste, ligadas a Francisco Julião, defendiam a reforma agrária?",
+      "opcoes": [
+        "Ligas Camponesas",
+        "Ação Integralista",
+        "Bandeiras",
+        "Clube 3 de Outubro"
+      ],
+      "correta": 0,
+      "explicacao": "As Ligas Camponesas surgiram em Pernambuco nos anos 1950. O Clube 3 de Outubro reunia tenentes nos anos 1930.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dem-f-028",
+      "tipo": "verdadeiro_falso",
+      "pergunta": "A Constituição de 1946 garantia o direito de voto aos analfabetos.",
+      "correta": false,
+      "explicacao": "Falso. Os analfabetos, grande parte da população adulta, só puderam votar a partir de 1985.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dem-f-029",
+      "tipo": "ordenar",
+      "pergunta": "Coloque em ordem cronológica, do mais antigo ao mais recente.",
+      "itens": [
+        "Fim do Estado Novo",
+        "Suicídio de Vargas",
+        "Inauguração de Brasília",
+        "Renúncia de Jânio Quadros",
+        "Golpe militar contra Jango"
+      ],
+      "explicacao": "Fim do Estado Novo, 1945; suicídio de Vargas, 1954; Brasília, 1960; renúncia de Jânio, 1961; golpe, 1964.",
+      "revisar": false
+    },
+    {
+      "id": "bra-dem-f-030",
+      "tipo": "ligar",
+      "pergunta": "Ligue cada presidente a uma marca de seu governo.",
+      "pares": [
+        [
+          "Eurico Dutra",
+          "Cassação do Partido Comunista"
+        ],
+        [
+          "Getúlio Vargas (1951–1954)",
+          "Criação da Petrobras"
+        ],
+        [
+          "Juscelino Kubitschek",
+          "Plano de Metas e Brasília"
+        ],
+        [
+          "João Goulart",
+          "Reformas de Base"
+        ]
+      ],
+      "explicacao": "Dutra cassou o PCB em 1947; Vargas criou a Petrobras em 1953; JK fez o Plano de Metas e Brasília; Jango defendeu as Reformas de Base.",
+      "revisar": false
     }
   ]
 }
